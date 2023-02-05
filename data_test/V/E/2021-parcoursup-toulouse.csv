@@ -1,0 +1,635 @@
+statut,code_etablissement,etablissement,code_departemental,commune,selectivite,type_formation,detail_formation,formation,capacite,effectif_neo_bacheliers_generaux,effectif_neo_bacheliers_technologiques,effectif_neo_bacheliers_professionnels,effectif_autres,effectif_neo_bacheliers_generaux_classes,effectif_neo_bacheliers_technologiques_classes,effectif_neo_bacheliers_professionnels_classes,effectif_autres_classes,effectif_admis,rang_dernier_appele,effectif_candidats_boursiers,effectif_admis_boursiers,code_formation
+Public,0810004P,Lycée Louis Rascol,81,Albi,formation sélective,CPGE,TSI,Classe préparatoire scientifique,40,0,309,0,32,0,288,0,25,44,149.0,72,69,1
+Public,0810004P,Lycée Louis Rascol,81,Albi,formation sélective,BTS,Conception des processus de réalisation de produits (1ère année commune),BTS - Production,15,3,48,47,67,3,48,47,26,6,3.0,19,19,2
+Public,0810004P,Lycée Louis Rascol,81,Albi,formation sélective,BTS,Systèmes numériques - Option électronique et communication,BTS - Production,24,12,69,73,171,12,69,73,171,25,12.0,57,57,2
+Public,0810033W,Lycée MARÉCHAL SOULT,81,Mazamet,formation sélective,BTS,Conception et Réalisation de Systèmes Automatiques,BTS - Production,15,3,25,44,9,3,25,44,9,10,6.0,21,21,2
+Public,0810121S,L.E.G.T.A. Albi - Fonlabour,81,Albi,formation sélective,BTS,"Analyse, conduite et stratégie de l'entreprise agricole",BTS - Agricole,36,22,68,92,111,22,62,90,16,22,32.0,45,44,3
+Public,0810121S,L.E.G.T.A. Albi - Fonlabour,81,Albi,formation sélective,BTS,Aménagements paysagers,BTS - Agricole,36,52,76,74,221,50,67,62,31,33,74.0,37,31,3
+Public,0811199N,I.U.T de Toulouse - Antenne de Castres,81,Castres,formation sélective,BUT,Métiers du multimédia et de l'internet,BUT - Production,54,553,336,26,326,490,262,1,224,57,276.0,222,166,4
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation non sélective,Licence,Sciences de la vie,Licence - Sciences - technologies - santé,90,960,49,11,373,960,49,11,364,87,1036.0,192,192,5
+Public,0820559M,L.E.G.T.A. Montauban - Capou,82,Montauban,formation sélective,BTS,Production horticole,BTS - Agricole,16,18,18,26,119,18,18,26,25,7,37.0,16,16,3
+Public,0310056T,Lycée professionnel Gabriel Peri,31,Toulouse,formation sélective,BTS,Métiers de la mode-vêtements,BTS - Production,15,108,70,300,172,108,70,300,172,16,7.0,156,156,2
+Privé sous contrat d'association,0820904M,Ecole professionnelle privée Esthétique Cosmétique Skhole d'Art - SGT,82,Montauban,formation sélective,BTS,Métiers de l'esthétique-cosmétique-parfumerie,BTS - Services,12,31,24,46,31,31,24,46,31,9,21.0,38,38,6
+Privé enseignement supérieur,0310155A,Institut Catholique de Toulouse,31,Toulouse,formation non sélective,Licence,Droit,Licence - Droit-économie-gestion,125,582,71,6,104,582,71,6,101,120,641.0,96,96,7
+Public,0820016X,Lycée Francois Mitterrand,82,Moissac,formation sélective,BTS,Economie sociale familiale,BTS - Services,24,30,85,131,67,30,84,129,57,20,33.0,82,79,6
+Public,0820899G,Lycée JEAN BAYLET,82,Valence,formation sélective,BTS,Gestion des transports et logistique associée,BTS - Services,24,8,22,74,153,6,18,45,8,12,11.0,43,23,6
+Public,0090003E,Lycée professionnel Jean Durroux,09,Ferrières-sur-Ariège,formation sélective,BTS,Négociation et digitalisation de la Relation Client,BTS - Services,12,11,43,59,19,4,13,34,2,9,4.0,44,13,6
+Public,0310039Z,Lycée Marcelin Berthelot,31,Toulouse,formation sélective,BTS,Support à l'action managériale,BTS - Services,30,33,258,233,214,23,199,165,72,22,31.0,256,173,6
+Public,0320023B,Lycée Alain-Fournier,32,Mirande,formation sélective,BTS,Conseil et commercialisation de solutions techniques,BTS - Services,9,1,24,16,49,1,18,10,7,5,2.0,10,6,6
+Public,0810003N,Lycée professionnel Toulouse-Lautrec,81,Albi,formation sélective,BTS,Tourisme,BTS - Services,18,109,123,133,182,109,94,133,90,20,95.0,141,130,6
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation sélective,Autre formation,Chimie,C.M.I - Cursus Master en Ingénierie,36,403,11,0,253,218,0,0,117,21,334.0,83,31,8
+Public,0312686B,Lycée Saint-Exupéry,31,Blagnac,formation sélective,Autre formation,Aéronautique option avions à moteur à turbines,Mention complémentaire,5,0,0,128,20,0,0,107,11,5,35.0,28,21,9
+Public,0310040A,Lycée Raymond Naves,31,Toulouse,formation sélective,BTS,Commerce International,BTS - Services,32,455,683,336,589,278,357,179,156,26,101.0,574,285,6
+Public,0120096P,Lycée professionnel des métiers du bois et de l'habitat,12,Aubin,formation sélective,BTS,Développement et Réalisation Bois,BTS - Production,18,8,38,73,31,8,38,69,10,15,50.0,33,31,2
+Privé sous contrat d'association,0121423G,Lycée Charles Carnus,12,Rodez,formation sélective,BTS,Etude et réalisation d'agencement,BTS - Production,12,83,99,68,64,80,81,56,42,18,10.0,46,36,2
+Public,0820001F,Lycée professionnel des métiers du bâtiment et de la topographie,82,Beaumont-de-Lomagne,formation sélective,BTS,Métiers du géomètre-topographe et de la modélisation numérique,BTS - Production,15,50,76,67,125,50,76,67,35,15,56.0,41,41,2
+Public,0120022J,Lycée Ferdinand Foch,12,Rodez,formation sélective,CPGE,MPSI,Classe préparatoire scientifique,27,555,1,0,292,446,0,0,11,24,443.0,89,66,1
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,Licence,Mathématiques et informatique appliquées aux sciences humaines et sociales,Licence - Sciences - technologies - santé,50,319,12,0,181,319,12,0,181,44,345.0,72,72,5
+Public,0310054R,Lycée professionnel Renee Bonnet,31,Toulouse,formation sélective,BTS,Conception des processus de réalisation de produits (1ère année commune),BTS - Production,15,7,80,86,41,7,80,86,41,12,1.0,36,36,2
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation sélective,Autre formation,Physique,C.M.I - Cursus Master en Ingénierie,36,455,4,1,166,307,0,0,68,15,376.0,76,39,8
+Public,0311323V,Lycée Rive Gauche,31,Toulouse,formation sélective,Autre formation,Année préparatoire,Année préparatoire,35,511,1,0,19,511,0,0,0,35,165.0,71,71,10
+Public,0320030J,Lycée professionnel Clement Ader,32,Samatan,formation sélective,BTS,Conception des processus de réalisation de produits (1ère année commune),BTS - Production,12,2,14,31,19,2,12,26,4,8,2.0,10,8,2
+Public,0820883P,Lycée Claude Nougaro,82,Monteils,formation sélective,BTS,Services informatiques aux organisations,BTS - Services,24,25,64,62,199,25,51,48,17,19,30.0,50,36,6
+Public,0312289V,Lycée Pierre-Paul Riquet,31,Saint-Orens-de-Gameville,formation sélective,BTS,Systèmes numériques - Option informatique et réseaux,BTS - Production,24,71,207,133,234,70,198,119,103,21,39.0,139,121,2
+Public,0311323V,Lycée Rive Gauche,31,Toulouse,formation sélective,Autre formation,Objet,DN MADE,15,190,153,52,152,63,70,22,35,15,108.0,83,29,11
+Privé sous contrat d'association,0312408Z,Lycée Saliège,31,Balma,formation sélective,Autre formation,Espace,DN MADE,15,229,78,33,97,67,30,17,12,17,117.0,48,16,11
+Public,0312267W,Lycée Des Arènes,31,Toulouse,formation sélective,Autre formation,Graphisme,DN MADE,15,180,118,68,143,32,49,20,19,15,50.0,91,19,11
+Public,0310088C,Lycée professionnel de l'Ameublement,31,Revel,formation sélective,Autre formation,Objet,DN MADE,12,14,16,40,16,14,16,40,16,13,39.0,14,14,11
+Public,0311323V,Lycée Rive Gauche,31,Toulouse,formation sélective,Autre formation,FCIL classe passerelle BTS option service,Mention complémentaire,24,0,0,0,0,0,0,0,0,0,,0,0,9
+Public,0820021C,Lycée Antoine Bourdelle,82,Montauban,formation sélective,Autre formation,FCIL classe passerelle BTS,Mention complémentaire,30,0,0,0,0,0,0,0,0,0,,0,0,9
+Public,0090559J,IFSI CH Int Val Ariège,09,Pamiers,formation sélective,IFSI,D.E Infirmier,D.E secteur sanitaire,63,835,998,699,3115,753,676,392,1682,63,3010.0,736,483,12
+Public,0120920K,IFSI CH Millau,12,Millau,formation sélective,IFSI,D.E Infirmier,D.E secteur sanitaire,52,812,1055,802,3187,738,716,449,1697,52,3082.0,758,492,12
+Public,0121235C,IFSI CH Rodez,12,Rodez,formation sélective,IFSI,D.E Infirmier,D.E secteur sanitaire,58,914,1122,797,3380,826,760,444,1834,58,2910.0,799,516,12
+Public,0311810Z,IFSI Croix Rouge Française Toulouse,31,Toulouse,formation sélective,IFSI,D.E Infirmier,D.E secteur sanitaire,155,1474,1423,1047,4817,1300,905,555,2694,152,2026.0,1147,729,12
+Public,0313004X,Ecole régionale d'assistants du service social,31,Toulouse,formation sélective,EFTS,D.E Assistant de Service Social,D.E secteur social,37,111,96,72,333,27,2,0,53,37,65.0,104,4,13
+Privé sous contrat d'association,0311876W,IFRASS,31,Toulouse,formation sélective,EFTS,D.E Educateur de Jeunes Enfants,D.E secteur social,32,71,77,64,278,22,34,20,44,32,64.0,41,11,13
+Privé enseignement supérieur,0312269Y,ICD International Business School - Campus de Toulouse,31,Blagnac,formation sélective,Ecole de Commerce,Formation des écoles de commerce et de management Bac + 5,Formation des écoles de commerce et de management,70,203,30,2,21,114,14,0,12,36,141.0,27,11,14
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation non sélective,Licence,Géographie et aménagement,Licence - Sciences humaines et sociales,4,177,4,1,9,177,4,1,9,5,126.0,31,31,15
+Public,0810012Y,Lycée Jean Jaures,81,Carmaux,formation sélective,BTS,Techniques et services en matériels agricoles,BTS - Production,24,8,26,71,33,3,22,55,2,14,26.0,20,16,2
+Privé sous contrat d'association,0810833R,Lycée agricole privé de Touscayrats,81,Verdalle,formation sélective,BTS,"Analyse, conduite et stratégie de l'entreprise agricole",BTS - Agricole,30,21,28,47,149,21,28,47,149,29,32.0,24,24,3
+Public,0810959C,Lycée La Borde Basse,81,Castres,formation sélective,BTS,Négociation et digitalisation de la Relation Client,BTS - Services,35,55,195,187,95,47,113,153,69,30,20.0,144,91,6
+Public,0811199N,I.U.T de Toulouse - Antenne de Castres,81,Castres,formation sélective,BUT,Chimie,BUT - Production,80,730,190,3,294,710,174,0,270,82,648.0,158,148,4
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation non sélective,Licence,Informatique,Licence - Sciences - technologies - santé,60,299,40,6,97,299,40,6,97,62,435.0,77,77,5
+Public,0820021C,Lycée Antoine Bourdelle,82,Montauban,formation sélective,BTS,Service et prestation des secteurs sanitaire et social,BTS - Services,30,29,161,176,146,19,86,128,18,26,19.0,132,75,6
+Public,0820021C,Lycée Antoine Bourdelle,82,Montauban,formation sélective,BTS,Management Commercial Opérationnel,BTS - Services,35,63,248,322,190,63,248,322,190,32,8.0,233,233,6
+Privé enseignement supérieur,0121367W,EGC Rodez,12,Rodez,formation sélective,Ecole de Commerce,Formation des écoles de commerce et de management Bac + 3,Formation des écoles de commerce et de management,40,85,10,3,14,76,8,3,9,20,183.0,11,9,14
+Public,0320015T,Lycée Maréchal Lannes,32,Lectoure,formation sélective,BTS,Gestion de la PME,BTS - Services,12,3,32,44,25,3,32,44,25,7,5.0,33,33,6
+Public,0320002D,Lycée Pardailhan,32,Auch,formation sélective,BTS,Tourisme,BTS - Services,18,53,50,57,70,37,44,35,24,11,45.0,50,29,6
+Privé sous contrat d'association,0320051G,Lycée Oratoire Sainte-Marie,32,Auch,formation sélective,BTS,Service et prestation des secteurs sanitaire et social,BTS - Services,24,16,45,63,35,16,45,63,35,21,8.0,35,35,6
+Public,0120870F,I.U.T de Rodez,12,Rodez,formation sélective,BUT,Carrières juridiques,BUT - Service,56,722,451,30,231,443,325,0,72,50,339.0,309,179,16
+Public,0820884R,Université Toulouse 2 - Antenne Montauban,82,Montauban,formation sélective,Licence,Arts,Licence - Arts-lettres-langues,60,453,129,53,183,282,98,31,95,60,314.0,152,84,17
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation sélective,Licence,Arts du spectacle,Licence - Arts-lettres-langues,25,152,18,0,46,140,17,0,42,24,60.0,41,35,17
+Public,0310053P,Lycée professionnel des métiers du bâtiment - Urbain Vitry,31,Toulouse,formation sélective,BTS,"Finitions, aménagement des bâtiments: conception et réalisation",BTS - Production,12,16,72,100,87,0,70,82,20,11,2.0,63,51,2
+Privé sous contrat d'association,0311190A,Lycée professionnel De Coiffure Skhole D'Art,31,Toulouse,formation sélective,BTS,Métiers de l'esthétique-cosmétique-parfumerie,BTS - Services,33,35,46,60,60,26,37,40,41,13,40.0,37,24,6
+Privé sous contrat d'association,0311213A,Lycée Issec Pigier,31,Toulouse,formation sélective,BTS,Banque conseiller de clientèle,BTS - Services,23,46,126,98,144,46,126,98,122,21,30.0,123,123,6
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation sélective,Autre formation,"Electronique, énergie électrique, automatique",C.M.I - Cursus Master en Ingénierie,36,211,18,3,111,117,0,0,42,18,159.0,52,16,8
+Public,0312686B,Lycée Saint-Exupéry,31,Blagnac,formation sélective,Autre formation,Aéronautique - option avionique,Mention complémentaire,6,0,0,54,23,0,0,53,20,6,12.0,11,11,9
+Public,0311382J,Université Toulouse 1 Capitole,31,Toulouse,formation sélective,Licence,Droit,Licence - Droit-économie-gestion,30,325,5,0,45,82,0,0,8,27,80.0,38,5,7
+Public,0460697H,I.U.T de Figeac,46,Figeac,formation sélective,BUT,Carrières sociales Parcours éducation spécialisée,BUT - Service,26,290,378,59,267,116,158,22,100,27,49.0,157,51,16
+Public,0820004J,Lycée Jean De Prades,82,Castelsarrasin,formation sélective,BTS,Négociation et digitalisation de la Relation Client,BTS - Services,17,13,70,148,46,12,63,111,17,18,11.0,101,76,6
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,Licence,Génie civil,Licence - Sciences - technologies - santé,98,602,100,4,255,602,100,4,255,94,755.0,121,121,5
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation sélective,Licence,Chimie,Licence - Sciences - technologies - santé,45,449,16,0,204,236,0,0,85,15,319.0,84,32,5
+Public,0090660U,Université Toulouse 2 - Antenne de Foix,09,Foix,formation non sélective,Licence,Sciences sociales,Licence - Sciences humaines et sociales,60,278,23,10,91,278,23,10,91,43,402.0,82,82,15
+Public,0312290W,Lycée Henri Matisse,31,Cugnaux,formation sélective,BTS,Services informatiques aux organisations,BTS - Services,23,74,163,158,160,71,112,130,80,22,43.0,133,102,6
+Public,0320025D,Lycée D'Artagnan,32,Nogaro,formation sélective,BTS,Conseil et commercialisation de solutions techniques,BTS - Services,18,3,25,38,71,3,24,35,17,11,6.0,23,22,6
+Public,0310032S,Lycée De Bagatelle,31,Saint-Gaudens,formation sélective,BTS,Management Commercial Opérationnel,BTS - Services,18,30,82,136,88,29,42,115,6,16,22.0,110,83,6
+Public,0311382J,Université Toulouse 1 Capitole,31,Toulouse,formation sélective,Licence,Droit,Licence - Droit-économie-gestion,10,39,1,0,12,23,0,0,6,9,29.0,7,2,7
+Public,0311323V,Lycée Rive Gauche,31,Toulouse,formation sélective,Autre formation,Espace,DN MADE,15,494,283,74,259,154,118,6,22,15,122.0,172,47,11
+Public,0310088C,Lycée professionnel de l'Ameublement,31,Revel,formation sélective,Autre formation,Patrimoine,DN MADE,9,22,38,11,53,22,38,11,53,10,25.0,11,11,11
+Public,0312267W,Lycée Des Arènes,31,Toulouse,formation sélective,Autre formation,Graphisme,DN MADE,15,240,137,71,166,46,47,5,22,15,75.0,119,18,11
+Public,0310056T,Lycée professionnel Gabriel Peri,31,Toulouse,formation sélective,Autre formation,Spectacle,DN MADE,24,115,128,99,166,115,128,99,166,24,71.0,81,81,11
+Public,0310088C,Lycée professionnel de l'Ameublement,31,Revel,formation sélective,Autre formation,Patrimoine,DN MADE,12,20,13,5,27,20,13,5,27,12,51.0,7,7,11
+Public,0120024L,Lycée Alexis Monteil,12,Rodez,formation sélective,Autre formation,FCIL classe passerelle BTS,Mention complémentaire,30,0,0,0,0,0,0,0,0,0,,0,0,9
+Public,0810974U,IFSI Albi,81,Albi,formation sélective,IFSI,D.E Infirmier,D.E secteur sanitaire,112,1202,1266,914,3950,1091,861,499,2208,111,2755.0,952,638,12
+Public,0820752X,IFSI CH Montauban,82,Montauban,formation sélective,IFSI,D.E Infirmier,D.E secteur sanitaire,70,1117,1299,942,3959,993,866,523,2141,68,3021.0,952,616,12
+Privé hors contrat,0311098A,Pôle formation recherche Institut Saint Simon,31,Toulouse,formation sélective,EFTS,D.E Educateur Technique Spécialisé,D.E secteur social,22,3,8,3,24,0,0,0,8,2,8.0,5,0,13
+Public,0310098N,"Centre de Ressources, d'Expertise et de Performance Sportive de Toulouse (CREPS)",31,Toulouse,formation sélective,Autre formation,Activités physiques pour tous / Activités sports collectifs,BPJEPS,6,95,90,89,107,6,6,1,2,5,14.0,74,2,18
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation sélective,Licence,Musicologie,Licence - Arts-lettres-langues,39,131,11,10,39,81,6,3,21,34,111.0,40,23,17
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation non sélective,Licence,Histoire,Licence - Sciences humaines et sociales,12,369,3,2,19,369,3,2,19,17,126.0,52,52,15
+Public,0311382J,Université Toulouse 1 Capitole,31,Toulouse,formation non sélective,Licence,Droit,Licence - Droit-économie-gestion,25,69,16,8,216,69,16,8,210,25,171.0,21,21,7
+Public,0120096P,Lycée professionnel des métiers du bois et de l'habitat,12,Aubin,formation sélective,BTS,Systèmes constructifs bois et habitat,BTS - Production,12,11,50,40,24,9,49,35,12,9,63.0,17,13,2
+Privé sous contrat d'association,0120936C,Site Villefr. de Rouergue du lycée François Marty,12,Villefranche-de-Rouergue,formation sélective,BTS,"Analyse, conduite et stratégie de l'entreprise agricole",BTS - Agricole,33,6,28,50,13,5,26,43,1,22,5.0,23,21,3
+Public,0120937D,L.E.G.T.A. Rodez-La Roque,12,Rodez,formation sélective,BTS,productions animales,BTS - Agricole,32,130,195,49,106,125,128,38,34,37,110.0,91,69,3
+Privé sous contrat d'association,0121291N,L.P.A.H de Rignac,12,Rignac,formation sélective,BTS,Aménagements paysagers,BTS - Agricole,30,19,32,40,48,18,32,40,13,21,27.0,16,16,3
+Public,0121471J,Institut national universitaire Champollion - Campus de Rodez,12,Rodez,formation non sélective,Licence,Langues étrangères appliquées,Licence - Arts-lettres-langues,50,327,35,10,84,327,35,10,77,42,449.0,113,113,17
+Public,0310024H,Lycée Pierre D'Aragon,31,Muret,formation sélective,BTS,Négociation et digitalisation de la Relation Client,BTS - Services,35,78,350,336,174,51,230,182,50,27,39.0,290,147,6
+Public,0310036W,Lycée Pierre De Fermat,31,Toulouse,formation sélective,CPGE,PCSI,Classe préparatoire scientifique,96,3716,2,0,563,3533,2,0,411,96,577.0,319,300,1
+Public,0310036W,Lycée Pierre De Fermat,31,Toulouse,formation sélective,CPGE,BCPST,Classe préparatoire scientifique,96,2925,4,1,443,2772,4,0,266,95,593.0,275,258,1
+Public,0310041B,Lycée Saint-Sernin,31,Toulouse,formation sélective,CPGE,Lettres,Classe préparatoire littéraire,144,1085,5,1,204,1005,0,0,41,145,722.0,151,132,19
+Public,0310044E,Lycée Déodat de Séverac,31,Toulouse,formation sélective,CPGE,PCSI,Classe préparatoire scientifique,96,1705,4,0,396,1166,0,0,34,92,899.0,205,120,1
+Public,0310044E,Lycée Déodat de Séverac,31,Toulouse,formation sélective,BTS,Assistance technique d'ingénieur,BTS - Production,24,61,166,150,217,53,121,69,50,24,72.0,116,56,2
+Public,0310047H,Lycée Ozenne,31,Toulouse,formation sélective,CPGE,BCPST,Classe préparatoire scientifique,48,1806,3,1,332,1806,3,1,332,50,467.0,199,199,1
+Public,0310057U,Hélène Boucher Lycée des métiers des soins à la personne,31,Toulouse,formation sélective,BTS,Métiers de l'esthétique-cosmétique-parfumerie,BTS - Services,30,119,224,265,224,119,150,239,90,29,94.0,210,167,6
+Privé enseignement supérieur,0310155A,Institut Catholique de Toulouse,31,Toulouse,formation non sélective,Licence,Psychologie,Licence - Sciences humaines et sociales,120,557,112,48,371,557,112,48,366,120,623.0,123,123,15
+Privé enseignement supérieur,0310155A,Institut Catholique de Toulouse,31,Toulouse,formation non sélective,Licence,Lettres,Licence - Arts-lettres-langues,50,55,0,0,21,55,0,0,19,14,73.0,13,13,17
+Privé enseignement supérieur,0310155A,Institut Catholique de Toulouse,31,Toulouse,formation non sélective,Licence,Philosophie,Licence - Sciences humaines et sociales,50,74,3,4,37,74,3,4,37,14,118.0,16,16,15
+Public,0311092U,Lycée professionnel des Métiers Eugene MONTEL,31,Colomiers,formation sélective,Autre formation,Technicien en énergies renouvelables (option énergie électrique),Mention complémentaire,12,0,0,34,7,0,0,34,7,6,41.0,13,13,9
+Privé sous contrat d'association,0311177L,Institut Limayrac,31,Toulouse,formation sélective,Autre formation,Diplôme de Comptabilité et de Gestion,DCG,35,231,85,3,131,157,63,0,48,32,264.0,52,35,20
+Privé sous contrat d'association,0311186W,Lycée Billières,31,Toulouse,formation sélective,BTS,Commerce International,BTS - Services,48,299,300,96,257,236,202,49,130,42,125.0,198,126,6
+Privé sous contrat d'association,0311186W,Lycée Billières,31,Toulouse,formation sélective,BTS,Gestion de la PME,BTS - Services,24,38,141,110,107,26,104,82,61,13,22.0,90,65,6
+Privé sous contrat d'association,0311213A,Lycée Issec Pigier,31,Toulouse,formation sélective,BTS,Management Commercial Opérationnel,BTS - Services,34,131,322,351,227,131,322,351,210,24,57.0,229,229,6
+Public,0311382J,Université Toulouse 1 Capitole,31,Toulouse,formation sélective,Licence,Droit,Licence - Droit-économie-gestion,27,206,7,0,29,100,0,0,10,27,81.0,42,18,7
+Public,0311382J,Université Toulouse 1 Capitole,31,Toulouse,formation sélective,Licence,Droit,Licence - Droit-économie-gestion,20,61,3,0,12,32,0,0,7,7,40.0,7,3,7
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,"Langues, littératures & civilisations étrangères et régionales",Licence - Arts-lettres-langues,450,623,74,35,214,623,74,35,205,133,937.0,289,289,17
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation sélective,Licence,Musicologie,Licence - Arts-lettres-langues,40,60,8,0,12,52,7,0,11,28,70.0,16,14,17
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Géographie et aménagement,Licence - Sciences humaines et sociales,250,508,55,12,280,508,55,12,280,149,855.0,108,108,15
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Histoire de l'art et archéologie,Licence - Sciences humaines et sociales,400,914,147,61,447,914,147,61,445,263,1568.0,309,309,15
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Psychologie,Licence - Sciences humaines et sociales,1000,4394,899,369,4390,4394,899,369,4370,996,3962.0,1625,1625,15
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,"Sciences de l'Homme, Anthropologie, Ethnologie",Licence - Sciences humaines et sociales,120,486,24,2,446,486,24,2,445,120,734.0,143,143,15
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation sélective,Licence,Arts du spectacle,Licence - Arts-lettres-langues,25,158,7,2,62,139,2,1,36,25,68.0,48,40,17
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,Licence,Chimie,Licence - Sciences - technologies - santé,135,1098,79,6,777,1098,79,6,777,119,1764.0,257,257,5
+Public,0311586F,Lycée Toulouse-Lautrec,31,Toulouse,formation sélective,BTS,Management Commercial Opérationnel,BTS - Services,35,306,1230,938,785,111,436,418,119,33,71.0,993,352,6
+Public,0311713U,I.U.T de Blagnac,31,Blagnac,formation sélective,BUT,Génie industriel et maintenance,BUT - Production,52,416,283,41,164,348,227,13,103,40,397.0,132,89,4
+Public,0311713U,I.U.T de Blagnac,31,Blagnac,formation sélective,BUT,Informatique,BUT - Production,100,1029,522,19,366,978,366,0,137,99,353.0,366,283,4
+Privé sous contrat d'association,0312061X,Lycée de la photographie - ETPA,31,Auzeville-Tolosane,formation sélective,BTS,Photographie,BTS - Services,30,230,78,68,170,230,78,68,170,30,83.0,92,92,6
+Public,0312267W,Lycée Des Arènes,31,Toulouse,formation sélective,BTS,Métiers de l'audio-visuel opt : métiers de l'image,BTS - Services,12,674,161,151,524,46,19,36,35,11,29.0,234,19,6
+Public,0312354R,L.E.G.T.A. d'Ondes,31,Ondes,formation sélective,BTS,génie des équipements agricoles,BTS - Agricole,27,17,62,43,86,17,62,43,13,22,21.0,30,30,3
+Public,0312822Z,Lycée polyvalent Charles de Gaulle,31,Muret,formation sélective,BTS,"Fluide, énergie, domotique - option C domotique et bâtiment communicants",BTS - Production,24,9,58,147,48,8,57,125,24,22,6.0,56,49,2
+Public,0320067Z,Lycée des Métiers - Le Garros,32,Auch,formation sélective,BTS,Architectures en Métal : conception et Réalisation,BTS - Production,15,10,44,29,63,10,25,28,9,6,14.0,20,13,2
+Public,0460493L,Lycée Gaston Monnerville,46,Cahors,formation sélective,BTS,Conception de produits industriels,BTS - Production,15,4,52,34,55,4,52,34,13,10,5.0,26,26,2
+Privé enseignement supérieur,0312421N,ICAM Toulouse,31,Toulouse,formation sélective,Ecole d'Ingénieur,Formation d'ingénieur Bac + 5,Formations  des écoles d'ingénieurs,45,605,76,0,93,405,44,0,33,59,,35,12,21
+Privé enseignement supérieur,0312020C,CESI Campus de Toulouse (Labège),31,Labège,formation sélective,Ecole d'Ingénieur,Formation d'ingénieur Bac + 5,Formations  des écoles d'ingénieurs,60,951,94,0,197,753,75,0,100,43,,151,93,21
+Public,0460580F,IFSI CH Jean Rougier Cahors,46,Cahors,formation sélective,IFSI,D.E Infirmier,D.E secteur sanitaire,35,757,998,758,3059,683,686,420,1641,35,3392.0,712,466,12
+Privé hors contrat,0311098A,Pôle formation recherche Institut Saint Simon,31,Toulouse,formation sélective,EFTS,D.E Educateur Spécialisé,D.E secteur social,28,63,61,32,246,6,4,4,77,18,164.0,38,2,13
+Public,0310046G,Lycée Hotellerie Et Tourisme d'Occitanie,31,Toulouse,formation sélective,Autre formation,FCIL Chef de rang,Mention complémentaire,10,4,10,40,14,2,9,37,10,8,28.0,16,14,9
+Public,0310133B,Sciences Po Toulouse - Institut d'études politiques,31,Toulouse,formation sélective,Autre formation,Sciences Po / Instituts d'études politiques - Sciences Humaines et Sociales - Grade Master,Sciences politiques,180,11642,37,3,2115,1666,4,0,830,178,1811.0,1284,154,22
+Privé sous contrat d'association,0310154Z,Ecole d'ingénieurs de PURPAN,31,Toulouse,formation sélective,Ecole d'Ingénieur,Formation d'ingénieur Bac + 5,Formations  des écoles d'ingénieurs,233,901,0,0,7,700,0,0,0,230,699.0,60,33,21
+Privé sous contrat d'association,0310154Z,Ecole d'ingénieurs de PURPAN,31,Toulouse,formation sélective,Ecole d'Ingénieur,Formation d'ingénieur Bac + 5,Formations  des écoles d'ingénieurs,7,0,35,0,4,0,7,0,1,3,8.0,7,0,21
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,Licence_Las,"Electronique, énergie électrique, automatique",Licence - Sciences - technologies - santé,36,60,9,2,92,60,9,2,85,15,517.0,23,23,5
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,Licence_Las,Mécanique,Licence - Sciences - technologies - santé,18,101,17,3,83,101,17,3,83,12,997.0,23,23,5
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,Licence_Las,Sciences et Techniques des Activités Physiques et Sportives,Licence - Sciences - technologies - santé,36,1848,281,64,797,1848,281,64,797,34,,352,352,5
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation non sélective,Licence_Las,Droit,Licence - Droit-économie-gestion,40,161,23,10,64,161,23,10,62,23,1186.0,48,48,7
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,PASS,Parcours d'Accès Spécifique Santé (PASS),Licence - Sciences - technologies - santé,36,1594,92,24,573,1594,92,24,573,35,3113.0,317,317,5
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Sciences du langage,Licence - Sciences humaines et sociales,100,394,89,29,267,393,89,29,266,73,1496.0,132,131,15
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,"Langues, littératures & civilisations étrangères et régionales",Licence - Arts-lettres-langues,30,12,0,1,13,12,0,1,13,1,26.0,2,2,17
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,PASS,Parcours d'Accès Spécifique Santé (PASS),Licence - Sciences - technologies - santé,25,1131,36,8,407,1131,36,8,407,24,3327.0,181,181,5
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Sciences de l'éducation,Licence - Sciences humaines et sociales,100,822,221,92,537,822,221,92,536,98,617.0,310,310,15
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation sélective,Licence,"Langues, littératures & civilisations étrangères et régionales",Licence - Arts-lettres-langues,17,7,1,0,10,0,0,0,0,0,,3,0,17
+Public,0810005R,Lycée BELLEVUE,81,Albi,formation sélective,CPGE,ECG - Mathématiques appliquées + HGG,Classe préparatoire économique et commerciale,24,216,3,0,66,214,3,0,61,24,237.0,19,19,23
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,Licence_Las,Mathématiques,Licence - Sciences - technologies - santé,18,78,5,0,74,78,5,0,74,10,294.0,12,12,5
+Privé sous contrat d'association,0312408Z,Lycée Saliège,31,Balma,formation sélective,CPGE,ECG - Mathématiques approfondies + ESH,Classe préparatoire économique et commerciale,24,355,0,0,53,353,0,0,52,11,,20,20,23
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,Licence,Mathématiques,Licence - Sciences - technologies - santé,36,294,30,6,127,294,30,6,127,36,334.0,51,51,5
+Privé sous contrat d'association,0310154Z,Ecole d'ingénieurs de PURPAN,31,Toulouse,formation sélective,Ecole d'Ingénieur,Formation Bac + 3,Formations  des écoles d'ingénieurs,60,92,4,0,27,86,4,0,22,26,110.0,15,13,21
+Public,0650029D,Lycée professionnel Reffye,65,Tarbes,formation sélective,BTS,Métiers de l'esthétique-cosmétique-parfumerie,BTS - Services,16,24,37,57,44,18,19,36,10,15,3.0,43,20,6
+Public,0820883P,Lycée Claude Nougaro,82,Monteils,formation sélective,Autre formation,Services numériques aux organisations,Mention complémentaire,24,1,5,3,9,1,5,3,1,3,10.0,1,1,9
+Privé sous contrat d'association,0460039T,Lycée Jeanne D'Arc,46,Figeac,formation sélective,Autre formation,Animation-gestion de projets dans le secteur sportif,Mention complémentaire,24,2,3,12,1,2,3,12,1,1,18.0,2,2,9
+Privé sous contrat d'association,0313057E,Institut de Formation Association Educative pour l'Hospitalisation Privée,31,L'Union,formation sélective,IFSI,D.E Infirmier,D.E secteur sanitaire,50,535,548,346,2150,486,389,189,1257,49,2711.0,380,266,12
+Public,0650026A,Lycée Marie Curie,65,Tarbes,formation sélective,BTS,Economie sociale familiale,BTS - Services,35,82,149,234,216,74,92,163,74,30,46.0,143,86,6
+Public,0650026A,Lycée Marie Curie,65,Tarbes,formation sélective,Autre formation,Diplôme de Comptabilité et de Gestion,DCG,24,164,82,6,112,144,36,0,61,25,191.0,50,27,20
+Public,0650027B,Lycée Jean Dupuy,65,Tarbes,formation sélective,BTS,Conception de produits industriels,BTS - Production,24,29,102,55,53,29,95,46,23,19,33.0,21,17,2
+Public,0650027B,Lycée Jean Dupuy,65,Tarbes,formation sélective,BTS,Conception des processus de réalisation de produits (1ère année commune),BTS - Production,24,12,47,51,40,12,47,47,23,12,79.0,14,13,2
+Privé sous contrat d'association,0650065T,Lycée Pradeau la Sède-St Pierre,65,Tarbes,formation sélective,BTS,Notariat,BTS - Services,18,37,35,13,42,37,35,6,22,18,47.0,22,20,6
+Public,0312390E,La Prépa des INP - Groupe INP - Toulouse,31,Toulouse,formation sélective,Ecole d'Ingénieur,Formation d'ingénieur Bac + 5,Formations  des écoles d'ingénieurs,116,4403,0,0,137,3170,0,0,25,112,1313.0,387,230,21
+Public,0310152X,INSA Toulouse,31,Toulouse,formation sélective,Ecole d'Ingénieur,Formation d'ingénieur Bac + 5,Formations  des écoles d'ingénieurs,250,15233,0,0,1666,11453,0,0,1222,243,2975.0,1151,755,21
+Privé enseignement supérieur,0312839T,Bachelor IDRAC Business School - Campus de TOULOUSE,31,Toulouse,formation sélective,Ecole de Commerce,Formation des écoles de commerce et de management Bac + 3,Formation des écoles de commerce et de management,200,525,120,10,103,433,78,5,63,51,1420.0,125,77,14
+Public,0090002D,Lycée Gabriel Faure,09,Foix,formation sélective,BTS,Comptabilité et gestion,BTS - Services,24,21,33,27,42,20,31,18,15,17,30.0,31,21,6
+Public,0120006S,Lycée La Découverte,12,Decazeville,formation sélective,BTS,Europlastics et composites à référentiel commun européen - option Pilotage et Optimisation de la production,BTS - Production,6,0,1,13,12,0,1,13,0,2,1.0,7,7,2
+Public,0120031U,Lycée Raymond Savignac,12,Villefranche-de-Rouergue,formation sélective,BTS,Management Commercial Opérationnel,BTS - Services,17,7,64,104,25,7,64,104,25,15,13.0,59,59,6
+Privé sous contrat d'association,0120936C,Site Villefr. de Rouergue du lycée François Marty,12,Villefranche-de-Rouergue,formation sélective,BTS,Technico-commercial (BTSA),BTS - Agricole,33,1,16,17,14,1,16,16,0,5,1.0,6,6,3
+Privé sous contrat d'association,0121423G,Lycée Charles Carnus,12,Rodez,formation sélective,BTS,Management Commercial Opérationnel,BTS - Services,24,48,106,114,87,46,93,95,40,26,62.0,64,53,6
+Privé sous contrat d'association,0121423G,Lycée Charles Carnus,12,Rodez,formation sélective,BTS,Comptabilité et gestion,BTS - Services,12,11,27,23,26,11,26,13,19,8,56.0,18,16,6
+Public,0121471J,Institut national universitaire Champollion - Campus de Rodez,12,Rodez,formation non sélective,Licence,Sciences et Techniques des Activités Physiques et Sportives,Licence - Sciences - technologies - santé,180,1444,185,25,467,1444,185,25,465,176,722.0,236,236,5
+Public,0310017A,Lycée des Métiers - Paul Mathou,31,Gourdan-Polignan,formation sélective,BTS,Travaux publics,BTS - Production,24,18,101,45,172,18,100,30,154,17,28.0,32,28,2
+Public,0310024H,Lycée Pierre D'Aragon,31,Muret,formation sélective,BTS,Comptabilité et gestion,BTS - Services,30,48,103,79,99,45,79,63,48,24,26.0,111,84,6
+Public,0310036W,Lycée Pierre De Fermat,31,Toulouse,formation sélective,CPGE,MPSI,Classe préparatoire scientifique,96,4376,3,0,670,4267,2,0,495,95,328.0,393,372,1
+Public,0310036W,Lycée Pierre De Fermat,31,Toulouse,formation sélective,CPGE,Lettres,Classe préparatoire littéraire,48,953,2,0,132,944,0,0,77,48,505.0,126,123,19
+Public,0310038Y,Lycée BELLEVUE,31,Toulouse,formation sélective,CPGE,MPSI,Classe préparatoire scientifique,48,2527,7,1,385,1090,0,0,7,48,527.0,280,104,1
+Public,0310044E,Lycée Déodat de Séverac,31,Toulouse,formation sélective,BTS,Systèmes photoniques,BTS - Production,15,19,50,21,81,17,34,18,29,11,27.0,24,17,2
+Public,0310044E,Lycée Déodat de Séverac,31,Toulouse,formation sélective,BTS,Métiers de la chimie,BTS - Production,30,132,247,19,376,116,166,8,112,30,129.0,95,61,2
+Public,0310047H,Lycée Ozenne,31,Toulouse,formation sélective,BTS,Gestion de la PME,BTS - Services,59,119,494,503,498,119,494,503,415,61,68.0,485,485,6
+Public,0310047H,Lycée Ozenne,31,Toulouse,formation sélective,BTS,Services informatiques aux organisations,BTS - Services,70,160,379,302,464,160,379,302,464,69,96.0,305,305,6
+Privé enseignement supérieur,0310155A,Institut Catholique de Toulouse,31,Toulouse,formation non sélective,Licence,Histoire,Licence - Sciences humaines et sociales,120,145,18,2,34,145,18,2,34,29,199.0,25,25,15
+Privé enseignement supérieur,0310155A,Institut Catholique de Toulouse,31,Toulouse,formation non sélective,Licence,Langues étrangères appliquées,Licence - Arts-lettres-langues,120,36,6,1,11,36,6,1,10,4,53.0,4,4,17
+Public,0311086M,I.U.T de Toulouse,31,Toulouse,formation sélective,BUT,Génie chimique génie des procédés,BUT - Production,102,811,194,7,398,774,141,2,332,98,963.0,180,152,4
+Public,0311086M,I.U.T de Toulouse,31,Toulouse,formation sélective,BUT,Génie électrique et informatique industrielle,BUT - Production,160,750,317,15,303,595,276,0,204,125,745.0,191,136,4
+Public,0311086M,I.U.T de Toulouse,31,Toulouse,formation sélective,BUT,Informatique,BUT - Production,148,1633,725,32,628,1502,562,0,393,160,637.0,572,444,4
+Public,0311086M,I.U.T de Toulouse,31,Toulouse,formation sélective,BUT,Gestion des entreprises et des administrations,BUT - Service,322,2758,1637,36,1078,2517,1057,0,699,331,1187.0,1091,785,16
+Public,0311086M,I.U.T de Toulouse,31,Toulouse,formation sélective,BUT,Techniques de commercialisation,BUT - Service,164,3547,2273,82,1142,2505,1501,0,495,182,716.0,1293,755,16
+Public,0311086M,I.U.T de Toulouse,31,Toulouse,formation sélective,BUT,Information communication Parcours information numérique dans les organisations,BUT - Service,40,645,281,9,318,539,221,0,252,42,199.0,213,171,16
+Privé sous contrat d'association,0311177L,Institut Limayrac,31,Toulouse,formation sélective,BTS,Diététique,BTS - Services,35,232,255,75,407,225,182,48,245,36,108.0,139,103,6
+Privé sous contrat d'association,0311177L,Institut Limayrac,31,Toulouse,formation sélective,Autre formation,Année préparatoire,Année préparatoire,35,22,36,14,75,15,33,10,37,29,95.0,16,9,10
+Public,0311262D,L.E.G.T.A. Toulouse Auzeville,31,Castanet-Tolosan,formation sélective,BTS,Agronomie : Productions végétales,BTS - Agricole,27,86,79,34,278,70,73,29,37,22,178.0,35,26,3
+Public,0311323V,Lycée Rive Gauche,31,Toulouse,formation sélective,BTS,Comptabilité et gestion,BTS - Services,35,84,195,145,239,84,184,72,135,25,93.0,219,171,6
+Public,0311382J,Université Toulouse 1 Capitole,31,Toulouse,formation non sélective,Licence,Administration économique et sociale,Licence - Droit-économie-gestion,750,2337,615,86,965,2337,615,86,957,636,4241.0,855,855,7
+Public,0311382J,Université Toulouse 1 Capitole,31,Toulouse,formation non sélective,Licence,Gestion,Licence - Droit-économie-gestion,180,2061,223,29,815,2061,223,29,815,175,738.0,411,411,7
+Public,0311382J,Université Toulouse 1 Capitole,31,Toulouse,formation sélective,Licence,Droit,Licence - Droit-économie-gestion,25,512,8,0,65,89,0,0,1,23,70.0,87,11,7
+Public,0311382J,Université Toulouse 1 Capitole,31,Toulouse,formation sélective,Licence,Droit,Licence - Droit-économie-gestion,25,407,9,3,52,109,1,0,10,24,79.0,71,14,7
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,"Langues, littératures & civilisations étrangères et régionales",Licence - Arts-lettres-langues,85,43,20,18,116,43,20,18,108,39,189.0,49,49,17
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,"Langues, littératures & civilisations étrangères et régionales",Licence - Arts-lettres-langues,763,688,104,89,536,688,104,89,532,347,1413.0,305,305,17
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,"Langues, littératures & civilisations étrangères et régionales",Licence - Arts-lettres-langues,70,26,4,6,28,26,4,6,28,9,64.0,13,13,17
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation sélective,Licence,Arts plastiques,Licence - Arts-lettres-langues,84,301,45,30,120,250,28,14,85,83,291.0,109,82,17
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Mathématiques et informatique appliquées aux sciences humaines et sociales,Licence - Sciences - technologies - santé,150,388,44,6,251,388,44,6,250,112,688.0,118,118,5
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Sciences sociales,Licence - Sciences humaines et sociales,250,1001,123,31,406,1001,123,31,400,204,1555.0,323,323,15
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation sélective,Autre formation,Métiers de la forme,DEUST,28,189,155,16,168,22,11,0,10,23,42.0,76,2,24
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,Licence,Sciences et Techniques des Activités Physiques et Sportives,Licence - Sciences - technologies - santé,482,3876,708,147,1406,3876,708,147,1406,472,1344.0,838,838,5
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,Licence,Mécanique,Licence - Sciences - technologies - santé,130,624,82,7,251,624,82,7,251,90,999.0,100,100,5
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,Licence,Mathématiques,Licence - Sciences - technologies - santé,142,1841,41,4,450,1841,41,4,450,119,1982.0,272,272,5
+Public,0311713U,I.U.T de Blagnac,31,Blagnac,formation sélective,BUT,Carrières sociales parcours coordination et gestion des établissements et services sanitaires et sociaux,BUT - Service,48,190,331,37,180,90,179,11,64,46,96.0,190,79,16
+Public,0312267W,Lycée Des Arènes,31,Toulouse,formation sélective,BTS,Métiers de l'audio-visuel opt : métiers du son,BTS - Services,12,491,141,169,536,146,5,75,64,12,44.0,184,39,6
+Public,0312289V,Lycée Pierre-Paul Riquet,31,Saint-Orens-de-Gameville,formation sélective,CPGE,TSI,Classe préparatoire scientifique,35,0,345,0,30,0,299,0,14,34,313.0,79,68,1
+Privé sous contrat d'association,0312408Z,Lycée Saliège,31,Balma,formation sélective,BTS,Management Commercial Opérationnel,BTS - Services,35,144,281,199,163,119,150,156,92,30,117.0,147,94,6
+Privé sous contrat d'association,0312408Z,Lycée Saliège,31,Balma,formation sélective,BTS,Négociation et digitalisation de la Relation Client,BTS - Services,35,80,280,191,143,64,155,131,60,30,61.0,151,75,6
+Public,0312686B,Lycée Saint-Exupéry,31,Blagnac,formation sélective,BTS,Aéronautique,BTS - Production,24,355,418,315,411,107,266,149,91,26,95.0,225,101,2
+Public,0312759F,Lycée Joseph Gallieni,31,Toulouse,formation sélective,BTS,Maintenance des véhicules option voitures particulières,BTS - Production,31,35,76,178,102,14,76,178,51,29,9.0,99,96,2
+Public,0320067Z,Lycée des Métiers - Le Garros,32,Auch,formation sélective,BTS,Bâtiment,BTS - Production,24,27,116,78,87,27,116,78,87,21,39.0,50,50,2
+Public,0320691C,I.U.T de Toulouse - Antenne d'Auch,32,Auch,formation sélective,BUT,Hygiène Sécurité Environnement,BUT - Production,54,562,252,13,187,400,163,0,139,51,310.0,94,57,4
+Public,0460007H,Lycée Clement Marot,46,Cahors,formation sélective,BTS,Gestion de la PME,BTS - Services,18,14,69,79,84,14,69,79,84,19,1.0,62,62,6
+Public,0460028F,Lycée Louis Vicat,46,Souillac,formation sélective,BTS,"Fluide, énergie, domotique - option A génie climatique et fluidique",BTS - Production,15,4,22,34,30,4,22,34,30,7,5.0,18,18,2
+Public,0460028F,Lycée Louis Vicat,46,Souillac,formation sélective,BTS,"Fluide, énergie, domotique - option B froid et conditionnement d'air",BTS - Production,15,2,11,33,26,2,11,33,26,9,4.0,13,13,2
+Public,0460490H,L.E.G.T.A. la Vinadie,46,Figeac,formation sélective,BTS,"Analyse, conduite et stratégie de l'entreprise agricole",BTS - Agricole,28,15,55,79,217,9,39,51,8,20,17.0,48,32,3
+Public,0460697H,I.U.T de Figeac,46,Figeac,formation sélective,BUT,Carrières sociales Parcours animation sociale et socioculturelle,BUT - Service,28,178,184,50,116,78,71,19,34,21,72.0,83,31,16
+Public,0650026A,Lycée Marie Curie,65,Tarbes,formation sélective,BTS,Tourisme,BTS - Services,35,95,70,95,118,95,70,95,107,31,66.0,73,73,6
+Public,0650027B,Lycée Jean Dupuy,65,Tarbes,formation sélective,CPGE,PTSI,Classe préparatoire scientifique,30,273,5,0,53,270,5,0,42,26,269.0,29,28,1
+Public,0650027B,Lycée Jean Dupuy,65,Tarbes,formation sélective,BTS,Maintenance des systèmes - option A Systèmes de production,BTS - Production,24,11,44,101,116,11,44,99,17,19,65.0,32,32,2
+Public,0650027B,Lycée Jean Dupuy,65,Tarbes,formation sélective,BTS,Electrotechnique,BTS - Production,24,12,51,93,197,0,50,93,19,21,9.0,41,39,2
+Privé sous contrat d'association,0650065T,Lycée Pradeau la Sède-St Pierre,65,Tarbes,formation sélective,BTS,Métiers de la chimie,BTS - Production,30,34,67,5,70,34,67,5,38,24,49.0,23,23,2
+Public,0650583F,I.U.T de Tarbes,65,Tarbes,formation sélective,BUT,Génie mécanique et productique,BUT - Production,70,617,269,7,191,594,238,0,174,75,701.0,106,92,4
+Privé enseignement supérieur,0310155A,Institut Catholique de Toulouse,31,Toulouse,formation non sélective,Licence,Arts,Licence - Arts-lettres-langues,120,121,19,6,71,121,19,6,68,27,215.0,30,30,17
+Privé enseignement supérieur,0312421N,ICAM Toulouse,31,Toulouse,formation sélective,Ecole d'Ingénieur,Formation d'ingénieur Bac + 5,Formations  des écoles d'ingénieurs,96,1243,23,0,137,788,0,0,48,86,,43,22,21
+Privé sous contrat d'association,0311876W,IFRASS,31,Toulouse,formation sélective,EFTS,D.E Educateur Spécialisé,D.E secteur social,53,82,68,54,370,38,29,27,117,49,119.0,55,24,13
+Public,0320025D,Lycée D'Artagnan,32,Nogaro,formation sélective,Autre formation,FCIL Mécanique de compétition - préparation moteurs,Mention complémentaire,14,10,13,83,21,10,13,83,14,11,70.0,24,24,9
+Public,0310046G,Lycée Hotellerie Et Tourisme d'Occitanie,31,Toulouse,formation sélective,Autre formation,FCIL Assistant(e) gouvernant,Mention complémentaire,12,3,6,17,19,3,6,17,19,11,44.0,10,10,9
+Public,0311527S,Unité de formation et de recherche des sciences médicales - Rangueil - Université Toulouse 3,31,Toulouse,formation sélective,Autre formation,D.E Audioprothésiste,D.E secteur sanitaire,24,77,23,1,191,57,11,1,114,24,85.0,20,11,12
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,Licence_Las,Informatique,Licence - Sciences - technologies - santé,36,258,33,7,261,258,33,7,261,32,1452.0,70,70,5
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,Licence_Las,Mathématiques,Licence - Sciences - technologies - santé,18,567,15,1,248,567,15,1,248,16,1490.0,93,93,5
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,Licence_Las,Physique,Licence - Sciences - technologies - santé,36,394,23,2,253,394,23,2,253,27,1389.0,67,67,5
+Public,0313000T,INSTITUT FORM. ERGOTHERAPIE,31,Toulouse,formation sélective,Autre formation,D.E Ergothérapeute,D.E secteur sanitaire,31,264,149,22,767,141,11,4,294,31,108.0,65,11,12
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,Licence,Mathématiques,Licence - Sciences - technologies - santé,36,143,4,0,90,143,4,0,90,9,295.0,26,26,5
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation non sélective,Licence_Las,"Physique, chimie",Licence - Sciences - technologies - santé,10,189,23,0,106,189,23,0,105,7,581.0,40,40,5
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation non sélective,Licence_Las,Sciences de la vie,Licence - Sciences - technologies - santé,20,658,33,8,281,658,33,8,272,20,412.0,142,142,5
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,PASS,Parcours d'Accès Spécifique Santé (PASS),Licence - Sciences - technologies - santé,20,1209,47,11,455,1209,47,11,455,18,3111.0,227,227,5
+Public,0320002D,Lycée Pardailhan,32,Auch,formation sélective,BTS,Services informatiques aux organisations,BTS - Services,24,29,103,62,329,14,70,44,12,18,19.0,62,39,6
+Public,0312746S,Lycée Marie Louise Dissard Françoise,31,Tournefeuille,formation sélective,BTS,Management opérationnel de la sécurité,BTS - Services,18,40,87,170,59,40,87,170,59,20,19.0,100,100,6
+Public,0310038Y,Lycée BELLEVUE,31,Toulouse,formation sélective,Autre formation,Animation-gestion de projets dans le secteur sportif,Mention complémentaire,24,26,37,74,40,24,28,60,18,23,69.0,56,45,9
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Sciences de l'éducation,Licence - Sciences humaines et sociales,140,675,108,31,441,675,108,31,440,137,891.0,186,186,15
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation sélective,Licence,Sciences et Techniques des Activités Physiques et Sportives,Licence - Sciences - technologies - santé,18,268,110,46,157,11,4,1,10,12,26.0,88,1,5
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation sélective,Autre formation,Année préparatoire,Année préparatoire,25,80,21,24,87,80,21,22,61,26,140.0,49,47,10
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,PASS,Parcours d'Accès Spécifique Santé (PASS),Licence - Sciences - technologies - santé,25,1882,102,27,667,1882,102,27,667,23,3087.0,370,370,5
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,PASS,Parcours d'Accès Spécifique Santé (PASS),Licence - Sciences - technologies - santé,75,2684,65,14,633,2684,65,14,633,74,2191.0,403,403,5
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Sciences de l'éducation,Licence - Sciences humaines et sociales,100,243,40,16,179,243,40,16,179,85,478.0,75,75,15
+Public,0310047H,Lycée Ozenne,31,Toulouse,formation sélective,CPGE,ECG - Mathématiques approfondies + HGG,Classe préparatoire économique et commerciale,24,727,3,1,120,715,0,0,80,23,579.0,68,63,23
+Public,0650025Z,Lycée Théophile Gautier,65,Tarbes,formation sélective,CPGE,ECG - Mathématiques appliquées + ESH,Classe préparatoire économique et commerciale,30,246,0,0,36,218,0,0,10,24,228.0,20,18,23
+Public,0310047H,Lycée Ozenne,31,Toulouse,formation sélective,CPGE,ECG - Mathématiques approfondies + ESH,Classe préparatoire économique et commerciale,24,923,2,1,128,910,0,0,81,22,,73,68,23
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation sélective,Licence,Mathématiques,Licence - Sciences - technologies - santé,36,583,15,1,142,540,0,0,80,35,349.0,96,78,5
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation sélective,Autre formation,Diplôme d'Université - PAREO,Diplôme d'Université,17,8,6,1,1,8,6,1,1,2,37.0,3,3,25
+Privé sous contrat d'association,0121423G,Lycée Charles Carnus,12,Rodez,formation sélective,BTS,Systèmes numériques - Option informatique et réseaux,BTS - Production,15,13,17,10,26,13,9,6,4,6,25.0,10,6,2
+Public,0811293I,ISIS - Partenaire INSA,81,Castres,formation sélective,Ecole d'Ingénieur,Formation d'ingénieur Bac + 5,Formations  des écoles d'ingénieurs,28,3219,0,0,652,2219,0,0,436,19,15836.0,292,167,21
+Privé enseignement supérieur,T942095T,EPITA Toulouse,31,Toulouse,formation sélective,Ecole d'Ingénieur,Formation d'ingénieur Bac + 5,Formations  des écoles d'ingénieurs,70,2162,0,0,6,1788,0,0,0,81,,183,119,21
+Public,0090013R,Lycée de Mirepoix,09,Mirepoix,formation sélective,BTS,Conception des processus de réalisation de produits (1ère année commune),BTS - Production,12,0,14,22,21,0,14,22,9,6,4.0,8,8,2
+Public,0120006S,Lycée La Découverte,12,Decazeville,formation sélective,BTS,Biotechnologies,BTS - Production,24,70,134,12,188,70,124,10,58,21,78.0,31,29,2
+Public,0120024L,Lycée Alexis Monteil,12,Rodez,formation sélective,BTS,Support à l'action managériale,BTS - Services,35,7,72,58,41,7,38,36,5,13,9.0,51,25,6
+Public,0120870F,I.U.T de Rodez,12,Rodez,formation sélective,BUT,Informatique,BUT - Production,50,465,185,4,114,324,104,0,28,52,302.0,148,87,4
+Privé sous contrat d'association,0121298W,MFREO de St Sernin / Rance,12,Saint-Sernin-sur-Rance,formation sélective,BTS,Gestion et protection de la nature,BTS - Agricole,60,77,72,85,94,77,68,68,75,62,78.0,50,41,3
+Privé sous contrat d'association,0121423G,Lycée Charles Carnus,12,Rodez,formation sélective,BTS,Electrotechnique,BTS - Production,15,4,20,32,9,4,20,31,6,13,24.0,9,9,2
+Public,0310017A,Lycée des Métiers - Paul Mathou,31,Gourdan-Polignan,formation sélective,BTS,Management économique de la construction,BTS - Production,22,8,70,46,30,4,53,34,13,18,44.0,42,27,2
+Public,0310028M,Lycée Vincent Auriol,31,Revel,formation sélective,BTS,Etude et réalisation d'agencement,BTS - Production,15,99,154,137,126,98,126,117,17,16,11.0,96,83,2
+Public,0310028M,Lycée Vincent Auriol,31,Revel,formation sélective,BTS,Développement et Réalisation Bois,BTS - Production,15,23,43,92,33,19,43,92,22,14,27.0,41,40,2
+Public,0310038Y,Lycée BELLEVUE,31,Toulouse,formation sélective,CPGE,PCSI,Classe préparatoire scientifique,96,1957,4,0,398,1190,0,0,17,94,800.0,223,110,1
+Public,0310039Z,Lycée Marcelin Berthelot,31,Toulouse,formation sélective,BTS,Gestion de la PME,BTS - Services,35,151,601,594,796,108,435,296,179,31,43.0,629,347,6
+Public,0310041B,Lycée Saint-Sernin,31,Toulouse,formation sélective,CPGE,B/L - Lettres et sciences sociales,Classe préparatoire littéraire,48,1097,1,1,179,933,0,0,23,48,416.0,107,75,19
+Public,0310044E,Lycée Déodat de Séverac,31,Toulouse,formation sélective,CPGE,PTSI,Classe préparatoire scientifique,45,795,3,0,113,795,3,0,113,43,328.0,71,71,1
+Public,0310044E,Lycée Déodat de Séverac,31,Toulouse,formation sélective,BTS,Maintenance des systèmes - option A Systèmes de production,BTS - Production,47,24,92,270,194,12,72,181,45,43,28.0,130,86,2
+Public,0310046G,Lycée Hotellerie Et Tourisme d'Occitanie,31,Toulouse,formation sélective,BTS,Management en hôtellerie restauration,BTS - Services,81,0,306,260,196,0,230,203,127,79,84.0,131,87,6
+Public,0310046G,Lycée Hotellerie Et Tourisme d'Occitanie,31,Toulouse,formation sélective,BTS,Tourisme,BTS - Services,34,342,322,436,616,342,322,436,453,27,94.0,434,434,6
+Public,0310047H,Lycée Ozenne,31,Toulouse,formation sélective,CPGE,TB,Classe préparatoire scientifique,30,0,259,0,18,0,177,0,4,33,142.0,63,34,1
+Public,0310047H,Lycée Ozenne,31,Toulouse,formation sélective,CPGE,ENS Rennes D1,Classe préparatoire économique et commerciale,30,1391,5,0,113,727,0,0,23,35,313.0,169,79,23
+Public,0310047H,Lycée Ozenne,31,Toulouse,formation sélective,BTS,Support à l'action managériale,BTS - Services,70,69,425,316,335,68,410,299,298,66,47.0,418,405,6
+Public,0310047H,Lycée Ozenne,31,Toulouse,formation sélective,BTS,Communication,BTS - Services,35,437,668,348,820,437,668,348,682,33,47.0,521,521,6
+Public,0310047H,Lycée Ozenne,31,Toulouse,formation sélective,Autre formation,Diplôme de Comptabilité et de Gestion,DCG,35,420,245,8,296,419,191,0,230,39,184.0,141,118,20
+Public,0311086M,I.U.T de Toulouse,31,Toulouse,formation sélective,BUT,Information communication Parcours communication des organisations,BUT - Service,54,1810,640,20,683,1061,428,0,365,55,194.0,470,263,16
+Privé sous contrat d'association,0311177L,Institut Limayrac,31,Toulouse,formation sélective,BTS,Systèmes numériques - Option informatique et réseaux,BTS - Production,30,72,105,68,123,61,77,45,43,22,54.0,66,45,2
+Privé sous contrat d'association,0311177L,Institut Limayrac,31,Toulouse,formation sélective,BTS,Comptabilité et gestion,BTS - Services,24,60,58,21,77,48,47,14,37,19,70.0,39,24,6
+Privé sous contrat d'association,0311177L,Institut Limayrac,31,Toulouse,formation sélective,BTS,Economie sociale familiale,BTS - Services,70,104,203,287,232,80,145,167,142,56,86.0,202,107,6
+Privé sous contrat d'association,0311201M,Lycée Myriam,31,Toulouse,formation sélective,BTS,Conseil et commercialisation de solutions techniques,BTS - Services,35,18,53,55,33,18,53,51,33,20,25.0,39,37,6
+Privé sous contrat d'association,0311213A,Lycée Issec Pigier,31,Toulouse,formation sélective,BTS,Gestion de la PME,BTS - Services,35,23,66,84,75,23,66,84,60,22,26.0,61,61,6
+Public,0311262D,L.E.G.T.A. Toulouse Auzeville,31,Castanet-Tolosan,formation sélective,CPGE,BCPST,Classe préparatoire scientifique,35,1519,6,0,217,1519,6,0,217,35,207.0,153,153,1
+Public,0311262D,L.E.G.T.A. Toulouse Auzeville,31,Castanet-Tolosan,formation sélective,BTS,"Analyse, conduite et stratégie de l'entreprise agricole",BTS - Agricole,27,41,111,89,78,37,100,69,21,27,139.0,51,42,3
+Public,0311382J,Université Toulouse 1 Capitole,31,Toulouse,formation sélective,Licence,Droit,Licence - Droit-économie-gestion,25,150,1,0,28,73,0,0,12,20,85.0,15,4,7
+Public,0311382J,Université Toulouse 1 Capitole,31,Toulouse,formation non sélective,Licence,Economie,Licence - Droit-économie-gestion,400,2102,153,23,758,2102,153,23,716,375,2542.0,414,414,7
+Public,0311382J,Université Toulouse 1 Capitole,31,Toulouse,formation sélective,Licence,Droit,Licence - Droit-économie-gestion,25,279,3,0,49,76,0,0,12,25,68.0,32,6,7
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,"Langues, littératures & civilisations étrangères et régionales",Licence - Arts-lettres-langues,530,1416,109,53,507,1416,109,53,497,471,2075.0,489,489,17
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Langues étrangères appliquées,Licence - Arts-lettres-langues,675,2626,419,137,1032,2626,419,137,995,670,2463.0,908,908,17
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Lettres,Licence - Arts-lettres-langues,70,124,8,8,73,124,8,8,73,12,213.0,41,41,17
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Histoire,Licence - Sciences humaines et sociales,520,1443,182,74,642,1443,182,74,641,404,2341.0,450,450,15
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Sciences du langage,Licence - Sciences humaines et sociales,180,360,18,8,247,360,18,8,247,106,633.0,102,102,15
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,Licence,Physique,Licence - Sciences - technologies - santé,141,1046,36,5,466,1046,36,5,466,124,1537.0,152,152,5
+Public,0312267W,Lycée Des Arènes,31,Toulouse,formation sélective,BTS,Métiers de l'audio-visuel opt : montage et post-production,BTS - Services,12,598,197,186,615,147,1,141,15,12,35.0,256,68,6
+Public,0312289V,Lycée Pierre-Paul Riquet,31,Saint-Orens-de-Gameville,formation sélective,BTS,Conception de produits industriels,BTS - Production,28,34,197,91,57,32,197,86,43,27,39.0,60,59,2
+Public,0312290W,Lycée Henri Matisse,31,Cugnaux,formation sélective,BTS,Management Commercial Opérationnel,BTS - Services,34,122,408,407,244,87,202,240,65,22,54.0,365,192,6
+Public,0312822Z,Lycée polyvalent Charles de Gaulle,31,Muret,formation sélective,BTS,"Fluide, énergie, domotique - option A génie climatique et fluidique",BTS - Production,24,11,71,145,61,5,64,104,21,22,8.0,71,47,2
+Privé sous contrat d'association,0320633P,Campus La Salle St Christophe,32,Masseube,formation sélective,BTS,Gestion et protection de la nature,BTS - Agricole,40,105,71,75,123,105,71,75,123,37,141.0,45,45,3
+Public,0320691C,I.U.T de Toulouse - Antenne d'Auch,32,Auch,formation sélective,BUT,Génie biologique Parcours agronomie,BUT - Production,53,778,144,1,246,767,112,0,216,55,471.0,109,97,4
+Public,0320691C,I.U.T de Toulouse - Antenne d'Auch,32,Auch,formation sélective,BUT,Gestion des entreprises et des administrations,BUT - Service,82,733,417,12,231,686,349,0,186,78,672.0,278,236,16
+Privé enseignement supérieur,0310155A,Institut Catholique de Toulouse,31,Toulouse,formation sélective,Licence,Information et communication,Licence - Sciences humaines et sociales,30,242,13,3,113,242,13,3,110,30,175.0,42,42,15
+Public,0090013R,Lycée de Mirepoix,09,Mirepoix,formation sélective,BTS,Systèmes numériques - Option informatique et réseaux,BTS - Production,24,27,42,42,84,21,41,38,6,12,25.0,44,40,2
+Public,0090015T,Lycée polyvalent Pyrène,09,Pamiers,formation sélective,BTS,Electrotechnique,BTS - Production,22,4,13,71,31,4,13,44,28,15,7.0,29,18,2
+Public,0311870P,IFSI CHU de Toulouse,31,Toulouse,formation sélective,IFSI,D.E Infirmier,D.E secteur sanitaire,20,1439,1498,1138,4712,1263,952,606,2599,17,2040.0,1231,769,12
+Privé hors contrat,0311098A,Pôle formation recherche Institut Saint Simon,31,Toulouse,formation sélective,EFTS,D.E Educateur de Jeunes Enfants,D.E secteur social,36,69,90,53,292,15,24,7,124,34,75.0,41,6,13
+Privé hors contrat,0311098A,Pôle formation recherche Institut Saint Simon,31,Toulouse,formation sélective,EFTS,D.E Educateur Spécialisé,D.E secteur social,57,78,74,40,405,8,4,4,146,56,140.0,47,3,13
+Privé hors contrat,0311098A,Pôle formation recherche Institut Saint Simon,31,Toulouse,formation sélective,EFTS,D.E Educateur de Jeunes Enfants,D.E secteur social,15,58,72,43,199,11,20,6,82,15,70.0,37,5,13
+Privé sous contrat d'association,0311877X,Ecole assistants de service social,31,Toulouse,formation sélective,EFTS,D.E Assistant de Service Social,D.E secteur social,22,30,23,14,138,18,11,3,87,20,122.0,13,6,13
+Public,0460007H,Lycée Clement Marot,46,Cahors,formation sélective,BTS,Professions immobilières,BTS - Services,18,155,239,139,143,155,239,139,143,16,27.0,160,160,6
+Public,0311092U,Lycée professionnel des Métiers Eugene MONTEL,31,Colomiers,formation sélective,Autre formation,Technicien en chaudronnerie aéronautique et spatiale,Mention complémentaire,12,0,0,49,6,0,0,37,3,3,39.0,9,5,9
+Public,0120937D,L.E.G.T.A. Rodez-La Roque,12,Rodez,formation sélective,BTS,productions animales,BTS - Agricole,18,0,1,101,7,0,1,61,1,8,62.0,38,24,3
+Privé enseignement supérieur,0310156B,Toulouse Business School,31,Toulouse,formation sélective,Ecole de Commerce,Formation des écoles de commerce et de management Bac + 3,Formation des écoles de commerce et de management,380,904,137,0,160,784,101,0,110,378,1027.0,113,60,14
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,Licence_Las,Sciences de la vie,Licence - Sciences - technologies - santé,36,2700,217,11,1464,2700,217,11,1464,34,539.0,595,595,5
+Public,0311382J,Université Toulouse 1 Capitole,31,Toulouse,formation non sélective,Licence_Las,Droit,Licence - Droit-économie-gestion,100,997,123,33,601,997,123,33,598,92,3699.0,276,276,7
+Public,0310152X,INSA Toulouse,31,Toulouse,formation sélective,Ecole d'Ingénieur,Formation d'ingénieur Bac + 5,Formations  des écoles d'ingénieurs,24,926,0,0,150,755,0,0,107,27,139.0,63,41,21
+Privé hors contrat,0312745R,SILVYA TERRADE - ESTHER MARIO,31,Toulouse,formation sélective,BTS,Métiers de l'esthétique-cosmétique-parfumerie,BTS - Services,80,65,74,94,71,65,72,84,2,19,65.0,78,76,6
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation non sélective,Licence_Las,Psychologie,Licence - Sciences humaines et sociales,30,518,142,85,332,518,142,85,331,29,513.0,206,206,15
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,PASS,Parcours d'Accès Spécifique Santé (PASS),Licence - Sciences - technologies - santé,35,982,30,8,367,982,30,8,367,35,3635.0,163,163,5
+Public,0810959C,Lycée La Borde Basse,81,Castres,formation sélective,BTS,Bioanalyses et contrôles,BTS - Production,15,124,181,24,146,67,86,12,44,9,95.0,82,38,2
+Privé sous contrat d'association,0311213A,Lycée Issec Pigier,31,Toulouse,formation sélective,BTS,Comptabilité et gestion,BTS - Services,18,60,74,68,205,60,74,68,82,11,69.0,69,69,6
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Philosophie,Licence - Arts-lettres-langues,120,239,23,5,195,239,23,5,193,52,461.0,72,72,17
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Lettres,Licence - Arts-lettres-langues,160,168,4,11,77,168,4,11,76,28,259.0,53,53,17
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,"Langues, littératures & civilisations étrangères et régionales",Licence - Arts-lettres-langues,15,7,0,1,6,7,0,1,6,0,14.0,4,4,17
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,PASS,Parcours d'Accès Spécifique Santé (PASS),Licence - Sciences - technologies - santé,175,4558,134,20,903,4558,134,20,903,172,2091.0,782,782,5
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation sélective,Licence,"Langues, littératures & civilisations étrangères et régionales",Licence - Arts-lettres-langues,10,3,2,0,5,0,0,0,0,0,,1,0,17
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation non sélective,Licence_Las,Mathématiques,Licence - Sciences - technologies - santé,10,58,2,0,28,58,2,0,27,1,310.0,9,9,5
+Public,0460007H,Lycée Clement Marot,46,Cahors,formation sélective,CPGE,ECG - Mathématiques appliquées + ESH,Classe préparatoire économique et commerciale,24,172,1,0,26,155,0,0,9,6,164.0,23,19,23
+Public,0310036W,Lycée Pierre De Fermat,31,Toulouse,formation sélective,CPGE,ECG - Mathématiques approfondies + ESH,Classe préparatoire économique et commerciale,48,1116,1,1,237,1102,1,1,163,44,,85,84,23
+Public,0121471J,Institut national universitaire Champollion - Campus de Rodez,12,Rodez,formation non sélective,Licence,Droit,Licence - Droit-économie-gestion,40,110,19,6,25,110,19,6,22,11,170.0,31,31,7
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation sélective,Autre formation,Diplôme d'Université - PAREO,Diplôme d'Université,16,14,5,6,3,14,5,6,3,2,38.0,8,8,25
+Privé enseignement supérieur,0312765M,AFTRAL ISTELI,31,Toulouse,formation sélective,Autre formation,Titre professionnel - Organisateur de transports aériens ou maritimes de marchandises (Bac +2),Formation professionnelle,20,2,2,12,10,1,0,8,4,8,13.0,6,3,26
+Public,0312759F,Lycée Joseph Gallieni,31,Toulouse,formation sélective,Autre formation,FCIL - Parcours polyvalent en recyclage et réhabilitation des véhicules,Mention complémentaire,12,0,0,0,0,0,0,0,0,0,,0,0,9
+Public,0650005C,Lycée Victor Duruy,65,Bagnères-de-Bigorre,formation sélective,BTS,Conception et Réalisation de Systèmes Automatiques,BTS - Production,24,13,48,43,365,11,45,40,16,15,21.0,24,21,2
+Public,0650026A,Lycée Marie Curie,65,Tarbes,formation sélective,BTS,Commerce International,BTS - Services,24,179,161,90,162,179,161,90,162,23,98.0,133,133,6
+Public,0650026A,Lycée Marie Curie,65,Tarbes,formation sélective,BTS,Comptabilité et gestion,BTS - Services,24,61,83,50,133,61,83,50,133,23,65.0,74,74,6
+Privé sous contrat d'association,0650065T,Lycée Pradeau la Sède-St Pierre,65,Tarbes,formation sélective,BTS,Négociation et digitalisation de la Relation Client,BTS - Services,35,34,88,62,40,34,88,62,29,21,38.0,47,47,6
+Privé sous contrat d'association,0650065T,Lycée Pradeau la Sède-St Pierre,65,Tarbes,formation sélective,BTS,Gestion de la PME,BTS - Services,12,8,25,13,22,8,25,13,17,6,15.0,15,15,6
+Public,0650139Y,L.E.G.T.A. Jean Monnet,65,Vic-en-Bigorre,formation sélective,BTS,"Analyse, conduite et stratégie de l'entreprise agricole",BTS - Agricole,27,12,49,49,155,12,49,34,6,10,12.0,30,25,3
+Public,0650583F,I.U.T de Tarbes,65,Tarbes,formation sélective,BUT,Génie électrique et informatique industrielle,BUT - Production,72,347,160,10,121,337,147,2,89,42,405.0,82,72,4
+Public,0650583F,I.U.T de Tarbes,65,Tarbes,formation sélective,BUT,Techniques de commercialisation,BUT - Service,135,1146,842,28,319,1128,819,28,274,138,485.0,393,382,16
+Privé enseignement supérieur,0315550I,IPSA Toulouse,31,Toulouse,formation sélective,Ecole d'Ingénieur,Formation d'ingénieur Bac + 5,Formations  des écoles d'ingénieurs,120,2527,0,0,4,2339,0,0,2,142,,232,185,21
+Public,0650583F,I.U.T de Tarbes,65,Tarbes,formation sélective,Ecole d'Ingénieur,Formation d'ingénieur Bac + 5,Formations  des écoles d'ingénieurs,8,0,210,0,18,0,97,0,6,6,347.0,33,17,21
+Public,0090002D,Lycée Gabriel Faure,09,Foix,formation sélective,BTS,Tourisme,BTS - Services,24,40,51,63,61,35,51,45,35,19,50.0,51,40,6
+Public,0120006S,Lycée La Découverte,12,Decazeville,formation sélective,BTS,Conception et réalisation en chaudronnerie industrielle,BTS - Production,24,4,21,44,46,4,21,38,9,19,9.0,10,8,2
+Public,0120012Y,Lycée Jean Vigo,12,Millau,formation sélective,BTS,Gestion de la PME,BTS - Services,18,2,41,33,18,2,41,33,16,13,6.0,30,30,6
+Public,0120012Y,Lycée Jean Vigo,12,Millau,formation sélective,BTS,Comptabilité et gestion,BTS - Services,18,12,27,15,26,12,25,12,16,8,22.0,16,13,6
+Public,0120024L,Lycée Alexis Monteil,12,Rodez,formation sélective,BTS,Conception et Réalisation de Systèmes Automatiques,BTS - Production,24,2,65,38,20,2,65,37,5,11,3.0,21,20,2
+Public,0120025M,Lycée Jean Jaures,12,Saint-Affrique,formation sélective,BTS,Electrotechnique,BTS - Production,24,1,27,46,17,1,27,46,17,15,3.0,21,21,2
+Public,0120870F,I.U.T de Rodez,12,Rodez,formation sélective,BUT,"Qualité, logistique industrielle et organisation",BUT - Production,26,78,64,2,58,62,48,0,27,15,79.0,20,14,4
+Public,0120870F,I.U.T de Rodez,12,Rodez,formation sélective,BUT,Gestion des entreprises et des administrations,BUT - Service,80,499,283,1,173,380,179,0,67,82,419.0,162,108,16
+Public,0310032S,Lycée De Bagatelle,31,Saint-Gaudens,formation sélective,BTS,Gestion de la PME,BTS - Services,12,13,56,105,82,11,49,71,29,4,12.0,80,53,6
+Public,0310032S,Lycée De Bagatelle,31,Saint-Gaudens,formation sélective,BTS,Comptabilité et gestion,BTS - Services,12,20,46,42,125,13,35,31,14,7,19.0,50,36,6
+Public,0310036W,Lycée Pierre De Fermat,31,Toulouse,formation sélective,CPGE,Ecole nationale des Chartes,Classe préparatoire littéraire,34,264,1,0,50,259,1,0,40,33,227.0,28,27,19
+Public,0310038Y,Lycée BELLEVUE,31,Toulouse,formation sélective,Autre formation,CPES - Scientifique,Classe préparatoire aux études supérieures,30,113,52,9,53,95,43,4,0,30,89.0,49,37,27
+Public,0310039Z,Lycée Marcelin Berthelot,31,Toulouse,formation sélective,BTS,Négociation et digitalisation de la Relation Client,BTS - Services,65,179,781,652,478,179,781,652,478,55,76.0,612,612,6
+Public,0310044E,Lycée Déodat de Séverac,31,Toulouse,formation sélective,BTS,Electrotechnique,BTS - Production,56,31,116,257,187,24,99,153,54,47,14.0,148,85,2
+Public,0310044E,Lycée Déodat de Séverac,31,Toulouse,formation sélective,BTS,Systèmes numériques - Option électronique et communication,BTS - Production,36,29,107,156,91,28,68,104,37,32,34.0,110,71,2
+Public,0310047H,Lycée Ozenne,31,Toulouse,formation sélective,CPGE,ECT - Option technologique,Classe préparatoire économique et commerciale,30,0,407,0,26,0,407,0,26,35,197.0,87,87,23
+Privé sous contrat d'association,0311133N,Lycée Le Caousou,31,Toulouse,formation sélective,BTS,Métiers du géomètre-topographe et de la modélisation numérique,BTS - Production,18,64,70,37,65,39,17,17,9,11,46.0,33,9,2
+Privé sous contrat d'association,0311177L,Institut Limayrac,31,Toulouse,formation sélective,BTS,Tourisme,BTS - Services,48,112,75,87,127,83,49,45,86,45,131.0,90,49,6
+Privé sous contrat d'association,0311186W,Lycée Billières,31,Toulouse,formation sélective,BTS,Management Commercial Opérationnel,BTS - Services,48,139,413,293,254,92,272,149,121,43,116.0,224,110,6
+Privé sous contrat d'association,0311213A,Lycée Issec Pigier,31,Toulouse,formation sélective,BTS,Support à l'action managériale,BTS - Services,34,20,83,62,101,20,83,62,59,14,29.0,58,58,6
+Public,0311262D,L.E.G.T.A. Toulouse Auzeville,31,Castanet-Tolosan,formation sélective,BTS,Analyses agricoles biologiques et biotechnologiques,BTS - Agricole,32,212,191,57,215,186,117,33,96,29,219.0,101,61,3
+Privé sous contrat d'association,0311270M,L.E.A.P. La Cadène,31,Labège,formation sélective,BTS,Production horticole,BTS - Agricole,30,10,7,18,37,10,7,18,37,8,38.0,10,10,3
+Public,0311323V,Lycée Rive Gauche,31,Toulouse,formation sélective,CPGE,Ecole normale supérieure Paris Saclay ? arts et design,Classe préparatoire scientifique,26,219,74,8,67,169,58,3,30,25,198.0,51,31,1
+Public,0311323V,Lycée Rive Gauche,31,Toulouse,formation sélective,CPGE,Lettres,Classe préparatoire littéraire,24,278,1,0,43,278,0,0,27,24,302.0,49,49,19
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,"Langues, littératures & civilisations étrangères et régionales",Licence - Arts-lettres-langues,60,18,0,1,32,18,0,1,32,9,51.0,4,4,17
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,"Langues, littératures & civilisations étrangères et régionales",Licence - Arts-lettres-langues,100,66,10,3,55,66,10,3,55,7,134.0,32,32,17
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Philosophie,Licence - Sciences humaines et sociales,120,350,24,7,222,350,24,7,220,76,601.0,110,110,15
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,"Langues, littératures & civilisations étrangères et régionales",Licence - Arts-lettres-langues,80,53,9,4,74,53,9,4,72,20,139.0,29,29,17
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation sélective,Licence,Arts,Licence - Arts-lettres-langues,70,247,55,29,105,231,49,22,90,69,190.0,83,75,17
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Sociologie,Licence - Sciences humaines et sociales,450,1028,153,64,666,1028,153,64,666,306,1912.0,339,339,15
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,"Langues, littératures & civilisations étrangères et régionales",Licence - Arts-lettres-langues,100,97,7,10,92,97,7,10,92,24,206.0,45,45,17
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,Licence,"Electronique, énergie électrique, automatique",Licence - Sciences - technologies - santé,130,241,37,6,220,241,37,6,206,74,524.0,56,56,5
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,Licence,Sciences de la terre,Licence - Sciences - technologies - santé,100,425,25,1,217,425,25,1,217,70,656.0,94,94,5
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,Licence,Sciences de la vie,Licence - Sciences - technologies - santé,743,4110,286,19,2210,4110,286,19,2210,741,3661.0,771,771,5
+Public,0312759F,Lycée Joseph Gallieni,31,Toulouse,formation sélective,BTS,Maintenance des véhicules option véhicules de transport routier,BTS - Production,26,8,26,72,69,7,26,72,21,19,2.0,48,48,2
+Public,0312822Z,Lycée polyvalent Charles de Gaulle,31,Muret,formation sélective,Autre formation,Technicien en énergies renouvelables (option thermique),Mention complémentaire,12,0,0,8,1,0,0,8,1,4,9.0,4,4,9
+Public,0320002D,Lycée Pardailhan,32,Auch,formation sélective,BTS,Management Commercial Opérationnel,BTS - Services,35,45,105,118,86,31,79,83,31,28,31.0,83,59,6
+Public,0320039U,L.E.G.T.A. Beaulieu-Lavacant,32,Auch,formation sélective,BTS,Agronomie : Productions végétales,BTS - Agricole,19,37,58,24,253,37,58,24,25,11,57.0,20,20,3
+Public,0320039U,L.E.G.T.A. Beaulieu-Lavacant,32,Auch,formation sélective,BTS,Sciences et technologies des aliments spécialité Aliments et processus technologiques,BTS - Agricole,19,8,41,18,112,8,41,18,7,5,13.0,19,19,3
+Public,0320067Z,Lycée des Métiers - Le Garros,32,Auch,formation sélective,BTS,Enveloppe des bâtiments : conception et réalisation,BTS - Production,15,13,76,45,47,9,51,32,8,7,11.0,43,26,2
+Public,0460007H,Lycée Clement Marot,46,Cahors,formation sélective,BTS,Négociation et digitalisation de la Relation Client,BTS - Services,18,17,79,102,59,17,79,102,59,18,25.0,72,72,6
+Public,0460010L,Lycée Champollion,46,Figeac,formation sélective,BTS,Conception des processus de réalisation de produits (1ère année commune),BTS - Production,12,2,20,28,17,2,20,28,12,10,6.0,14,14,2
+Public,0460010L,Lycée Champollion,46,Figeac,formation sélective,BTS,Systèmes numériques - Option électronique et communication,BTS - Production,12,6,14,30,5,6,11,20,2,10,4.0,19,11,2
+Public,0460493L,Lycée Gaston Monnerville,46,Cahors,formation sélective,BTS,Electrotechnique,BTS - Production,15,2,13,43,54,2,13,43,12,3,2.0,11,11,2
+Public,0310033T,Lycée professionnel Elisabeth Et Norbert Casteret,31,Saint-Gaudens,formation sélective,BTS,Economie sociale familiale,BTS - Services,18,36,73,153,139,36,73,153,139,15,118.0,94,94,6
+Public,0310052N,Roland Garros Lycée des métiers de la maintenance mécanique et de la productique,31,Toulouse,formation sélective,Autre formation,"Technicien ascensoriste, service et modernisation",Mention complémentaire,15,1,1,88,14,0,0,39,6,7,45.0,43,20,9
+Public,0312759F,Lycée Joseph Gallieni,31,Toulouse,formation sélective,Autre formation,Technicien en peinture aéronautique,Mention complémentaire,12,0,0,34,8,0,0,34,8,10,36.0,7,7,9
+Public,0311527S,Unité de formation et de recherche des sciences médicales - Rangueil - Université Toulouse 3,31,Toulouse,formation sélective,Autre formation,Certificat de capacité d'Orthophoniste,D.E secteur sanitaire,38,380,31,1,832,73,1,0,72,38,57.0,85,12,12
+Public,0311527S,Unité de formation et de recherche des sciences médicales - Rangueil - Université Toulouse 3,31,Toulouse,formation sélective,Autre formation,Certificat de capacité d'Orthoptiste,D.E secteur sanitaire,27,102,36,0,333,44,9,0,143,27,54.0,35,6,12
+Public,0311527S,Unité de formation et de recherche des sciences médicales - Rangueil - Université Toulouse 3,31,Toulouse,formation sélective,Autre formation,D.E Psychomotricien,D.E secteur sanitaire,50,327,122,7,997,85,6,0,274,50,94.0,101,14,12
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,Licence_Las,Chimie,Licence - Sciences - technologies - santé,36,838,48,2,575,838,48,2,575,24,1137.0,204,204,5
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,Licence_Las,Génie civil,Licence - Sciences - technologies - santé,18,143,12,0,119,143,12,0,119,17,803.0,33,33,5
+Public,0311382J,Université Toulouse 1 Capitole,31,Toulouse,formation non sélective,Licence_Las,Administration économique et sociale,Licence - Droit-économie-gestion,50,471,110,44,322,471,110,44,320,46,2394.0,193,193,7
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation non sélective,Licence_Las,"Electronique, énergie électrique, automatique",Licence - Sciences - technologies - santé,5,8,1,0,16,8,1,0,14,1,88.0,0,0,5
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,PASS,Parcours d'Accès Spécifique Santé (PASS),Licence - Sciences - technologies - santé,20,1511,64,12,468,1511,64,12,468,19,2925.0,281,281,5
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,PASS,Parcours d'Accès Spécifique Santé (PASS),Licence - Sciences - technologies - santé,30,1298,34,5,462,1298,34,5,462,27,3254.0,198,198,5
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,PASS,Parcours d'Accès Spécifique Santé (PASS),Licence - Sciences - technologies - santé,36,1746,59,11,539,1746,59,11,539,35,2603.0,299,299,5
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,PASS,Parcours d'Accès Spécifique Santé (PASS),Licence - Sciences - technologies - santé,36,2354,104,17,672,2354,104,17,672,35,2644.0,480,480,5
+Public,0310056T,Lycée professionnel Gabriel Peri,31,Toulouse,formation sélective,BTS,Négociation et digitalisation de la Relation Client,BTS - Services,18,193,780,864,590,193,780,864,590,15,44.0,784,784,6
+Public,0810959C,Lycée La Borde Basse,81,Castres,formation sélective,BTS,Métiers de l'esthétique-cosmétique-parfumerie,BTS - Services,12,77,124,105,127,77,124,105,127,10,30.0,107,107,6
+Privé sous contrat d'association,0810100U,Lycée professionnel Saint-Dominique,81,Albi,formation sélective,BTS,Gestion des transports et logistique associée,BTS - Services,18,9,27,42,102,8,22,34,8,11,10.0,22,16,6
+Public,0810012Y,Lycée Jean Jaures,81,Carmaux,formation sélective,Autre formation,Animation-gestion de projets dans le secteur sportif,Mention complémentaire,24,20,10,27,17,19,9,17,6,8,51.0,17,12,9
+Public,0310153Y,École nationale vétérinaire de Toulouse,31,Toulouse,formation sélective,Autre formation,Formation Bac+6,Formations des écoles nationales vétérinaires,40,5214,0,0,32,581,0,0,3,40,163.0,523,63,28
+Privé sous contrat d'association,0310154Z,Ecole d'ingénieurs de PURPAN,31,Toulouse,formation sélective,Ecole d'Ingénieur,Formation d'ingénieur Bac + 5,Formations  des écoles d'ingénieurs,30,0,0,0,140,0,0,0,78,26,,0,0,21
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,PASS,Parcours d'Accès Spécifique Santé (PASS),Licence - Sciences - technologies - santé,300,6566,198,30,1316,6566,198,30,1316,296,1626.0,1157,1157,5
+Public,0310098N,"Centre de Ressources, d'Expertise et de Performance Sportive de Toulouse (CREPS)",31,Toulouse,formation sélective,Autre formation,Activités physiques pour tous,BPJEPS,5,31,44,36,45,5,10,2,7,5,15.0,33,7,18
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,PASS,Parcours d'Accès Spécifique Santé (PASS),Licence - Sciences - technologies - santé,75,729,25,4,356,729,25,4,356,71,5424.0,120,120,5
+Public,0310036W,Lycée Pierre De Fermat,31,Toulouse,formation sélective,CPGE,ECG - Mathématiques approfondies + HGG,Classe préparatoire économique et commerciale,48,1004,1,0,238,1002,1,0,195,45,533.0,81,81,23
+Public,0310047H,Lycée Ozenne,31,Toulouse,formation sélective,CPGE,ECG - Mathématiques appliquées + HGG,Classe préparatoire économique et commerciale,24,1063,3,1,150,1063,3,1,150,26,,96,96,23
+Public,0310047H,Lycée Ozenne,31,Toulouse,formation sélective,CPGE,ECG - Mathématiques appliquées + ESH,Classe préparatoire économique et commerciale,24,1452,3,1,154,1452,3,1,154,25,,139,139,23
+Privé sous contrat d'association,0312408Z,Lycée Saliège,31,Balma,formation sélective,CPGE,ECG - Mathématiques approfondies + HGG,Classe préparatoire économique et commerciale,24,292,0,0,59,290,0,0,58,5,,17,17,23
+Privé sous contrat d'association,0312408Z,Lycée Saliège,31,Balma,formation sélective,CPGE,ECG - Mathématiques appliquées + HGG,Classe préparatoire économique et commerciale,24,432,0,0,65,426,0,0,62,22,,30,30,23
+Public,0311382J,Université Toulouse 1 Capitole,31,Toulouse,formation non sélective,Licence_Las,Economie,Licence - Droit-économie-gestion,43,297,28,9,218,297,28,9,215,34,1373.0,89,89,7
+Public,0310036W,Lycée Pierre De Fermat,31,Toulouse,formation sélective,CPGE,MP2I,Classe préparatoire scientifique,48,1881,3,1,349,1863,3,1,305,48,285.0,207,205,1
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation sélective,Autre formation,Diplôme d'Université - PAREO,Diplôme d'Université,17,5,0,1,1,5,0,1,1,1,35.0,2,2,25
+Public,0310040A,Lycée Raymond Naves,31,Toulouse,formation sélective,Autre formation,Services numériques aux organisations,Mention complémentaire,20,4,6,24,13,4,6,14,8,6,32.0,13,8,9
+Privé sous contrat d'association,0810095N,Lycée Sainte-Cecile,81,Albi,formation sélective,Autre formation,Animation-gestion de projets dans le secteur sportif,Mention complémentaire,24,13,19,22,21,13,19,22,13,12,64.0,10,10,9
+Public,0650026A,Lycée Marie Curie,65,Tarbes,formation sélective,BTS,Gestion de la PME,BTS - Services,24,56,141,123,188,56,141,123,98,20,49.0,112,112,6
+Public,0650027B,Lycée Jean Dupuy,65,Tarbes,formation sélective,BTS,Traitement des matériaux,BTS - Production,24,7,33,6,60,6,24,4,21,8,50.0,8,5,2
+Public,0650048Z,INP-ENIT Tarbes,65,Tarbes,formation sélective,Ecole d'Ingénieur,Formation d'ingénieur Bac + 5,Formations  des écoles d'ingénieurs,150,3910,0,0,565,2858,0,0,192,159,11976.0,303,169,21
+Privé sous contrat d'association,0650065T,Lycée Pradeau la Sède-St Pierre,65,Tarbes,formation sélective,BTS,Management Commercial Opérationnel,BTS - Services,35,36,121,94,52,35,121,94,39,26,47.0,68,68,6
+Public,0650139Y,L.E.G.T.A. Jean Monnet,65,Vic-en-Bigorre,formation sélective,BTS,Technico-commercial (BTSA),BTS - Agricole,19,5,30,23,205,5,30,23,13,5,10.0,13,13,3
+Privé sous contrat d'association,0650065T,Lycée Pradeau la Sède-St Pierre,65,Tarbes,formation sélective,BTS,Systèmes numériques - Option informatique et réseaux,BTS - Production,30,23,37,32,29,23,34,30,9,22,25.0,23,21,2
+Public,0810004P,Lycée Louis Rascol,81,Albi,formation sélective,BTS,Electrotechnique,BTS - Production,30,7,50,75,72,7,50,48,71,14,13.0,35,24,2
+Privé sous contrat d'association,0810095N,Lycée Sainte-Cecile,81,Albi,formation sélective,BTS,Service et prestation des secteurs sanitaire et social,BTS - Services,35,20,106,108,84,20,106,102,65,31,15.0,69,66,6
+Privé sous contrat d'association,0810103X,Lycée Notre Dame,81,Castres,formation sélective,BTS,Support à l'action managériale,BTS - Services,21,4,36,33,24,3,36,25,18,14,13.0,30,22,6
+Public,0810959C,Lycée La Borde Basse,81,Castres,formation sélective,BTS,Bioqualité,BTS - Production,24,26,90,17,126,11,60,8,28,11,18.0,30,14,2
+Public,0810959C,Lycée La Borde Basse,81,Castres,formation sélective,BTS,Management Commercial Opérationnel,BTS - Services,35,77,209,210,184,51,123,148,63,30,38.0,169,100,6
+Public,0811199N,I.U.T de Toulouse - Antenne de Castres,81,Castres,formation sélective,BUT,"Packaging, emballage et conditionnement",BUT - Production,28,113,84,3,50,111,58,0,40,20,139.0,24,16,4
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation non sélective,Licence,Droit,Licence - Droit-économie-gestion,185,863,109,33,159,863,109,33,153,163,1197.0,238,238,7
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation non sélective,Licence,Psychologie,Licence - Sciences humaines et sociales,155,1159,274,159,610,1159,274,159,608,157,1166.0,413,413,15
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation non sélective,Licence,Sociologie,Licence - Sciences humaines et sociales,90,265,45,23,93,265,45,23,92,56,425.0,83,83,15
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation non sélective,Licence,"Physique, chimie",Licence - Sciences - technologies - santé,25,308,33,2,142,308,33,2,139,13,582.0,58,58,5
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation non sélective,Licence,Mathématiques,Licence - Sciences - technologies - santé,40,225,8,2,70,225,8,2,70,22,316.0,50,50,5
+Public,0820844X,Université Toulouse 1 - Antenne de Montauban,82,Montauban,formation non sélective,Licence,Droit,Licence - Droit-économie-gestion,150,811,163,40,143,811,163,40,136,122,1150.0,273,273,7
+Public,0311092U,Lycée professionnel des Métiers Eugene MONTEL,31,Colomiers,formation sélective,BTS,Conception et réalisation en chaudronnerie industrielle,BTS - Production,12,13,28,75,34,12,24,67,14,10,3.0,19,16,2
+Privé sous contrat d'association,0311213A,Lycée Issec Pigier,31,Toulouse,formation sélective,BTS,Négociation et digitalisation de la Relation Client,BTS - Services,34,58,226,255,136,58,226,255,133,29,35.0,152,152,6
+Public,0650139Y,L.E.G.T.A. Jean Monnet,65,Vic-en-Bigorre,formation sélective,BTS,Gestion et protection de la nature,BTS - Agricole,32,166,167,142,203,134,149,111,97,32,58.0,107,91,3
+Privé sous contrat d'association,0312355S,Lycée Ort Maurice Grynfogel,31,Colomiers,formation sélective,BTS,Electrotechnique,BTS - Production,15,12,22,58,28,6,12,47,7,7,6.0,17,8,2
+Public,0311382J,Université Toulouse 1 Capitole,31,Toulouse,formation sélective,Licence,Droit,Licence - Droit-économie-gestion,60,706,34,6,153,706,34,6,153,58,360.0,128,128,7
+Public,0311323V,Lycée Rive Gauche,31,Toulouse,formation sélective,BTS,Communication,BTS - Services,26,443,569,309,803,206,217,171,186,24,46.0,474,189,6
+Public,0312759F,Lycée Joseph Gallieni,31,Toulouse,formation sélective,BTS,Gestion des transports et logistique associée,BTS - Services,34,32,100,204,330,23,100,104,58,31,34.0,147,92,6
+Privé enseignement supérieur,0310147S,INSTITUT NATIONAL DES FORMATIONS NOTARIALES - Site de Toulouse,31,Toulouse,formation sélective,BTS,Notariat,BTS - Services,20,124,99,24,126,82,50,3,18,17,95.0,68,27,6
+Public,0820021C,Lycée Antoine Bourdelle,82,Montauban,formation sélective,BTS,Support à l'action managériale,BTS - Services,18,7,68,80,50,7,54,60,16,18,12.0,65,46,6
+Public,0820021C,Lycée Antoine Bourdelle,82,Montauban,formation sélective,BTS,Systèmes numériques - Option informatique et réseaux,BTS - Production,12,56,88,62,93,56,83,56,23,15,31.0,55,50,2
+Public,0810018E,Lycée professionnel Anne Veaute,81,Castres,formation sélective,BTS,Prothésiste orthésiste,BTS - Services,15,108,148,61,264,108,138,61,253,15,59.0,51,48,6
+Public,0650038N,Lycée Pierre Mendes France,65,Vic-en-Bigorre,formation sélective,BTS,Prothésiste dentaire,BTS - Services,11,39,43,92,118,0,0,63,3,10,2.0,47,14,6
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation non sélective,Licence,"Langues, littératures & civilisations étrangères et régionales",Licence - Arts-lettres-langues,60,139,11,5,29,139,11,5,29,31,184.0,49,49,17
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Lettres,Licence - Arts-lettres-langues,300,264,21,21,112,264,21,21,112,61,419.0,97,97,17
+Public,0320557G,L.P.A. de Mirande,32,Mirande,formation sélective,BTS,Conseil et commercialisation de solutions techniques,BTS - Services,12,1,6,11,6,0,6,11,6,7,1.0,3,3,6
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation sélective,Licence,Physique,Licence - Sciences - technologies - santé,45,642,5,0,216,366,0,0,79,30,445.0,88,30,5
+Public,0820004J,Lycée Jean De Prades,82,Castelsarrasin,formation sélective,BTS,Management en hôtellerie restauration,BTS - Services,12,0,42,80,15,0,42,80,15,9,9.0,42,42,6
+Public,0311086M,I.U.T de Toulouse,31,Toulouse,formation sélective,BUT,Information communication Parcours métiers du livre et du patrimoine,BUT - Service,13,205,44,8,175,137,28,0,113,13,37.0,52,29,16
+Privé sous contrat d'association,0820044C,Lycée Pierre_Marie THEAS,82,Montauban,formation sélective,BTS,Commerce International,BTS - Services,24,91,78,34,69,87,75,26,49,22,80.0,40,37,6
+Public,0311382J,Université Toulouse 1 Capitole,31,Toulouse,formation sélective,Licence,Droit,Licence - Droit-économie-gestion,10,26,2,1,4,15,0,0,0,4,15.0,11,4,7
+Public,0310046G,Lycée Hotellerie Et Tourisme d'Occitanie,31,Toulouse,formation sélective,Autre formation,Accueil réception,Mention complémentaire,12,1,20,78,50,1,20,67,30,11,82.0,43,35,9
+Public,0090006H,Lycée professionnel Joseph Marie Jacquard,09,Lavelanet,formation sélective,BTS,Métiers de l'eau,BTS - Production,15,18,55,13,95,18,50,6,18,7,12.0,20,15,2
+Public,0310053P,Lycée professionnel des métiers du bâtiment - Urbain Vitry,31,Toulouse,formation sélective,BTS,Bâtiment,BTS - Production,23,64,278,155,197,48,221,101,70,21,19.0,154,103,2
+Public,0120006S,Lycée La Découverte,12,Decazeville,formation sélective,BTS,Europlastics et composites à référentiel commun européen - option Conception d'Outillage,BTS - Production,6,3,2,8,34,3,2,8,0,1,5.0,2,2,2
+Privé sous contrat d'association,0460038S,Lycée Saint Etienne,46,Cahors,formation sélective,Autre formation,Graphisme,DN MADE,16,71,49,37,49,41,30,12,17,15,99.0,35,21,11
+Public,0311323V,Lycée Rive Gauche,31,Toulouse,formation sélective,Autre formation,Événement,DN MADE,15,144,186,39,128,81,131,6,32,14,85.0,80,37,11
+Public,0311323V,Lycée Rive Gauche,31,Toulouse,formation sélective,Autre formation,Innovation sociale,DN MADE,15,86,81,8,68,51,69,1,19,15,104.0,44,27,11
+Public,0310088C,Lycée professionnel de l'Ameublement,31,Revel,formation sélective,Autre formation,Objet,DN MADE,12,42,37,12,78,42,37,12,78,12,61.0,18,18,11
+Privé sous contrat d'association,0311177L,Institut Limayrac,31,Toulouse,formation sélective,BTS,Conseil et commercialisation de solutions techniques,BTS - Services,18,12,77,18,42,11,61,11,35,17,14.0,25,20,6
+Public,0810004P,Lycée Louis Rascol,81,Albi,formation sélective,Autre formation,FCIL classe passerelle BTS,Mention complémentaire,20,0,0,0,0,0,0,0,0,0,,0,0,9
+Public,0320598B,IFSI CH Auch,32,Auch,formation sélective,IFSI,D.E Infirmier,D.E secteur sanitaire,60,963,1118,867,3448,862,756,479,1877,60,3307.0,841,544,12
+Public,0460580F,IFSI CH Jean Rougier Cahors,46,Cahors,formation sélective,IFSI,D.E Infirmier,D.E secteur sanitaire,65,812,1028,786,3162,737,711,430,1703,61,3304.0,728,476,12
+Privé enseignement supérieur,0820822Y,EGC Montauban,82,Montauban,formation sélective,Ecole de Commerce,Formation des écoles de commerce et de management Bac + 3,Formation des écoles de commerce et de management,40,100,13,2,20,89,11,1,7,16,183.0,8,7,14
+Public,0810004P,Lycée Louis Rascol,81,Albi,formation sélective,BTS,Conception de produits industriels,BTS - Production,30,21,107,43,54,21,107,43,54,25,30.0,33,33,2
+Public,0810004P,Lycée Louis Rascol,81,Albi,formation sélective,BTS,Conception et Réalisation de Systèmes Automatiques,BTS - Production,24,11,57,55,45,11,55,49,20,17,17.0,24,21,2
+Public,0810004P,Lycée Louis Rascol,81,Albi,formation sélective,BTS,Conseil et commercialisation de solutions techniques,BTS - Services,30,18,102,90,38,18,86,71,18,27,20.0,61,50,6
+Public,0810012Y,Lycée Jean Jaures,81,Carmaux,formation sélective,BTS,Maintenance des matériels de construction et de manutention,BTS - Production,12,0,12,39,15,0,8,35,1,9,9.0,9,6,2
+Privé sous contrat d'association,0810079W,Lycée Jeanne D'Arc,81,Mazamet,formation sélective,BTS,Négociation et digitalisation de la Relation Client,BTS - Services,26,14,35,39,6,14,35,39,4,18,10.0,28,28,6
+Public,0810121S,L.E.G.T.A. Albi - Fonlabour,81,Albi,formation sélective,BTS,Gestion et maitrise de l'eau,BTS - Agricole,36,27,77,22,108,27,72,20,19,28,41.0,22,20,3
+Public,0810959C,Lycée La Borde Basse,81,Castres,formation sélective,CPGE,MPSI,Classe préparatoire scientifique,24,859,1,0,68,417,0,0,3,24,340.0,98,33,1
+Public,0811199N,I.U.T de Toulouse - Antenne de Castres,81,Castres,formation sélective,BUT,Techniques de commercialisation,BUT - Service,82,1055,688,27,294,985,612,0,242,90,462.0,359,307,16
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation non sélective,Licence,Géographie et aménagement,Licence - Sciences humaines et sociales,40,105,15,6,37,105,15,6,37,22,163.0,25,25,15
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation non sélective,Licence,Histoire,Licence - Sciences humaines et sociales,80,367,45,16,60,367,45,16,60,83,487.0,105,105,15
+Public,0811324Z,Lycée professionnel Marie Antoinette Riess,81,Mazamet,formation sélective,BTS,Métiers des Services à l'environnement,BTS - Services,15,11,55,11,81,11,55,11,81,8,21.0,23,23,6
+Public,0820559M,L.E.G.T.A. Montauban - Capou,82,Montauban,formation sélective,BTS,Technico-commercial (BTSA),BTS - Agricole,16,5,38,35,81,5,38,35,11,13,7.0,26,26,3
+Public,0311902Z,Lycée Stéphane Hessel,31,Toulouse,formation sélective,BTS,Service et prestation des secteurs sanitaire et social,BTS - Services,35,84,367,504,445,83,323,453,311,31,63.0,416,365,6
+Privé sous contrat d'association,0811175M,Lycée De La Salle Castres,81,Castres,formation sélective,BTS,"Fluide, énergie, domotique - option A génie climatique et fluidique",BTS - Production,18,3,27,40,25,3,20,27,3,5,6.0,18,13,2
+Public,0460007H,Lycée Clement Marot,46,Cahors,formation sélective,BTS,Economie sociale familiale,BTS - Services,18,44,110,190,96,44,110,190,96,17,15.0,99,99,6
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Sciences sociales,Licence - Sciences humaines et sociales,150,337,136,45,302,337,136,45,299,141,818.0,189,189,15
+Public,0650583F,I.U.T de Tarbes,65,Tarbes,formation sélective,BUT,Génie civil - Construction durable,BUT - Production,48,629,480,8,193,525,368,0,130,52,436.0,149,107,4
+Privé sous contrat d'association,0121423G,Lycée Charles Carnus,12,Rodez,formation sélective,BTS,Gestion de la PME,BTS - Services,12,21,70,37,54,20,65,32,17,7,29.0,33,30,6
+Privé sous contrat d'association,0311219G,Lycée professionnel Sainte-Marie Saint-Sernin,31,Toulouse,formation sélective,BTS,Commerce International,BTS - Services,35,273,243,144,213,273,224,144,179,33,57.0,187,177,6
+Public,0312686B,Lycée Saint-Exupéry,31,Blagnac,formation sélective,Autre formation,Aéronautique option avions à moteur à pistons,Mention complémentaire,6,0,0,62,8,0,0,51,7,6,23.0,13,11,9
+Public,0311382J,Université Toulouse 1 Capitole,31,Toulouse,formation sélective,Autre formation,Année préparatoire,Année préparatoire,60,191,65,11,195,65,6,0,12,26,83.0,56,8,10
+Public,0120938E,L.P.A. La Cazotte,12,Saint-Affrique,formation sélective,BTS,productions animales,BTS - Agricole,30,103,154,75,100,79,142,65,45,31,96.0,89,74,3
+Privé sous contrat d'association,0811105L,Lycée André Alquier à St Amans Soult,81,Saint-Amans-Soult,formation sélective,BTS,Gestion forestière,BTS - Agricole,23,55,77,49,47,42,36,37,14,21,46.0,38,20,3
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Information et communication,Licence - Sciences humaines et sociales,120,185,49,14,161,185,49,14,160,83,408.0,85,85,15
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation non sélective,Licence,Lettres,Licence - Arts-lettres-langues,50,125,6,10,33,125,6,10,33,28,174.0,43,43,17
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Arts,Licence - Arts-lettres-langues,120,1458,157,94,741,1458,157,94,712,120,688.0,438,438,17
+Public,0311382J,Université Toulouse 1 Capitole,31,Toulouse,formation non sélective,Licence,Droit,Licence - Droit-économie-gestion,1580,5961,753,141,1508,5961,753,141,1482,1547,6215.0,1524,1524,7
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,Licence,Physique,Licence - Sciences - technologies - santé,40,281,10,0,89,281,10,0,89,38,334.0,45,45,5
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation sélective,Licence,Mathématiques,Licence - Sciences - technologies - santé,45,844,6,1,223,518,0,0,106,23,624.0,125,57,5
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation sélective,Autre formation,Cycle Universitaire Préparatoire aux Grandes Ecoles,"CUPGE - Sciences, technologie, santé",126,1048,3,0,244,756,0,0,124,66,880.0,106,68,29
+Privé sous contrat d'association,0312408Z,Lycée Saliège,31,Balma,formation sélective,BTS,Professions immobilières,BTS - Services,18,320,416,218,340,196,213,155,139,18,39.0,259,143,6
+Public,0650014M,Lycée professionnel et technologique de L'Arrouza,65,Lourdes,formation sélective,Autre formation,Accueil réception,Mention complémentaire,14,0,2,24,31,0,2,24,31,11,51.0,10,10,9
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,"Langues, littératures & civilisations étrangères et régionales",Licence - Arts-lettres-langues,40,114,6,6,28,114,6,6,26,29,152.0,50,50,17
+Public,0810012Y,Lycée Jean Jaures,81,Carmaux,formation sélective,BTS,Economie sociale familiale,BTS - Services,30,40,100,155,123,32,71,130,53,26,126.0,93,69,6
+Public,0310098N,"Centre de Ressources, d'Expertise et de Performance Sportive de Toulouse (CREPS)",31,Toulouse,formation sélective,Autre formation,Activités aquatiques et de la natation,BPJEPS,3,16,15,5,16,4,1,0,5,1,5.0,3,0,18
+Public,0311092U,Lycée professionnel des Métiers Eugene MONTEL,31,Colomiers,formation sélective,Autre formation,Technicien(ne) en soudage,Mention complémentaire,12,2,1,63,12,0,0,52,4,11,32.0,16,12,9
+Privé sous contrat d'association,0311190A,Lycée professionnel De Coiffure Skhole D'Art,31,Toulouse,formation sélective,BTS,Management Commercial Opérationnel,BTS - Services,24,41,146,101,144,20,107,61,51,13,40.0,93,60,6
+Public,0650792H,IFSI CH de Bigorre,65,Tarbes,formation sélective,IFSI,D.E Infirmier,D.E secteur sanitaire,84,887,1029,775,3173,804,701,433,1728,84,2669.0,747,497,12
+Public,0811002Z,IFSI CHIC Castres Mazamet,81,Castres,formation sélective,IFSI,D.E Infirmier,D.E secteur sanitaire,55,914,1123,770,3397,830,768,434,1828,55,3083.0,789,518,12
+Privé sous contrat d'association,0312283N,ERASME,31,Toulouse,formation sélective,EFTS,D.E Educateur Spécialisé,D.E secteur social,48,67,41,29,346,7,5,3,143,47,91.0,33,3,13
+Public,0810004P,Lycée Louis Rascol,81,Albi,formation sélective,BTS,Systèmes numériques - Option informatique et réseaux,BTS - Production,30,46,126,63,237,46,116,57,48,31,13.0,54,49,2
+Public,0810004P,Lycée Louis Rascol,81,Albi,formation sélective,BTS,Comptabilité et gestion,BTS - Services,35,29,98,77,93,29,97,77,55,35,45.0,88,87,6
+Public,0810006S,Lycée Laperouse,81,Albi,formation sélective,CPGE,PCSI,Classe préparatoire scientifique,48,572,0,0,399,531,0,0,66,45,594.0,64,56,1
+Public,0810018E,Lycée professionnel Anne Veaute,81,Castres,formation sélective,BTS,Opticien-Lunetier,BTS - Services,22,144,134,71,152,137,120,69,129,22,116.0,94,87,6
+Public,0810023K,Lycée Victor Hugo,81,Gaillac,formation sélective,BTS,Management Commercial Opérationnel,BTS - Services,35,50,176,229,114,35,135,175,37,34,48.0,176,125,6
+Public,0810959C,Lycée La Borde Basse,81,Castres,formation sélective,BTS,Maintenance des systèmes - option A Systèmes de production,BTS - Production,24,5,38,94,68,5,38,94,13,8,9.0,35,35,2
+Privé sous contrat d'association,0811106M,INEOPOLE FORMATION,81,Brens,formation sélective,BTS,Technico-commercial (BTSA),BTS - Agricole,25,3,10,38,18,3,10,38,18,11,4.0,17,17,3
+Privé sous contrat d'association,0811106M,INEOPOLE FORMATION,81,Brens,formation sélective,BTS,"Analyse, conduite et stratégie de l'entreprise agricole",BTS - Agricole,20,4,6,30,27,4,6,30,3,10,6.0,11,11,3
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation non sélective,Licence,"Langues, littératures & civilisations étrangères et régionales",Licence - Arts-lettres-langues,100,444,34,15,90,444,34,15,90,66,580.0,152,152,17
+Public,0820004J,Lycée Jean De Prades,82,Castelsarrasin,formation sélective,BTS,Gestion de la PME,BTS - Services,23,6,65,101,50,6,58,86,18,15,12.0,87,69,6
+Public,0820021C,Lycée Antoine Bourdelle,82,Montauban,formation sélective,BTS,Conception et Réalisation de Systèmes Automatiques,BTS - Production,24,7,53,64,41,7,46,62,15,17,8.0,34,31,2
+Public,0820021C,Lycée Antoine Bourdelle,82,Montauban,formation sélective,BTS,Systèmes numériques - Option électronique et communication,BTS - Production,12,9,30,39,35,9,27,39,11,13,9.0,28,27,2
+Public,0820021C,Lycée Antoine Bourdelle,82,Montauban,formation sélective,BTS,Comptabilité et gestion,BTS - Services,34,40,111,63,127,38,108,27,32,28,55.0,93,72,6
+Privé enseignement supérieur,0650948C,EGC Tarbes-Pyrénées,65,Tarbes,formation sélective,Ecole de Commerce,Formation des écoles de commerce et de management Bac + 3,Formation des écoles de commerce et de management,40,76,6,1,9,66,6,1,4,7,184.0,6,5,14
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation sélective,Licence,Histoire,Licence - Sciences humaines et sociales,28,372,10,4,87,257,0,1,44,28,171.0,78,46,15
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation sélective,Licence,Histoire,Licence - Sciences humaines et sociales,28,133,4,1,31,124,0,0,14,24,129.0,35,30,15
+Public,0310052N,Roland Garros Lycée des métiers de la maintenance mécanique et de la productique,31,Toulouse,formation sélective,BTS,Maintenance des véhicules option motocycles,BTS - Production,20,49,86,157,71,11,79,96,17,17,1.0,65,40,2
+Public,0120937D,L.E.G.T.A. Rodez-La Roque,12,Rodez,formation sélective,BTS,Sciences et technologies des aliments spécialité Aliments et processus technologiques,BTS - Agricole,16,7,29,9,44,6,29,8,16,10,50.0,13,12,3
+Privé sous contrat d'association,0810095N,Lycée Sainte-Cecile,81,Albi,formation sélective,BTS,Communication,BTS - Services,35,75,86,55,113,65,79,47,47,25,77.0,53,49,6
+Public,0311382J,Université Toulouse 1 Capitole,31,Toulouse,formation sélective,Licence,Droit,Licence - Droit-économie-gestion,8,66,0,0,9,32,0,0,4,8,29.0,12,4,7
+Privé enseignement supérieur,0310155A,Institut Catholique de Toulouse,31,Toulouse,formation sélective,Licence,Droit,Licence - Droit-économie-gestion,45,697,18,5,139,677,1,2,109,44,268.0,85,76,7
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation non sélective,Licence,"Electronique, énergie électrique, automatique",Licence - Sciences - technologies - santé,20,39,16,0,35,39,16,0,32,7,91.0,6,6,5
+Public,0460529A,Lycée professionnel hôtelier Quercy Périgord,46,Souillac,formation sélective,BTS,Management en hôtellerie restauration,BTS - Services,18,0,53,89,22,0,53,89,22,13,72.0,34,34,6
+Public,0820021C,Lycée Antoine Bourdelle,82,Montauban,formation sélective,CPGE,PTSI,Classe préparatoire scientifique,35,332,8,0,111,327,7,0,79,33,246.0,40,39,1
+Public,0090018W,Lycée du Couserans,09,Saint-Girons,formation sélective,BTS,Service et prestation des secteurs sanitaire et social,BTS - Services,18,17,57,94,86,16,44,88,46,9,21.0,54,44,6
+Public,0820021C,Lycée Antoine Bourdelle,82,Montauban,formation sélective,BTS,Conception des processus de réalisation de produits (1ère année commune),BTS - Production,15,4,38,42,26,2,29,23,10,14,38.0,20,11,2
+Privé sous contrat d'association,0311201M,Lycée Myriam,31,Toulouse,formation sélective,BTS,Métiers de la mode-vêtements,BTS - Production,15,71,46,97,96,71,46,91,96,23,10.0,53,51,2
+Public,0460493L,Lycée Gaston Monnerville,46,Cahors,formation sélective,BTS,Maintenance des véhicules option voitures particulières,BTS - Production,10,7,35,72,22,7,35,72,22,10,7.0,34,34,2
+Privé sous contrat d'association,0650058K,Lycée Peyramale Saint-Joseph,65,Lourdes,formation sélective,BTS,Tourisme,BTS - Services,18,20,9,23,24,20,9,22,18,13,28.0,15,15,6
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation sélective,Licence,Information et communication,Licence - Arts-lettres-langues,25,155,10,2,90,155,10,2,90,25,67.0,36,36,17
+Public,0312822Z,Lycée polyvalent Charles de Gaulle,31,Muret,formation sélective,BTS,"Fluide, énergie, domotique - option B froid et conditionnement d'air",BTS - Production,14,5,36,123,44,2,29,100,16,13,1.0,59,43,2
+Public,0311902Z,Lycée Stéphane Hessel,31,Toulouse,formation sélective,BTS,Etudes de réalisation d'un projet de communication - 1ère année commune,BTS - Services,12,56,68,152,189,51,61,134,100,12,14.0,94,82,6
+Privé sous contrat d'association,0311145B,Lycée Saint-Joseph,31,Toulouse,formation sélective,BTS,Maintenance des systèmes - option B Systèmes énergétiques et fluidiques,BTS - Production,16,12,18,81,45,1,16,81,15,7,2.0,37,34,2
+Public,0313001U,IFMEM,31,Toulouse,formation sélective,Autre formation,D.E manipulateur/trice en électroradiologie médicale,D.E secteur sanitaire,34,165,157,5,438,99,6,0,200,31,200.0,91,24,12
+Public,0320039U,L.E.G.T.A. Beaulieu-Lavacant,32,Auch,formation sélective,BTS,"Développement, animation des territoires ruraux",BTS - Agricole,19,18,28,66,211,18,28,66,21,20,32.0,38,38,3
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,"Langues, littératures & civilisations étrangères et régionales",Licence - Arts-lettres-langues,60,17,4,3,15,17,4,3,15,2,39.0,11,11,17
+Privé sous contrat d'association,0460038S,Lycée Saint Etienne,46,Cahors,formation sélective,Autre formation,Animation,DN MADE,16,283,159,47,168,51,39,0,10,9,99.0,101,10,11
+Public,0811341T,SECTION ENSEIGNEMENT GENERAL ET TECHNOLOGIQUE CLEMENT DE PEMILLE,81,Graulhet,formation sélective,Autre formation,Objet,DN MADE,15,61,60,5,50,53,58,5,42,16,121.0,24,22,11
+Public,0650027B,Lycée Jean Dupuy,65,Tarbes,formation sélective,Autre formation,Technicien en chaudronnerie aéronautique et spatiale,Mention complémentaire,12,0,0,35,3,0,0,32,3,5,35.0,4,4,9
+Public,0311086M,I.U.T de Toulouse,31,Toulouse,formation sélective,BUT,Gestion des entreprises et des administrations,BUT - Service,26,113,78,5,47,38,17,0,12,20,41.0,50,9,16
+Public,0311902Z,Lycée Stéphane Hessel,31,Toulouse,formation sélective,Autre formation,FCIL classe passerelle BTS option production,Mention complémentaire,15,0,0,0,0,0,0,0,0,0,,0,0,9
+Public,0090015T,Lycée polyvalent Pyrène,09,Pamiers,formation sélective,Autre formation,FCIL classe passerelle BTS,Mention complémentaire,30,0,0,0,0,0,0,0,0,0,,0,0,9
+Public,0460007H,Lycée Clement Marot,46,Cahors,formation sélective,Autre formation,FCIL classe passerelle BTS,Mention complémentaire,30,0,0,0,0,0,0,0,0,0,,0,0,9
+Public,0650026A,Lycée Marie Curie,65,Tarbes,formation sélective,Autre formation,FCIL classe passerelle BTS,Mention complémentaire,30,0,0,0,0,0,0,0,0,0,,0,0,9
+Public,0311870P,IFSI CHU de Toulouse,31,Toulouse,formation sélective,IFSI,D.E Infirmier,D.E secteur sanitaire,220,1765,1713,1225,5404,1560,1077,644,3043,218,1105.0,1412,886,12
+Public,0811293R,Institut national universitaire Champollion,81,Albi,formation non sélective,Licence,Sociologie,Licence - Sciences humaines et sociales,5,259,3,2,17,259,3,2,17,7,112.0,41,41,15
+Privé enseignement supérieur,0312421N,ICAM Toulouse,31,Toulouse,formation sélective,Ecole d'Ingénieur,Formation d'ingénieur Bac + 5,Formations  des écoles d'ingénieurs,40,488,38,0,89,338,20,0,39,30,,25,11,21
+Public,0310044E,Lycée Déodat de Séverac,31,Toulouse,formation sélective,BTS,Conseil et commercialisation de solutions techniques,BTS - Services,24,53,271,151,158,40,140,81,52,26,45.0,192,88,6
+Privé sous contrat d'association,0311877X,Ecole assistants de service social,31,Toulouse,formation sélective,EFTS,D.E Assistant de Service Social,D.E secteur social,42,37,24,17,188,24,11,4,129,43,94.0,19,10,13
+Public,0460529A,Lycée professionnel hôtelier Quercy Périgord,46,Souillac,formation sélective,Autre formation,FCIL Chef de rang à la française - Relais & Chateaux,Mention complémentaire,15,5,8,23,19,5,8,23,6,8,42.0,11,11,9
+Public,0310133B,Sciences Po Toulouse - Institut d'études politiques,31,Toulouse,formation sélective,Autre formation,Sciences Po / Instituts d'études politiques - Sciences Humaines et Sociales - Grade Master,Sciences politiques,20,274,0,0,61,72,0,0,7,20,50.0,40,13,22
+Public,0311874U,INSTITUT DE FORMATION EN PEDICURIE-PODOLOGIE CHU PURPAN,31,Toulouse,formation sélective,Autre formation,D.E Pédicure-Podologue,D.E secteur sanitaire,20,106,41,5,305,82,15,3,227,19,84.0,19,9,12
+Public,0310098N,"Centre de Ressources, d'Expertise et de Performance Sportive de Toulouse (CREPS)",31,Toulouse,formation sélective,Autre formation,Activités aquatiques et de la natation,BPJEPS,1,16,9,4,14,4,1,0,4,1,9.0,2,0,18
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,PASS,Parcours d'Accès Spécifique Santé (PASS),Licence - Sciences - technologies - santé,150,2378,91,15,604,2378,91,15,604,147,2907.0,466,466,5
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,PASS,Parcours d'Accès Spécifique Santé (PASS),Licence - Sciences - technologies - santé,36,2942,96,14,660,2942,96,14,660,36,971.0,415,415,5
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Sociologie,Licence - Sciences humaines et sociales,40,452,94,30,284,452,94,30,284,31,1208.0,142,142,15
+Public,0311382J,Université Toulouse 1 Capitole,31,Toulouse,formation non sélective,Licence,Economie,Licence - Droit-économie-gestion,180,1169,131,19,496,1169,131,19,480,154,1806.0,247,247,7
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,"Langues, littératures & civilisations étrangères et régionales",Licence - Arts-lettres-langues,30,35,1,1,25,35,1,1,23,12,60.0,6,6,17
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Lettres,Licence - Arts-lettres-langues,5,12,0,0,9,12,0,0,9,3,18.0,4,4,17
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,PASS,Parcours d'Accès Spécifique Santé (PASS),Licence - Sciences - technologies - santé,25,988,35,9,483,988,35,9,483,25,3249.0,174,174,5
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,PASS,Parcours d'Accès Spécifique Santé (PASS),Licence - Sciences - technologies - santé,25,2910,83,14,628,2910,83,14,628,24,1817.0,467,467,5
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,PASS,Parcours d'Accès Spécifique Santé (PASS),Licence - Sciences - technologies - santé,75,915,23,1,363,915,23,1,363,69,6353.0,135,135,5
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Tourisme,Licence - Sciences humaines et sociales,60,278,77,37,191,278,77,37,185,48,407.0,102,102,15
+Privé sous contrat d'association,0312408Z,Lycée Saliège,31,Balma,formation sélective,CPGE,ECG - Mathématiques appliquées + ESH,Classe préparatoire économique et commerciale,24,550,0,0,58,545,0,0,56,23,438.0,41,41,23
+Public,0121471J,Institut national universitaire Champollion - Campus de Rodez,12,Rodez,formation non sélective,Licence_Las,Droit,Licence - Droit-économie-gestion,10,22,4,3,16,22,4,3,14,5,171.0,8,8,7
+Public,0311324W,Lycée professionnel Du Mirail,31,Toulouse,formation sélective,Autre formation,FCIL - Marchandiseur Visuel Cross Canal,Mention complémentaire,12,0,0,0,0,0,0,0,0,0,,0,0,9
+Public,0650025Z,Lycée Théophile Gautier,65,Tarbes,formation sélective,CPGE,PCSI,Classe préparatoire scientifique,36,422,0,0,164,417,0,0,59,26,476.0,51,50,1
+Public,0650026A,Lycée Marie Curie,65,Tarbes,formation sélective,BTS,Support à l'action managériale,BTS - Services,24,18,88,58,108,18,88,58,72,19,18.0,52,52,6
+Public,0650026A,Lycée Marie Curie,65,Tarbes,formation sélective,BTS,Banque conseiller de clientèle,BTS - Services,18,60,107,88,162,40,64,27,30,10,46.0,102,44,6
+Public,0650026A,Lycée Marie Curie,65,Tarbes,formation sélective,BTS,Services informatiques aux organisations,BTS - Services,23,42,115,99,141,41,115,99,62,19,29.0,79,79,6
+Public,0650583F,I.U.T de Tarbes,65,Tarbes,formation sélective,BUT,Gestion des entreprises et des administrations,BUT - Service,135,792,471,16,253,722,406,3,192,120,616.0,270,222,16
+Public,0650583F,I.U.T de Tarbes,65,Tarbes,formation sélective,BUT,Métiers du multimédia et de l'internet,BUT - Production,56,353,213,17,215,307,180,0,141,54,160.0,119,89,4
+Public,0310152X,INSA Toulouse,31,Toulouse,formation sélective,Ecole d'Ingénieur,Formation d'ingénieur Bac + 5,Formations  des écoles d'ingénieurs,40,0,563,0,50,0,105,0,7,40,96.0,168,20,21
+Public,0090013R,Lycée de Mirepoix,09,Mirepoix,formation sélective,BTS,Conception et industrialisation en microtechniques,BTS - Production,12,10,27,34,114,10,27,34,18,11,16.0,16,16,2
+Public,0090015T,Lycée polyvalent Pyrène,09,Pamiers,formation sélective,BTS,Management Commercial Opérationnel,BTS - Services,34,51,167,135,271,50,77,70,38,25,17.0,120,64,6
+Public,0090022A,L.E.G.T.A. de Pamiers,09,Pamiers,formation sélective,BTS,productions animales,BTS - Agricole,25,85,142,48,101,83,121,44,41,31,186.0,70,61,3
+Public,0120006S,Lycée La Découverte,12,Decazeville,formation sélective,BTS,Conception des processus de réalisation de produits (1ère année commune),BTS - Production,12,2,17,18,143,2,17,18,4,7,22.0,8,8,2
+Public,0120024L,Lycée Alexis Monteil,12,Rodez,formation sélective,BTS,Conception de produits industriels,BTS - Production,24,9,73,32,18,9,73,32,18,19,18.0,25,25,2
+Public,0120024L,Lycée Alexis Monteil,12,Rodez,formation sélective,BTS,Négociation et digitalisation de la Relation Client,BTS - Services,24,28,197,189,116,26,183,183,46,19,22.0,151,139,6
+Public,0120621K,L.E.G.T.A. Villefranche de Rouergue,12,Villefranche-de-Rouergue,formation sélective,BTS,Bioqualité,BTS - Production,24,12,79,10,127,12,79,10,44,17,36.0,20,20,2
+Public,0120870F,I.U.T de Rodez,12,Rodez,formation sélective,BUT,Information communication Parcours communication des organisations,BUT - Service,28,626,215,2,218,383,146,0,83,31,77.0,158,88,16
+Public,0120937D,L.E.G.T.A. Rodez-La Roque,12,Rodez,formation sélective,BTS,Analyses agricoles biologiques et biotechnologiques,BTS - Agricole,32,117,97,32,181,105,80,23,40,29,120.0,38,32,3
+Privé sous contrat d'association,0121423G,Lycée Charles Carnus,12,Rodez,formation sélective,BTS,Systèmes numériques - Option électronique et communication,BTS - Production,15,6,14,18,15,6,12,11,2,4,20.0,11,8,2
+Privé sous contrat d'association,0121423G,Lycée Charles Carnus,12,Rodez,formation sélective,Autre formation,DTS Imagerie médicale et radiologie thérapeutique,D.E secteur sanitaire,14,40,126,3,110,39,63,0,50,18,72.0,38,23,12
+Public,0310040A,Lycée Raymond Naves,31,Toulouse,formation sélective,BTS,Banque conseiller de clientèle,BTS - Services,24,172,423,322,466,134,269,174,185,24,60.0,447,267,6
+Public,0310040A,Lycée Raymond Naves,31,Toulouse,formation sélective,BTS,Comptabilité et gestion,BTS - Services,35,136,266,197,355,113,186,99,138,33,123.0,287,162,6
+Public,0310044E,Lycée Déodat de Séverac,31,Toulouse,formation sélective,BTS,Contrôle industriel et régulation automatique,BTS - Production,24,22,87,63,99,18,66,42,28,11,26.0,58,43,2
+Public,0310046G,Lycée Hotellerie Et Tourisme d'Occitanie,31,Toulouse,formation sélective,Autre formation,Hôtellerie restauration,Mise à niveau,24,164,78,26,175,77,56,0,35,23,96.0,66,25,30
+Public,0310047H,Lycée Ozenne,31,Toulouse,formation sélective,CPGE,ENS Cachan D2,Classe préparatoire économique et commerciale,40,557,1,0,82,555,0,0,45,39,347.0,38,38,23
+Public,0310047H,Lycée Ozenne,31,Toulouse,formation sélective,BTS,Commerce International,BTS - Services,70,614,761,363,665,614,761,363,665,72,105.0,630,630,6
+Public,0310047H,Lycée Ozenne,31,Toulouse,formation sélective,BTS,Assurance,BTS - Services,35,116,398,262,435,116,398,262,418,33,25.0,375,375,6
+Public,0310047H,Lycée Ozenne,31,Toulouse,formation sélective,BTS,Comptabilité et gestion,BTS - Services,70,200,313,234,451,197,299,187,266,66,108.0,336,292,6
+Public,0310150V,Ecole Nationale Supérieure d'Architecture de Toulouse,31,Toulouse,formation sélective,Autre formation,Architecture,Formations Bac + 5,100,1695,307,93,726,514,50,34,61,100,364.0,452,76,31
+Privé enseignement supérieur,0310155A,Institut Catholique de Toulouse,31,Toulouse,formation non sélective,Licence,Langues étrangères appliquées,Licence - Arts-lettres-langues,120,260,30,4,78,260,30,4,71,41,365.0,66,66,17
+Public,0311086M,I.U.T de Toulouse,31,Toulouse,formation sélective,BUT,Génie civil - Construction durable,BUT - Production,176,1753,1095,25,640,1315,798,1,400,182,952.0,510,315,4
+Public,0311086M,I.U.T de Toulouse,31,Toulouse,formation sélective,BUT,Génie mécanique et productique,BUT - Production,255,1647,727,31,572,1581,640,0,472,254,1042.0,370,325,4
+Public,0311086M,I.U.T de Toulouse,31,Toulouse,formation sélective,BUT,Mesures physiques,BUT - Production,116,1257,154,1,388,1192,136,0,362,113,1142.0,193,173,4
+Privé sous contrat d'association,0311177L,Institut Limayrac,31,Toulouse,formation sélective,BTS,Gestion de la PME,BTS - Services,24,24,114,66,88,23,78,51,47,15,42.0,56,33,6
+Privé sous contrat d'association,0311177L,Institut Limayrac,31,Toulouse,formation sélective,BTS,Services informatiques aux organisations,BTS - Services,24,61,106,79,110,42,79,56,54,25,55.0,76,51,6
+Public,0311382J,Université Toulouse 1 Capitole,31,Toulouse,formation sélective,Licence,Economie,Licence - Droit-économie-gestion,90,896,20,6,209,501,0,0,129,88,418.0,140,51,7
+Public,0311382J,Université Toulouse 1 Capitole,31,Toulouse,formation sélective,Licence,Economie,Licence - Droit-économie-gestion,90,707,8,0,223,555,0,0,120,85,606.0,67,37,7
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,"Langues, littératures & civilisations étrangères et régionales",Licence - Arts-lettres-langues,30,15,12,12,21,15,12,12,21,4,60.0,18,18,17
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,Lettres,Licence - Arts-lettres-langues,500,508,24,20,273,508,24,20,272,100,824.0,166,166,17
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation sélective,Licence,Musicologie,Licence - Arts-lettres-langues,40,51,6,0,24,35,6,0,16,37,57.0,18,13,17
+Public,0311383K,Université Toulouse 2 Jean Jaurès,31,Toulouse,formation non sélective,Licence,"Langues, littératures & civilisations étrangères et régionales",Licence - Arts-lettres-langues,80,35,5,6,35,35,5,6,34,14,80.0,17,17,17
+Public,0311384L,Université Toulouse 3 Paul Sabatier,31,Toulouse,formation non sélective,Licence,Informatique,Licence - Sciences - technologies - santé,276,1338,186,27,707,1338,186,27,707,272,1372.0,354,354,5
+Public,0311586F,Lycée Toulouse-Lautrec,31,Toulouse,formation sélective,BTS,Notariat,BTS - Services,18,195,275,134,307,152,102,77,86,17,45.0,246,108,6
+Public,0311713U,I.U.T de Blagnac,31,Blagnac,formation sélective,BUT,Réseaux et télécommunications,BUT - Production,78,712,413,14,257,673,273,0,139,76,329.0,245,172,4
+Public,0311902Z,Lycée Stéphane Hessel,31,Toulouse,formation sélective,BTS,Conseil et commercialisation de solutions techniques,BTS - Services,30,46,260,153,117,45,214,124,93,30,33.0,173,131,6
+Public,0311902Z,Lycée Stéphane Hessel,31,Toulouse,formation sélective,BTS,Analyses de biologie médicale,BTS - Services,30,357,628,71,661,161,413,44,212,32,87.0,315,182,6
+Public,0312093G,Lycée International Victor Hugo,31,Colomiers,formation sélective,BTS,Conception et Réalisation de Systèmes Automatiques,BTS - Production,28,18,106,129,80,18,106,124,55,21,24.0,84,82,2
+Public,0312093G,Lycée International Victor Hugo,31,Colomiers,formation sélective,BTS,Systèmes numériques - Option informatique et réseaux,BTS - Production,28,98,256,173,258,95,243,165,97,30,25.0,168,159,2
+Public,0312267W,Lycée Des Arènes,31,Toulouse,formation sélective,BTS,Métiers de l'audio-visuel opt : gestion de la production,BTS - Services,12,302,91,90,267,301,52,56,210,13,33.0,136,110,6
+Public,0312290W,Lycée Henri Matisse,31,Cugnaux,formation sélective,BTS,Professions immobilières,BTS - Services,23,400,621,409,450,195,240,308,181,19,43.0,479,236,6
+Privé sous contrat d'association,0312408Z,Lycée Saliège,31,Balma,formation sélective,CPGE,PCSI,Classe préparatoire scientifique,96,753,1,0,101,729,1,0,91,94,573.0,66,59,1
+Privé sous contrat d'association,0312408Z,Lycée Saliège,31,Balma,formation sélective,BTS,Bioanalyses et contrôles,BTS - Production,30,180,194,22,185,147,156,5,86,28,116.0,97,70,2
+Public,0320030J,Lycée professionnel Clement Ader,32,Samatan,formation sélective,Autre formation,Technicien en réseau électrique,Mention complémentaire,15,0,0,39,6,0,0,39,6,8,45.0,13,13,9
+Public,0320067Z,Lycée des Métiers - Le Garros,32,Auch,formation sélective,BTS,Systèmes constructifs bois et habitat,BTS - Production,24,34,68,65,62,26,43,49,27,13,27.0,30,22,2
+Public,0320691C,I.U.T de Toulouse - Antenne d'Auch,32,Auch,formation sélective,BUT,Génie biologique parcours sciences de l'aliment et biotechnologie,BUT - Production,26,449,178,4,186,446,118,0,153,29,323.0,97,73,4
+Public,0460028F,Lycée Louis Vicat,46,Souillac,formation sélective,BTS,Bâtiment,BTS - Production,24,15,81,54,219,14,81,54,67,22,12.0,32,31,2
+Public,0460493L,Lycée Gaston Monnerville,46,Cahors,formation sélective,BTS,Maintenance des systèmes - option A Systèmes de production,BTS - Production,15,3,13,62,18,3,13,62,6,11,1.0,15,15,2
+Public,0460697H,I.U.T de Figeac,46,Figeac,formation sélective,BUT,Génie mécanique et productique,BUT - Production,45,255,169,1,78,240,139,1,60,30,291.0,55,49,4
+Public,0460697H,I.U.T de Figeac,46,Figeac,formation sélective,BUT,Techniques de commercialisation,BUT - Service,80,733,405,12,230,655,286,4,172,72,441.0,217,153,16

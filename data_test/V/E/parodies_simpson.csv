@@ -1,0 +1,985 @@
+id_episode,titre_episode,saison_no,episode_no,annee_prod,spoofed_id,spoofed_title,spoofed_budget,spoofed_real
+4518553,The Simpsons Movie,NULL,NULL,2007,1810736,Mystery Science Theater 3000,NULL,"Hodgson, Joel"
+4518553,The Simpsons Movie,NULL,NULL,2007,2330938,The Beast That Shouted Love at the Heart of the World,NULL,"Anno, Hideaki & Masayuki & Tsurumaki, Kazuya"
+4518553,The Simpsons Movie,NULL,NULL,2007,3347472,Alive,32000000,"Marshall, Frank"
+4518553,The Simpsons Movie,NULL,NULL,2007,3362185,An Inconvenient Truth,1500000,"Guggenheim, Davis"
+4518553,The Simpsons Movie,NULL,NULL,2007,3375683,Apocalypto,40000000,"Gibson, Mel"
+4518553,The Simpsons Movie,NULL,NULL,2007,3406115,Bambi,NULL,"Algar, James & Armstrong, Samuel & Hand, David & Heid, Graham & Roberts, Bill & Satterfield, Paul & Wright, Norman"
+4518553,The Simpsons Movie,NULL,NULL,2007,3464908,Brother Bear,128000000,"Blaise, Aaron & Walker, Robert"
+4518553,The Simpsons Movie,NULL,NULL,2007,3509828,Cinderella,2900000,"Geronimi, Clyde & Jackson, Wilfred & Luske, Hamilton"
+4518553,The Simpsons Movie,NULL,NULL,2007,3745761,Grand Theft Auto III,NULL,"Khonsari, Navid"
+4518553,The Simpsons Movie,NULL,NULL,2007,3763013,Happy Feet,100000000,"Coleman, Warren & Miller, George & Morris, Judy"
+4518553,The Simpsons Movie,NULL,NULL,2007,4353314,Star Wars,11000000,"Lucas, George"
+4518553,The Simpsons Movie,NULL,NULL,2007,4478643,The Lord of the Rings: The Return of the King,94000000,"Jackson, Peter"
+4518553,The Simpsons Movie,NULL,NULL,2007,4531777,The Truman Show,60000000,"Weir, Peter"
+4518553,The Simpsons Movie,NULL,NULL,2007,4558888,Titanic,200000000,"Cameron, James"
+4518553,The Simpsons Movie,NULL,NULL,2007,4656493,Who Killed Who?,NULL,"Avery, Tex"
+2842090,500 Keys,22,21,2011,3784199,Hindenburg Disaster Newsreel Footage,NULL,NULL
+2842090,500 Keys,22,21,2011,4525851,The Sweet Hereafter,NULL,"Egoyan, Atom"
+2842090,500 Keys,22,21,2011,4541391,The Wolf Man,180000,"Waggner, George"
+2842094,A Midsummer's Nice Dreams,22,16,2011,3741044,Gone with the Wind,3977000,"Cukor, George & Fleming, Victor & Wood, Sam"
+2842094,A Midsummer's Nice Dreams,22,16,2011,4211270,Pulp Fiction,8000000,"Tarantino, Quentin"
+2842094,A Midsummer's Nice Dreams,22,16,2011,4454047,The Godfather,6000000,"Coppola, Francis Ford"
+2842111,Angry Dad: The Movie,22,14,2011,3307954,A Grand Day Out,NULL,"Park, Nick"
+2842111,Angry Dad: The Movie,22,14,2011,3764475,Hardcore,NULL,"Schrader, Paul"
+2842111,Angry Dad: The Movie,22,14,2011,3893858,Kill Bill: Vol. 2,30000000,"Tarantino, Quentin"
+2842111,Angry Dad: The Movie,22,14,2011,3908691,Kung Fu Panda,130000000,"Osborne, Mark & Stevenson, John"
+2842111,Angry Dad: The Movie,22,14,2011,3965248,Les triplettes de Belleville,9500000,"Chomet, Sylvain"
+2842111,Angry Dad: The Movie,22,14,2011,4058728,"Monsters, Inc.",115000000,"Docter, Pete & Silverman, David & Unkrich, Lee"
+2842111,Angry Dad: The Movie,22,14,2011,4173615,Persepolis,7300000,"Paronnaud, Vincent & Satrapi, Marjane"
+2842111,Angry Dad: The Movie,22,14,2011,4319770,Sinna mann,NULL,"Killi, Anita"
+2842111,Angry Dad: The Movie,22,14,2011,4432496,The Curse of the Were-Rabbit,30000000,"Box, Steve & Park, Nick"
+2842111,Angry Dad: The Movie,22,14,2011,4464749,The Incredibles,92000000,"Bird, Brad"
+2842111,Angry Dad: The Movie,22,14,2011,4476500,The Lion King,45000000,"Allers, Roger & Minkoff, Rob"
+2842111,Angry Dad: The Movie,22,14,2011,4570648,Toy Story,30000000,"Lasseter, John"
+2842111,Angry Dad: The Movie,22,14,2011,4636317,WALL·E,180000000,"Stanton, Andrew"
+2842222,Flaming Moe,22,11,2011,3727266,Gertie the Dinosaur,NULL,"McCay, Winsor"
+2842222,Flaming Moe,22,11,2011,4474225,The League of Extraordinary Gentlemen,78000000,"Norrington, Stephen"
+2842271,Homer Scissorhands,22,20,2011,3630901,Edward Scissorhands,20000000,"Burton, Tim"
+2842274,Homer the Father,22,12,2011,103000,ALF,NULL,NULL
+2842274,Homer the Father,22,12,2011,1095316,Growing Pains,NULL,NULL
+2842274,Homer the Father,22,12,2011,1157054,Here's Lucy,NULL,NULL
+2842274,Homer the Father,22,12,2011,1248548,I Love Lucy,NULL,NULL
+2842274,Homer the Father,22,12,2011,1876048,Night Court,NULL,NULL
+2842274,Homer the Father,22,12,2011,2584159,The A-Team,NULL,NULL
+2842274,Homer the Father,22,12,2011,2593986,The Andy Griffith Show,NULL,NULL
+2842274,Homer the Father,22,12,2011,2645883,The Cosby Show,NULL,NULL
+2842274,Homer the Father,22,12,2011,2691127,The Fresh Prince of Bel-Air,NULL,NULL
+2842274,Homer the Father,22,12,2011,2895645,The Wonder Years,NULL,NULL
+2842274,Homer the Father,22,12,2011,3346764,Alien,11000000,"Scott, Ridley"
+2842377,Love Is a Many Strangled Thing,22,17,2011,4198887,Precious,10000000,"Daniels, Lee"
+2842529,The Blue and the Gray,22,13,2011,3284761,127 Hours,18000000,"Boyle, Danny"
+2842569,The Great Simpsina,22,18,2011,576448,Criss Angel Mindfreak,NULL,NULL
+2842594,The Ned-Liest Catch,22,22,2011,4527397,The Ten Commandments,13282712,"DeMille, Cecil B."
+2842606,The Real Housewives of Fat Tony,22,19,2011,339766,Bonanza,NULL,NULL
+2842606,The Real Housewives of Fat Tony,22,19,2011,1337901,Jersey Shore,NULL,NULL
+2842606,The Real Housewives of Fat Tony,22,19,2011,3739193,Gojira,175000,"Honda, Ishirô"
+2842606,The Real Housewives of Fat Tony,22,19,2011,3801814,How to Lose a Guy in 10 Days,50000000,"Petrie, Donald"
+2842606,The Real Housewives of Fat Tony,22,19,2011,3848867,It Came from Outer Space,800000,"Arnold, Jack"
+2842609,The Scorpion's Tale,22,15,2011,2630671,The Bugs Bunny/Looney Tunes Comedy Hour,NULL,"Freleng, Friz & Jones, Chuck & Larriva, Rudy & McKimson, Robert"
+2842609,The Scorpion's Tale,22,15,2011,3375613,Apocalypse Now,31500000,"Coppola, Francis Ford"
+2842203,Donnie Fatso,22,9,2010,3186155,Wiseguy,NULL,NULL
+2842203,Donnie Fatso,22,9,2010,3610254,Donnie Brasco,35000000,"Newell, Mike"
+2842203,Donnie Fatso,22,9,2010,3621706,Duck Soup,NULL,"McCarey, Leo"
+2842203,Donnie Fatso,22,9,2010,3742742,Goodfellas,25000000,"Scorsese, Martin"
+2842203,Donnie Fatso,22,9,2010,4541283,The Wizard of Oz,2800000,"Cukor, George & Fleming, Victor & LeRoy, Mervyn & Taurog, Norman & Vidor, King"
+2842212,Elementary School Musical,22,1,2010,3442041,Blazing Saddles,2600000,"Brooks, Mel"
+2842301,How Munched Is That Birdie in the Window?,22,7,2010,3896294,King Kong,670000,"Cooper, Merian C. & Schoedsack, Ernest B."
+2842301,How Munched Is That Birdie in the Window?,22,7,2010,4187711,Pluto's Judgement Day,NULL,"Hand, David"
+2842301,How Munched Is That Birdie in the Window?,22,7,2010,4421022,The Broadway Melody,379000,"Beaumont, Harry"
+2842349,"Lisa Simpson, This Isn't Your Life",22,5,2010,3794876,Hoop Dreams,700000,"James, Steve"
+2842372,Loan-a Lisa,22,2,2010,623882,Dateline NBC,NULL,"Pepper, Guy"
+2842372,Loan-a Lisa,22,2,2010,4608945,Up,175000000,"Docter, Pete & Peterson, Bob"
+2842415,MoneyBart,22,3,2010,4484419,The Mark of Zorro,NULL,"Niblo, Fred"
+2842415,MoneyBart,22,3,2010,4484420,The Mark of Zorro,1000000,"Mamoulian, Rouben"
+2842557,The Fight Before Christmas,22,8,2010,1675261,Martha Stewart Living,NULL,"Altman, Brook & Fritz, Ernie & Martin, Keegan"
+2842557,The Fight Before Christmas,22,8,2010,2312196,Sesame Street,NULL,NULL
+2842557,The Fight Before Christmas,22,8,2010,2773493,The Muppet Show,NULL,NULL
+2842557,The Fight Before Christmas,22,8,2010,3400430,Back to the Future Part III,40000000,"Zemeckis, Robert"
+2842557,The Fight Before Christmas,22,8,2010,3622887,Dumbo,950000,"Armstrong, Samuel & Elliotte, John & Ferguson, Norman & Jackson, Wilfred & Kinney, Jack & Roberts, Bill & Sharpsteen, Ben"
+2842557,The Fight Before Christmas,22,8,2010,3837400,Inglourious Basterds,75000000,"Roth, Eli & Tarantino, Quentin"
+2842557,The Fight Before Christmas,22,8,2010,4501691,The Polar Express,170000000,"Zemeckis, Robert"
+2842559,The Fool Monty,22,6,2010,3349438,All That Jazz,NULL,"Fosse, Bob"
+2842559,The Fool Monty,22,6,2010,3394459,Avatar,237000000,"Cameron, James"
+2842559,The Fool Monty,22,6,2010,3626769,E.T. the Extra-Terrestrial,10500000,"Spielberg, Steven"
+2842559,The Fool Monty,22,6,2010,3689952,First Blood,15000000,"Kotcheff, Ted"
+2842675,Treehouse of Horror XXI,22,4,2010,2312196,Sesame Street,NULL,NULL
+2842675,Treehouse of Horror XXI,22,4,2010,2796318,The Office,NULL,NULL
+2842675,Treehouse of Horror XXI,22,4,2010,2902368,The Yogi Bear Show,NULL,NULL
+2842675,Treehouse of Horror XXI,22,4,2010,3514447,Click,70000000,"Coraci, Frank"
+2842675,Treehouse of Horror XXI,22,4,2010,3564938,Dead Calm,NULL,"Noyce, Phillip"
+2842675,Treehouse of Horror XXI,22,4,2010,3858779,Jaws,8000000,"Spielberg, Steven"
+2842675,Treehouse of Horror XXI,22,4,2010,3873895,Jumanji,65000000,"Johnston, Joe"
+2842675,Treehouse of Horror XXI,22,4,2010,4532477,The Twilight Saga: New Moon,50000000,"Weitz, Chris"
+2842675,Treehouse of Horror XXI,22,4,2010,4586341,Twilight,37000000,"Hardwicke, Catherine"
+2842109,American History X-cellent,21,17,2010,4355966,"Steamboat Bill, Jr.",NULL,"Keaton, Buster & Reisner, Charles"
+2842109,American History X-cellent,21,17,2010,4457057,The Green Mile,60000000,"Darabont, Frank"
+2842109,American History X-cellent,21,17,2010,4517024,The Shawshank Redemption,25000000,"Darabont, Frank"
+2842158,Boy Meets Curl,21,12,2010,2819460,The Real Housewives of Orange County,NULL,"Alvarez, Stephen W. & Coston, Brenda"
+2842158,Boy Meets Curl,21,12,2010,3071006,Vancouver 2010: XXI Olympic Winter Games,NULL,"Esocoff, Drew & Gilmartin, John & Grabert, Doug & Gunts, Bucky & Michaels, David & Moossa, Pierre & Rosenberg, Andy & Wald, Jason"
+2842158,Boy Meets Curl,21,12,2010,3605012,Doctor Zhivago,11000000,"Lean, David"
+2842158,Boy Meets Curl,21,12,2010,3765717,Harry Potter and the Sorcerer's Stone,125000000,"Columbus, Chris"
+2842177,Chief of Hearts,21,18,2010,2444148,Starsky and Hutch,NULL,NULL
+2842177,Chief of Hearts,21,18,2010,4569206,Touch of Evil,829000,"Welles, Orson"
+2842325,Judge Me Tender,21,23,2010,142687,American Idol: The Search for a Superstar,NULL,NULL
+2842325,Judge Me Tender,21,23,2010,2867261,The Tonight Show with Jay Leno,NULL,"Price, Star"
+2842408,Moe Letter Blues,21,21,2010,3310504,A Letter to Three Wives,NULL,"Mankiewicz, Joseph L."
+2842408,Moe Letter Blues,21,21,2010,3486464,Cars,120000000,"Lasseter, John & Ranft, Joe"
+2842408,Moe Letter Blues,21,21,2010,3956095,Le voyage dans la lune,NULL,"Méliès, Georges"
+2842457,Postcards from the Wedge,21,14,2010,1223594,House M.D.,NULL,NULL
+2842457,Postcards from the Wedge,21,14,2010,2076017,Pokémon,NULL,NULL
+2842457,Postcards from the Wedge,21,14,2010,4339477,Sophie's Choice,12000000,"Pakula, Alan J."
+2842512,Stealing First Base,21,15,2010,3905566,Koyaanisqatsi,NULL,"Reggio, Godfrey"
+2842531,The Bob Next Door,21,22,2010,3671258,Face/Off,80000000,"Woo, John"
+2842531,The Bob Next Door,21,22,2010,3765344,Harold and the Purple Crayon,NULL,"Piel, David"
+2842543,The Color Yellow,21,13,2010,4541283,The Wizard of Oz,2800000,"Cukor, George & Fleming, Victor & LeRoy, Mervyn & Taurog, Norman & Vidor, King"
+2842571,The Greatest Story Ever D'ohed,21,16,2010,2985912,Transformers,NULL,"Wallach, Peter"
+2842571,The Greatest Story Ever D'ohed,21,16,2010,3684230,Fiddler on the Roof,9000000,"Jewison, Norman"
+2842571,The Greatest Story Ever D'ohed,21,16,2010,4573224,Transformers,150000000,"Bay, Michael"
+2842571,The Greatest Story Ever D'ohed,21,16,2010,4617614,VeggieTales: Where's God When I'm S-Scared?,NULL,"Olsen, Chris & Vischer, Phil"
+2842652,"To Surveil, with Love",21,20,2010,2312196,Sesame Street,NULL,NULL
+2842652,"To Surveil, with Love",21,20,2010,4022905,Mary Poppins,6000000,"Stevenson, Robert"
+2842652,"To Surveil, with Love",21,20,2010,4103407,Nineteen Eighty-Four,NULL,"Radford, Michael"
+2842652,"To Surveil, with Love",21,20,2010,4527584,The Terminator,6400000,"Cameron, James"
+2842118,Bart Gets a 'Z',21,2,2009,3400351,Back to School,11000000,"Metter, Alan"
+2842118,Bart Gets a 'Z',21,2,2009,4022905,Mary Poppins,6000000,"Stevenson, Robert"
+2842118,Bart Gets a 'Z',21,2,2009,4515055,The Secret,NULL,"Heriot, Drew"
+2842280,Homer the Whopper,21,1,2009,3147146,"Welcome Back, Kotter",NULL,NULL
+2842280,Homer the Whopper,21,1,2009,3353730,Alvin and the Chipmunks: Chipwrecked,75000000,"Mitchell, Mike"
+2842280,Homer the Whopper,21,1,2009,3765717,Harry Potter and the Sorcerer's Stone,125000000,"Columbus, Chris"
+2842280,Homer the Whopper,21,1,2009,4353442,Star Wars: Episode I - The Phantom Menace,115000000,"Lucas, George"
+2842280,Homer the Whopper,21,1,2009,4373605,Superman,55000000,"Donner, Richard"
+2842439,"Oh Brother, Where Bart Thou?",21,8,2009,2316442,Sex and the City,NULL,NULL
+2842439,"Oh Brother, Where Bart Thou?",21,8,2009,2411396,South Park,NULL,NULL
+2842439,"Oh Brother, Where Bart Thou?",21,8,2009,4279222,Saw,1200000,"Wan, James"
+2842458,Pranks and Greens,21,6,2009,4022905,Mary Poppins,6000000,"Stevenson, Robert"
+2842469,Rednecks and Broomsticks,21,7,2009,3406115,Bambi,NULL,"Algar, James & Armstrong, Samuel & Hand, David & Heid, Graham & Roberts, Bill & Satterfield, Paul & Wright, Norman"
+2842469,Rednecks and Broomsticks,21,7,2009,4314485,Sideways,12000000,"Payne, Alexander"
+2842469,Rednecks and Broomsticks,21,7,2009,4430457,The Country Bears,35000000,"Hastings, Peter"
+2842674,Treehouse of Horror XX,21,4,2009,3291317,28 Days Later...,8000000,"Boyle, Danny"
+2842674,Treehouse of Horror XX,21,4,2009,3291352,28 Weeks Later,15000000,"Fresnadillo, Juan Carlos"
+2842674,Treehouse of Horror XX,21,4,2009,4345405,Spellbound,1696377,"Hitchcock, Alfred"
+2842674,Treehouse of Horror XX,21,4,2009,4362239,Strangers on a Train,1200000,"Hitchcock, Alfred"
+2842182,Coming to Homerica,20,21,2009,459909,Cheers,NULL,NULL
+2842182,Coming to Homerica,20,21,2009,650561,Deadliest Catch,5000000,NULL
+2842182,Coming to Homerica,20,21,2009,2628576,The Brady Bunch,NULL,NULL
+2842182,Coming to Homerica,20,21,2009,2660483,The Dick Van Dyke Show,NULL,NULL
+2842182,Coming to Homerica,20,21,2009,2712645,The Honeymooners,NULL,NULL
+2842182,Coming to Homerica,20,21,2009,4455514,The Grapes of Wrath,800000,"Ford, John"
+2842210,Eeny Teeny Maya Moe,20,16,2009,4537777,The Warriors,4000000,"Hill, Walter"
+2842218,Father Knows Worst,20,18,2009,4175237,Peter Pan,4000000,"Geronimi, Clyde & Jackson, Wilfred & Kinney, Jack & Luske, Hamilton"
+2842225,Four Great Women and a Manicure,20,20,2009,3646292,Elizabeth: The Golden Age,55000000,"Kapur, Shekhar"
+2842225,Four Great Women and a Manicure,20,20,2009,4330841,Snow White and the Seven Dwarfs,2000000,"Cottrell, William & Hand, David & Jackson, Wilfred & Morey, Larry & Pearce, Perce & Sharpsteen, Ben"
+2842225,Four Great Women and a Manicure,20,20,2009,4449427,The Fountainhead,NULL,"Vidor, King"
+2842239,Gone Maggie Gone,20,13,2009,4089046,National Treasure,100000000,"Turteltaub, Jon"
+2842239,Gone Maggie Gone,20,13,2009,4494753,The Omen,2800000,"Donner, Richard"
+2842239,Gone Maggie Gone,20,13,2009,4516306,The Seven Year Itch,1800000,"Wilder, Billy"
+2842317,In the Name of the Grandfather,20,14,2009,4215811,Q*bert,NULL,NULL
+2842437,"No Loan Again, Naturally",20,12,2009,4682120,Young Frankenstein,2800000,"Brooks, Mel"
+2842691,"Waverly Hills, 9021-D'Oh",20,19,2009,1122883,Hannah Montana,NULL,NULL
+2842691,"Waverly Hills, 9021-D'Oh",20,19,2009,4105242,No Country for Old Men,25000000,"Coen, Ethan & Coen, Joel"
+2842693,Wedding for Disaster,20,15,2009,3726449,George Carlin: Complaints & Grievances,NULL,"Urbisci, Rocco"
+2842693,Wedding for Disaster,20,15,2009,4279222,Saw,1200000,"Wan, James"
+2842188,Dangerous Curves,20,5,2008,4587613,Two for the Road,4000000,"Donen, Stanley"
+2842204,"Double, Double, Boy in Trouble",20,3,2008,4249683,Ri¢hie Ri¢h,40000000,"Petrie, Donald"
+2842432,MyPods and Boomsticks,20,7,2008,3343641,Aladdin,28000000,"Clements, Ron & Musker, John"
+2842432,MyPods and Boomsticks,20,7,2008,4517341,The Shining,19000000,"Kubrick, Stanley"
+2842482,"Sex, Pies and Idiot Scrapes",20,1,2008,262889,Batman,NULL,NULL
+2842482,"Sex, Pies and Idiot Scrapes",20,1,2008,733234,Dog the Bounty Hunter,NULL,NULL
+2842482,"Sex, Pies and Idiot Scrapes",20,1,2008,1235862,Hulk,NULL,NULL
+2842482,"Sex, Pies and Idiot Scrapes",20,1,2008,3487629,Casino Royale,150000000,"Campbell, Martin"
+2842482,"Sex, Pies and Idiot Scrapes",20,1,2008,3705527,Frankenstein,291000,"Whale, James"
+2842482,"Sex, Pies and Idiot Scrapes",20,1,2008,3854376,Jackie Brown,12000000,"Tarantino, Quentin"
+2842482,"Sex, Pies and Idiot Scrapes",20,1,2008,4184418,Planet Terror,NULL,"Rodriguez, Robert"
+2842482,"Sex, Pies and Idiot Scrapes",20,1,2008,4449915,The French Connection,1800000,"Friedkin, William"
+2842535,The Burns and the Bees,20,8,2008,3765717,Harry Potter and the Sorcerer's Stone,125000000,"Columbus, Chris"
+2842535,The Burns and the Bees,20,8,2008,4454047,The Godfather,6000000,"Coppola, Francis Ford"
+2842669,Treehouse of Horror XIX,20,4,2008,1638645,Mad Men,NULL,NULL
+2842669,Treehouse of Horror XIX,20,4,2008,3301465,A Charlie Brown Christmas,150000,"Melendez, Bill"
+2842669,Treehouse of Horror XIX,20,4,2008,3677044,Fargo,7000000,"Coen, Ethan & Coen, Joel"
+2842669,Treehouse of Horror XIX,20,4,2008,3850871,"It's the Great Pumpkin, Charlie Brown",NULL,"Melendez, Bill"
+2842669,Treehouse of Horror XIX,20,4,2008,4184347,Planet of the Apes,5800000,"Schaffner, Franklin J."
+2842669,Treehouse of Horror XIX,20,4,2008,4514809,The Searchers,3750000,"Ford, John"
+2842669,Treehouse of Horror XIX,20,4,2008,4573224,Transformers,150000000,"Bay, Michael"
+2842669,Treehouse of Horror XIX,20,4,2008,4677229,Yellow Submarine,NULL,"Dunning, George"
+2842105,All About Lisa,19,20,2008,1500925,Last Call with Carson Daly,NULL,NULL
+2842105,All About Lisa,19,20,2008,2763083,The Mickey Mouse Club,NULL,NULL
+2842105,All About Lisa,19,20,2008,3347761,All About Eve,1400000,"Mankiewicz, Joseph L."
+2842105,All About Lisa,19,20,2008,3693233,Flashdance,4000000,"Lyne, Adrian"
+2842113,Any Given Sundance,19,18,2008,3483626,Capturing the Friedmans,NULL,"Jarecki, Andrew"
+2842113,Any Given Sundance,19,18,2008,3964666,Les quatre cents coups,NULL,"Truffaut, François"
+2842114,Apocalypse Cow,19,17,2008,2985912,Transformers,NULL,"Wallach, Peter"
+2842114,Apocalypse Cow,19,17,2008,3487055,Casablanca,950000,"Curtiz, Michael"
+2842197,Dial 'N' for Nerder,19,14,2008,458441,Cheaters,NULL,"Bakke, Rhett & McCalmont, John & Sellars, Patrick & Tears, Billy"
+2842197,Dial 'N' for Nerder,19,14,2008,510925,Columbo,NULL,NULL
+2842197,Dial 'N' for Nerder,19,14,2008,1695401,McCloud,NULL,NULL
+2842197,Dial 'N' for Nerder,19,14,2008,1696142,McMillan & Wife,NULL,NULL
+2842197,Dial 'N' for Nerder,19,14,2008,2145335,Quincy M.E.,NULL,NULL
+2842197,Dial 'N' for Nerder,19,14,2008,2776178,The NBC Mystery Movie,NULL,NULL
+2842379,"Love, Springfieldian Style",19,12,2008,3452234,Bonnie and Clyde,2500000,"Penn, Arthur"
+2842379,"Love, Springfieldian Style",19,12,2008,3747057,Grease,6000000,"Kleiser, Randal"
+2842379,"Love, Springfieldian Style",19,12,2008,3938498,Lady and the Tramp,4000000,"Geronimi, Clyde & Jackson, Wilfred & Luske, Hamilton"
+2842379,"Love, Springfieldian Style",19,12,2008,4314165,Sid and Nancy,4000000,"Cox, Alex"
+2842414,Mona Leaves-a,19,19,2008,4680946,You Only Live Twice,9500000,"Gilbert, Lewis"
+2842447,Papa Don't Leech,19,16,2008,2773493,The Muppet Show,NULL,NULL
+2842447,Papa Don't Leech,19,16,2008,2845540,Kennedy and Heidi,NULL,"Taylor, Alan"
+2842503,Smoke on the Daughter,19,15,2008,3349438,All That Jazz,NULL,"Fosse, Bob"
+2842503,Smoke on the Daughter,19,15,2008,3375613,Apocalypse Now,31500000,"Coppola, Francis Ford"
+2842526,That '90s Show,19,11,2008,1706541,Melrose Place,NULL,"Wales, Paul"
+2842526,That '90s Show,19,11,2008,3400422,Back to the Future,19000000,"Zemeckis, Robert"
+2842551,The DeBarted,19,13,2008,4351660,Stalag 17,1661530,"Wilder, Billy"
+2842551,The DeBarted,19,13,2008,4435714,The Departed,90000000,"Scorsese, Martin"
+2842213,Eternal Moonshine of the Simpson Mind,19,9,2007,1122883,Hannah Montana,NULL,NULL
+2842213,Eternal Moonshine of the Simpson Mind,19,9,2007,3817440,Ice Age,59000000,"Saldanha, Carlos & Wedge, Chris"
+2842231,Funeral for a Fiend,19,8,2007,557565,Countdown w/ Keith Olbermann,NULL,"Ballante, Christopher"
+2842231,Funeral for a Fiend,19,8,2007,733738,The Dog Whisperer III,NULL,NULL
+2842231,Funeral for a Fiend,19,8,2007,2051426,Pimp My Ride,NULL,NULL
+2842231,Funeral for a Fiend,19,8,2007,2316442,Sex and the City,NULL,NULL
+2842231,Funeral for a Fiend,19,8,2007,2799776,The Oprah Winfrey Show,NULL,NULL
+2842231,Funeral for a Fiend,19,8,2007,3784199,Hindenburg Disaster Newsreel Footage,NULL,NULL
+2842231,Funeral for a Fiend,19,8,2007,4047724,Miracle on 34th Street,NULL,"Seaton, George"
+2842270,Homer of Seville,19,2,2007,862223,Entourage,NULL,NULL
+2842270,Homer of Seville,19,2,2007,1262493,Il était une fois... l'homme,NULL,NULL
+2842270,Homer of Seville,19,2,2007,3511582,Citizen Kane,839727,"Welles, Orson"
+2842305,Husbands and Knives,19,7,2007,2799776,The Oprah Winfrey Show,NULL,NULL
+2842307,I Don't Wanna Know Why the Caged Bird Sings,19,4,2007,3605519,Dog Day Afternoon,1800000,"Lumet, Sidney"
+2842307,I Don't Wanna Know Why the Caged Bird Sings,19,4,2007,4491034,The Natural,28000000,"Levinson, Barry"
+2842371,Little Orphan Millie,19,6,2007,4278988,Saving Private Ryan,70000000,"Spielberg, Steven"
+2842397,Midnight Towboy,19,3,2007,4527584,The Terminator,6400000,"Cameron, James"
+2842673,Treehouse of Horror XVIII,19,5,2007,2584796,The Addams Family,NULL,NULL
+2842673,Treehouse of Horror XVIII,19,5,2007,3626769,E.T. the Extra-Terrestrial,10500000,"Spielberg, Steven"
+2842673,Treehouse of Horror XVIII,19,5,2007,3774355,Hell House,NULL,"Ratliff, George"
+2842673,Treehouse of Horror XVIII,19,5,2007,4066037,Mr. & Mrs. Smith,120000000,"Liman, Doug"
+2842184,Crook and Ladder,18,19,2007,2126996,Punk'd,NULL,NULL
+2842184,Crook and Ladder,18,19,2007,3702144,Forrest Gump,55000000,"Zemeckis, Robert"
+2842293,Homerazzi,18,16,2007,3675923,Fantasia,2280000,"Algar, James & Armstrong, Samuel & Beebe Jr., Ford & Ferguson, Norman & Hand, David & Handley, Jim & Hee, T. & Jackson, Wilfred & Luske, Hamilton & Roberts, Bill & Satterfield, Paul & Sharpsteen, Ben"
+2842368,Little Big Girl,18,12,2007,142687,American Idol: The Search for a Superstar,NULL,NULL
+2842368,Little Big Girl,18,12,2007,3938498,Lady and the Tramp,4000000,"Geronimi, Clyde & Jackson, Wilfred & Luske, Hamilton"
+2842383,Marge Gamer,18,17,2007,3664074,EverQuest,NULL,NULL
+2842472,Revenge Is a Dish Best Served Three Times,18,11,2007,764272,DuckTales,NULL,NULL
+2842472,Revenge Is a Dish Best Served Three Times,18,11,2007,3412026,Batman & Robin,125000000,"Schumacher, Joel"
+2842472,Revenge Is a Dish Best Served Three Times,18,11,2007,3412050,Batman Begins,150000000,"Nolan, Christopher"
+2842472,Revenge Is a Dish Best Served Three Times,18,11,2007,3412077,Batman Forever,100000000,"Schumacher, Joel"
+2842472,Revenge Is a Dish Best Served Three Times,18,11,2007,3896294,King Kong,670000,"Cooper, Merian C. & Schoedsack, Ernest B."
+2842472,Revenge Is a Dish Best Served Three Times,18,11,2007,3949106,Le comte de Monte-Cristo,NULL,"Vernay, Robert"
+2842472,Revenge Is a Dish Best Served Three Times,18,11,2007,4242958,Revenge of the Nerds,8000000,"Kanew, Jeff"
+2842473,Rome-old and Juli-eh,18,15,2007,339766,Bonanza,NULL,NULL
+2842473,Rome-old and Juli-eh,18,15,2007,4478643,The Lord of the Rings: The Return of the King,94000000,"Jackson, Peter"
+2842473,Rome-old and Juli-eh,18,15,2007,4478646,The Lord of the Rings: The Two Towers,94000000,"Jackson, Peter"
+2842509,Springfield Up,18,13,2007,3290293,21 Up,NULL,"Apted, Michael"
+2842509,Springfield Up,18,13,2007,3291351,28 Up,NULL,"Apted, Michael"
+2842509,Springfield Up,18,13,2007,3293096,35 Up,NULL,"Apted, Michael"
+2842509,Springfield Up,18,13,2007,3294290,42 Up,NULL,"Apted, Michael"
+2842509,Springfield Up,18,13,2007,3294654,49 Up,NULL,"Almond, Paul & Apted, Michael"
+2842509,Springfield Up,18,13,2007,3296980,7 Plus Seven,NULL,"Apted, Michael"
+2842509,Springfield Up,18,13,2007,4296946,Seven Up!,NULL,"Almond, Paul"
+2842534,The Boys of Bummer,18,18,2007,2634791,The Charlie Brown and Snoopy Show,NULL,NULL
+2842634,The Wife Aquatic,18,10,2007,4499393,The Perfect Storm,140000000,"Petersen, Wolfgang"
+2842709,Yokel Chords,18,14,2007,4520888,The Sound of Music,8200000,"Wise, Robert"
+2842712,You Kent Always Say What You Want,18,22,2007,975030,Fox News,NULL,NULL
+2842712,You Kent Always Say What You Want,18,22,2007,4035362,Menace II Society,3500000,"Hughes, Albert & Hughes, Allen"
+2842712,You Kent Always Say What You Want,18,22,2007,4223704,Raising Arizona,6000000,"Coen, Ethan & Coen, Joel"
+2842233,G.I. (Annoyed Grunt),18,5,2006,3714245,Full Metal Jacket,30000000,"Kubrick, Stanley"
+2842315,Ice Cream of Margie: With the Light Blue Hair,18,7,2006,599342,Da Ali G Show,NULL,NULL
+2842315,Ice Cream of Margie: With the Light Blue Hair,18,7,2006,2799776,The Oprah Winfrey Show,NULL,NULL
+2842315,Ice Cream of Margie: With the Light Blue Hair,18,7,2006,4280656,Scary Movie 4,45000000,"Zucker, David"
+2842324,Jazzy & The Pussycats,18,2,2006,3896294,King Kong,670000,"Cooper, Merian C. & Schoedsack, Ernest B."
+2842324,Jazzy & The Pussycats,18,2,2006,4239816,Reservoir Dogs,1200000,"Tarantino, Quentin"
+2842409,Moe'N'a Lisa,18,6,2006,2212131,Rocky and His Friends,NULL,NULL
+2842409,Moe'N'a Lisa,18,6,2006,4346100,Spider-Man,139000000,"Raimi, Sam"
+2842453,"Please Homer, Don't Hammer 'Em",18,3,2006,2185977,Remington Steele,NULL,NULL
+2842453,"Please Homer, Don't Hammer 'Em",18,3,2006,4353442,Star Wars: Episode I - The Phantom Menace,115000000,"Lucas, George"
+2842453,"Please Homer, Don't Hammer 'Em",18,3,2006,4353446,Star Wars: Episode II - Attack of the Clones,115000000,"Lucas, George"
+2842453,"Please Homer, Don't Hammer 'Em",18,3,2006,4353447,Star Wars: Episode III - Revenge of the Sith,113000000,"Lucas, George"
+2842572,The Haw-Hawed Couple,18,8,2006,3463462,Brokeback Mountain,14000000,"Lee, Ang"
+2842572,The Haw-Hawed Couple,18,8,2006,3742742,Goodfellas,25000000,"Scorsese, Martin"
+2842591,"The Mook, the Chef, the Wife and Her Homer",18,1,2006,4429826,"The Cook, the Thief, His Wife & Her Lover",NULL,"Greenaway, Peter"
+2842591,"The Mook, the Chef, the Wife and Her Homer",18,1,2006,4454047,The Godfather,6000000,"Coppola, Francis Ford"
+2842591,"The Mook, the Chef, the Wife and Her Homer",18,1,2006,4454081,The Godfather: Part III,54000000,"Coppola, Francis Ford"
+2842672,Treehouse of Horror XVII,18,4,2006,750230,Dr. Phil,NULL,"Virga, Anthony"
+2842672,Treehouse of Horror XVII,18,4,2006,2525011,Tales from the Crypt,NULL,NULL
+2842672,Treehouse of Horror XVII,18,4,2006,2525105,Tales from the Cryptkeeper,NULL,NULL
+2842672,Treehouse of Horror XVII,18,4,2006,3577263,"Der Golem, wie er in die Welt kam",NULL,"Boese, Carl & Wegener, Paul"
+2842672,Treehouse of Horror XVII,18,4,2006,4417578,The Blob,240000,"Doughten Jr., Russell S. & Yeaworth Jr., Irvin S."
+2842672,Treehouse of Horror XVII,18,4,2006,4417579,The Blob,19000000,"Russell, Chuck"
+2842262,Homer and Marge Turn a Couple Play,17,22,2006,1756852,Monk,NULL,NULL
+2842273,"Homer Simpson, This Is Your Wife",17,15,2006,3288886,2001: A Space Odyssey,12000000,"Kubrick, Stanley"
+2842273,"Homer Simpson, This Is Your Wife",17,15,2006,3733090,Girls Gone Wild on Campus,NULL,NULL
+2842332,"Kiss Kiss, Bang Bangalore",17,17,2006,3375613,Apocalypse Now,31500000,"Coppola, Francis Ford"
+2842332,"Kiss Kiss, Bang Bangalore",17,17,2006,3835787,Indiana Jones and the Temple of Doom,28000000,"Spielberg, Steven"
+2842332,"Kiss Kiss, Bang Bangalore",17,17,2006,3868892,Johny Mera Naam,NULL,"Anand, Vijay"
+2842400,Million Dollar Abie,17,16,2006,2429152,SportsCenter,NULL,"Cassoni, Mark & Daniels, Lenny & Edwards, Tommy P. & Feinberg, Michael & Kreppein, Kevin & Richards, Greg & Willhite, Linda & Winn, Jeff"
+2842400,Million Dollar Abie,17,16,2006,3742092,"Good Night, and Good Luck.",7500000,"Clooney, George"
+2842400,Million Dollar Abie,17,16,2006,4342657,Soylent Green,NULL,"Fleischer, Richard"
+2842428,My Fair Laddy,17,12,2006,3380802,Around the World in 80 Days,6000000,"Anderson, Michael & Farrow, John"
+2842428,My Fair Laddy,17,12,2006,3714245,Full Metal Jacket,30000000,"Kubrick, Stanley"
+2842428,My Fair Laddy,17,12,2006,4075746,My Fair Lady,17000000,"Cukor, George"
+2842470,Regarding Margie,17,20,2006,2985912,Transformers,NULL,"Wallach, Peter"
+2842470,Regarding Margie,17,20,2006,3671258,Face/Off,80000000,"Woo, John"
+2842470,Regarding Margie,17,20,2006,4045196,Million Dollar Baby,30000000,"Eastwood, Clint"
+2842590,The Monkey Suit,17,21,2006,3837545,Inherit the Wind,NULL,"Kramer, Stanley"
+2842590,The Monkey Suit,17,21,2006,4035027,Men in Black,90000000,"Sonnenfeld, Barry"
+2842590,The Monkey Suit,17,21,2006,4491034,The Natural,28000000,"Levinson, Barry"
+2842611,The Seemingly Never-Ending Story,17,13,2006,3595073,Die unendliche Geschichte,27000000,"Petersen, Wolfgang"
+2842611,The Seemingly Never-Ending Story,17,13,2006,3821653,"Il buono, il brutto, il cattivo",1200000,"Leone, Sergio"
+2842633,The Wettest Stories Ever Told,17,18,2006,4073336,Mutiny on the Bounty,1950000,"Lloyd, Frank"
+2842633,The Wettest Stories Ever Told,17,18,2006,4502131,The Poseidon Adventure,5000000,"Allen, Irwin & Neame, Ronald"
+2842692,We're on the Road to D'ohwhere,17,11,2006,339766,Bonanza,NULL,NULL
+2842692,We're on the Road to D'ohwhere,17,11,2006,3970236,Licence to Kill,32000000,"Glen, John"
+2842399,Milhouse of Sand and Fog,17,3,2005,2795669,The O.C.,NULL,NULL
+2842479,See Homer Run,17,6,2005,3288886,2001: A Space Odyssey,12000000,"Kubrick, Stanley"
+2842580,The Last of the Red Hat Mamas,17,7,2005,4454047,The Godfather,6000000,"Coppola, Francis Ford"
+2842671,Treehouse of Horror XVI,17,4,2005,3382534,Artificial Intelligence: AI,100000000,"Spielberg, Steven"
+2842671,Treehouse of Horror XVI,17,4,2005,3777828,Herbie Hancock: Rockit,NULL,"Creme, Lol & Godley & Creme & Godley, Kevin"
+2842671,Treehouse of Horror XVI,17,4,2005,4443379,The Exorcist,12000000,"Friedkin, William"
+2842671,Treehouse of Horror XVI,17,4,2005,4489121,The Most Dangerous Game,218869,"Pichel, Irving & Schoedsack, Ernest B."
+2842098,A Star Is Torn,16,18,2005,142687,American Idol: The Search for a Superstar,NULL,NULL
+2842202,Don't Fear the Roofer,16,16,2005,3685082,Fight Club,63000000,"Fincher, David"
+2842202,Don't Fear the Roofer,16,16,2005,4135922,One Flew Over the Cuckoo's Nest,4400000,"Forman, Milos"
+2842232,Future-Drama,16,15,2005,2985912,Transformers,NULL,"Wallach, Peter"
+2842232,Future-Drama,16,15,2005,3626769,E.T. the Extra-Terrestrial,10500000,"Spielberg, Steven"
+2842232,Future-Drama,16,15,2005,4251620,RoboCop,13000000,"Verhoeven, Paul"
+2842232,Future-Drama,16,15,2005,4448409,The Fly,700000,"Neumann, Kurt"
+2842257,Home Away from Homer,16,20,2005,3688160,Finding Nemo,94000000,"Stanton, Andrew & Unkrich, Lee"
+2842257,Home Away from Homer,16,20,2005,3820240,If....,NULL,"Anderson, Lindsay"
+2842257,Home Away from Homer,16,20,2005,4516306,The Seven Year Itch,1800000,"Wilder, Billy"
+2842263,Homer and Ned's Hail Mary Pass,16,8,2005,2429152,SportsCenter,NULL,"Cassoni, Mark & Daniels, Lenny & Edwards, Tommy P. & Feinberg, Michael & Kreppein, Kevin & Richards, Greg & Willhite, Linda & Winn, Jeff"
+2842263,Homer and Ned's Hail Mary Pass,16,8,2005,4498067,The Passion of the Christ,30000000,"Gibson, Mel"
+2842412,Mommie Beerest,16,7,2005,3486464,Cars,120000000,"Lasseter, John & Ranft, Joe"
+2842412,Mommie Beerest,16,7,2005,3969715,Liar Liar,45000000,"Shadyac, Tom"
+2842442,On a Clear Day I Can't See My Sister,16,11,2005,3288886,2001: A Space Odyssey,12000000,"Kubrick, Stanley"
+2842442,On a Clear Day I Can't See My Sister,16,11,2005,3528170,Contact,90000000,"Zemeckis, Robert"
+2842442,On a Clear Day I Can't See My Sister,16,11,2005,3685082,Fight Club,63000000,"Fincher, David"
+2842459,Pranksta Rap,16,9,2005,4498067,The Passion of the Christ,30000000,"Gibson, Mel"
+2842459,Pranksta Rap,16,9,2005,4617614,VeggieTales: Where's God When I'm S-Scared?,NULL,"Olsen, Chris & Vischer, Phil"
+2842556,"The Father, the Son, and the Holy Guest Star",16,21,2005,1140882,Hawaii Five-O,NULL,"Ecker, Beau Vanden & May, Bradford"
+2842556,"The Father, the Son, and the Holy Guest Star",16,21,2005,2286424,"Scooby Doo, Where Are You!",NULL,NULL
+2842556,"The Father, the Son, and the Holy Guest Star",16,21,2005,3986544,Lord of the Dance,NULL,"Mallet, David"
+2842107,All's Fair in Oven War,16,2,2004,3441226,Blacula,500000,"Crain, William"
+2842107,All's Fair in Oven War,16,2,2004,4454047,The Godfather,6000000,"Coppola, Francis Ford"
+2842217,Fat Man and Little Boy,16,5,2004,2426848,SpongeBob SquarePants,NULL,NULL
+2842217,Fat Man and Little Boy,16,5,2004,3393063,Austin Powers: International Man of Mystery,17000000,"Roach, Jay"
+2842501,Sleeping with the Enemy,16,3,2004,4677368,Yentl,12000000,"Streisand, Barbra"
+2842670,Treehouse of Horror XV,16,1,2004,3417097,Bedknobs and Broomsticks,20000000,"Stevenson, Robert"
+2842670,Treehouse of Horror XV,16,1,2004,3676189,Fantastic Voyage,5115000,"Fleischer, Richard"
+2842670,Treehouse of Horror XV,16,1,2004,4434600,The Dead Zone,10000000,"Cronenberg, David"
+2842146,Bart-Mangled Banner,15,21,2004,4520888,The Sound of Music,8200000,"Wise, Robert"
+2842175,Catch 'Em If You Can,15,18,2004,1721986,Miami Vice,1500000,NULL
+2842175,Catch 'Em If You Can,15,18,2004,3489144,Catch Me If You Can,52000000,"Spielberg, Steven"
+2842180,Co-Dependent's Day,15,15,2004,4353442,Star Wars: Episode I - The Phantom Menace,115000000,"Lucas, George"
+2842314,"I, (Annoyed Grunt)-Bot",15,9,2004,2209112,Robot Wars,NULL,"Kirrage, Paul"
+2842314,"I, (Annoyed Grunt)-Bot",15,9,2004,2875752,Steel,NULL,"Weis, Don"
+2842388,"Marge vs. Singles, Seniors, Childless Couples and Teens and Gays",15,8,2004,577768,Crocodile Hunter,NULL,NULL
+2842388,"Marge vs. Singles, Seniors, Childless Couples and Teens and Gays",15,8,2004,2859099,The Three Stooges Show,NULL,NULL
+2842388,"Marge vs. Singles, Seniors, Childless Couples and Teens and Gays",15,8,2004,3731394,Gimme Shelter,NULL,"Maysles, Albert & Maysles, David & Zwerin, Charlotte"
+2842388,"Marge vs. Singles, Seniors, Childless Couples and Teens and Gays",15,8,2004,4667611,Woodstock,600000,"Wadleigh, Michael"
+2842391,Margical History Tour,15,11,2004,3354515,Amadeus,18000000,"Forman, Milos"
+2842398,Milhouse Doesn't Live Here Anymore,15,12,2004,2164774,Rawhide,NULL,NULL
+2842398,Milhouse Doesn't Live Here Anymore,15,12,2004,2607248,The Beverly Hillbillies,NULL,NULL
+2842487,Simple Simpson,15,19,2004,2562129,Temptation Island,NULL,NULL
+2842487,Simple Simpson,15,19,2004,2600923,The Bachelor,3000000,"DiPirro, Richard Brian & Verweyen, Guido"
+2842487,Simple Simpson,15,19,2004,4346100,Spider-Man,139000000,"Raimi, Sam"
+2842487,Simple Simpson,15,19,2004,4661252,Willy Wonka & the Chocolate Factory,3000000,"Stuart, Mel"
+2842502,Smart & Smarter,15,13,2004,142687,American Idol: The Search for a Superstar,NULL,NULL
+2842502,Smart & Smarter,15,13,2004,3898481,Kiss of Death,1520000,"Hathaway, Henry"
+2842502,Smart & Smarter,15,13,2004,4648084,What Ever Happened to Baby Jane?,980000,"Aldrich, Robert"
+2842628,The Wandering Juvie,15,16,2004,4330841,Snow White and the Seven Dwarfs,2000000,"Cottrell, William & Hand, David & Jackson, Wilfred & Morey, Larry & Pearce, Perce & Sharpsteen, Ben"
+2842628,The Wandering Juvie,15,16,2004,4435410,The Defiant Ones,778000,"Kramer, Stanley"
+2842632,The Way We Weren't,15,20,2004,3529904,Cool Hand Luke,3200000,"Rosenberg, Stuart"
+2842639,The Ziff Who Came to Dinner,15,14,2004,3288886,2001: A Space Odyssey,12000000,"Kubrick, Stanley"
+2842639,The Ziff Who Came to Dinner,15,14,2004,3502745,Child's Play,9000000,"Holland, Tom"
+2842639,The Ziff Who Came to Dinner,15,14,2004,4197616,Powers of Ten,NULL,"Eames, Charles & Eames, Ray"
+2842639,The Ziff Who Came to Dinner,15,14,2004,4417333,The Blair Witch Project,60000,"Myrick, Daniel & Sánchez, Eduardo"
+2842082,'Tis the Fifteenth Season,15,7,2003,921187,Family Matters,NULL,NULL
+2842082,'Tis the Fifteenth Season,15,7,2003,2440137,Star Trek,200000,NULL
+2842082,'Tis the Fifteenth Season,15,7,2003,2631445,The California Raisin Show,NULL,"Butterworth, Kent & Davis, Vincent & Kubiak, Walt & Myrick, Ron"
+2842082,'Tis the Fifteenth Season,15,7,2003,3801095,How the Grinch Stole Christmas!,NULL,"Jones, Chuck & Washam, Ben"
+2842082,'Tis the Fifteenth Season,15,7,2003,4051325,Mister Magoo's Christmas Carol,NULL,"Levitow, Abe"
+2842082,'Tis the Fifteenth Season,15,7,2003,4274816,Santa Claus Is Comin' to Town,NULL,"Bass, Jules & Rankin Jr., Arthur"
+2842430,My Mother the Carjacker,15,2,2003,3299457,A Beautiful Mind,58000000,"Howard, Ron"
+2842555,The Fat and the Furriest,15,5,2003,1034159,Get Smart,NULL,NULL
+2842555,The Fat and the Furriest,15,5,2003,3622887,Dumbo,950000,"Armstrong, Samuel & Elliotte, John & Ferguson, Norman & Jackson, Wilfred & Kinney, Jack & Roberts, Bill & Sharpsteen, Ben"
+2842555,The Fat and the Furriest,15,5,2003,3705527,Frankenstein,291000,"Whale, James"
+2842555,The Fat and the Furriest,15,5,2003,3869484,Jonah: A VeggieTales Movie,14000000,"Nawrocki, Mike & Vischer, Phil"
+2842555,The Fat and the Furriest,15,5,2003,4206881,Project Grizzly,NULL,"Lynch, Peter"
+2842607,The Regina Monologues,15,4,2003,4022905,Mary Poppins,6000000,"Stevenson, Robert"
+2842607,The Regina Monologues,15,4,2003,4572458,Trainspotting,3500000,"Boyle, Danny"
+2842653,"Today, I Am a Clown",15,6,2003,262889,Batman,NULL,NULL
+2842668,Treehouse of Horror XIV,15,1,2003,2604992,The Benny Hill Show,NULL,NULL
+2842668,Treehouse of Horror XIV,15,1,2003,2875671,A Kind of a Stopwatch,NULL,"Rich, John"
+2842668,Treehouse of Horror XIV,15,1,2003,3515024,Clockstoppers,26000000,"Frakes, Jonathan"
+2842668,Treehouse of Horror XIV,15,1,2003,3604551,Doc Savage: The Man of Bronze,NULL,"Anderson, Michael"
+2842668,Treehouse of Horror XIV,15,1,2003,3705527,Frankenstein,291000,"Whale, James"
+2842668,Treehouse of Horror XIV,15,1,2003,4277562,Saturday Night Fever,3000000,"Badham, John"
+2842668,Treehouse of Horror XIV,15,1,2003,4493755,The Nutty Professor,NULL,"Lewis, Jerry"
+2842668,Treehouse of Horror XIV,15,1,2003,4513487,The Santa Clause,22000000,"Pasquin, John"
+2842081,'Scuse Me While I Miss the Sky,14,16,2003,4491034,The Natural,28000000,"Levinson, Barry"
+2842096,A Star Is Born Again,14,13,2003,2604992,The Benny Hill Show,NULL,NULL
+2842096,A Star Is Born Again,14,13,2003,3793754,"Honey, I Shrunk the Kids",18000000,"Johnston, Joe"
+2842173,C.E.D'oh,14,15,2003,3357489,American Graffiti,777000,"Lucas, George"
+2842205,"Dude, Where's My Ranch?",14,18,2003,3462956,Britney: The Videos,NULL,"Davis, Tamra & Lawrence, Francis & Lochmus, Scott Floyd & McCarthy-Miller, Beth & Meadows, Mike & Pytka, Joe & Ritts, Herb"
+2842205,"Dude, Where's My Ranch?",14,18,2003,4478646,The Lord of the Rings: The Two Towers,94000000,"Jackson, Peter"
+2842205,"Dude, Where's My Ranch?",14,18,2003,4481094,The Magnificent Seven,2000000,"Sturges, John"
+2842312,I'm Spelling as Fast as I Can,14,12,2003,985096,Fright Night,NULL,NULL
+2842312,I'm Spelling as Fast as I Can,14,12,2003,3705527,Frankenstein,291000,"Whale, James"
+2842312,I'm Spelling as Fast as I Can,14,12,2003,4239399,Requiem for a Dream,4500000,"Aronofsky, Darren"
+2842312,I'm Spelling as Fast as I Can,14,12,2003,4489720,The Mummy,196000,"Freund, Karl"
+2842406,Moe Baby Blues,14,22,2003,2607248,The Beverly Hillbillies,NULL,NULL
+2842424,Mr. Spritz Goes to Washington,14,14,2003,4472670,The Last of the Mohicans,40000000,"Mann, Michael"
+2842441,Old Yeller-Belly,14,19,2003,262889,Batman,NULL,NULL
+2842441,Old Yeller-Belly,14,19,2003,1577536,Live with Regis and Kathie Lee,NULL,NULL
+2842441,Old Yeller-Belly,14,19,2003,2132828,Pyramid,NULL,"Loudin, Bob & Nichols, Paul"
+2842441,Old Yeller-Belly,14,19,2003,3288886,2001: A Space Odyssey,12000000,"Kubrick, Stanley"
+2842441,Old Yeller-Belly,14,19,2003,3858779,Jaws,8000000,"Spielberg, Steven"
+2842506,Special Edna,14,7,2003,4352128,Stand and Deliver,NULL,"Menéndez, Ramón"
+2842527,The Bart of War,14,21,2003,3569139,Debbie Does Dallas,NULL,"Buckley, Jim"
+2842527,The Bart of War,14,21,2003,3733091,Girls Gone Wild on Campus 2,NULL,NULL
+2842547,The Dad Who Knew Too Little,14,8,2003,572676,Cribs,NULL,NULL
+2842547,The Dad Who Knew Too Little,14,8,2003,4586035,Twelve Monkeys,29000001,"Gilliam, Terry"
+2842620,The Strong Arms of the Ma,14,9,2003,2875812,Time Enough at Last,NULL,"Brahm, John"
+2842620,The Strong Arms of the Ma,14,9,2003,4253194,Rocky,960000,"Avildsen, John G."
+2842620,The Strong Arms of the Ma,14,9,2003,4400634,Tetris,NULL,"Pazhitnov, Alexey"
+2842620,The Strong Arms of the Ma,14,9,2003,4454047,The Godfather,6000000,"Coppola, Francis Ford"
+2842138,Bart vs. Lisa vs. 3rd Grade,14,3,2002,263927,BattleBots,NULL,"Sands, Jason"
+2842138,Bart vs. Lisa vs. 3rd Grade,14,3,2002,1034159,Get Smart,NULL,NULL
+2842138,Bart vs. Lisa vs. 3rd Grade,14,3,2002,1837396,NBC Nightly News,NULL,NULL
+2842138,Bart vs. Lisa vs. 3rd Grade,14,3,2002,2209387,Robotica,NULL,"Donohue, Terry & Weiner, Don"
+2842138,Bart vs. Lisa vs. 3rd Grade,14,3,2002,2494659,Survivor,1000000,NULL
+2842138,Bart vs. Lisa vs. 3rd Grade,14,3,2002,3288886,2001: A Space Odyssey,12000000,"Kubrick, Stanley"
+2842138,Bart vs. Lisa vs. 3rd Grade,14,3,2002,4656716,Who Wants to Marry a Multi-Millionaire?,NULL,"Weiner, Don"
+2842255,Helter Shelter,14,5,2002,1404350,King of the Hill,NULL,NULL
+2842255,Helter Shelter,14,5,2002,1519498,Law & Order,NULL,NULL
+2842255,Helter Shelter,14,5,2002,2494659,Survivor,1000000,NULL
+2842255,Helter Shelter,14,5,2002,3914133,L'arroseur arrosé,NULL,"Lumière, Louis"
+2842298,How I Spent My Strummer Vacation,14,2,2002,2540988,Taxicab Confessions,NULL,NULL
+2842338,Large Marge,14,4,2002,3316099,A Plumbing We Will Go,NULL,"Lord, Del"
+2842565,The Great Louse Detective,14,6,2002,1179241,Hogan's Heroes,NULL,NULL
+2842565,The Great Louse Detective,14,6,2002,2574385,That '70s Show,NULL,NULL
+2842565,The Great Louse Detective,14,6,2002,4075746,My Fair Lady,17000000,"Cukor, George"
+2842565,The Great Louse Detective,14,6,2002,4518131,The Silence of the Lambs,19000000,"Demme, Jonathan"
+2842667,Treehouse of Horror XIII,14,1,2002,3375613,Apocalypse Now,31500000,"Coppola, Francis Ford"
+2842667,Treehouse of Horror XIII,14,1,2002,3497008,Charlotte's Web,NULL,"Nichols, Charles A. & Takamoto, Iwao"
+2842667,Treehouse of Horror XIII,14,1,2002,3847856,Island of Lost Souls,300000,"Kenton, Erle C."
+2842667,Treehouse of Horror XIII,14,1,2002,4070185,Multiplicity,45000000,"Ramis, Harold"
+2842667,Treehouse of Horror XIII,14,1,2002,4466637,The Island of Dr. Moreau,6000000,"Taylor, Don"
+2842667,Treehouse of Horror XIII,14,1,2002,4466638,The Island of Dr. Moreau,40000000,"Frankenheimer, John & Stanley, Richard"
+2842667,Treehouse of Horror XIII,14,1,2002,4527584,The Terminator,6400000,"Cameron, James"
+2842154,Blame It on Lisa,13,15,2002,3221201,Xou da Xuxa,NULL,NULL
+2842154,Blame It on Lisa,13,15,2002,3222333,Xuxa,NULL,"Lynch, Tommy"
+2842154,Blame It on Lisa,13,15,2002,3956095,Le voyage dans la lune,NULL,"Méliès, Georges"
+2842161,Brawl in the Family,13,7,2002,325945,Blind Date,NULL,"Baron, Chad & Cummings, Ryan & Raatz, Joel"
+2842161,Brawl in the Family,13,7,2002,4319257,Singin' in the Rain,2540800,"Donen, Stanley & Kelly, Gene"
+2842247,Gump Roast,13,17,2002,3393063,Austin Powers: International Man of Mystery,17000000,"Roach, Jay"
+2842247,Gump Roast,13,17,2002,3702144,Forrest Gump,55000000,"Zemeckis, Robert"
+2842247,Gump Roast,13,17,2002,3875124,Jurassic Park,63000000,"Spielberg, Steven"
+2842247,Gump Roast,13,17,2002,4353455,Star Wars: Episode V - The Empire Strikes Back,18000000,"Kershner, Irvin"
+2842248,Half-Decent Proposal,13,10,2002,1633993,M*A*S*H,NULL,NULL
+2842248,Half-Decent Proposal,13,10,2002,2316442,Sex and the City,NULL,NULL
+2842248,Half-Decent Proposal,13,10,2002,4042203,Midnight Cowboy,3600000,"Schlesinger, John"
+2842306,I Am Furious Yellow,13,18,2002,611624,Danger Mouse,NULL,NULL
+2842306,I Am Furious Yellow,13,18,2002,1235862,Hulk,NULL,NULL
+2842306,I Am Furious Yellow,13,18,2002,3855076,Jag är nyfiken - en film i gult,NULL,"Sjöman, Vilgot"
+2842323,Jaws Wired Shut,13,9,2002,2086058,Popeye the Sailor,NULL,NULL
+2842323,Jaws Wired Shut,13,9,2002,2881906,The View,NULL,NULL
+2842323,Jaws Wired Shut,13,9,2002,4253223,Rocky III,17000000,"Stallone, Sylvester"
+2842448,Papa's Got a Brand New Badge,13,22,2002,1127831,Happy Days,NULL,NULL
+2842448,Papa's Got a Brand New Badge,13,22,2002,2845500,The Sopranos,NULL,NULL
+2842528,The Bart Wants What It Wants,13,11,2002,262889,Batman,NULL,NULL
+2842528,The Bart Wants What It Wants,13,11,2002,2302209,Seinfeld,NULL,NULL
+2842528,The Bart Wants What It Wants,13,11,2002,3357489,American Graffiti,777000,"Lucas, George"
+2842528,The Bart Wants What It Wants,13,11,2002,3523337,Commando,10000000,"Lester, Mark L."
+2842584,The Lastest Gun in the West,13,12,2002,1695401,McCloud,NULL,NULL
+2842584,The Lastest Gun in the West,13,12,2002,2750179,The Lone Ranger,18000,NULL
+2842584,The Lastest Gun in the West,13,12,2002,4540215,The Wild Bunch,6244087,"Peckinpah, Sam"
+2842598,The Old Man and the Key,13,13,2002,2607248,The Beverly Hillbillies,NULL,NULL
+2842598,The Old Man and the Key,13,13,2002,3621842,"Dude, Where's My Car?",13000000,"Leiner, Danny"
+2842598,The Old Man and the Key,13,13,2002,4646643,West Side Story,6000000,"Robbins, Jerome & Wise, Robert"
+2842621,The Sweetest Apu,13,19,2002,4659993,Wild Wild West,175000000,"Sonnenfeld, Barry"
+2842694,Weekend at Burnsie's,13,16,2002,2085329,Pop Up Video,NULL,NULL
+2842694,Weekend at Burnsie's,13,16,2002,3511582,Citizen Kane,839727,"Welles, Orson"
+2842694,Weekend at Burnsie's,13,16,2002,4656133,Who Framed Roger Rabbit,70000000,"Zemeckis, Robert"
+2842277,Homer the Moe,13,3,2001,3534936,Coyote Ugly,45000000,"McNally, David"
+2842483,She of Little Faith,13,6,2001,4479247,The Lost Weekend,1250000,"Wilder, Billy"
+2842530,The Blunder Years,13,5,2001,4352151,Stand by Me,8000000,"Reiner, Rob"
+2842530,The Blunder Years,13,5,2001,4485201,The Matrix,63000000,"Wachowski, Lana & Wachowski, Lilly"
+2842601,The Parent Rap,13,2,2001,1356557,Judge Judy,NULL,"Douthit, Randy & Kupcinet, Jerry & Pasetta, Martin"
+2842601,The Parent Rap,13,2,2001,2286424,"Scooby Doo, Where Are You!",NULL,NULL
+2842666,Treehouse of Horror XII,13,1,2001,3288886,2001: A Space Odyssey,12000000,"Kubrick, Stanley"
+2842666,Treehouse of Horror XII,13,1,2001,3765717,Harry Potter and the Sorcerer's Stone,125000000,"Columbus, Chris"
+2842178,Children of a Lesser Clod,12,20,2001,1398899,Kids Say the Darndest Things,NULL,NULL
+2842297,HOMR,12,9,2001,626089,Davey and Goliath,NULL,NULL
+2842297,HOMR,12,9,2001,3710761,From Here to Eternity,1650000,"Zinnemann, Fred"
+2842297,HOMR,12,9,2001,4262303,Runaway Bride,70000000,"Marshall, Garry"
+2842297,HOMR,12,9,2001,4479247,The Lost Weekend,1250000,"Wilder, Billy"
+2842303,Hungry Hungry Homer,12,15,2001,4353456,Star Wars: Episode VI - Return of the Jedi,32500000,"Marquand, Richard"
+2842683,Trilogy of Error,12,18,2001,3736831,Go,20000000,"Liman, Doug"
+2842683,Trilogy of Error,12,18,2001,3983409,Lola rennt,NULL,"Tykwer, Tom"
+2842683,Trilogy of Error,12,18,2001,4415627,The Big Lebowski,15000000,"Coen, Ethan & Coen, Joel"
+2842707,Worst Episode Ever,12,11,2001,1744787,MisteRogers' Neighborhood,NULL,NULL
+2842100,A Tale of Two Springfields,12,2,2000,2826938,The Rifleman,NULL,NULL
+2842318,Insane Clown Poppy,12,3,2000,627168,Dawson's Creek,NULL,"Napolitano, Joe & Petrarca, David & Rooney, Bethany & Sanford, Arlene & Spiro, Lev L."
+2842318,Insane Clown Poppy,12,3,2000,4485201,The Matrix,63000000,"Wachowski, Lana & Wachowski, Lilly"
+2842499,Skinner's Sense of Snow,12,8,2000,1633993,M*A*S*H,NULL,NULL
+2842499,Skinner's Sense of Snow,12,8,2000,3823555,Il Natale che quasi non fu,NULL,"Brazzi, Rossano"
+2842544,The Computer Wore Menace Shoes,12,6,2000,2812626,The Prisoner,NULL,NULL
+2842544,The Computer Wore Menace Shoes,12,6,2000,3301465,A Charlie Brown Christmas,150000,"Melendez, Bill"
+2842665,Treehouse of Horror XI,12,1,2000,2628576,The Brady Bunch,NULL,NULL
+2842665,Treehouse of Horror XI,12,1,2000,2773418,The Munsters,NULL,NULL
+2842665,Treehouse of Horror XI,12,1,2000,3464494,Bronenosets Potemkin,NULL,"Eisenstein, Sergei M."
+2842665,Treehouse of Horror XI,12,1,2000,3707358,Free Willy,20000000,"Wincer, Simon"
+2842665,Treehouse of Horror XI,12,1,2000,4416339,The Birds,2500000,"Hitchcock, Alfred"
+2842665,Treehouse of Horror XI,12,1,2000,4434162,The Day of the Dolphin,8500000,"Nichols, Mike"
+2842665,Treehouse of Horror XI,12,1,2000,4475041,The Leopard Man,NULL,"Tourneur, Jacques"
+2842136,Bart to the Future,11,17,2000,3400422,Back to the Future,19000000,"Zemeckis, Robert"
+2842136,Bart to the Future,11,17,2000,4418021,The Blues Brothers,30000000,"Landis, John"
+2842149,Behind the Laughter,11,22,2000,277859,Behind the Music,NULL,"Flint, James & Harper, Will & Santiago, Christian & Williams, Paulina"
+2842194,Days of Wine and D'oh'ses,11,18,2000,2559493,Teletubbies,NULL,"Hiller, David"
+2842329,Kill the Alligator and Run,11,19,2000,3529904,Cool Hand Luke,3200000,"Rosenberg, Stuart"
+2842329,Kill the Alligator and Run,11,19,2000,3983040,Logan's Run,9000000,"Anderson, Michael"
+2842340,Last Tap Dance in Springfield,11,20,2000,3561067,Dawn of the Dead,650000,"Romero, George A."
+2842340,Last Tap Dance in Springfield,11,20,2000,3643186,El tango de la muerte,NULL,"Ferreyra, José A."
+2842340,Last Tap Dance in Springfield,11,20,2000,4230244,Rebecca of Sunnybrook Farm,NULL,"Dwan, Allan"
+2842340,Last Tap Dance in Springfield,11,20,2000,4251620,RoboCop,13000000,"Verhoeven, Paul"
+2842340,Last Tap Dance in Springfield,11,20,2000,4507931,The Red Shoes,NULL,"Powell, Michael & Pressburger, Emeric"
+2842403,Missionary: Impossible,11,15,2000,920757,Family Guy,NULL,NULL
+2842403,Missionary: Impossible,11,15,2000,2687756,The Flintstones,NULL,NULL
+2842403,Missionary: Impossible,11,15,2000,2910458,The Young Ones,NULL,NULL
+2842403,Missionary: Impossible,11,15,2000,4436278,The Devil at 4 O'Clock,5721786,"LeRoy, Mervyn"
+2842464,Pygmoelian,11,16,2000,628325,Days of Our Lives,NULL,"Behar, Joseph & Corday, Ted & Darrow, Schooner & Dickson, Mason & Granito, Livia & Linvill, Gay & Madeiras, Mary & Mawhinney, David & Neckels, Bruce & Pacelli, Frank & Powers, Lugh & Shaughnessy, David"
+2842464,Pygmoelian,11,16,2000,2902478,The Young and the Restless,NULL,"Cury, Ivan & Glenn, Bill & Mallory, Edward & Shaughnessy, David & Stich, Michael & Taweel, George"
+2842588,The Mansion Family,11,12,2000,593262,Curious George,NULL,"Shalleck, Alan J."
+2842151,Beyond Blunderdome,11,1,1999,3458604,Braveheart,72000000,"Gibson, Mel"
+2842151,Beyond Blunderdome,11,1,1999,4067280,Mr. Smith Goes to Washington,1500000,"Capra, Frank"
+2842151,Beyond Blunderdome,11,1,1999,4278988,Saving Private Ryan,70000000,"Spielberg, Steven"
+2842151,Beyond Blunderdome,11,1,1999,4305073,She's Having a Baby,NULL,"Hughes, John"
+2842209,E-I-E-I-(Annoyed Grunt),11,5,1999,2574385,That '70s Show,NULL,NULL
+2842209,E-I-E-I-(Annoyed Grunt),11,5,1999,3556423,Das Boot,14000000,"Petersen, Wolfgang"
+2842209,E-I-E-I-(Annoyed Grunt),11,5,1999,4021598,Mars Needs Women,20000,"Buchanan, Larry"
+2842209,E-I-E-I-(Annoyed Grunt),11,5,1999,4075536,My Dinner with Andre,NULL,"Malle, Louis"
+2842209,E-I-E-I-(Annoyed Grunt),11,5,1999,4100951,Night of the Living Dead,114000,"Romero, George A."
+2842209,E-I-E-I-(Annoyed Grunt),11,5,1999,4301695,Shakespeare in Love,25000000,"Madden, John"
+2842209,E-I-E-I-(Annoyed Grunt),11,5,1999,4484781,The Mask of Zorro,65000000,"Campbell, Martin"
+2842245,Grift of the Magi,11,9,1999,4527584,The Terminator,6400000,"Cameron, James"
+2842254,"Hello Gutter, Hello Fadder",11,6,1999,2559493,Teletubbies,NULL,"Hiller, David"
+2842254,"Hello Gutter, Hello Fadder",11,6,1999,2710878,The Hollywood Squares,NULL,NULL
+2842254,"Hello Gutter, Hello Fadder",11,6,1999,3475438,C.H.U.D.,1250000,"Cheek, Douglas"
+2842254,"Hello Gutter, Hello Fadder",11,6,1999,3905566,Koyaanisqatsi,NULL,"Reggio, Godfrey"
+2842254,"Hello Gutter, Hello Fadder",11,6,1999,4488231,The Mole People,200000,"Vogel, Virgil W."
+2842254,"Hello Gutter, Hello Fadder",11,6,1999,4491034,The Natural,28000000,"Levinson, Barry"
+2842254,"Hello Gutter, Hello Fadder",11,6,1999,4529243,The Time Machine,750000,"Pal, George"
+2842520,"Take My Wife, Sleaze",11,8,1999,1099240,Guinness World Records,NULL,"Morgan, John & Rogan, Tim"
+2842520,"Take My Wife, Sleaze",11,8,1999,3782956,Highlander,16000000,"Mulcahy, Russell"
+2842520,"Take My Wife, Sleaze",11,8,1999,3855547,Jailhouse Rock,400000,"Thorpe, Richard"
+2842520,"Take My Wife, Sleaze",11,8,1999,4230362,Rebel Without a Cause,1500000,"Ray, Nicholas"
+2842664,Treehouse of Horror X,11,4,1999,3811953,I Know What You Did Last Summer,17000000,"Gillespie, Jim"
+2842664,Treehouse of Horror X,11,4,1999,3814265,I Still Know What You Did Last Summer,24000000,"Cannon, Danny"
+2842664,Treehouse of Horror X,11,4,1999,4284368,Scream,14000000,"Craven, Wes"
+2842281,Homer to the Max,10,13,1999,134702,America's Funniest Home Videos,NULL,"Felsen Von Halle, Robin & Fleming, Erik & Gordon, Neil & Hirsen, Steve"
+2842281,Homer to the Max,10,13,1999,1721986,Miami Vice,1500000,NULL
+2842281,Homer to the Max,10,13,1999,3438376,Black Christmas,620000,"Clark, Bob"
+2842381,Make Room for Lisa,10,16,1999,4650588,When Animals Attack!,NULL,"Mathis, Mike"
+2842394,Maximum Homerdrive,10,17,1999,3288886,2001: A Space Odyssey,12000000,"Kubrick, Stanley"
+2842411,Mom and Pop Art,10,19,1999,1201779,Home Improvement,NULL,"Morris, Andy"
+2842411,Mom and Pop Art,10,19,1999,3615467,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1800000,"Kubrick, Stanley"
+2842411,Mom and Pop Art,10,19,1999,4399037,Terminator 2: Judgment Day,102000000,"Cameron, James"
+2842417,Monty Can't Buy Me Love,10,21,1999,1231529,Howard Stern,NULL,NULL
+2842417,Monty Can't Buy Me Love,10,21,1999,3739193,Gojira,175000,"Honda, Ishirô"
+2842417,Monty Can't Buy Me Love,10,21,1999,3875124,Jurassic Park,63000000,"Spielberg, Steven"
+2842417,Monty Can't Buy Me Love,10,21,1999,3896294,King Kong,670000,"Cooper, Merian C. & Schoedsack, Ernest B."
+2842493,Simpsons Bible Stories,10,18,1999,4527397,The Ten Commandments,13282712,"DeMille, Cecil B."
+2842515,"Sunday, Cruddy Sunday",10,12,1999,4260869,Rudy,NULL,"Anspaugh, David"
+2842515,"Sunday, Cruddy Sunday",10,12,1999,4558888,Titanic,200000000,"Cameron, James"
+2842597,The Old Man and the 'C' Student,10,20,1999,3308387,A Hard Day's Night,560000,"Lester, Richard"
+2842597,The Old Man and the 'C' Student,10,20,1999,3741044,Gone with the Wind,3977000,"Cukor, George & Fleming, Victor & Wood, Sam"
+2842597,The Old Man and the 'C' Student,10,20,1999,4135922,One Flew Over the Cuckoo's Nest,4400000,"Forman, Milos"
+2842597,The Old Man and the 'C' Student,10,20,1999,4558888,Titanic,200000000,"Cameron, James"
+2842706,Wild Barts Can't Be Broken,10,11,1999,2748120,The Little Rascals,NULL,"Douglas, Gordon & Horne, James W. & McCarey, Ray & McGowan, Robert A. & McGowan, Robert F. & Meins, Gus & Newmeyer, Fred C. & Parrott, James & Watt, Nate"
+2842706,Wild Barts Can't Be Broken,10,11,1999,3474070,Bye Bye Birdie,NULL,"Sidney, George"
+2842272,Homer Simpson in: 'Kidney Trouble',10,8,1998,3312383,A Matter of Life and Death,NULL,"Powell, Michael & Pressburger, Emeric"
+2842272,Homer Simpson in: 'Kidney Trouble',10,8,1998,4100951,Night of the Living Dead,114000,"Romero, George A."
+2842272,Homer Simpson in: 'Kidney Trouble',10,8,1998,4111257,North by Northwest,3101000,"Hitchcock, Alfred"
+2842345,Lisa Gets an 'A',10,7,1998,3535624,Crash Bandicoot,NULL,"Gavin, Andrew S. & Rubin, Jason"
+2842345,Lisa Gets an 'A',10,7,1998,4522996,The Sting,5500000,"Hill, George Roy"
+2842395,Mayored to the Mob,10,9,1998,264287,Battlestar Galactica,750000 (per episode),NULL
+2842395,Mayored to the Mob,10,9,1998,3754213,Guys and Dolls,5500000,"Mankiewicz, Joseph L."
+2842395,Mayored to the Mob,10,9,1998,4353314,Star Wars,11000000,"Lucas, George"
+2842395,Mayored to the Mob,10,9,1998,4534361,The Untouchables,25000000,"De Palma, Brian"
+2842395,Mayored to the Mob,10,9,1998,4558888,Titanic,200000000,"Cameron, James"
+2842659,Treehouse of Horror IX,10,4,1998,3801017,How Stella Got Her Groove Back,20000000,"Sullivan, Kevin Rodney"
+2842700,When You Dish Upon a Star,10,5,1998,2902368,The Yogi Bear Show,NULL,NULL
+2842700,When You Dish Upon a Star,10,5,1998,3875124,Jurassic Park,63000000,"Spielberg, Steven"
+2842106,"All Singing, All Dancing",9,11,1998,2724217,The Jetsons,NULL,NULL
+2842106,"All Singing, All Dancing",9,11,1998,3416045,Beauty and the Beast,25000000,"Trousdale, Gary & Wise, Kirk"
+2842106,"All Singing, All Dancing",9,11,1998,4133925,On the Town,2111250,"Donen, Stanley & Kelly, Gene"
+2842106,"All Singing, All Dancing",9,11,1998,4154158,Paint Your Wagon,20000000,"Logan, Joshua"
+2842106,"All Singing, All Dancing",9,11,1998,4171677,Per qualche dollaro in più,600000,"Leone, Sergio"
+2842106,"All Singing, All Dancing",9,11,1998,4490011,The Music Man,NULL,"DaCosta, Morton"
+2842191,Das Bus,9,14,1998,3986553,Lord of the Flies,250000,"Brook, Peter"
+2842191,Das Bus,9,14,1998,3986554,Lord of the Flies,NULL,"Hook, Harry"
+2842433,Natural Born Kissers,9,25,1998,3487055,Casablanca,950000,"Curtiz, Michael"
+2842433,Natural Born Kissers,9,25,1998,4342657,Soylent Green,NULL,"Fleischer, Richard"
+2842491,Simpson Tide,9,19,1998,2212131,Rocky and His Friends,NULL,NULL
+2842491,Simpson Tide,9,19,1998,4184347,Planet of the Apes,5800000,"Schaffner, Franklin J."
+2842491,Simpson Tide,9,19,1998,4435347,The Deer Hunter,15000000,"Cimino, Michael"
+2842577,The Joy of Sect,9,13,1998,258114,Barney & Friends,NULL,NULL
+2842577,The Joy of Sect,9,13,1998,2812626,The Prisoner,NULL,NULL
+2842625,The Trouble with Trillions,9,20,1998,1743301,Mission: Impossible,NULL,NULL
+2842646,This Little Wiggy,9,18,1998,3700335,Forbidden Planet,1900000,"Wilcox, Fred M."
+2842654,Trash of the Titans,9,22,1998,4490011,The Music Man,NULL,"DaCosta, Morton"
+2842654,Trash of the Titans,9,22,1998,4661252,Willy Wonka & the Chocolate Factory,3000000,"Stuart, Mel"
+2842127,Bart Star,9,6,1997,2628627,Mail Order Hero,NULL,"Bilson, Bruce"
+2842127,Bart Star,9,6,1997,3978369,Little Giants,20000000,"Dunham, Duwayne"
+2842365,Lisa's Sax,9,3,1997,107782,All in the Family,NULL,NULL
+2842402,Miracle on Evergreen Terrace,9,10,1997,3301465,A Charlie Brown Christmas,150000,"Melendez, Bill"
+2842468,Realty Bites,9,9,1997,3735431,Glengarry Glen Ross,12500000,"Foley, James"
+2842541,The Cartridge Family,9,5,1997,1866160,NFL Monday Night Football,NULL,"Dean, Chip & Esocoff, Drew & Janoff, Craig A. & Kamm, Larry & Sidaris, Andy"
+2842604,The Principal and the Pauper,9,2,1997,4565335,Toni Basil: Mickey,NULL,NULL
+2842627,The Two Mrs. Nahasapeemapetilons,9,7,1997,3421991,Ben-Hur,15900000,"Wyler, William"
+2842627,The Two Mrs. Nahasapeemapetilons,9,7,1997,4277562,Saturday Night Fever,3000000,"Badham, John"
+2842663,Treehouse of Horror VIII,9,4,1997,4448409,The Fly,700000,"Neumann, Kurt"
+2842663,Treehouse of Horror VIII,9,4,1997,4448410,The Fly,15000000,"Cronenberg, David"
+2842663,Treehouse of Horror VIII,9,4,1997,4494749,The Omega Man,NULL,"Sagal, Boris"
+2842242,Grade School Confidential,8,19,1997,1201779,Home Improvement,NULL,"Morris, Andy"
+2842242,Grade School Confidential,8,19,1997,3411195,Basic Instinct,49000000,"Verhoeven, Paul"
+2842242,Grade School Confidential,8,19,1997,3956520,Lean on Me,10000000,"Avildsen, John G."
+2842492,Simpsoncalifragilisticexpiala(Annoyed Grunt)cious,8,13,1997,1511666,Late Show with David Letterman,NULL,"Grossack, Randi"
+2842492,Simpsoncalifragilisticexpiala(Annoyed Grunt)cious,8,13,1997,1638074,Mad About You,NULL,NULL
+2842492,Simpsoncalifragilisticexpiala(Annoyed Grunt)cious,8,13,1997,2593986,The Andy Griffith Show,NULL,NULL
+2842492,Simpsoncalifragilisticexpiala(Annoyed Grunt)cious,8,13,1997,3693233,Flashdance,4000000,"Lyne, Adrian"
+2842492,Simpsoncalifragilisticexpiala(Annoyed Grunt)cious,8,13,1997,4022905,Mary Poppins,6000000,"Stevenson, Robert"
+2842492,Simpsoncalifragilisticexpiala(Annoyed Grunt)cious,8,13,1997,4239816,Reservoir Dogs,1200000,"Tarantino, Quentin"
+2842492,Simpsoncalifragilisticexpiala(Annoyed Grunt)cious,8,13,1997,4330841,Snow White and the Seven Dwarfs,2000000,"Cottrell, William & Hand, David & Jackson, Wilfred & Morey, Larry & Pearce, Perce & Sharpsteen, Ben"
+2842492,Simpsoncalifragilisticexpiala(Annoyed Grunt)cious,8,13,1997,4345062,Speed,30000000,"de Bont, Jan"
+2842539,The Canine Mutiny,8,20,1997,1500160,Lassie,NULL,NULL
+2842593,The Mysterious Voyage of Homer,8,9,1997,3821653,"Il buono, il brutto, il cattivo",1200000,"Leone, Sergio"
+2842593,The Mysterious Voyage of Homer,8,9,1997,4479247,The Lost Weekend,1250000,"Wilder, Billy"
+2842599,The Old Man and the Lisa,8,21,1997,2574767,That Girl,NULL,NULL
+2842599,The Old Man and the Lisa,8,21,1997,3844358,Invasion of the Body Snatchers,417000,"Siegel, Don"
+2842610,The Secret War of Lisa Simpson,8,25,1997,3362631,An Officer and a Gentleman,7500000,"Hackford, Taylor"
+2842610,The Secret War of Lisa Simpson,8,25,1997,4059854,Moonraker,34000000,"Gilbert, Lewis"
+2842615,The Simpsons Spin-Off Showcase,8,24,1997,292040,Beverly Hills Buntz,NULL,"Kellman, Barnet"
+2842615,The Simpsons Spin-Off Showcase,8,24,1997,459909,Cheers,NULL,NULL
+2842615,The Simpsons Spin-Off Showcase,8,24,1997,1647291,"Magnum, P.I.",NULL,NULL
+2842615,The Simpsons Spin-Off Showcase,8,24,1997,1805733,My Mother the Car,NULL,NULL
+2842615,The Simpsons Spin-Off Showcase,8,24,1997,2628566,The Brady Bunch Variety Hour,NULL,NULL
+2842615,The Simpsons Spin-Off Showcase,8,24,1997,2687756,The Flintstones,NULL,NULL
+2842617,The Springfield Files,8,10,1997,2901220,The X Files,1500000 (per episode),NULL
+2842617,The Springfield Files,8,10,1997,4640698,Waterworld,175000000,"Reynolds, Kevin"
+2842116,Bart After Dark,8,5,1996,4414415,The Best Little Whorehouse in Texas,35000000,"Higgins, Colin"
+2842171,"Burns, Baby Burns",8,4,1996,3476197,Caddyshack,6000000,"Ramis, Harold"
+2842304,Hurricane Neddy,8,8,1996,4541283,The Wizard of Oz,2800000,"Cukor, George & Fleming, Victor & LeRoy, Mervyn & Taurog, Norman & Vidor, King"
+2842574,The Homer They Fall,8,3,1996,4222664,Raging Bull,18000000,"Scorsese, Martin"
+2842574,The Homer They Fall,8,3,1996,4253194,Rocky,960000,"Avildsen, John G."
+2842662,Treehouse of Horror VII,8,1,1996,2875783,The Little People,NULL,"Claxton, William F."
+2842713,You Only Move Twice,8,2,1996,3740169,Goldfinger,3000000,"Hamilton, Guy"
+2842087,22 Short Films About Springfield,7,21,1996,4211270,Pulp Fiction,8000000,"Tarantino, Quentin"
+2842087,22 Short Films About Springfield,7,21,1996,4324562,Slacker,23000,"Linklater, Richard"
+2842087,22 Short Films About Springfield,7,21,1996,4547791,Thirty Two Short Films About Glenn Gould,NULL,"Girard, François"
+2842092,A Fish Called Selma,7,19,1996,3306240,A Fish Called Wanda,7500000,"Cleese, John & Crichton, Charles"
+2842092,A Fish Called Selma,7,19,1996,3489725,Cattle Queen of Montana,NULL,"Dwan, Allan"
+2842092,A Fish Called Selma,7,19,1996,3734507,Give My Regards to Broadway,NULL,"Bacon, Lloyd"
+2842092,A Fish Called Selma,7,19,1996,4115113,"Now, Voyager",NULL,"Rapper, Irving"
+2842092,A Fish Called Selma,7,19,1996,4184347,Planet of the Apes,5800000,"Schaffner, Franklin J."
+2842092,A Fish Called Selma,7,19,1996,4359988,Stop the World: I Want to Get Off,NULL,"Saville, Philip"
+2842092,A Fish Called Selma,7,19,1996,4440933,The Electric Horseman,12500000,"Pollack, Sydney"
+2842092,A Fish Called Selma,7,19,1996,4456866,The Greatest Story Ever Told,20000000,"Lean, David & Negulesco, Jean & Stevens, George"
+2842353,Lisa the Iconoclast,7,16,1996,2628576,The Brady Bunch,NULL,NULL
+2842467,Raging Abe Simpson and His Grumbling Grandson in 'The Curse of the Flying Hellfish',7,22,1996,4222944,Raiders of the Lost Ark,18000000,"Spielberg, Steven"
+2842467,Raging Abe Simpson and His Grumbling Grandson in 'The Curse of the Flying Hellfish',7,22,1996,4434166,The Day of the Jackal,NULL,"Zinnemann, Fred"
+2842514,"Summer of 4'2""",7,25,1996,3357489,American Graffiti,777000,"Lucas, George"
+2842550,The Day the Violence Died,7,18,1996,2284130,Schoolhouse Rock!,NULL,"Warburton, Tom"
+2842550,The Day the Violence Died,7,18,1996,2284148,I'm Just a Bill,NULL,NULL
+2842550,The Day the Violence Died,7,18,1996,4355974,Steamboat Willie,4986,"Disney, Walt & Iwerks, Ub"
+2842685,Two Bad Neighbors,7,13,1996,665584,Dennis the Menace,NULL,NULL
+2842685,Two Bad Neighbors,7,13,1996,3711068,From Russia with Love,2000000,"Young, Terence"
+2842258,Home Sweet Home-Dum-Diddly Doodily,7,3,1995,262889,Batman,NULL,NULL
+2842258,Home Sweet Home-Dum-Diddly Doodily,7,3,1995,2628576,The Brady Bunch,NULL,NULL
+2842331,King Size Homer,7,7,1995,4649690,What's Eating Gilbert Grape,11000000,"Hallström, Lasse"
+2842382,Marge Be Not Proud,7,11,1995,3221201,Xou da Xuxa,NULL,NULL
+2842382,Marge Be Not Proud,7,11,1995,3445502,BloodStorm,NULL,NULL
+2842382,Marge Be Not Proud,7,11,1995,4061856,Mortal Kombat,NULL,NULL
+2842419,Mother Simpson,7,8,1995,1518084,Laugh-In,NULL,NULL
+2842466,Radioactive Man,7,2,1995,262889,Batman,NULL,NULL
+2842466,Radioactive Man,7,2,1995,4640698,Waterworld,175000000,"Reynolds, Kevin"
+2842614,The Simpsons 138th Episode Spectacular,7,10,1995,1761658,Monty Python's Flying Circus,NULL,NULL
+2842614,The Simpsons 138th Episode Spectacular,7,10,1995,2687756,The Flintstones,NULL,NULL
+2842614,The Simpsons 138th Episode Spectacular,7,10,1995,3288886,2001: A Space Odyssey,12000000,"Kubrick, Stanley"
+2842614,The Simpsons 138th Episode Spectacular,7,10,1995,3615356,Dr. No,1100000,"Young, Terence"
+2842614,The Simpsons 138th Episode Spectacular,7,10,1995,4517341,The Shining,19000000,"Kubrick, Stanley"
+2842661,Treehouse of Horror VI,7,6,1995,2875714,Little Girl Lost,NULL,"Stewart, Paul"
+2842661,Treehouse of Horror VI,7,6,1995,3314704,A Nightmare on Elm Street,1800000,"Craven, Wes"
+2842661,Treehouse of Horror VI,7,6,1995,3314709,A Nightmare on Elm Street 4: The Dream Master,13000000,"Harlin, Renny"
+2842705,Who Shot Mr. Burns? Part Two,7,1,1995,606267,Dallas,NULL,NULL
+2842705,Who Shot Mr. Burns? Part Two,7,1,1995,606436,No More Mister Nice Guy: Part 1,NULL,"Katzman, Leonard"
+2842705,Who Shot Mr. Burns? Part Two,7,1,1995,606437,No More Mister Nice Guy: Part 2,NULL,"Katzman, Leonard"
+2842705,Who Shot Mr. Burns? Part Two,7,1,1995,2769411,The Mod Squad,NULL,"Crain, William"
+2842705,Who Shot Mr. Burns? Part Two,7,1,1995,3014277,Twin Peaks,NULL,NULL
+2842705,Who Shot Mr. Burns? Part Two,7,1,1995,3014279,(#1.3),NULL,"Lynch, David"
+2842705,Who Shot Mr. Burns? Part Two,7,1,1995,3411195,Basic Instinct,49000000,"Verhoeven, Paul"
+2842705,Who Shot Mr. Burns? Part Two,7,1,1995,4450275,The Fugitive,44000000,"Davis, Andrew"
+2842705,Who Shot Mr. Burns? Part Two,7,1,1995,4586548,Twin Peaks: Fire Walk with Me,10000000,"Lynch, David"
+2842080,'Round Springfield,6,22,1995,2645883,The Cosby Show,NULL,NULL
+2842080,'Round Springfield,6,22,1995,4353455,Star Wars: Episode V - The Empire Strikes Back,18000000,"Kershner, Irvin"
+2842080,'Round Springfield,6,22,1995,4476500,The Lion King,45000000,"Allers, Roger & Minkoff, Rob"
+2842097,A Star Is Burns,6,18,1995,3421991,Ben-Hur,15900000,"Wyler, William"
+2842097,A Star Is Burns,6,18,1995,3475676,Cabaret,6000000,"Fosse, Bob"
+2842097,A Star Is Burns,6,18,1995,3568873,Death Wish,3000000,"Winner, Michael"
+2842097,A Star Is Burns,6,18,1995,3626769,E.T. the Extra-Terrestrial,10500000,"Spielberg, Steven"
+2842097,A Star Is Burns,6,18,1995,4028508,MC Hammer: U Can't Touch This,NULL,"Wainwright, Rupert"
+2842110,And Maggie Makes Three,6,13,1995,1414222,Knight Rider,NULL,NULL
+2842110,And Maggie Makes Three,6,13,1995,3615356,Dr. No,1100000,"Young, Terence"
+2842275,Homer the Great,6,12,1995,4222944,Raiders of the Lost Ark,18000000,"Spielberg, Steven"
+2842275,Homer the Great,6,12,1995,4471849,The Last Emperor,23000000,"Bertolucci, Bernardo"
+2842296,Homie the Clown,6,15,1995,3515236,Close Encounters of the Third Kind,20000000,"Spielberg, Steven"
+2842296,Homie the Clown,6,15,1995,4454047,The Godfather,6000000,"Coppola, Francis Ford"
+2842605,The PTA Disbands,6,21,1995,901468,F Troop,NULL,NULL
+2842605,The PTA Disbands,6,21,1995,3849886,It's a Wonderful Life,3180000,"Capra, Frank"
+2842605,The PTA Disbands,6,21,1995,4540241,The Wild Geese,11600000,"McLaglen, Andrew V."
+2842616,The Springfield Connection,6,23,1995,1170241,Hill Street Blues,NULL,NULL
+2842616,The Springfield Connection,6,23,1995,4518131,The Silence of the Lambs,19000000,"Demme, Jonathan"
+2842687,Two Dozen and One Greyhounds,6,20,1995,3416045,Beauty and the Beast,25000000,"Trousdale, Gary & Wise, Kirk"
+2842687,Two Dozen and One Greyhounds,6,20,1995,3938498,Lady and the Tramp,4000000,"Geronimi, Clyde & Jackson, Wilfred & Luske, Hamilton"
+2842687,Two Dozen and One Greyhounds,6,20,1995,4136225,One Hundred and One Dalmatians,4000000,"Geronimi, Clyde & Luske, Hamilton & Reitherman, Wolfgang"
+2842704,Who Shot Mr. Burns? Part One,6,25,1995,606267,Dallas,NULL,NULL
+2842704,Who Shot Mr. Burns? Part One,6,25,1995,606272,A House Divided,NULL,"Moore, Irving J."
+2842112,Another Simpsons Clip Show,6,3,1994,4455319,The Graduate,3000000,"Nichols, Mike"
+2842112,Another Simpsons Clip Show,6,3,1994,4541283,The Wizard of Oz,2800000,"Cukor, George & Fleming, Victor & LeRoy, Mervyn & Taurog, Norman & Vidor, King"
+2842124,Bart of Darkness,6,1,1994,1905593,NYPD Blue,NULL,NULL
+2842124,Bart of Darkness,6,1,1994,3411905,Bathing Beauty,2361000,"Sidney, George"
+2842124,Bart of Darkness,6,1,1994,4230064,Rear Window,1000000,"Hitchcock, Alfred"
+2842143,Bart's Girlfriend,6,7,1994,4184347,Planet of the Apes,5800000,"Schaffner, Franklin J."
+2842143,Bart's Girlfriend,6,7,1994,4277562,Saturday Night Fever,3000000,"Badham, John"
+2842220,Fear of Flying,6,11,1994,459909,Cheers,NULL,NULL
+2842220,Fear of Flying,6,11,1994,1612683,Lost in Space,NULL,NULL
+2842220,Fear of Flying,6,11,1994,3791649,Home Alone,18000000,"Columbus, Chris"
+2842220,Fear of Flying,6,11,1994,4111257,North by Northwest,3101000,"Hitchcock, Alfred"
+2842243,Grampa vs. Sexual Inadequacy,6,10,1994,4493755,The Nutty Professor,NULL,"Lewis, Jerry"
+2842265,Homer Badman,6,9,1994,1130116,Hard Copy,NULL,"Asner, Jules & Boyes, Malcom & Bruckner, Doug & Ciccarone, George & Dayton, John Philip & Doran, Stephen & Firestone, Scott & Jbara, Dan & Lalama, Pat & Lortz, Dennis & Moffet, John & Penacoli, Jerry & Rivielle, Robert & Shore, Peter & Tat, Harley"
+2842265,Homer Badman,6,9,1994,3776454,Henry: Portrait of a Serial Killer,111000,"McNaughton, John"
+2842265,Homer Badman,6,9,1994,4476996,The Little Mermaid,40000000,"Clements, Ron & Musker, John"
+2842320,Itchy & Scratchy Land,6,4,1994,3675923,Fantasia,2280000,"Algar, James & Armstrong, Samuel & Beebe Jr., Ford & Ferguson, Norman & Hand, David & Handley, Jim & Hee, T. & Jackson, Wilfred & Luske, Hamilton & Roberts, Bill & Satterfield, Paul & Sharpsteen, Ben"
+2842320,Itchy & Scratchy Land,6,4,1994,3875124,Jurassic Park,63000000,"Spielberg, Steven"
+2842320,Itchy & Scratchy Land,6,4,1994,4181431,Pink Floyd: The Wall,12000000,"Parker, Alan"
+2842320,Itchy & Scratchy Land,6,4,1994,4181770,Pinocchio,2600000,"Ferguson, Norman & Hee, T. & Jackson, Wilfred & Kinney, Jack & Luske, Hamilton & Roberts, Bill & Sharpsteen, Ben"
+2842320,Itchy & Scratchy Land,6,4,1994,4537322,The Walt Disney Story,NULL,NULL
+2842320,Itchy & Scratchy Land,6,4,1994,4646957,Westworld,1250000,"Crichton, Michael"
+2842485,Sideshow Bob Roberts,6,5,1994,3305936,A Few Good Men,40000000,"Reiner, Rob"
+2842485,Sideshow Bob Roberts,6,5,1994,3349638,All the President's Men,8500000,"Pakula, Alan J."
+2842485,Sideshow Bob Roberts,6,5,1994,3448560,Bob Roberts,NULL,"Robbins, Tim"
+2842485,Sideshow Bob Roberts,6,5,1994,3511582,Citizen Kane,839727,"Welles, Orson"
+2842660,Treehouse of Horror V,6,6,1994,2801513,The Outer Limits,NULL,NULL
+2842660,Treehouse of Horror V,6,6,1994,3301727,A Chorus Line,27000000,"Attenborough, Richard"
+2842660,Treehouse of Horror V,6,6,1994,3705527,Frankenstein,291000,"Whale, James"
+2842660,Treehouse of Horror V,6,6,1994,4517341,The Shining,19000000,"Kubrick, Stanley"
+2842119,Bart Gets an Elephant,5,17,1994,3875124,Jurassic Park,63000000,"Spielberg, Steven"
+2842119,Bart Gets an Elephant,5,17,1994,4541283,The Wizard of Oz,2800000,"Cukor, George & Fleming, Victor & LeRoy, Mervyn & Taurog, Norman & Vidor, King"
+2842121,Bart Gets Famous,5,12,1994,1271066,In Living Color,NULL,NULL
+2842121,Bart Gets Famous,5,12,1994,1685748,Match Game 73,NULL,NULL
+2842121,Bart Gets Famous,5,12,1994,4028508,MC Hammer: U Can't Touch This,NULL,"Wainwright, Rupert"
+2842121,Bart Gets Famous,5,12,1994,4184347,Planet of the Apes,5800000,"Schaffner, Franklin J."
+2842170,Burns' Heir,5,18,1994,3301756,A Christmas Carol,NULL,"Marin, Edwin L."
+2842170,Burns' Heir,5,18,1994,3967367,Let's All Go to the Lobby,NULL,NULL
+2842170,Burns' Heir,5,18,1994,4570768,Toys,43000000,"Levinson, Barry"
+2842196,Deep Space Homer,5,15,1994,1201779,Home Improvement,NULL,"Morris, Andy"
+2842196,Deep Space Homer,5,15,1994,1674057,Married with Children,NULL,NULL
+2842196,Deep Space Homer,5,15,1994,2440192,The Gamesters of Triskelion,NULL,"Nelson, Gene"
+2842196,Deep Space Homer,5,15,1994,2607248,The Beverly Hillbillies,NULL,NULL
+2842196,Deep Space Homer,5,15,1994,3288886,2001: A Space Odyssey,12000000,"Kubrick, Stanley"
+2842196,Deep Space Homer,5,15,1994,3346764,Alien,11000000,"Scott, Ridley"
+2842196,Deep Space Homer,5,15,1994,4510057,The Right Stuff,27000000,"Kaufman, Philip"
+2842269,Homer Loves Flanders,5,16,1994,3740462,Golgo 13,NULL,"Dezaki, Osamu"
+2842269,Homer Loves Flanders,5,16,1994,4399037,Terminator 2: Judgment Day,102000000,"Cameron, James"
+2842269,Homer Loves Flanders,5,16,1994,4527397,The Ten Commandments,13282712,"DeMille, Cecil B."
+2842269,Homer Loves Flanders,5,16,1994,4620482,Vertigo,2479000,"Hitchcock, Alfred"
+2842279,Homer the Vigilante,5,11,1994,753619,Dragnet,NULL,NULL
+2842279,Homer the Vigilante,5,11,1994,3615467,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1800000,"Kubrick, Stanley"
+2842279,Homer the Vigilante,5,11,1994,3849784,It's a Mad Mad Mad Mad World,9400000,"Kramer, Stanley"
+2842336,Lady Bouvier's Lover,5,21,1994,3598466,Dip huet seung hung,NULL,"Woo, John"
+2842336,Lady Bouvier's Lover,5,21,1994,4455319,The Graduate,3000000,"Nichols, Mike"
+2842359,Lisa vs. Malibu Stacy,5,14,1994,1761658,Monty Python's Flying Circus,NULL,NULL
+2842359,Lisa vs. Malibu Stacy,5,14,1994,3430128,Big,18000000,"Marshall, Penny"
+2842478,Secrets of a Successful Marriage,5,22,1994,3488691,Cat on a Hot Tin Roof,3000000,"Brooks, Richard"
+2842517,Sweet Seymour Skinner's Baadasssss Song,5,19,1994,3346764,Alien,11000000,"Scott, Ridley"
+2842533,The Boy Who Knew Too Much,5,20,1994,3284455,12 Angry Men,350000,"Lumet, Sidney"
+2842533,The Boy Who Knew Too Much,5,20,1994,3599348,Dirty Harry,4000000,"Siegel, Don"
+2842533,The Boy Who Knew Too Much,5,20,1994,3707358,Free Willy,20000000,"Wincer, Simon"
+2842078,"$pringfield (Or, How I Learned to Stop Worrying and Love Legalized Gambling)",5,10,1993,2660483,The Dick Van Dyke Show,NULL,NULL
+2842078,"$pringfield (Or, How I Learned to Stop Worrying and Love Legalized Gambling)",5,10,1993,3511582,Citizen Kane,839727,"Welles, Orson"
+2842078,"$pringfield (Or, How I Learned to Stop Worrying and Love Legalized Gambling)",5,10,1993,3537154,Creepshow,8000000,"Romero, George A."
+2842078,"$pringfield (Or, How I Learned to Stop Worrying and Love Legalized Gambling)",5,10,1993,4223279,Rain Man,25000000,"Levinson, Barry"
+2842144,Bart's Inner Child,5,7,1993,2827561,The Road Runner Show,NULL,"Chiniquy, Gerry & Freleng, Friz & Jones, Chuck & Larriva, Rudy & McKimson, Robert & Pratt, Hawley"
+2842144,Bart's Inner Child,5,7,1993,3741044,Gone with the Wind,3977000,"Cukor, George & Fleming, Victor & Wood, Sam"
+2842159,Boy Scoutz 'n the Hood,5,8,1993,2440137,Star Trek,200000,NULL
+2842159,Boy Scoutz 'n the Hood,5,8,1993,3572691,Deliverance,2000000,"Boorman, John"
+2842159,Boy Scoutz 'n the Hood,5,8,1993,3709205,Friday the 13th,550000,"Cunningham, Sean S."
+2842159,Boy Scoutz 'n the Hood,5,8,1993,3896294,King Kong,670000,"Cooper, Merian C. & Schoedsack, Ernest B."
+2842159,Boy Scoutz 'n the Hood,5,8,1993,4075536,My Dinner with Andre,NULL,"Malle, Louis"
+2842159,Boy Scoutz 'n the Hood,5,8,1993,4133925,On the Town,2111250,"Donen, Stanley & Kelly, Gene"
+2842174,Cape Feare,5,2,1993,1248548,I Love Lucy,NULL,NULL
+2842174,Cape Feare,5,2,1993,3314704,A Nightmare on Elm Street,1800000,"Craven, Wes"
+2842174,Cape Feare,5,2,1993,3482446,Cape Fear,35000000,"Scorsese, Martin"
+2842174,Cape Feare,5,2,1993,3740169,Goldfinger,3000000,"Hamilton, Guy"
+2842267,Homer Goes to College,5,3,1993,1552408,Let's Make a Deal,NULL,"Behar, Joseph"
+2842267,Homer Goes to College,5,3,1993,3369392,Animal House,3000000,"Landis, John"
+2842267,Homer Goes to College,5,3,1993,4534361,The Untouchables,25000000,"De Palma, Brian"
+2842286,Homer's Barbershop Quartet,5,1,1993,123824,Alvin & the Chipmunks,NULL,NULL
+2842286,Homer's Barbershop Quartet,5,1,1993,2743231,The Late Show,NULL,NULL
+2842286,Homer's Barbershop Quartet,5,1,1993,2861102,The Tonight Show Starring Johnny Carson,NULL,"De Cordova, Frederick"
+2842286,Homer's Barbershop Quartet,5,1,1993,3966910,Let It Be,NULL,"Lindsay-Hogg, Michael"
+2842386,Marge on the Lam,5,6,1993,753619,Dragnet,NULL,NULL
+2842386,Marge on the Lam,5,6,1993,4544680,Thelma & Louise,16500000,"Scott, Ridley"
+2842474,Rosebud,5,4,1993,258114,Barney & Friends,NULL,NULL
+2842474,Rosebud,5,4,1993,2408256,Soul Train,NULL,NULL
+2842474,Rosebud,5,4,1993,3511582,Citizen Kane,839727,"Welles, Orson"
+2842474,Rosebud,5,4,1993,4184347,Planet of the Apes,5800000,"Schaffner, Franklin J."
+2842474,Rosebud,5,4,1993,4493755,The Nutty Professor,NULL,"Lewis, Jerry"
+2842474,Rosebud,5,4,1993,4516306,The Seven Year Itch,1800000,"Wilder, Billy"
+2842474,Rosebud,5,4,1993,4541283,The Wizard of Oz,2800000,"Cukor, George & Fleming, Victor & LeRoy, Mervyn & Taurog, Norman & Vidor, King"
+2842581,The Last Temptation of Homer,5,9,1993,4455319,The Graduate,3000000,"Nichols, Mike"
+2842581,The Last Temptation of Homer,5,9,1993,4473423,The Last Temptation of Christ,7000000,"Scorsese, Martin"
+2842581,The Last Temptation of Homer,5,9,1993,4541283,The Wizard of Oz,2800000,"Cukor, George & Fleming, Victor & LeRoy, Mervyn & Taurog, Norman & Vidor, King"
+2842658,Treehouse of Horror IV,5,5,1993,1876343,Night Gallery,NULL,NULL
+2842658,Treehouse of Horror IV,5,5,1993,2875729,"Nightmare at 20,000 Feet",NULL,"Donner, Richard"
+2842658,Treehouse of Horror IV,5,5,1993,3301465,A Charlie Brown Christmas,150000,"Melendez, Bill"
+2842658,Treehouse of Horror IV,5,5,1993,3349452,All That Money Can Buy,NULL,"Dieterle, William"
+2842658,Treehouse of Horror IV,5,5,1993,3615596,Dracula,40000000,"Coppola, Francis Ford"
+2842658,Treehouse of Horror IV,5,5,1993,4111948,"Nosferatu, eine Symphonie des Grauens",NULL,"Murnau, F.W."
+2842658,Treehouse of Horror IV,5,5,1993,4269994,Salem's Lot,4000000,"Hooper, Tobe"
+2842658,Treehouse of Horror IV,5,5,1993,4478792,The Lost Boys,NULL,"Schumacher, Joel"
+2842658,Treehouse of Horror IV,5,5,1993,4586441,Twilight Zone: The Movie,10000000,"Dante, Joe & Landis, John & Miller, George & Spielberg, Steven"
+2842164,Brother from the Same Planet,4,14,1993,2274576,Saturday Night Live,NULL,NULL
+2842164,Brother from the Same Planet,4,14,1993,4504826,The Public Enemy,NULL,"Wellman, William A."
+2842164,Brother from the Same Planet,4,14,1993,4517341,The Shining,19000000,"Kubrick, Stanley"
+2842164,Brother from the Same Planet,4,14,1993,4656834,Who's Afraid of Virginia Woolf?,7500000,"Nichols, Mike"
+2842206,Duffless,4,16,1993,3302154,A Clockwork Orange,2200000,"Kubrick, Stanley"
+2842206,Duffless,4,16,1993,3472598,Butch Cassidy and the Sundance Kid,6000000,"Hill, George Roy"
+2842308,I Love Lisa,4,15,1993,2861102,The Tonight Show Starring Johnny Carson,NULL,"De Cordova, Frederick"
+2842308,I Love Lisa,4,15,1993,3375613,Apocalypse Now,31500000,"Coppola, Francis Ford"
+2842334,Krusty Gets Kancelled,4,22,1993,1189808,Hollywood Squares,NULL,"Darley, Chris"
+2842334,Krusty Gets Kancelled,4,22,1993,3499467,Chelovek v ramke,NULL,"Khitruk, Fyodor"
+2842334,Krusty Gets Kancelled,4,22,1993,3647428,Elvis,NULL,"Binder, Steve"
+2842334,Krusty Gets Kancelled,4,22,1993,4438711,The Doors,38000000,"Stone, Oliver"
+2842334,Krusty Gets Kancelled,4,22,1993,4456061,The Great Gabbo,NULL,"Cruze, James & von Stroheim, Erich"
+2842339,Last Exit to Springfield,4,17,1993,262889,Batman,NULL,NULL
+2842339,Last Exit to Springfield,4,17,1993,1612683,Lost in Space,NULL,NULL
+2842339,Last Exit to Springfield,4,17,1993,3412036,Batman,48000000,"Burton, Tim"
+2842339,Last Exit to Springfield,4,17,1993,4454080,The Godfather: Part II,13000000,"Coppola, Francis Ford"
+2842339,Last Exit to Springfield,4,17,1993,4677229,Yellow Submarine,NULL,"Dunning, George"
+2842385,Marge in Chains,4,21,1993,1674057,Married with Children,NULL,NULL
+2842385,Marge in Chains,4,21,1993,4209884,Psycho,806947,"Hitchcock, Alfred"
+2842389,Marge vs. the Monorail,4,12,1993,2687756,The Flintstones,NULL,NULL
+2842389,Marge vs. the Monorail,4,12,1993,3412036,Batman,48000000,"Burton, Tim"
+2842389,Marge vs. the Monorail,4,12,1993,4490011,The Music Man,NULL,"DaCosta, Morton"
+2842480,Selma's Choice,4,13,1993,1792796,Birth 101,NULL,"Kellman, Barnet"
+2842480,Selma's Choice,4,13,1993,4339477,Sophie's Choice,12000000,"Pakula, Alan J."
+2842504,So It's Come to This: A Simpsons Clip Show,4,18,1993,3362631,An Officer and a Gentleman,7500000,"Hackford, Taylor"
+2842504,So It's Come to This: A Simpsons Clip Show,4,18,1993,4135922,One Flew Over the Cuckoo's Nest,4400000,"Forman, Milos"
+2842504,So It's Come to This: A Simpsons Clip Show,4,18,1993,4209884,Psycho,806947,"Hitchcock, Alfred"
+2842504,So It's Come to This: A Simpsons Clip Show,4,18,1993,4222944,Raiders of the Lost Ark,18000000,"Spielberg, Steven"
+2842560,The Front,4,19,1993,1143917,He-Man and the Masters of the Universe,NULL,NULL
+2842696,Whacking Day,4,20,1993,3863841,JFK,40000000,"Stone, Oliver"
+2842099,A Streetcar Named Marge,4,2,1992,3349438,All That Jazz,NULL,"Fosse, Bob"
+2842099,A Streetcar Named Marge,4,2,1992,4378173,Sweeney Todd: The Demon Barber of Fleet Street,NULL,"Hughes, Terry & Prince, Harold"
+2842099,A Streetcar Named Marge,4,2,1992,4416339,The Birds,2500000,"Hitchcock, Alfred"
+2842099,A Streetcar Named Marge,4,2,1992,4455987,The Great Escape,4000000,"Sturges, John"
+2842276,Homer the Heretic,4,3,1992,4248608,Risky Business,6200000,"Brickman, Paul"
+2842276,Homer the Heretic,4,3,1992,4655105,White Lightning,NULL,"Sargent, Joseph"
+2842292,Homer's Triple Bypass,4,11,1992,534167,Cops,NULL,NULL
+2842321,Itchy & Scratchy: The Movie,4,6,1992,801291,El Chapulín Colorado,NULL,"Segoviano, Enrique"
+2842321,Itchy & Scratchy: The Movie,4,6,1992,3576991,Der Fuehrer's Face,NULL,"Kinney, Jack"
+2842321,Itchy & Scratchy: The Movie,4,6,1992,4355974,Steamboat Willie,4986,"Disney, Walt & Iwerks, Ub"
+2842321,Itchy & Scratchy: The Movie,4,6,1992,4439849,The Ducktators,NULL,"McCabe, Norm"
+2842327,Kamp Krusty,4,1,1992,3421991,Ben-Hur,15900000,"Wyler, William"
+2842327,Kamp Krusty,4,1,1992,4449941,The French Lieutenant's Woman,NULL,"Reisz, Karel"
+2842327,Kamp Krusty,4,1,1992,4671239,Wuthering Heights,NULL,"Kosminsky, Peter"
+2842350,Lisa the Beauty Queen,4,4,1992,3375613,Apocalypse Now,31500000,"Coppola, Francis Ford"
+2842350,Lisa the Beauty Queen,4,4,1992,3784199,Hindenburg Disaster Newsreel Footage,NULL,NULL
+2842362,Lisa's First Word,4,10,1992,3496151,Chariots of Fire,5500000,"Hudson, Hugh"
+2842384,Marge Gets a Job,4,7,1992,3511582,Citizen Kane,839727,"Welles, Orson"
+2842384,Marge Gets a Job,4,7,1992,3739193,Gojira,175000,"Honda, Ishirô"
+2842423,Mr. Plow,4,9,1992,3432540,Bigfoot,NULL,"Gimlin, Bob & Patterson, Roger"
+2842423,Mr. Plow,4,9,1992,3511195,Circus of the Stars,NULL,NULL
+2842423,Mr. Plow,4,9,1992,3615207,Dr. Jekyll and Mr. Hyde,NULL,"Fleming, Victor"
+2842423,Mr. Plow,4,9,1992,4222944,Raiders of the Lost Ark,18000000,"Spielberg, Steven"
+2842435,New Kid on the Block,4,8,1992,2465382,Studs,NULL,NULL
+2842435,New Kid on the Block,4,8,1992,4047724,Miracle on 34th Street,NULL,"Seaton, George"
+2842657,Treehouse of Horror III,4,5,1992,103313,Alfred Hitchcock Presents,NULL,NULL
+2842657,Treehouse of Horror III,4,5,1992,2875715,Living Doll,NULL,"Sarafian, Richard C."
+2842657,Treehouse of Horror III,4,5,1992,3461855,Bright Eyes,NULL,"Butler, David"
+2842657,Treehouse of Horror III,4,5,1992,3502745,Child's Play,9000000,"Holland, Tom"
+2842657,Treehouse of Horror III,4,5,1992,3896294,King Kong,670000,"Cooper, Merian C. & Schoedsack, Ernest B."
+2842657,Treehouse of Horror III,4,5,1992,4100951,Night of the Living Dead,114000,"Romero, George A."
+2842657,Treehouse of Horror III,4,5,1992,4174769,Pet Sematary,11500000,"Lambert, Mary"
+2842657,Treehouse of Horror III,4,5,1992,4239632,Rescue from Gilligan's Island,NULL,"Martinson, Leslie H."
+2842657,Treehouse of Horror III,4,5,1992,4443000,The Evil Dead,350000,"Raimi, Sam"
+2842657,Treehouse of Horror III,4,5,1992,4509322,The Return of the Living Dead,4000000,"O'Bannon, Dan"
+2842142,Bart's Friend Falls in Love,3,23,1992,3587849,Dial M for Murder,1400000,"Hitchcock, Alfred"
+2842142,Bart's Friend Falls in Love,3,23,1992,4222944,Raiders of the Lost Ark,18000000,"Spielberg, Steven"
+2842152,Black Widower,3,21,1992,262889,Batman,NULL,NULL
+2842152,Black Widower,3,21,1992,706572,Dinosaurs,NULL,NULL
+2842152,Black Widower,3,21,1992,1337739,Jerry Lewis MDA Labor Day Telethon,NULL,NULL
+2842152,Black Widower,3,21,1992,3529904,Cool Hand Luke,3200000,"Rosenberg, Stuart"
+2842152,Black Widower,3,21,1992,4209884,Psycho,806947,"Hitchcock, Alfred"
+2842181,Colonel Homer,3,20,1992,1148953,Hee Haw,NULL,NULL
+2842200,Dog of Death,3,19,1992,283607,Ben Casey,NULL,NULL
+2842259,Homer Alone,3,15,1992,2827561,The Road Runner Show,NULL,"Chiniquy, Gerry & Freleng, Friz & Jones, Chuck & Larriva, Rudy & McKimson, Robert & Pratt, Hawley"
+2842259,Homer Alone,3,15,1992,3786303,Histoire d'O,NULL,"Jaeckin, Just"
+2842259,Homer Alone,3,15,1992,3791649,Home Alone,18000000,"Columbus, Chris"
+2842264,Homer at the Bat,3,17,1992,4491034,The Natural,28000000,"Levinson, Barry"
+2842465,Radio Bart,3,13,1992,2408256,Soul Train,NULL,NULL
+2842465,Radio Bart,3,13,1992,3330378,Ace in the Hole,1800000,"Wilder, Billy"
+2842465,Radio Bart,3,13,1992,3858779,Jaws,8000000,"Spielberg, Steven"
+2842465,Radio Bart,3,13,1992,4641835,We Are the World,NULL,"Trbovich, Tom"
+2842481,Separate Vocations,3,18,1992,262889,Batman,NULL,NULL
+2842481,Separate Vocations,3,18,1992,3426612,Beverly Hills Cop,14000000,"Brest, Martin"
+2842135,Bart the Murderer,3,4,1991,3742742,Goodfellas,25000000,"Scorsese, Martin"
+2842135,Bart the Murderer,3,4,1991,4661252,Willy Wonka & the Chocolate Factory,3000000,"Stuart, Mel"
+2842169,Burns Verkaufen der Kraftwerk,3,11,1991,4583021,Tucker: The Man and His Dream,23000000,"Coppola, Francis Ford"
+2842223,Flaming Moe's,3,10,1991,459909,Cheers,NULL,NULL
+2842223,Flaming Moe's,3,10,1991,3517632,Cocktail,20000000,"Donaldson, Roger"
+2842266,Homer Defined,3,5,1991,4075536,My Dinner with Andre,NULL,"Malle, Louis"
+2842344,"Like Father, Like Clown",3,6,1991,3538671,Crocodile Dundee,8800000,"Faiman, Peter"
+2842344,"Like Father, Like Clown",3,6,1991,3615467,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1800000,"Kubrick, Stanley"
+2842344,"Like Father, Like Clown",3,6,1991,3684408,Field of Dreams,NULL,"Robinson, Phil Alden"
+2842344,"Like Father, Like Clown",3,6,1991,3700057,For Your Eyes Only,28000000,"Glen, John"
+2842344,"Like Father, Like Clown",3,6,1991,4454080,The Godfather: Part II,13000000,"Coppola, Francis Ford"
+2842344,"Like Father, Like Clown",3,6,1991,4467114,The Jazz Singer,422000,"Crosland, Alan"
+2842344,"Like Father, Like Clown",3,6,1991,4467117,The Jazz Singer,NULL,"Fleischer, Richard"
+2842363,Lisa's Pony,3,8,1991,3288886,2001: A Space Odyssey,12000000,"Kubrick, Stanley"
+2842363,Lisa's Pony,3,8,1991,4454047,The Godfather,6000000,"Coppola, Francis Ford"
+2842421,Mr. Lisa Goes to Washington,3,2,1991,4522996,The Sting,5500000,"Hill, George Roy"
+2842476,Saturdays of Thunder,3,9,1991,3421991,Ben-Hur,15900000,"Wyler, William"
+2842476,Saturdays of Thunder,3,9,1991,3968004,Lethal Weapon,15000000,"Donner, Richard"
+2842510,Stark Raving Dad,3,1,1991,134702,America's Funniest Home Videos,NULL,"Felsen Von Halle, Robin & Fleming, Erik & Gordon, Neil & Hirsen, Steve"
+2842656,Treehouse of Horror II,3,7,1991,2875709,It's a Good Life,NULL,"Sheldon, James"
+2842656,Treehouse of Horror II,3,7,1991,3705527,Frankenstein,291000,"Whale, James"
+2842656,Treehouse of Horror II,3,7,1991,4042237,Midnight Express,1800000,"Parker, Alan"
+2842656,Treehouse of Horror II,3,7,1991,4528212,The Thing with Two Heads,NULL,"Frost, Lee"
+2842656,Treehouse of Horror II,3,7,1991,4586441,Twilight Zone: The Movie,10000000,"Dante, Joe & Landis, John & Miller, George & Spielberg, Steven"
+2842141,Bart's Dog Gets an F,2,16,1991,3369392,Animal House,3000000,"Landis, John"
+2842141,Bart's Dog Gets an F,2,16,1991,3626769,E.T. the Extra-Terrestrial,10500000,"Spielberg, Steven"
+2842141,Bart's Dog Gets an F,2,16,1991,4495802,The Oscar,NULL,"Rouse, Russell"
+2842167,Brush with Greatness,2,18,1991,4253194,Rocky,960000,"Avildsen, John G."
+2842283,Homer vs. Lisa and the 8th Commandment,2,13,1991,626089,Davey and Goliath,NULL,NULL
+2842283,Homer vs. Lisa and the 8th Commandment,2,13,1991,2302209,Seinfeld,NULL,NULL
+2842283,Homer vs. Lisa and the 8th Commandment,2,13,1991,3463140,Broadcast News,20000000,"Brooks, James L."
+2842283,Homer vs. Lisa and the 8th Commandment,2,13,1991,4111257,North by Northwest,3101000,"Hitchcock, Alfred"
+2842283,Homer vs. Lisa and the 8th Commandment,2,13,1991,4353823,Stardust Memories,10000000,"Allen, Woody"
+2842283,Homer vs. Lisa and the 8th Commandment,2,13,1991,4527397,The Ten Commandments,13282712,"DeMille, Cecil B."
+2842366,Lisa's Substitute,2,19,1991,4455319,The Graduate,3000000,"Nichols, Mike"
+2842438,"Oh Brother, Where Art Thou?",2,15,1991,3968004,Lethal Weapon,15000000,"Donner, Richard"
+2842440,Old Money,2,17,1991,4493755,The Nutty Professor,NULL,"Lewis, Jerry"
+2842440,Old Money,2,17,1991,4564097,Tom Jones,1000000,"Richardson, Tony"
+2842444,"One Fish, Two Fish, Blowfish, Blue Fish",2,11,1991,4455319,The Graduate,3000000,"Nichols, Mike"
+2842461,Principal Charming,2,14,1991,3741044,Gone with the Wind,3977000,"Cukor, George & Fleming, Victor & Wood, Sam"
+2842461,Principal Charming,2,14,1991,4527584,The Terminator,6400000,"Cameron, James"
+2842461,Principal Charming,2,14,1991,4620482,Vertigo,2479000,"Hitchcock, Alfred"
+2842630,The War of the Simpsons,2,20,1991,3517632,Cocktail,20000000,"Donaldson, Roger"
+2842630,The War of the Simpsons,2,20,1991,4656834,Who's Afraid of Virginia Woolf?,7500000,"Nichols, Mike"
+2842631,The Way We Was,2,12,1991,2357350,Siskel & Ebert & the Movies,NULL,NULL
+2842648,Three Men and a Comic Book,2,21,1991,2687756,The Flintstones,NULL,NULL
+2842648,Three Men and a Comic Book,2,21,1991,4530926,The Treasure of the Sierra Madre,3000000,"Huston, John"
+2842120,Bart Gets an F,2,1,1990,3896294,King Kong,670000,"Cooper, Merian C. & Schoedsack, Ernest B."
+2842129,Bart the Daredevil,2,8,1990,3946843,Lawrence of Arabia,15000000,"Lean, David"
+2842187,Dancin' Homer,2,5,1990,4503287,The Pride of the Yankees,NULL,"Wood, Sam"
+2842322,Itchy and Scratchy and Marge,2,9,1990,4209884,Psycho,806947,"Hitchcock, Alfred"
+2842489,Simpson and Delilah,2,2,1990,3849886,It's a Wonderful Life,3180000,"Capra, Frank"
+2842655,Treehouse of Horror,2,3,1990,2875813,To Serve Man,NULL,"Bare, Richard L."
+2842655,Treehouse of Horror,2,3,1990,3705527,Frankenstein,291000,"Whale, James"
+2842655,Treehouse of Horror,2,3,1990,4407742,The Amityville Horror,4700000,"Rosenberg, Stuart"
+2842655,Treehouse of Horror,2,3,1990,4443379,The Exorcist,12000000,"Friedkin, William"
+2842686,Two Cars in Every Garage and Three Eyes on Every Fish,2,4,1990,3511582,Citizen Kane,839727,"Welles, Orson"
+2842131,Bart the General,1,5,1990,4166654,Patton,12000000,"Schaffner, Franklin J."
+2842288,Homer's Night Out,1,10,1990,3515236,Close Encounters of the Third Kind,20000000,"Spielberg, Steven"
+2842288,Homer's Night Out,1,10,1990,3946843,Lawrence of Arabia,15000000,"Lean, David"
+2842333,Krusty Gets Busted,1,12,1990,2286424,"Scooby Doo, Where Are You!",NULL,NULL
+2842333,Krusty Gets Busted,1,12,1990,2812626,The Prisoner,NULL,NULL
+2842343,Life on the Fast Lane,1,9,1990,3362631,An Officer and a Gentleman,7500000,"Hackford, Taylor"
+2842343,Life on the Fast Lane,1,9,1990,4451573,The Gay Divorcee,520000,"Sandrich, Mark"
+2842505,Some Enchanted Evening,1,13,1990,136224,America's Most Wanted,500000,"Bruce, James & Butler, David H. & Carlson, Kenneth A. & Coppola, Christopher & Denham, Philippe & Greulach, Chad & Heard, Hollywood & Hemecker, Ralph & Kohl, Mark & Kunert, Martin & Menick, Stephen & Meyers, Gary & Mullett, Peter & Pikas, Alexander & Robinson, Todd & Shepherd, Craig H. & Weintraub, Zachary & Winn, Jeff & Yaitanes, Greg"
+2842538,The Call of the Simpsons,1,7,1990,4520888,The Sound of Music,8200000,"Wise, Robert"
+2842622,The Telltale Head,1,8,1990,4454047,The Godfather,6000000,"Coppola, Francis Ford"
+2842642,There's No Disgrace Like Home,1,4,1990,3302154,A Clockwork Orange,2200000,"Kubrick, Stanley"
+2842642,There's No Disgrace Like Home,1,4,1990,3511582,Citizen Kane,839727,"Welles, Orson"
+2842642,There's No Disgrace Like Home,1,4,1990,4541283,The Wizard of Oz,2800000,"Cukor, George & Fleming, Victor & LeRoy, Mervyn & Taurog, Norman & Vidor, King"
+2842495,Simpsons Roasting on an Open Fire,1,1,1989,3740169,Goldfinger,3000000,"Hamilton, Guy"

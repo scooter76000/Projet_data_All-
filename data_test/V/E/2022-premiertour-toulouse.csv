@@ -1,0 +1,1001 @@
+numero_bureau,code_canton,code_circonsription,nombre_inscrits,nombre_votants,nombre_votants_emargement,nombre_blancs,nombre_nuls,nom_candidat,nombre_voix,lieu_bureau,adresse,coordonnees_gps,code_candidat
+0235,24.0,3,956.0,790.0,790.0,9.0,4.0,Dupont-Aignan,4,École élémentaire Château de l'Hers,8 rue Claudius Rougenet,"43.59774616812097,1.4795112071607168",1
+0241,25.0,3,1038.0,777.0,777.0,16.0,3.0,Dupont-Aignan,7,École élémentaire Henri Guillaumet,30 chemin de Bitet,"43.57712278154643,1.4830837050592025",1
+0245,25.0,3,995.0,791.0,791.0,7.0,2.0,Dupont-Aignan,5,École élémentaire La Terrasse,4 impasse Eugène Trutat,"43.57955963118223,1.4876676126896222",1
+0247,25.0,3,1007.0,809.0,808.0,6.0,5.0,Dupont-Aignan,7,École élémentaire La Terrasse,4 impasse Eugène Trutat,"43.58337055671309,1.4820291234265477",1
+0248,25.0,3,954.0,734.0,735.0,13.0,3.0,Dupont-Aignan,17,École élémentaire La Terrasse,4 impasse Eugène Trutat,"43.58375957913425,1.4867938007276904",1
+0250,25.0,3,886.0,714.0,714.0,11.0,3.0,Dupont-Aignan,10,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.58302125428,1.4689870709476043",1
+0251,25.0,3,897.0,723.0,723.0,8.0,2.0,Dupont-Aignan,5,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.582908274206225,1.4745499919024603",1
+0256,25.0,9,1093.0,837.0,837.0,8.0,2.0,Dupont-Aignan,6,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.584496845113044,1.4591834561635042",1
+081A,19.0,9,1070.0,817.0,817.0,6.0,2.0,Dupont-Aignan,12,École élémentaire Jules Julien,11 Avenue des Ecoles Jules Julien,"43.56889094795855,1.455122165396102",1
+182A,22.0,1,1128.0,861.0,861.0,10.0,4.0,Dupont-Aignan,8,École élémentaire Jules Ferry,109 avenue de Fronton,"43.63036265500564,1.4303111747726502",1
+0010,17.0,1,1157.0,942.0,942.0,16.0,7.0,Hidalgo,27,École élémentaire du Nord,13 boulevard d'Arcole,"43.61380255587954,1.4393257311838692",2
+0015,17.0,1,917.0,714.0,714.0,11.0,3.0,Hidalgo,18,École élémentaire Bayard,60 rue Matabiau,"43.61008377468953,1.4474263021028917",2
+0016,17.0,1,1176.0,941.0,941.0,7.0,6.0,Hidalgo,27,École élémentaire Bayard,60 rue Matabiau,"43.612472129483244,1.4498009124237956",2
+0017,17.0,1,1223.0,1013.0,1013.0,9.0,0.0,Hidalgo,21,École élémentaire Bayard,60 rue Matabiau,"43.61249735027508,1.4466041396192988",2
+0018,17.0,1,723.0,588.0,588.0,6.0,2.0,Hidalgo,12,Centre Sportif Léo Lagrange,4 place Pierre Paul Riquet,"43.60680440103708,1.4517296952366305",2
+001A,24.0,2,23.0,2.0,2.0,0.0,0.0,Hidalgo,0,Capitole – Salle des Commissions (B.v. dérogatoire),Place du Capitole,,2
+0021,17.0,2,1062.0,831.0,831.0,12.0,1.0,Hidalgo,17,École élémentaire Bonnefoy,18 rue du Faubourg Bonnefoy,"43.62157245450755,1.4558598547171426",2
+0061,18.0,3,921.0,759.0,758.0,11.0,2.0,Hidalgo,9,École élémentaire Fabre,Rue Pierre Bunière,"43.59499945956251,1.446088130334454",2
+0068,19.0,9,875.0,695.0,695.0,7.0,2.0,Hidalgo,24,École élémentaire Ricardie 3,56 avenue de l'U.R.S.S.,"43.58262777019936,1.4463260930199282",2
+0072,19.0,9,393.0,222.0,222.0,3.0,1.0,Hidalgo,4,École élémentaire André Daste,4 avenue de Lattre de Tassigny,"43.57906434492827,1.440646420836341",2
+0073,19.0,9,675.0,387.0,387.0,4.0,2.0,Hidalgo,5,École élémentaire André Daste,4 avenue de Lattre de Tassigny,"43.57909630117239,1.4391584015907546",2
+0081,19.0,9,1116.0,814.0,814.0,10.0,3.0,Hidalgo,10,École élémentaire Jules Julien,11 Avenue des Ecoles Jules Julien,"43.560125928689175,1.4661722040380247",2
+0095,20.0,9,838.0,517.0,517.0,2.0,2.0,Hidalgo,10,École élémentaire Sylvain Dauriac,39 rue Paul Lambert,"43.58116668123124,1.4156310557870022",2
+0098,20.0,4,981.0,582.0,582.0,7.0,2.0,Hidalgo,11,Centre Socio-Culturel Alban Minville,1 place Martin Luther King,"43.56176447768264,1.3993865494635482",2
+0102,20.0,4,918.0,498.0,498.0,3.0,1.0,Hidalgo,1,École maternelle Didier Daurat,19 rue Jean Gilles,"43.56904942078116,1.405653351557145",2
+0103,20.0,4,799.0,477.0,477.0,4.0,2.0,Hidalgo,2,École maternelle Didier Daurat,19 rue Jean Gilles,"43.56939523500286,1.4003979259230248",2
+0104,20.0,4,545.0,362.0,362.0,1.0,0.0,Hidalgo,5,École maternelle des Vergers,2 impasse des Vergers,"43.576466987167485,1.399226028031548",2
+0105,20.0,4,537.0,339.0,339.0,3.0,1.0,Hidalgo,1,École maternelle des Vergers,2 impasse des Vergers,"43.58059277651148,1.397108313331775",2
+0112,20.0,4,1257.0,1054.0,1054.0,20.0,7.0,Hidalgo,31,École élémentaire Paul Bert,4 chemin de Liffard,"43.55630751827725,1.3866555955232232",2
+0119,15.0,4,985.0,747.0,746.0,6.0,4.0,Hidalgo,35,École élémentaire Patte d'Oie,44 rue du Tchad,"43.59756970963773,1.4252686930913936",2
+0127,15.0,4,892.0,675.0,675.0,7.0,3.0,Hidalgo,19,École élémentaire Étienne Billières,56 rue Jacques Gamelin,"43.585018046945514,1.4188747480961388",2
+0128,15.0,9,569.0,468.0,468.0,4.0,0.0,Hidalgo,17,École élémentaire Étienne Billières,56 rue Jacques Gamelin,"43.58131083772695,1.4190967322907753",2
+0130,15.0,4,1920.0,1504.0,1504.0,19.0,6.0,Hidalgo,42,École élémentaire Fontaine Bayonne,14 rue Dufaur de Pibrac,"43.59936064705561,1.40615582151729",2
+0131,15.0,9,808.0,522.0,522.0,5.0,2.0,Hidalgo,2,École élémentaire Georges Hyon,1 impasse Bachaga Boualam,"43.58137935075367,1.4068562137393705",2
+0132,15.0,9,978.0,610.0,610.0,11.0,4.0,Hidalgo,11,École élémentaire Georges Hyon,1 impasse Bachaga Boualam,"43.58535107615375,1.4086628612484937",2
+0134,15.0,4,1118.0,838.0,838.0,5.0,5.0,Hidalgo,22,Groupe Scolaire Viollet le Duc,23 rue Viollet le Duc,"43.57802148576082,1.386742087415645",2
+0141,15.0,4,856.0,695.0,695.0,4.0,3.0,Hidalgo,16,École élémentaire Lespinasse,3 rue du Chairedon,"43.59915312567305,1.4360390592953358",2
+0150,16.0,4,833.0,670.0,670.0,8.0,5.0,Hidalgo,19,École élémentaire des Gais Pinsons,270 rue des Fontaines,"43.60287360994003,1.4243416443364927",2
+0153,16.0,4,1026.0,814.0,814.0,13.0,6.0,Hidalgo,18,École élémentaire des Gais Pinsons,270 rue des Fontaines,"43.60299695339933,1.418455827456159",2
+0161,16.0,1,731.0,586.0,586.0,8.0,1.0,Hidalgo,15,École élémentaire Alfred de Musset,5 rue du Général Hoche,"43.62121335399811,1.4247142880061265",2
+0166,16.0,1,1282.0,985.0,984.0,14.0,8.0,Hidalgo,30,École maternelle des Ponts Jumeaux,18 rue cecile brunschvicg,"43.61644798250073,1.423111376574236",2
+0167,16.0,1,1175.0,932.0,932.0,11.0,5.0,Hidalgo,28,École élémentaire Falguière,2 rue d'Artagnan,"43.612095750262824,1.4320222945071224",2
+0168,16.0,1,891.0,708.0,709.0,6.0,3.0,Hidalgo,17,École élémentaire Falguière,2 rue d'Artagnan,"43.60864921395471,1.4295263239041653",2
+0174,16.0,1,889.0,677.0,677.0,8.0,4.0,Hidalgo,8,École élémentaire des Sept Deniers,110 route de Blagnac,"43.61253231043327,1.4101344958654862",2
+0187,22.0,1,584.0,292.0,290.0,0.0,3.0,Hidalgo,8,École maternelle Jean Dieuzaide,14 chemin de la Glacière,"43.64354524551921,1.4122793656277777",2
+0198,22.0,2,1092.0,847.0,847.0,7.0,6.0,Hidalgo,18,École élémentaire Cuvier,135 route d'Albi,"43.639041988807236,1.4595954872761676",2
+0215,23.0,2,784.0,557.0,557.0,5.0,4.0,Hidalgo,14,École élémentaire La Juncasse,133 rue Louis Plana,"43.61391863560181,1.4743431873028898",2
+0216,23.0,2,1017.0,813.0,813.0,10.0,2.0,Hidalgo,23,École élémentaire La Juncasse,133 rue Louis Plana,"43.61642212087398,1.462421293671557",2
+0220,23.0,2,1108.0,852.0,852.0,17.0,8.0,Hidalgo,7,École élémentaire Soupetard,37 rue de la Solidarité,"43.61088155570137,1.4812497531300448",2
+0230,24.0,3,971.0,795.0,795.0,8.0,3.0,Hidalgo,19,École élémentaire Jean Macé,1 chemin de Duroux,"43.592562357009946,1.4851345294913552",2
+0235,24.0,3,956.0,790.0,790.0,9.0,4.0,Hidalgo,18,École élémentaire Château de l'Hers,8 rue Claudius Rougenet,"43.59774616812097,1.4795112071607168",2
+0248,25.0,3,954.0,734.0,735.0,13.0,3.0,Hidalgo,9,École élémentaire La Terrasse,4 impasse Eugène Trutat,"43.58375957913425,1.4867938007276904",2
+0252,25.0,3,955.0,763.0,763.0,6.0,2.0,Hidalgo,15,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.586254290282056,1.4706677876616057",2
+0254,25.0,3,1113.0,886.0,886.0,18.0,3.0,Hidalgo,29,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.58084282381479,1.4682202528531143",2
+0256,25.0,9,1093.0,837.0,837.0,8.0,2.0,Hidalgo,24,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.584496845113044,1.4591834561635042",2
+182A,22.0,1,1128.0,861.0,861.0,10.0,4.0,Hidalgo,18,École élémentaire Jules Ferry,109 avenue de Fronton,"43.63036265500564,1.4303111747726502",2
+0005,17.0,1,844.0,686.0,686.0,4.0,3.0,Jadot,55,École maternelle Sermet,71 rue du Taur,"43.606237736398256,1.4373794149293662",3
+0006,17.0,1,883.0,720.0,720.0,12.0,5.0,Jadot,81,École maternelle Sermet,71 rue du Taur,"43.60816623747753,1.4412013700016226",3
+0007,17.0,1,837.0,678.0,678.0,9.0,3.0,Jadot,43,École maternelle Sermet,71 rue du Taur,"43.60650872459199,1.4440136456254262",3
+0009,17.0,1,1012.0,802.0,801.0,5.0,2.0,Jadot,61,École élémentaire du Nord,13 boulevard d'Arcole,"43.61015380825276,1.4416788028355372",3
+0018,17.0,1,723.0,588.0,588.0,6.0,2.0,Jadot,35,Centre Sportif Léo Lagrange,4 place Pierre Paul Riquet,"43.60680440103708,1.4517296952366305",3
+0019,17.0,1,803.0,668.0,668.0,8.0,1.0,Jadot,73,Centre Sportif Léo Lagrange,4 place Pierre Paul Riquet,"43.60658076048059,1.4546155416905173",3
+0026,17.0,2,693.0,562.0,562.0,10.0,0.0,Jadot,49,Éspace Bonnefoy-Périole,25 rue de Périole,"43.62092179784524,1.4610570363209916",3
+0029,17.0,2,1091.0,823.0,823.0,16.0,7.0,Jadot,73,École élémentaire Pierre et Marie Curie,36 rue de la Jeunesse,"43.621951934635135,1.4390889064975148",3
+0031,18.0,4,712.0,557.0,557.0,7.0,1.0,Jadot,26,École élémentaire Fourtanier,51 Rue du rempart Saint-Etienne,"43.60203541181833,1.446373754122511",3
+0035,18.0,4,837.0,707.0,707.0,9.0,1.0,Jadot,67,École élémentaire Michelet,5 boulevard Jules Michelet,"43.603588941676875,1.453997172226213",3
+0036,18.0,4,920.0,769.0,769.0,8.0,7.0,Jadot,60,École élémentaire Michelet,5 boulevard Jules Michelet,"43.600163825586016,1.455036317248824",3
+0038,18.0,4,959.0,782.0,783.0,11.0,5.0,Jadot,72,École élémentaire Michelet,5 boulevard Jules Michelet,"43.60210287925995,1.456825448604988",3
+0040,18.0,4,943.0,790.0,790.0,3.0,3.0,Jadot,73,École élémentaire Calvinhac,8 bis Rue Jacques Labatut,"43.598343214983366,1.453731151616894",3
+0057,18.0,3,1250.0,1003.0,1003.0,11.0,2.0,Jadot,94,École élémentaire Pierre Dupont,101 grande rue Saint-Michel,"43.58613713628652,1.4432262663493785",3
+0059,18.0,3,1002.0,841.0,838.0,11.0,5.0,Jadot,87,École élémentaire Fabre,Rue Pierre Bunière,"43.597644818182424,1.442596517450211",3
+0061,18.0,3,921.0,759.0,758.0,11.0,2.0,Jadot,67,École élémentaire Fabre,Rue Pierre Bunière,"43.59499945956251,1.446088130334454",3
+0006,17.0,1,883.0,720.0,720.0,12.0,5.0,Arthaud,3,École maternelle Sermet,71 rue du Taur,"43.60816623747753,1.4412013700016226",4
+0009,17.0,1,1012.0,802.0,801.0,5.0,2.0,Arthaud,0,École élémentaire du Nord,13 boulevard d'Arcole,"43.61015380825276,1.4416788028355372",4
+0010,17.0,1,1157.0,942.0,942.0,16.0,7.0,Arthaud,2,École élémentaire du Nord,13 boulevard d'Arcole,"43.61380255587954,1.4393257311838692",4
+0016,17.0,1,1176.0,941.0,941.0,7.0,6.0,Arthaud,1,École élémentaire Bayard,60 rue Matabiau,"43.612472129483244,1.4498009124237956",4
+0019,17.0,1,803.0,668.0,668.0,8.0,1.0,Arthaud,3,Centre Sportif Léo Lagrange,4 place Pierre Paul Riquet,"43.60658076048059,1.4546155416905173",4
+0023,17.0,2,993.0,769.0,769.0,12.0,4.0,Arthaud,1,École élémentaire Bonnefoy,18 rue du Faubourg Bonnefoy,"43.61425881883643,1.4513459661436272",4
+0030,17.0,2,975.0,737.0,737.0,9.0,2.0,Arthaud,4,École élémentaire Pierre et Marie Curie,36 rue de la Jeunesse,"43.621193861912275,1.4437497769007408",4
+0031,18.0,4,712.0,557.0,557.0,7.0,1.0,Arthaud,1,École élémentaire Fourtanier,51 Rue du rempart Saint-Etienne,"43.60203541181833,1.446373754122511",4
+0032,18.0,4,902.0,722.0,722.0,13.0,2.0,Arthaud,0,École élémentaire Fourtanier,51 Rue du rempart Saint-Etienne,"43.60319662774439,1.4495419463353485",4
+0038,18.0,4,959.0,782.0,783.0,11.0,5.0,Arthaud,2,École élémentaire Michelet,5 boulevard Jules Michelet,"43.60210287925995,1.456825448604988",4
+0041,18.0,4,784.0,607.0,607.0,10.0,3.0,Arthaud,0,École élémentaire Calvinhac,8 bis Rue Jacques Labatut,"43.59607598929474,1.455074718894346",4
+0045,18.0,4,685.0,559.0,559.0,3.0,1.0,Arthaud,1,Groupe Scolaire Bonhoure,20 bis place Marius Pinel,"43.60594712116238,1.4684681760310572",4
+0061,18.0,3,921.0,759.0,758.0,11.0,2.0,Arthaud,0,École élémentaire Fabre,Rue Pierre Bunière,"43.59499945956251,1.446088130334454",4
+0063,18.0,3,750.0,627.0,627.0,3.0,2.0,Arthaud,0,École élémentaire Fabre,Rue Pierre Bunière,"43.59855623209385,1.4500706778802865",4
+0071,19.0,3,77.0,34.0,34.0,0.0,0.0,Arthaud,0,École élémentaire André Daste,4 avenue de Lattre de Tassigny,"43.5879584579951,1.436486607043127",4
+0073,19.0,9,675.0,387.0,387.0,4.0,2.0,Arthaud,2,École élémentaire André Daste,4 avenue de Lattre de Tassigny,"43.57909630117239,1.4391584015907546",4
+0075,19.0,9,919.0,667.0,667.0,7.0,5.0,Arthaud,4,École maternelle Léo Lagrange,35 allée Henri Sellier,"43.56230104577887,1.4409807223069082",4
+0080,19.0,9,1107.0,824.0,824.0,10.0,1.0,Arthaud,1,École élémentaire Jules Julien,11 Avenue des Ecoles Jules Julien,"43.56867585957557,1.4653602001296462",4
+0081,19.0,9,1116.0,814.0,814.0,10.0,3.0,Arthaud,1,École élémentaire Jules Julien,11 Avenue des Ecoles Jules Julien,"43.560125928689175,1.4661722040380247",4
+0092,20.0,9,1170.0,862.0,862.0,14.0,3.0,Arthaud,4,École élémentaire Buffon,6 impasse des Glières,"43.560135796028035,1.407333681303468",4
+0093,20.0,9,1058.0,777.0,777.0,5.0,4.0,Arthaud,4,École élémentaire Buffon,6 impasse des Glières,"43.55374730123664,1.414543146062401",4
+0096,20.0,9,753.0,589.0,589.0,3.0,1.0,Arthaud,4,École élémentaire Sylvain Dauriac,39 rue Paul Lambert,"43.5774605632333,1.4208179562338352",4
+0099,20.0,4,1282.0,793.0,793.0,9.0,3.0,Arthaud,4,Centre Socio-Culturel Alban Minville,1 place Martin Luther King,"43.56478491008584,1.4035979337213886",4
+0101,20.0,4,669.0,371.0,371.0,6.0,1.0,Arthaud,4,École maternelle Didier Daurat,19 rue Jean Gilles,"43.57317858489967,1.4063280023341198",4
+0106,20.0,4,749.0,539.0,539.0,3.0,4.0,Arthaud,3,École maternelle des Vergers,2 impasse des Vergers,"43.579826592797495,1.4027387467535362",4
+0107,20.0,4,1091.0,800.0,801.0,10.0,4.0,Arthaud,3,École élémentaire Paul Bert,4 chemin de Liffard,"43.57608813845097,1.3766988407601495",4
+0110,20.0,4,1258.0,987.0,987.0,15.0,4.0,Arthaud,3,École élémentaire Paul Bert,4 chemin de Liffard,"43.54891316552971,1.381746415194405",4
+0112,20.0,4,1257.0,1054.0,1054.0,20.0,7.0,Arthaud,2,École élémentaire Paul Bert,4 chemin de Liffard,"43.55630751827725,1.3866555955232232",4
+0119,15.0,4,985.0,747.0,746.0,6.0,4.0,Arthaud,3,École élémentaire Patte d'Oie,44 rue du Tchad,"43.59756970963773,1.4252686930913936",4
+0128,15.0,9,569.0,468.0,468.0,4.0,0.0,Arthaud,3,École élémentaire Étienne Billières,56 rue Jacques Gamelin,"43.58131083772695,1.4190967322907753",4
+0129,15.0,4,1182.0,959.0,959.0,6.0,2.0,Arthaud,2,École élémentaire Fontaine Bayonne,14 rue Dufaur de Pibrac,"43.60042827939843,1.416789447520135",4
+0131,15.0,9,808.0,522.0,522.0,5.0,2.0,Arthaud,2,École élémentaire Georges Hyon,1 impasse Bachaga Boualam,"43.58137935075367,1.4068562137393705",4
+0132,15.0,9,978.0,610.0,610.0,11.0,4.0,Arthaud,2,École élémentaire Georges Hyon,1 impasse Bachaga Boualam,"43.58535107615375,1.4086628612484937",4
+0133,15.0,9,857.0,559.0,559.0,7.0,3.0,Arthaud,1,École élémentaire Georges Hyon,1 impasse Bachaga Boualam,"43.58297085135094,1.4116006546410267",4
+0139,15.0,4,1082.0,840.0,840.0,8.0,6.0,Arthaud,3,École élémentaire Lardenne,20 chemin de Rocamadour,"43.58780450367889,1.381926282187387",4
+0140,15.0,4,1045.0,848.0,848.0,12.0,8.0,Arthaud,2,École élémentaire Lardenne,20 chemin de Rocamadour,"43.58449461429126,1.3768000901414992",4
+0144,21.0,1,902.0,729.0,729.0,10.0,3.0,Arthaud,2,Groupe Scolaire Littre,2 place Bertier,"43.60356390024458,1.3875450465408259",4
+0153,16.0,4,1026.0,814.0,814.0,13.0,6.0,Arthaud,2,École élémentaire des Gais Pinsons,270 rue des Fontaines,"43.60299695339933,1.418455827456159",4
+0162,16.0,1,1040.0,804.0,804.0,13.0,1.0,Arthaud,2,École élémentaire Alfred de Musset,5 rue du Général Hoche,"43.62437174613798,1.4341813284233427",4
+0163,16.0,1,695.0,472.0,472.0,8.0,7.0,Arthaud,2,École élémentaire Alfred de Musset,5 rue du Général Hoche,"43.62335697983554,1.4303122360478797",4
+0166,16.0,1,1282.0,985.0,984.0,14.0,8.0,Arthaud,3,École maternelle des Ponts Jumeaux,18 rue cecile brunschvicg,"43.61644798250073,1.423111376574236",4
+0169,16.0,1,907.0,749.0,749.0,3.0,5.0,Arthaud,0,École élémentaire Falguière,2 rue d'Artagnan,"43.604738908281604,1.4311046819057296",4
+0170,16.0,1,916.0,739.0,739.0,11.0,2.0,Arthaud,3,École élémentaire Falguière,2 rue d'Artagnan,"43.607787207737616,1.4337670920581693",4
+0171,16.0,1,1053.0,826.0,826.0,10.0,2.0,Arthaud,3,École élémentaire des Sept Deniers,110 route de Blagnac,"43.620239852154086,1.4138584655913815",4
+0172,16.0,1,1211.0,978.0,978.0,14.0,4.0,Arthaud,4,École élémentaire des Sept Deniers,110 route de Blagnac,"43.62079394206599,1.4055731606781339",4
+0176,16.0,1,919.0,697.0,698.0,7.0,7.0,Arthaud,2,Groupe Scolaire Château d'Ancely,4 allée du Vivarais,"43.61904871495134,1.3969553971337416",4
+0177,16.0,1,1056.0,813.0,812.0,12.0,7.0,Arthaud,6,Groupe Scolaire Château d'Ancely,4 allée du Vivarais,"43.61155808658199,1.4024944129401613",4
+0186,22.0,1,1120.0,846.0,846.0,9.0,4.0,Arthaud,5,École élémentaire Lalande,239 avenue de Fronton,"43.64104415678163,1.4349536490481398",4
+0189,22.0,2,1450.0,1095.0,1095.0,9.0,1.0,Arthaud,5,École élémentaire Ernest Renan,7 chemin d'Audibert,"43.64160735563733,1.453873728624354",4
+0193,22.0,2,1248.0,916.0,915.0,8.0,4.0,Arthaud,4,École élémentaire Cuvier,135 route d'Albi,"43.65087035475905,1.4625630194996055",4
+0194,22.0,2,1228.0,949.0,949.0,17.0,8.0,Arthaud,4,École élémentaire Cuvier,135 route d'Albi,"43.63477358524326,1.4699877942061406",4
+0196,22.0,2,1225.0,940.0,940.0,12.0,9.0,Arthaud,5,École élémentaire Cuvier,135 route d'Albi,"43.62955330635334,1.4621143459542318",4
+0197,22.0,2,1189.0,899.0,899.0,5.0,7.0,Arthaud,4,École élémentaire Cuvier,135 route d'Albi,"43.6386284471376,1.4657829806146094",4
+0198,22.0,2,1092.0,847.0,847.0,7.0,6.0,Arthaud,4,École élémentaire Cuvier,135 route d'Albi,"43.639041988807236,1.4595954872761676",4
+0201,22.0,2,1043.0,824.0,823.0,18.0,6.0,Arthaud,3,École élémentaire La Maourine,11 avenue Maurice Bourgès-Maunoury,"43.63152851831545,1.4511768516617083",4
+0203,23.0,2,1142.0,901.0,901.0,7.0,3.0,Arthaud,4,École maternelle Reille,4 bis rue Reille,"43.610154366964416,1.4577455364748266",4
+0204,23.0,2,625.0,470.0,470.0,5.0,3.0,Arthaud,1,École maternelle Reille,4 bis rue Reille,"43.613157000131295,1.461762982096056",4
+0205,23.0,2,799.0,573.0,573.0,6.0,4.0,Arthaud,3,École maternelle Reille,4 bis rue Reille,"43.61155680704594,1.4630494367479285",4
+0218,23.0,2,762.0,575.0,575.0,5.0,7.0,Arthaud,4,École élémentaire Soupetard,37 rue de la Solidarité,"43.60838242661465,1.4742321348529288",4
+0220,23.0,2,1108.0,852.0,852.0,17.0,8.0,Arthaud,6,École élémentaire Soupetard,37 rue de la Solidarité,"43.61088155570137,1.4812497531300448",4
+0222,24.0,4,398.0,322.0,322.0,1.0,2.0,Arthaud,0,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.59650606745193,1.4570993076294716",4
+0227,24.0,3,864.0,694.0,694.0,7.0,2.0,Arthaud,0,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.59490570258549,1.4584506998164484",4
+0229,24.0,3,965.0,795.0,795.0,9.0,1.0,Arthaud,1,École élémentaire Jean Macé,1 chemin de Duroux,"43.592828332124526,1.4767220536257786",4
+0237,24.0,3,870.0,632.0,632.0,9.0,5.0,Arthaud,2,École élémentaire Château de l'Hers,8 rue Claudius Rougenet,"43.60340309729713,1.4786871469004081",4
+0240,25.0,3,1308.0,985.0,985.0,14.0,6.0,Arthaud,4,École élémentaire Henri Guillaumet,30 chemin de Bitet,"43.57506334028338,1.5018245530691228",4
+0244,25.0,3,1035.0,850.0,850.0,17.0,3.0,Arthaud,4,École élémentaire La Terrasse,4 impasse Eugène Trutat,"43.58887934255519,1.4872550253094783",4
+0256,25.0,9,1093.0,837.0,837.0,8.0,2.0,Arthaud,5,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.584496845113044,1.4591834561635042",4
+112A,20.0,4,1027.0,796.0,796.0,11.0,5.0,Arthaud,2,École élémentaire Paul Bert,4 chemin de Liffard,"43.55771328022331,1.3789144072201767",4
+0004,17.0,4,865.0,691.0,691.0,2.0,1.0,Dupont-Aignan,3,École élémentaire Lakanal,17 place de la Daurade,"43.60121967175764,1.4389427071169525",1
+0005,17.0,1,844.0,686.0,686.0,4.0,3.0,Dupont-Aignan,8,École maternelle Sermet,71 rue du Taur,"43.606237736398256,1.4373794149293662",1
+0006,17.0,1,883.0,720.0,720.0,12.0,5.0,Dupont-Aignan,7,École maternelle Sermet,71 rue du Taur,"43.60816623747753,1.4412013700016226",1
+0008,17.0,1,1093.0,855.0,855.0,9.0,2.0,Dupont-Aignan,7,École élémentaire du Nord,13 boulevard d'Arcole,"43.61091526761975,1.4374293352156484",1
+0010,17.0,1,1157.0,942.0,942.0,16.0,7.0,Dupont-Aignan,11,École élémentaire du Nord,13 boulevard d'Arcole,"43.61380255587954,1.4393257311838692",1
+0015,17.0,1,917.0,714.0,714.0,11.0,3.0,Dupont-Aignan,8,École élémentaire Bayard,60 rue Matabiau,"43.61008377468953,1.4474263021028917",1
+0020,17.0,2,1050.0,836.0,836.0,6.0,5.0,Dupont-Aignan,9,École élémentaire Bonnefoy,18 rue du Faubourg Bonnefoy,"43.62078340163538,1.4505317326988787",1
+0026,17.0,2,693.0,562.0,562.0,10.0,0.0,Dupont-Aignan,7,Éspace Bonnefoy-Périole,25 rue de Périole,"43.62092179784524,1.4610570363209916",1
+0029,17.0,2,1091.0,823.0,823.0,16.0,7.0,Dupont-Aignan,14,École élémentaire Pierre et Marie Curie,36 rue de la Jeunesse,"43.621951934635135,1.4390889064975148",1
+0034,18.0,1,765.0,600.0,600.0,2.0,1.0,Dupont-Aignan,8,École élémentaire Fourtanier,51 Rue du rempart Saint-Etienne,"43.60568337587489,1.4488336404017887",1
+0036,18.0,4,920.0,769.0,769.0,8.0,7.0,Dupont-Aignan,7,École élémentaire Michelet,5 boulevard Jules Michelet,"43.600163825586016,1.455036317248824",1
+0050,18.0,3,1012.0,856.0,856.0,6.0,0.0,Dupont-Aignan,12,École élémentaire Jean Jaurès,21 avenue Frizac,"43.588615145351966,1.4521226097462834",1
+0051,18.0,3,995.0,807.0,807.0,11.0,3.0,Dupont-Aignan,10,École élémentaire Jean Jaurès,21 avenue Frizac,"43.5905068977771,1.4569443800551591",1
+0052,18.0,3,1044.0,844.0,844.0,7.0,2.0,Dupont-Aignan,5,École élémentaire Jean Jaurès,21 avenue Frizac,"43.59356796547757,1.4553703469924082",1
+0057,18.0,3,1250.0,1003.0,1003.0,11.0,2.0,Dupont-Aignan,10,École élémentaire Pierre Dupont,101 grande rue Saint-Michel,"43.58613713628652,1.4432262663493785",1
+0058,18.0,3,1204.0,990.0,987.0,10.0,4.0,Dupont-Aignan,12,École élémentaire Fabre,Rue Pierre Bunière,"43.59498823575019,1.4403720714482824",1
+0059,18.0,3,1002.0,841.0,838.0,11.0,5.0,Dupont-Aignan,10,École élémentaire Fabre,Rue Pierre Bunière,"43.597644818182424,1.442596517450211",1
+0063,18.0,3,750.0,627.0,627.0,3.0,2.0,Dupont-Aignan,6,École élémentaire Fabre,Rue Pierre Bunière,"43.59855623209385,1.4500706778802865",1
+0065,19.0,9,1001.0,797.0,797.0,9.0,4.0,Dupont-Aignan,6,École élémentaire Sauzelong,92 avenue Albert Bedouce,"43.576601286758184,1.4589204002614866",1
+0070,19.0,9,784.0,489.0,488.0,5.0,7.0,Dupont-Aignan,10,École élémentaire André Daste,4 avenue de Lattre de Tassigny,"43.578349581875166,1.4337736598242208",1
+0073,19.0,9,675.0,387.0,387.0,4.0,2.0,Dupont-Aignan,2,École élémentaire André Daste,4 avenue de Lattre de Tassigny,"43.57909630117239,1.4391584015907546",1
+0074,19.0,9,702.0,471.0,471.0,6.0,4.0,Dupont-Aignan,5,École maternelle Léo Lagrange,35 allée Henri Sellier,"43.57959194775091,1.4425738077685946",1
+0082,19.0,9,935.0,779.0,779.0,12.0,4.0,Dupont-Aignan,5,École élémentaire Le Pastel,2 chemin d'Escalles,"43.553375486609816,1.4606179925878167",1
+0098,20.0,4,981.0,582.0,582.0,7.0,2.0,Dupont-Aignan,2,Centre Socio-Culturel Alban Minville,1 place Martin Luther King,"43.56176447768264,1.3993865494635482",1
+0102,20.0,4,918.0,498.0,498.0,3.0,1.0,Dupont-Aignan,2,École maternelle Didier Daurat,19 rue Jean Gilles,"43.56904942078116,1.405653351557145",1
+0104,20.0,4,545.0,362.0,362.0,1.0,0.0,Dupont-Aignan,9,École maternelle des Vergers,2 impasse des Vergers,"43.576466987167485,1.399226028031548",1
+0106,20.0,4,749.0,539.0,539.0,3.0,4.0,Dupont-Aignan,6,École maternelle des Vergers,2 impasse des Vergers,"43.579826592797495,1.4027387467535362",1
+0112,20.0,4,1257.0,1054.0,1054.0,20.0,7.0,Dupont-Aignan,15,École élémentaire Paul Bert,4 chemin de Liffard,"43.55630751827725,1.3866555955232232",1
+0115,15.0,4,1153.0,946.0,946.0,8.0,5.0,Dupont-Aignan,8,École élémentaire Molière,36 rue Sainte-Lucie,"43.58805051277253,1.4284036347827345",1
+0116,15.0,4,914.0,760.0,760.0,5.0,3.0,Dupont-Aignan,7,École élémentaire Molière,36 rue Sainte-Lucie,"43.593207064630406,1.43113045601551",1
+0118,15.0,4,1054.0,860.0,859.0,15.0,3.0,Dupont-Aignan,13,École élémentaire Patte d'Oie,44 rue du Tchad,"43.59920046820529,1.4241416077312998",1
+0121,15.0,4,1119.0,940.0,940.0,9.0,3.0,Dupont-Aignan,12,École élémentaire Patte d'Oie,44 rue du Tchad,"43.591732855635186,1.4236260953377113",1
+0123,15.0,4,1104.0,867.0,866.0,8.0,3.0,Dupont-Aignan,10,École élémentaire Patte d'Oie,44 rue du Tchad,"43.597238070753036,1.4167178517205081",1
+0125,15.0,4,932.0,745.0,744.0,4.0,4.0,Dupont-Aignan,9,École élémentaire Étienne Billières,56 rue Jacques Gamelin,"43.58892027641847,1.4127988757759347",1
+0127,15.0,4,892.0,675.0,675.0,7.0,3.0,Dupont-Aignan,14,École élémentaire Étienne Billières,56 rue Jacques Gamelin,"43.585018046945514,1.4188747480961388",1
+0128,15.0,9,569.0,468.0,468.0,4.0,0.0,Dupont-Aignan,3,École élémentaire Étienne Billières,56 rue Jacques Gamelin,"43.58131083772695,1.4190967322907753",1
+0130,15.0,4,1920.0,1504.0,1504.0,19.0,6.0,Dupont-Aignan,17,École élémentaire Fontaine Bayonne,14 rue Dufaur de Pibrac,"43.59936064705561,1.40615582151729",1
+0135,15.0,4,976.0,667.0,667.0,11.0,3.0,Dupont-Aignan,11,Groupe Scolaire Viollet le Duc,23 rue Viollet le Duc,"43.58066438383764,1.3915436323750916",1
+0143,15.0,4,899.0,726.0,726.0,10.0,1.0,Dupont-Aignan,6,École élémentaire Lespinasse,3 rue du Chairedon,"43.60040813066155,1.4315751501532687",1
+0145,21.0,1,1073.0,861.0,860.0,6.0,8.0,Dupont-Aignan,15,Groupe Scolaire Littre,2 place Bertier,"43.60340988852312,1.373401753204013",1
+0151,16.0,4,1148.0,905.0,905.0,5.0,4.0,Dupont-Aignan,10,École élémentaire des Gais Pinsons,270 rue des Fontaines,"43.60495778858778,1.4137910483274367",1
+0161,16.0,1,731.0,586.0,586.0,8.0,1.0,Dupont-Aignan,5,École élémentaire Alfred de Musset,5 rue du Général Hoche,"43.62121335399811,1.4247142880061265",1
+0166,16.0,1,1282.0,985.0,984.0,14.0,8.0,Dupont-Aignan,18,École maternelle des Ponts Jumeaux,18 rue cecile brunschvicg,"43.61644798250073,1.423111376574236",1
+0171,16.0,1,1053.0,826.0,826.0,10.0,2.0,Dupont-Aignan,11,École élémentaire des Sept Deniers,110 route de Blagnac,"43.620239852154086,1.4138584655913815",1
+0172,16.0,1,1211.0,978.0,978.0,14.0,4.0,Dupont-Aignan,15,École élémentaire des Sept Deniers,110 route de Blagnac,"43.62079394206599,1.4055731606781339",1
+0178,16.0,1,701.0,509.0,509.0,8.0,3.0,Dupont-Aignan,7,Groupe Scolaire Château d'Ancely,4 allée du Vivarais,"43.60956286920959,1.3942266530599643",1
+0184,22.0,1,941.0,721.0,721.0,10.0,2.0,Dupont-Aignan,13,École élémentaire Lalande,239 avenue de Fronton,"43.66020778814789,1.4372861124168483",1
+0194,22.0,2,1228.0,949.0,949.0,17.0,8.0,Dupont-Aignan,21,École élémentaire Cuvier,135 route d'Albi,"43.63477358524326,1.4699877942061406",1
+0198,22.0,2,1092.0,847.0,847.0,7.0,6.0,Dupont-Aignan,7,École élémentaire Cuvier,135 route d'Albi,"43.639041988807236,1.4595954872761676",1
+0201,22.0,2,1043.0,824.0,823.0,18.0,6.0,Dupont-Aignan,15,École élémentaire La Maourine,11 avenue Maurice Bourgès-Maunoury,"43.63152851831545,1.4511768516617083",1
+0203,23.0,2,1142.0,901.0,901.0,7.0,3.0,Dupont-Aignan,4,École maternelle Reille,4 bis rue Reille,"43.610154366964416,1.4577455364748266",1
+0221,23.0,2,787.0,536.0,536.0,4.0,3.0,Dupont-Aignan,8,École élémentaire Soupetard,37 rue de la Solidarité,"43.60727320400976,1.4787474979142732",1
+0226,24.0,3,1191.0,963.0,963.0,11.0,1.0,Dupont-Aignan,8,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.5947260162386,1.4616782344227544",1
+0232,24.0,3,903.0,716.0,716.0,11.0,2.0,Dupont-Aignan,16,École élémentaire Jean Macé,1 chemin de Duroux,"43.588973842631766,1.4681144107833881",1
+0077,19.0,9,997.0,777.0,777.0,10.0,4.0,Jadot,55,École élémentaire Jules Julien,11 Avenue des Ecoles Jules Julien,"43.57443269321245,1.4466458015085777",3
+0094,20.0,9,654.0,431.0,431.0,1.0,2.0,Jadot,6,École élémentaire Sylvain Dauriac,39 rue Paul Lambert,"43.57856388158481,1.4141839033313475",3
+0096,20.0,9,753.0,589.0,589.0,3.0,1.0,Jadot,44,École élémentaire Sylvain Dauriac,39 rue Paul Lambert,"43.5774605632333,1.4208179562338352",3
+0099,20.0,4,1282.0,793.0,793.0,9.0,3.0,Jadot,20,Centre Socio-Culturel Alban Minville,1 place Martin Luther King,"43.56478491008584,1.4035979337213886",3
+0109,20.0,4,895.0,746.0,746.0,12.0,3.0,Jadot,65,École élémentaire Paul Bert,4 chemin de Liffard,"43.560116360151504,1.371727025338553",3
+0112,20.0,4,1257.0,1054.0,1054.0,20.0,7.0,Jadot,91,École élémentaire Paul Bert,4 chemin de Liffard,"43.55630751827725,1.3866555955232232",3
+0113,15.0,4,842.0,673.0,673.0,3.0,3.0,Jadot,68,École élémentaire Molière,36 rue Sainte-Lucie,"43.595623141331835,1.4304614251181442",3
+0115,15.0,4,1153.0,946.0,946.0,8.0,5.0,Jadot,72,École élémentaire Molière,36 rue Sainte-Lucie,"43.58805051277253,1.4284036347827345",3
+0120,15.0,4,1031.0,818.0,818.0,15.0,6.0,Jadot,59,École élémentaire Patte d'Oie,44 rue du Tchad,"43.595146712905056,1.4255507692729716",3
+0124,15.0,4,1070.0,792.0,792.0,13.0,2.0,Jadot,48,École élémentaire Étienne Billières,56 rue Jacques Gamelin,"43.59191146917323,1.415228599452705",3
+0128,15.0,9,569.0,468.0,468.0,4.0,0.0,Jadot,21,École élémentaire Étienne Billières,56 rue Jacques Gamelin,"43.58131083772695,1.4190967322907753",3
+0148,21.0,4,1076.0,830.0,830.0,8.0,8.0,Jadot,46,École élémentaire Fleurance,4 rue Anne-Josèphe Théroigne de Méricourt,"43.59704979634394,1.3754523893594002",3
+0150,16.0,4,833.0,670.0,670.0,8.0,5.0,Jadot,76,École élémentaire des Gais Pinsons,270 rue des Fontaines,"43.60287360994003,1.4243416443364927",3
+0151,16.0,4,1148.0,905.0,905.0,5.0,4.0,Jadot,90,École élémentaire des Gais Pinsons,270 rue des Fontaines,"43.60495778858778,1.4137910483274367",3
+0168,16.0,1,891.0,708.0,709.0,6.0,3.0,Jadot,65,École élémentaire Falguière,2 rue d'Artagnan,"43.60864921395471,1.4295263239041653",3
+0173,16.0,1,963.0,787.0,787.0,3.0,2.0,Jadot,73,École élémentaire des Sept Deniers,110 route de Blagnac,"43.61371256989431,1.4152384063222276",3
+0174,16.0,1,889.0,677.0,677.0,8.0,4.0,Jadot,53,École élémentaire des Sept Deniers,110 route de Blagnac,"43.61253231043327,1.4101344958654862",3
+0179,22.0,1,967.0,748.0,748.0,7.0,4.0,Jadot,54,École élémentaire Jules Ferry,109 avenue de Fronton,"43.633178829121945,1.4251695854545996",3
+0191,22.0,2,1067.0,788.0,788.0,11.0,2.0,Jadot,43,École élémentaire Ernest Renan,7 chemin d'Audibert,"43.63085133485174,1.440834019246995",3
+0192,22.0,2,1149.0,753.0,751.0,11.0,6.0,Jadot,25,École élémentaire Ernest Renan,7 chemin d'Audibert,"43.643387274572866,1.4435778322048458",3
+0203,23.0,2,1142.0,901.0,901.0,7.0,3.0,Jadot,54,École maternelle Reille,4 bis rue Reille,"43.610154366964416,1.4577455364748266",3
+0204,23.0,2,625.0,470.0,470.0,5.0,3.0,Jadot,38,École maternelle Reille,4 bis rue Reille,"43.613157000131295,1.461762982096056",3
+0213,23.0,2,1073.0,829.0,829.0,12.0,3.0,Jadot,52,École élémentaire La Juncasse,133 rue Louis Plana,"43.61566735244405,1.4705539037242508",3
+0223,24.0,4,189.0,143.0,143.0,3.0,0.0,Jadot,12,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.59705025854722,1.4624924703736013",3
+0224,24.0,3,1139.0,965.0,965.0,15.0,5.0,Jadot,74,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.59547269706665,1.471965405821087",3
+0225,24.0,3,1034.0,835.0,835.0,14.0,2.0,Jadot,68,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.59332098274859,1.4650844173724218",3
+0227,24.0,3,864.0,694.0,694.0,7.0,2.0,Jadot,56,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.59490570258549,1.4584506998164484",3
+0233,24.0,3,968.0,787.0,786.0,3.0,3.0,Jadot,65,École élémentaire Jean Chaubet,112 avenue Camille Pujol,"43.59966816800566,1.4714870065287082",3
+0240,25.0,3,1308.0,985.0,985.0,14.0,6.0,Jadot,68,École élémentaire Henri Guillaumet,30 chemin de Bitet,"43.57506334028338,1.5018245530691228",3
+0242,25.0,3,1526.0,1159.0,1159.0,16.0,5.0,Jadot,69,École élémentaire Henri Guillaumet,30 chemin de Bitet,"43.5782880815836,1.4763745119876468",3
+0243,25.0,3,1366.0,1029.0,1029.0,15.0,2.0,Jadot,73,École élémentaire Henri Guillaumet,30 chemin de Bitet,"43.57367261514028,1.4812308394043308",3
+0248,25.0,3,954.0,734.0,735.0,13.0,3.0,Jadot,48,École élémentaire La Terrasse,4 impasse Eugène Trutat,"43.58375957913425,1.4867938007276904",3
+0251,25.0,3,897.0,723.0,723.0,8.0,2.0,Jadot,58,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.582908274206225,1.4745499919024603",3
+0253,25.0,3,1052.0,865.0,865.0,5.0,2.0,Jadot,59,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.588611236308004,1.464009942813754",3
+182A,22.0,1,1128.0,861.0,861.0,10.0,4.0,Jadot,64,École élémentaire Jules Ferry,109 avenue de Fronton,"43.63036265500564,1.4303111747726502",3
+0004,17.0,4,865.0,691.0,691.0,2.0,1.0,Lassalle,16,École élémentaire Lakanal,17 place de la Daurade,"43.60121967175764,1.4389427071169525",5
+0006,17.0,1,883.0,720.0,720.0,12.0,5.0,Lassalle,15,École maternelle Sermet,71 rue du Taur,"43.60816623747753,1.4412013700016226",5
+0008,17.0,1,1093.0,855.0,855.0,9.0,2.0,Lassalle,14,École élémentaire du Nord,13 boulevard d'Arcole,"43.61091526761975,1.4374293352156484",5
+0010,17.0,1,1157.0,942.0,942.0,16.0,7.0,Lassalle,18,École élémentaire du Nord,13 boulevard d'Arcole,"43.61380255587954,1.4393257311838692",5
+0019,17.0,1,803.0,668.0,668.0,8.0,1.0,Lassalle,12,Centre Sportif Léo Lagrange,4 place Pierre Paul Riquet,"43.60658076048059,1.4546155416905173",5
+0029,17.0,2,1091.0,823.0,823.0,16.0,7.0,Lassalle,21,École élémentaire Pierre et Marie Curie,36 rue de la Jeunesse,"43.621951934635135,1.4390889064975148",5
+0040,18.0,4,943.0,790.0,790.0,3.0,3.0,Lassalle,21,École élémentaire Calvinhac,8 bis Rue Jacques Labatut,"43.598343214983366,1.453731151616894",5
+0058,18.0,3,1204.0,990.0,987.0,10.0,4.0,Lassalle,22,École élémentaire Fabre,Rue Pierre Bunière,"43.59498823575019,1.4403720714482824",5
+0060,18.0,3,1056.0,865.0,865.0,10.0,6.0,Lassalle,21,École élémentaire Fabre,Rue Pierre Bunière,"43.59845486173225,1.4445265399052425",5
+0065,19.0,9,1001.0,797.0,797.0,9.0,4.0,Lassalle,25,École élémentaire Sauzelong,92 avenue Albert Bedouce,"43.576601286758184,1.4589204002614866",5
+0067,19.0,9,1253.0,1020.0,1020.0,17.0,2.0,Lassalle,18,École élémentaire Ricardie 3,56 avenue de l'U.R.S.S.,"43.57912269836566,1.4458282475336133",5
+0068,19.0,9,875.0,695.0,695.0,7.0,2.0,Lassalle,10,École élémentaire Ricardie 3,56 avenue de l'U.R.S.S.,"43.58262777019936,1.4463260930199282",5
+0074,19.0,9,702.0,471.0,471.0,6.0,4.0,Lassalle,15,École maternelle Léo Lagrange,35 allée Henri Sellier,"43.57959194775091,1.4425738077685946",5
+0077,19.0,9,997.0,777.0,777.0,10.0,4.0,Lassalle,33,École élémentaire Jules Julien,11 Avenue des Ecoles Jules Julien,"43.57443269321245,1.4466458015085777",5
+0079,19.0,9,1040.0,857.0,857.0,7.0,7.0,Lassalle,28,École élémentaire Jules Julien,11 Avenue des Ecoles Jules Julien,"43.56932499543203,1.4498723961874096",5
+0080,19.0,9,1107.0,824.0,824.0,10.0,1.0,Lassalle,25,École élémentaire Jules Julien,11 Avenue des Ecoles Jules Julien,"43.56867585957557,1.4653602001296462",5
+0086,20.0,9,799.0,525.0,525.0,3.0,8.0,Lassalle,11,École élémentaire Maurice Jacquier,7 rue du Poitou,"43.57559997468313,1.4139313274448189",5
+0087,20.0,9,791.0,480.0,480.0,4.0,7.0,Lassalle,12,École élémentaire Maurice Jacquier,7 rue du Poitou,"43.57352454629127,1.411737186985704",5
+0092,20.0,9,1170.0,862.0,862.0,14.0,3.0,Lassalle,34,École élémentaire Buffon,6 impasse des Glières,"43.560135796028035,1.407333681303468",5
+0093,20.0,9,1058.0,777.0,777.0,5.0,4.0,Lassalle,27,École élémentaire Buffon,6 impasse des Glières,"43.55374730123664,1.414543146062401",5
+0113,15.0,4,842.0,673.0,673.0,3.0,3.0,Lassalle,23,École élémentaire Molière,36 rue Sainte-Lucie,"43.595623141331835,1.4304614251181442",5
+0116,15.0,4,914.0,760.0,760.0,5.0,3.0,Lassalle,19,École élémentaire Molière,36 rue Sainte-Lucie,"43.593207064630406,1.43113045601551",5
+0127,15.0,4,892.0,675.0,675.0,7.0,3.0,Lassalle,8,École élémentaire Étienne Billières,56 rue Jacques Gamelin,"43.585018046945514,1.4188747480961388",5
+0130,15.0,4,1920.0,1504.0,1504.0,19.0,6.0,Lassalle,38,École élémentaire Fontaine Bayonne,14 rue Dufaur de Pibrac,"43.59936064705561,1.40615582151729",5
+0147,21.0,4,1146.0,934.0,934.0,12.0,0.0,Lassalle,32,École élémentaire Fleurance,4 rue Anne-Josèphe Théroigne de Méricourt,"43.5929432899512,1.3766970229603028",5
+0155,16.0,1,981.0,816.0,816.0,8.0,1.0,Lassalle,18,École élémentaire des Amidonniers,123 allée de Brienne,"43.60640545841745,1.4218261084327055",5
+0169,16.0,1,907.0,749.0,749.0,3.0,5.0,Lassalle,12,École élémentaire Falguière,2 rue d'Artagnan,"43.604738908281604,1.4311046819057296",5
+0172,16.0,1,1211.0,978.0,978.0,14.0,4.0,Lassalle,23,École élémentaire des Sept Deniers,110 route de Blagnac,"43.62079394206599,1.4055731606781339",5
+0181,22.0,1,912.0,732.0,732.0,8.0,4.0,Lassalle,28,École élémentaire Jules Ferry,109 avenue de Fronton,"43.62920782189242,1.4356346021616828",5
+0183,22.0,1,1392.0,998.0,998.0,19.0,2.0,Lassalle,31,École élémentaire Lalande,239 avenue de Fronton,"43.652107542356056,1.4258762268317147",5
+0186,22.0,1,1120.0,846.0,846.0,9.0,4.0,Lassalle,31,École élémentaire Lalande,239 avenue de Fronton,"43.64104415678163,1.4349536490481398",5
+0191,22.0,2,1067.0,788.0,788.0,11.0,2.0,Lassalle,25,École élémentaire Ernest Renan,7 chemin d'Audibert,"43.63085133485174,1.440834019246995",5
+0193,22.0,2,1248.0,916.0,915.0,8.0,4.0,Lassalle,26,École élémentaire Cuvier,135 route d'Albi,"43.65087035475905,1.4625630194996055",5
+0196,22.0,2,1225.0,940.0,940.0,12.0,9.0,Lassalle,37,École élémentaire Cuvier,135 route d'Albi,"43.62955330635334,1.4621143459542318",5
+0200,22.0,2,1158.0,818.0,818.0,7.0,1.0,Lassalle,32,École élémentaire La Maourine,11 avenue Maurice Bourgès-Maunoury,"43.626244790722424,1.451118789780703",5
+0201,22.0,2,1043.0,824.0,823.0,18.0,6.0,Lassalle,16,École élémentaire La Maourine,11 avenue Maurice Bourgès-Maunoury,"43.63152851831545,1.4511768516617083",5
+0202,23.0,2,978.0,766.0,766.0,7.0,2.0,Lassalle,10,École maternelle Reille,4 bis rue Reille,"43.60770355136999,1.4608491165088076",5
+0203,23.0,2,1142.0,901.0,901.0,7.0,3.0,Lassalle,11,École maternelle Reille,4 bis rue Reille,"43.610154366964416,1.4577455364748266",5
+0208,23.0,2,1061.0,796.0,796.0,13.0,8.0,Lassalle,33,École élémentaire Michoun,49 chemin Michoun,"43.62820488081042,1.4671816022461186",5
+0211,23.0,2,1078.0,819.0,819.0,4.0,4.0,Lassalle,16,École élémentaire Michoun,49 chemin Michoun,"43.62922629422677,1.471288978335646",5
+0222,24.0,4,398.0,322.0,322.0,1.0,2.0,Lassalle,7,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.59650606745193,1.4570993076294716",5
+0228,24.0,3,892.0,723.0,724.0,8.0,1.0,Lassalle,8,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.59687476963923,1.4671522198998834",5
+0231,24.0,3,895.0,752.0,752.0,11.0,3.0,Lassalle,25,École élémentaire Jean Macé,1 chemin de Duroux,"43.588442887849716,1.4749363182926785",5
+0232,24.0,3,903.0,716.0,716.0,11.0,2.0,Lassalle,16,École élémentaire Jean Macé,1 chemin de Duroux,"43.588973842631766,1.4681144107833881",5
+0233,24.0,3,968.0,787.0,786.0,3.0,3.0,Lassalle,19,École élémentaire Jean Chaubet,112 avenue Camille Pujol,"43.59966816800566,1.4714870065287082",5
+0234,24.0,3,912.0,736.0,736.0,9.0,2.0,Lassalle,17,École élémentaire Jean Chaubet,112 avenue Camille Pujol,"43.60223948768731,1.473496924475286",5
+0235,24.0,3,956.0,790.0,790.0,9.0,4.0,Lassalle,17,École élémentaire Château de l'Hers,8 rue Claudius Rougenet,"43.59774616812097,1.4795112071607168",5
+0238,24.0,3,1182.0,941.0,941.0,17.0,6.0,Lassalle,15,École élémentaire Château de l'Hers,8 rue Claudius Rougenet,"43.600959623543986,1.4851021473824082",5
+0239,25.0,3,1663.0,1337.0,1337.0,18.0,5.0,Lassalle,37,École élémentaire Henri Guillaumet,30 chemin de Bitet,"43.563604884138755,1.4902707371735808",5
+0240,25.0,3,1308.0,985.0,985.0,14.0,6.0,Lassalle,43,École élémentaire Henri Guillaumet,30 chemin de Bitet,"43.57506334028338,1.5018245530691228",5
+0247,25.0,3,1007.0,809.0,808.0,6.0,5.0,Lassalle,30,École élémentaire La Terrasse,4 impasse Eugène Trutat,"43.58337055671309,1.4820291234265477",5
+0251,25.0,3,897.0,723.0,723.0,8.0,2.0,Lassalle,23,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.582908274206225,1.4745499919024603",5
+083A,19.0,9,972.0,754.0,752.0,6.0,1.0,Lassalle,21,École élémentaire Le Pastel,2 chemin d'Escalles,"43.552106433360166,1.4492674460770958",5
+198A,22.0,2,1171.0,841.0,841.0,12.0,3.0,Lassalle,31,École élémentaire Cuvier,135 route d'Albi,"43.63412175118974,1.462050476801782",5
+0005,17.0,1,844.0,686.0,686.0,4.0,3.0,Le Pen,35,École maternelle Sermet,71 rue du Taur,"43.606237736398256,1.4373794149293662",6
+0007,17.0,1,837.0,678.0,678.0,9.0,3.0,Le Pen,49,École maternelle Sermet,71 rue du Taur,"43.60650872459199,1.4440136456254262",6
+0008,17.0,1,1093.0,855.0,855.0,9.0,2.0,Le Pen,38,École élémentaire du Nord,13 boulevard d'Arcole,"43.61091526761975,1.4374293352156484",6
+0011,17.0,1,1016.0,841.0,841.0,7.0,3.0,Le Pen,32,École élémentaire du Nord,13 boulevard d'Arcole,"43.612353441833044,1.4431030711568766",6
+0018,17.0,1,723.0,588.0,588.0,6.0,2.0,Le Pen,46,Centre Sportif Léo Lagrange,4 place Pierre Paul Riquet,"43.60680440103708,1.4517296952366305",6
+0019,17.0,1,803.0,668.0,668.0,8.0,1.0,Le Pen,24,Centre Sportif Léo Lagrange,4 place Pierre Paul Riquet,"43.60658076048059,1.4546155416905173",6
+001A,24.0,2,23.0,2.0,2.0,0.0,0.0,Le Pen,0,Capitole – Salle des Commissions (B.v. dérogatoire),Place du Capitole,,6
+0022,17.0,2,929.0,696.0,698.0,9.0,4.0,Le Pen,58,École élémentaire Bonnefoy,18 rue du Faubourg Bonnefoy,"43.61798370598445,1.4543810487527746",6
+0028,17.0,2,993.0,755.0,755.0,12.0,0.0,Le Pen,67,École élémentaire Pierre et Marie Curie,36 rue de la Jeunesse,"43.61724251217461,1.4428532478044858",6
+0032,18.0,4,902.0,722.0,722.0,13.0,2.0,Le Pen,64,École élémentaire Fourtanier,51 Rue du rempart Saint-Etienne,"43.60319662774439,1.4495419463353485",6
+0035,18.0,4,837.0,707.0,707.0,9.0,1.0,Le Pen,32,École élémentaire Michelet,5 boulevard Jules Michelet,"43.603588941676875,1.453997172226213",6
+0041,18.0,4,784.0,607.0,607.0,10.0,3.0,Le Pen,79,École élémentaire Calvinhac,8 bis Rue Jacques Labatut,"43.59607598929474,1.455074718894346",6
+0042,18.0,4,1060.0,865.0,865.0,8.0,2.0,Le Pen,49,Groupe Scolaire Bonhoure,20 bis place Marius Pinel,"43.603766917634324,1.460240542141107",6
+0047,18.0,4,996.0,808.0,808.0,7.0,5.0,Le Pen,47,Groupe Scolaire Bonhoure,20 bis place Marius Pinel,"43.604226092836704,1.4708140649769563",6
+0057,18.0,3,1250.0,1003.0,1003.0,11.0,2.0,Le Pen,60,École élémentaire Pierre Dupont,101 grande rue Saint-Michel,"43.58613713628652,1.4432262663493785",6
+0058,18.0,3,1204.0,990.0,987.0,10.0,4.0,Le Pen,52,École élémentaire Fabre,Rue Pierre Bunière,"43.59498823575019,1.4403720714482824",6
+0061,18.0,3,921.0,759.0,758.0,11.0,2.0,Le Pen,42,École élémentaire Fabre,Rue Pierre Bunière,"43.59499945956251,1.446088130334454",6
+0063,18.0,3,750.0,627.0,627.0,3.0,2.0,Le Pen,41,École élémentaire Fabre,Rue Pierre Bunière,"43.59855623209385,1.4500706778802865",6
+0064,19.0,9,803.0,582.0,582.0,7.0,6.0,Le Pen,64,École élémentaire Sauzelong,92 avenue Albert Bedouce,"43.57847980138388,1.4631176571341804",6
+0074,19.0,9,702.0,471.0,471.0,6.0,4.0,Le Pen,37,École maternelle Léo Lagrange,35 allée Henri Sellier,"43.57959194775091,1.4425738077685946",6
+0077,19.0,9,997.0,777.0,777.0,10.0,4.0,Le Pen,71,École élémentaire Jules Julien,11 Avenue des Ecoles Jules Julien,"43.57443269321245,1.4466458015085777",6
+0080,19.0,9,1107.0,824.0,824.0,10.0,1.0,Le Pen,66,École élémentaire Jules Julien,11 Avenue des Ecoles Jules Julien,"43.56867585957557,1.4653602001296462",6
+0081,19.0,9,1116.0,814.0,814.0,10.0,3.0,Le Pen,50,École élémentaire Jules Julien,11 Avenue des Ecoles Jules Julien,"43.560125928689175,1.4661722040380247",6
+0085,20.0,9,939.0,744.0,744.0,7.0,3.0,Le Pen,51,École élémentaire Maurice Becanne,85 avenue de Muret,"43.58148477550776,1.425950142434465",6
+0086,20.0,9,799.0,525.0,525.0,3.0,8.0,Le Pen,66,École élémentaire Maurice Jacquier,7 rue du Poitou,"43.57559997468313,1.4139313274448189",6
+0096,20.0,9,753.0,589.0,589.0,3.0,1.0,Le Pen,56,École élémentaire Sylvain Dauriac,39 rue Paul Lambert,"43.5774605632333,1.4208179562338352",6
+0097,20.0,4,1094.0,659.0,659.0,6.0,4.0,Le Pen,48,Centre Socio-Culturel Alban Minville,1 place Martin Luther King,"43.56217020501336,1.3948690748056154",6
+0098,20.0,4,981.0,582.0,582.0,7.0,2.0,Le Pen,22,Centre Socio-Culturel Alban Minville,1 place Martin Luther King,"43.56176447768264,1.3993865494635482",6
+0099,20.0,4,1282.0,793.0,793.0,9.0,3.0,Le Pen,71,Centre Socio-Culturel Alban Minville,1 place Martin Luther King,"43.56478491008584,1.4035979337213886",6
+0104,20.0,4,545.0,362.0,362.0,1.0,0.0,Le Pen,50,École maternelle des Vergers,2 impasse des Vergers,"43.576466987167485,1.399226028031548",6
+0106,20.0,4,749.0,539.0,539.0,3.0,4.0,Le Pen,76,École maternelle des Vergers,2 impasse des Vergers,"43.579826592797495,1.4027387467535362",6
+0107,20.0,4,1091.0,800.0,801.0,10.0,4.0,Le Pen,100,École élémentaire Paul Bert,4 chemin de Liffard,"43.57608813845097,1.3766988407601495",6
+0110,20.0,4,1258.0,987.0,987.0,15.0,4.0,Le Pen,140,École élémentaire Paul Bert,4 chemin de Liffard,"43.54891316552971,1.381746415194405",6
+0118,15.0,4,1054.0,860.0,859.0,15.0,3.0,Le Pen,76,École élémentaire Patte d'Oie,44 rue du Tchad,"43.59920046820529,1.4241416077312998",6
+0127,15.0,4,892.0,675.0,675.0,7.0,3.0,Le Pen,77,École élémentaire Étienne Billières,56 rue Jacques Gamelin,"43.585018046945514,1.4188747480961388",6
+0132,15.0,9,978.0,610.0,610.0,11.0,4.0,Le Pen,57,École élémentaire Georges Hyon,1 impasse Bachaga Boualam,"43.58535107615375,1.4086628612484937",6
+0134,15.0,4,1118.0,838.0,838.0,5.0,5.0,Le Pen,100,Groupe Scolaire Viollet le Duc,23 rue Viollet le Duc,"43.57802148576082,1.386742087415645",6
+0137,15.0,4,389.0,248.0,248.0,2.0,5.0,Le Pen,49,Foyer du 3ème Age,rue Lousion Bobet,"43.59101416106628,1.4038442881648872",6
+0139,15.0,4,1082.0,840.0,840.0,8.0,6.0,Le Pen,95,École élémentaire Lardenne,20 chemin de Rocamadour,"43.58780450367889,1.381926282187387",6
+0142,15.0,4,978.0,813.0,813.0,7.0,2.0,Le Pen,53,École élémentaire Lespinasse,3 rue du Chairedon,"43.59516879079555,1.4349612149546866",6
+0143,15.0,4,899.0,726.0,726.0,10.0,1.0,Le Pen,25,École élémentaire Lespinasse,3 rue du Chairedon,"43.60040813066155,1.4315751501532687",6
+0145,21.0,1,1073.0,861.0,860.0,6.0,8.0,Le Pen,108,Groupe Scolaire Littre,2 place Bertier,"43.60340988852312,1.373401753204013",6
+0147,21.0,4,1146.0,934.0,934.0,12.0,0.0,Le Pen,109,École élémentaire Fleurance,4 rue Anne-Josèphe Théroigne de Méricourt,"43.5929432899512,1.3766970229603028",6
+0149,16.0,4,1059.0,886.0,885.0,9.0,7.0,Le Pen,71,École élémentaire des Gais Pinsons,270 rue des Fontaines,"43.60086914585497,1.4245203877916466",6
+0151,16.0,4,1148.0,905.0,905.0,5.0,4.0,Le Pen,70,École élémentaire des Gais Pinsons,270 rue des Fontaines,"43.60495778858778,1.4137910483274367",6
+0160,16.0,1,1034.0,823.0,823.0,11.0,7.0,Le Pen,88,Maison de la Citoyenneté Nord,4 place du Marché aux Cochons,"43.619202719270774,1.4286955904800234",6
+0161,16.0,1,731.0,586.0,586.0,8.0,1.0,Le Pen,36,École élémentaire Alfred de Musset,5 rue du Général Hoche,"43.62121335399811,1.4247142880061265",6
+0167,16.0,1,1175.0,932.0,932.0,11.0,5.0,Le Pen,83,École élémentaire Falguière,2 rue d'Artagnan,"43.612095750262824,1.4320222945071224",6
+0169,16.0,1,907.0,749.0,749.0,3.0,5.0,Le Pen,36,École élémentaire Falguière,2 rue d'Artagnan,"43.604738908281604,1.4311046819057296",6
+0173,16.0,1,963.0,787.0,787.0,3.0,2.0,Le Pen,73,École élémentaire des Sept Deniers,110 route de Blagnac,"43.61371256989431,1.4152384063222276",6
+0180,22.0,1,962.0,750.0,750.0,9.0,3.0,Le Pen,75,École élémentaire Jules Ferry,109 avenue de Fronton,"43.62577204208056,1.4270232681864414",6
+0184,22.0,1,941.0,721.0,721.0,10.0,2.0,Le Pen,117,École élémentaire Lalande,239 avenue de Fronton,"43.66020778814789,1.4372861124168483",6
+0187,22.0,1,584.0,292.0,290.0,0.0,3.0,Le Pen,50,École maternelle Jean Dieuzaide,14 chemin de la Glacière,"43.64354524551921,1.4122793656277777",6
+0190,22.0,2,1531.0,1157.0,1157.0,21.0,1.0,Le Pen,133,École élémentaire Ernest Renan,7 chemin d'Audibert,"43.638861450179064,1.4491618246160474",6
+0199,22.0,2,1254.0,994.0,994.0,11.0,1.0,Le Pen,115,École élémentaire La Maourine,11 avenue Maurice Bourgès-Maunoury,"43.62986637043082,1.4461268429969247",6
+0207,23.0,2,937.0,683.0,684.0,8.0,3.0,Le Pen,82,École élémentaire Michoun,49 chemin Michoun,"43.625822608910994,1.4638572457203163",6
+0214,23.0,2,1243.0,974.0,974.0,12.0,3.0,Le Pen,85,École élémentaire La Juncasse,133 rue Louis Plana,"43.62016078471103,1.4662516896720628",6
+0228,24.0,3,892.0,723.0,724.0,8.0,1.0,Le Pen,59,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.59687476963923,1.4671522198998834",6
+0234,24.0,3,912.0,736.0,736.0,9.0,2.0,Le Pen,67,École élémentaire Jean Chaubet,112 avenue Camille Pujol,"43.60223948768731,1.473496924475286",6
+0242,25.0,3,1526.0,1159.0,1159.0,16.0,5.0,Le Pen,127,École élémentaire Henri Guillaumet,30 chemin de Bitet,"43.5782880815836,1.4763745119876468",6
+0244,25.0,3,1035.0,850.0,850.0,17.0,3.0,Le Pen,93,École élémentaire La Terrasse,4 impasse Eugène Trutat,"43.58887934255519,1.4872550253094783",6
+069A,19.0,9,864.0,677.0,676.0,4.0,6.0,Le Pen,41,École élémentaire Ricardie 3,56 avenue de l'U.R.S.S.,"43.58209730668972,1.4503692890706181",6
+081A,19.0,9,1070.0,817.0,817.0,6.0,2.0,Le Pen,75,École élémentaire Jules Julien,11 Avenue des Ecoles Jules Julien,"43.56889094795855,1.455122165396102",6
+0005,17.0,1,844.0,686.0,686.0,4.0,3.0,Macron,192,École maternelle Sermet,71 rue du Taur,"43.606237736398256,1.4373794149293662",7
+0013,17.0,1,1078.0,824.0,822.0,9.0,1.0,Macron,210,École élémentaire Bayard,60 rue Matabiau,"43.607791110847685,1.4489202599483",7
+0014,17.0,1,1103.0,819.0,819.0,6.0,3.0,Macron,204,École élémentaire Bayard,60 rue Matabiau,"43.609791974181775,1.4518250536813988",7
+0017,17.0,1,1223.0,1013.0,1013.0,9.0,0.0,Macron,309,École élémentaire Bayard,60 rue Matabiau,"43.61249735027508,1.4466041396192988",7
+001A,24.0,2,23.0,2.0,2.0,0.0,0.0,Macron,2,Capitole – Salle des Commissions (B.v. dérogatoire),Place du Capitole,,7
+0022,17.0,2,929.0,696.0,698.0,9.0,4.0,Macron,142,École élémentaire Bonnefoy,18 rue du Faubourg Bonnefoy,"43.61798370598445,1.4543810487527746",7
+0023,17.0,2,993.0,769.0,769.0,12.0,4.0,Macron,212,École élémentaire Bonnefoy,18 rue du Faubourg Bonnefoy,"43.61425881883643,1.4513459661436272",7
+0024,17.0,2,1151.0,911.0,911.0,15.0,1.0,Macron,247,Éspace Bonnefoy-Périole,25 rue de Périole,"43.614031894960895,1.458418343005298",7
+0028,17.0,2,993.0,755.0,755.0,12.0,0.0,Macron,170,École élémentaire Pierre et Marie Curie,36 rue de la Jeunesse,"43.61724251217461,1.4428532478044858",7
+0033,18.0,4,904.0,721.0,721.0,16.0,4.0,Macron,246,École élémentaire Fourtanier,51 Rue du rempart Saint-Etienne,"43.600903249258764,1.4491779505133926",7
+0041,18.0,4,784.0,607.0,607.0,10.0,3.0,Macron,164,École élémentaire Calvinhac,8 bis Rue Jacques Labatut,"43.59607598929474,1.455074718894346",7
+0043,18.0,4,930.0,749.0,749.0,7.0,4.0,Macron,245,Groupe Scolaire Bonhoure,20 bis place Marius Pinel,"43.601754493200204,1.4644250528710463",7
+0044,18.0,4,1143.0,933.0,933.0,10.0,8.0,Macron,242,Groupe Scolaire Bonhoure,20 bis place Marius Pinel,"43.60439151011152,1.4644682561449356",7
+0047,18.0,4,996.0,808.0,808.0,7.0,5.0,Macron,250,Groupe Scolaire Bonhoure,20 bis place Marius Pinel,"43.604226092836704,1.4708140649769563",7
+0054,18.0,3,1152.0,929.0,929.0,5.0,2.0,Macron,251,École élémentaire Pierre Dupont,101 grande rue Saint-Michel,"43.58823109857517,1.4417173175767914",7
+0056,18.0,3,1149.0,926.0,926.0,13.0,3.0,Macron,208,École élémentaire Pierre Dupont,101 grande rue Saint-Michel,"43.58747171406384,1.4454409350595194",7
+0063,18.0,3,750.0,627.0,627.0,3.0,2.0,Macron,238,École élémentaire Fabre,Rue Pierre Bunière,"43.59855623209385,1.4500706778802865",7
+0071,19.0,3,77.0,34.0,34.0,0.0,0.0,Macron,3,École élémentaire André Daste,4 avenue de Lattre de Tassigny,"43.5879584579951,1.436486607043127",7
+0072,19.0,9,393.0,222.0,222.0,3.0,1.0,Macron,29,École élémentaire André Daste,4 avenue de Lattre de Tassigny,"43.57906434492827,1.440646420836341",7
+0075,19.0,9,919.0,667.0,667.0,7.0,5.0,Macron,176,École maternelle Léo Lagrange,35 allée Henri Sellier,"43.56230104577887,1.4409807223069082",7
+0082,19.0,9,935.0,779.0,779.0,12.0,4.0,Macron,223,École élémentaire Le Pastel,2 chemin d'Escalles,"43.553375486609816,1.4606179925878167",7
+0100,20.0,4,718.0,477.0,477.0,13.0,3.0,Macron,78,École maternelle Didier Daurat,19 rue Jean Gilles,"43.57059784400676,1.3958636507970341",7
+0103,20.0,4,799.0,477.0,477.0,4.0,2.0,Macron,71,École maternelle Didier Daurat,19 rue Jean Gilles,"43.56939523500286,1.4003979259230248",7
+0106,20.0,4,749.0,539.0,539.0,3.0,4.0,Macron,102,École maternelle des Vergers,2 impasse des Vergers,"43.579826592797495,1.4027387467535362",7
+0107,20.0,4,1091.0,800.0,801.0,10.0,4.0,Macron,179,École élémentaire Paul Bert,4 chemin de Liffard,"43.57608813845097,1.3766988407601495",7
+0109,20.0,4,895.0,746.0,746.0,12.0,3.0,Macron,231,École élémentaire Paul Bert,4 chemin de Liffard,"43.560116360151504,1.371727025338553",7
+0114,15.0,4,903.0,738.0,738.0,6.0,1.0,Macron,165,École élémentaire Molière,36 rue Sainte-Lucie,"43.590922827710116,1.4298118363020484",7
+0126,15.0,4,1067.0,880.0,880.0,12.0,14.0,Macron,187,École élémentaire Étienne Billières,56 rue Jacques Gamelin,"43.58847684721166,1.4197320816381027",7
+0137,15.0,4,389.0,248.0,248.0,2.0,5.0,Macron,43,Foyer du 3ème Age,rue Lousion Bobet,"43.59101416106628,1.4038442881648872",7
+0138,15.0,4,1081.0,869.0,868.0,6.0,7.0,Macron,261,École élémentaire Lardenne,20 chemin de Rocamadour,"43.58973045621554,1.391536469463755",7
+0145,21.0,1,1073.0,861.0,860.0,6.0,8.0,Macron,205,Groupe Scolaire Littre,2 place Bertier,"43.60340988852312,1.373401753204013",7
+0146,21.0,1,1056.0,760.0,760.0,8.0,1.0,Macron,225,Groupe Scolaire Littre,2 place Bertier,"43.613582552709765,1.3671514455671427",7
+0149,16.0,4,1059.0,886.0,885.0,9.0,7.0,Macron,215,École élémentaire des Gais Pinsons,270 rue des Fontaines,"43.60086914585497,1.4245203877916466",7
+0150,16.0,4,833.0,670.0,670.0,8.0,5.0,Macron,139,École élémentaire des Gais Pinsons,270 rue des Fontaines,"43.60287360994003,1.4243416443364927",7
+0162,16.0,1,1040.0,804.0,804.0,13.0,1.0,Macron,201,École élémentaire Alfred de Musset,5 rue du Général Hoche,"43.62437174613798,1.4341813284233427",7
+0172,16.0,1,1211.0,978.0,978.0,14.0,4.0,Macron,318,École élémentaire des Sept Deniers,110 route de Blagnac,"43.62079394206599,1.4055731606781339",7
+0176,16.0,1,919.0,697.0,698.0,7.0,7.0,Macron,159,Groupe Scolaire Château d'Ancely,4 allée du Vivarais,"43.61904871495134,1.3969553971337416",7
+0178,16.0,1,701.0,509.0,509.0,8.0,3.0,Macron,126,Groupe Scolaire Château d'Ancely,4 allée du Vivarais,"43.60956286920959,1.3942266530599643",7
+0179,22.0,1,967.0,748.0,748.0,7.0,4.0,Macron,183,École élémentaire Jules Ferry,109 avenue de Fronton,"43.633178829121945,1.4251695854545996",7
+0183,22.0,1,1392.0,998.0,998.0,19.0,2.0,Macron,186,École élémentaire Lalande,239 avenue de Fronton,"43.652107542356056,1.4258762268317147",7
+0187,22.0,1,584.0,292.0,290.0,0.0,3.0,Macron,58,École maternelle Jean Dieuzaide,14 chemin de la Glacière,"43.64354524551921,1.4122793656277777",7
+0195,22.0,2,1117.0,871.0,871.0,20.0,6.0,Macron,197,École élémentaire Cuvier,135 route d'Albi,"43.63049447148149,1.4568345441541999",7
+0198,22.0,2,1092.0,847.0,847.0,7.0,6.0,Macron,204,École élémentaire Cuvier,135 route d'Albi,"43.639041988807236,1.4595954872761676",7
+0211,23.0,2,1078.0,819.0,819.0,4.0,4.0,Macron,201,École élémentaire Michoun,49 chemin Michoun,"43.62922629422677,1.471288978335646",7
+0212,23.0,2,1227.0,950.0,950.0,13.0,4.0,Macron,246,École élémentaire La Juncasse,133 rue Louis Plana,"43.6206886596013,1.478483911594487",7
+0214,23.0,2,1243.0,974.0,974.0,12.0,3.0,Macron,265,École élémentaire La Juncasse,133 rue Louis Plana,"43.62016078471103,1.4662516896720628",7
+0219,23.0,4,201.0,150.0,150.0,3.0,0.0,Macron,39,École élémentaire Soupetard,37 rue de la Solidarité,"43.60541187231578,1.4750261279663526",7
+0222,24.0,4,398.0,322.0,322.0,1.0,2.0,Macron,96,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.59650606745193,1.4570993076294716",7
+0224,24.0,3,1139.0,965.0,965.0,15.0,5.0,Macron,349,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.59547269706665,1.471965405821087",7
+0229,24.0,3,965.0,795.0,795.0,9.0,1.0,Macron,295,École élémentaire Jean Macé,1 chemin de Duroux,"43.592828332124526,1.4767220536257786",7
+0230,24.0,3,971.0,795.0,795.0,8.0,3.0,Macron,294,École élémentaire Jean Macé,1 chemin de Duroux,"43.592562357009946,1.4851345294913552",7
+0232,24.0,3,903.0,716.0,716.0,11.0,2.0,Macron,260,École élémentaire Jean Macé,1 chemin de Duroux,"43.588973842631766,1.4681144107833881",7
+0235,24.0,3,956.0,790.0,790.0,9.0,4.0,Macron,280,École élémentaire Château de l'Hers,8 rue Claudius Rougenet,"43.59774616812097,1.4795112071607168",7
+0237,24.0,3,870.0,632.0,632.0,9.0,5.0,Macron,142,École élémentaire Château de l'Hers,8 rue Claudius Rougenet,"43.60340309729713,1.4786871469004081",7
+0239,25.0,3,1663.0,1337.0,1337.0,18.0,5.0,Macron,345,École élémentaire Henri Guillaumet,30 chemin de Bitet,"43.563604884138755,1.4902707371735808",7
+0250,25.0,3,886.0,714.0,714.0,11.0,3.0,Macron,185,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.58302125428,1.4689870709476043",7
+069A,19.0,9,864.0,677.0,676.0,4.0,6.0,Macron,171,École élémentaire Ricardie 3,56 avenue de l'U.R.S.S.,"43.58209730668972,1.4503692890706181",7
+192A,22.0,2,1106.0,628.0,628.0,7.0,4.0,Macron,100,École élémentaire Ernest Renan,7 chemin d'Audibert,"43.63643940440466,1.4443474724616367",7
+198A,22.0,2,1171.0,841.0,841.0,12.0,3.0,Macron,221,École élémentaire Cuvier,135 route d'Albi,"43.63412175118974,1.462050476801782",7
+0008,17.0,1,1093.0,855.0,855.0,9.0,2.0,Mélenchon,394,École élémentaire du Nord,13 boulevard d'Arcole,"43.61091526761975,1.4374293352156484",8
+0012,17.0,1,981.0,822.0,822.0,7.0,3.0,Mélenchon,304,École élémentaire du Nord,13 boulevard d'Arcole,"43.614290691047565,1.444446975404517",8
+0020,17.0,2,1050.0,836.0,836.0,6.0,5.0,Mélenchon,338,École élémentaire Bonnefoy,18 rue du Faubourg Bonnefoy,"43.62078340163538,1.4505317326988787",8
+0029,17.0,2,1091.0,823.0,823.0,16.0,7.0,Mélenchon,349,École élémentaire Pierre et Marie Curie,36 rue de la Jeunesse,"43.621951934635135,1.4390889064975148",8
+0030,17.0,2,975.0,737.0,737.0,9.0,2.0,Mélenchon,305,École élémentaire Pierre et Marie Curie,36 rue de la Jeunesse,"43.621193861912275,1.4437497769007408",8
+0036,18.0,4,920.0,769.0,769.0,8.0,7.0,Mélenchon,244,École élémentaire Michelet,5 boulevard Jules Michelet,"43.600163825586016,1.455036317248824",8
+0039,18.0,3,78.0,59.0,59.0,0.0,0.0,Mélenchon,18,École élémentaire Michelet,5 boulevard Jules Michelet,"43.59937322674554,1.464242682499363",8
+0040,18.0,4,943.0,790.0,790.0,3.0,3.0,Mélenchon,224,École élémentaire Calvinhac,8 bis Rue Jacques Labatut,"43.598343214983366,1.453731151616894",8
+0044,18.0,4,1143.0,933.0,933.0,10.0,8.0,Mélenchon,332,Groupe Scolaire Bonhoure,20 bis place Marius Pinel,"43.60439151011152,1.4644682561449356",8
+0046,18.0,2,442.0,251.0,251.0,6.0,1.0,Mélenchon,133,Groupe Scolaire Bonhoure,20 bis place Marius Pinel,"43.60786255659595,1.4706167358135673",8
+0048,18.0,3,1037.0,856.0,856.0,12.0,3.0,Mélenchon,290,École élémentaire Jean Jaurès,21 avenue Frizac,"43.58565803089315,1.4501925328017777",8
+0053,18.0,3,1046.0,851.0,851.0,7.0,5.0,Mélenchon,256,École élémentaire Jean Jaurès,21 avenue Frizac,"43.59258028752769,1.450009316711557",8
+0061,18.0,3,921.0,759.0,758.0,11.0,2.0,Mélenchon,180,École élémentaire Fabre,Rue Pierre Bunière,"43.59499945956251,1.446088130334454",8
+0067,19.0,9,1253.0,1020.0,1020.0,17.0,2.0,Mélenchon,467,École élémentaire Ricardie 3,56 avenue de l'U.R.S.S.,"43.57912269836566,1.4458282475336133",8
+0070,19.0,9,784.0,489.0,488.0,5.0,7.0,Mélenchon,278,École élémentaire André Daste,4 avenue de Lattre de Tassigny,"43.578349581875166,1.4337736598242208",8
+0077,19.0,9,997.0,777.0,777.0,10.0,4.0,Mélenchon,307,École élémentaire Jules Julien,11 Avenue des Ecoles Jules Julien,"43.57443269321245,1.4466458015085777",8
+0081,19.0,9,1116.0,814.0,814.0,10.0,3.0,Mélenchon,390,École élémentaire Jules Julien,11 Avenue des Ecoles Jules Julien,"43.560125928689175,1.4661722040380247",8
+0083,19.0,9,881.0,756.0,756.0,12.0,1.0,Mélenchon,189,École élémentaire Le Pastel,2 chemin d'Escalles,"43.54268758790636,1.4551034152728726",8
+0087,20.0,9,791.0,480.0,480.0,4.0,7.0,Mélenchon,234,École élémentaire Maurice Jacquier,7 rue du Poitou,"43.57352454629127,1.411737186985704",8
+0088,20.0,9,707.0,541.0,541.0,9.0,3.0,Mélenchon,180,École élémentaire Maurice Jacquier,7 rue du Poitou,"43.574007061740346,1.4209065633792601",8
+0089,20.0,9,937.0,600.0,601.0,9.0,2.0,Mélenchon,323,École élémentaire Maurice Jacquier,7 rue du Poitou,"43.570771125856275,1.4188299044198835",8
+0100,20.0,4,718.0,477.0,477.0,13.0,3.0,Mélenchon,266,École maternelle Didier Daurat,19 rue Jean Gilles,"43.57059784400676,1.3958636507970341",8
+0103,20.0,4,799.0,477.0,477.0,4.0,2.0,Mélenchon,294,École maternelle Didier Daurat,19 rue Jean Gilles,"43.56939523500286,1.4003979259230248",8
+0111,20.0,4,779.0,622.0,622.0,7.0,3.0,Mélenchon,182,École élémentaire Paul Bert,4 chemin de Liffard,"43.565535409636674,1.3830235341714683",8
+0117,15.0,4,1421.0,1097.0,1098.0,22.0,4.0,Mélenchon,479,École élémentaire Patte d'Oie,44 rue du Tchad,"43.59472499763646,1.4139948144961658",8
+0119,15.0,4,985.0,747.0,746.0,6.0,4.0,Mélenchon,291,École élémentaire Patte d'Oie,44 rue du Tchad,"43.59756970963773,1.4252686930913936",8
+0125,15.0,4,932.0,745.0,744.0,4.0,4.0,Mélenchon,278,École élémentaire Étienne Billières,56 rue Jacques Gamelin,"43.58892027641847,1.4127988757759347",8
+0139,15.0,4,1082.0,840.0,840.0,8.0,6.0,Mélenchon,239,École élémentaire Lardenne,20 chemin de Rocamadour,"43.58780450367889,1.381926282187387",8
+0140,15.0,4,1045.0,848.0,848.0,12.0,8.0,Mélenchon,234,École élémentaire Lardenne,20 chemin de Rocamadour,"43.58449461429126,1.3768000901414992",8
+0169,16.0,1,907.0,749.0,749.0,3.0,5.0,Mélenchon,243,École élémentaire Falguière,2 rue d'Artagnan,"43.604738908281604,1.4311046819057296",8
+0171,16.0,1,1053.0,826.0,826.0,10.0,2.0,Mélenchon,242,École élémentaire des Sept Deniers,110 route de Blagnac,"43.620239852154086,1.4138584655913815",8
+0192,22.0,2,1149.0,753.0,751.0,11.0,6.0,Mélenchon,326,École élémentaire Ernest Renan,7 chemin d'Audibert,"43.643387274572866,1.4435778322048458",8
+0194,22.0,2,1228.0,949.0,949.0,17.0,8.0,Mélenchon,324,École élémentaire Cuvier,135 route d'Albi,"43.63477358524326,1.4699877942061406",8
+0195,22.0,2,1117.0,871.0,871.0,20.0,6.0,Mélenchon,308,École élémentaire Cuvier,135 route d'Albi,"43.63049447148149,1.4568345441541999",8
+0200,22.0,2,1158.0,818.0,818.0,7.0,1.0,Mélenchon,355,École élémentaire La Maourine,11 avenue Maurice Bourgès-Maunoury,"43.626244790722424,1.451118789780703",8
+0201,22.0,2,1043.0,824.0,823.0,18.0,6.0,Mélenchon,274,École élémentaire La Maourine,11 avenue Maurice Bourgès-Maunoury,"43.63152851831545,1.4511768516617083",8
+0202,23.0,2,978.0,766.0,766.0,7.0,2.0,Mélenchon,402,École maternelle Reille,4 bis rue Reille,"43.60770355136999,1.4608491165088076",8
+0205,23.0,2,799.0,573.0,573.0,6.0,4.0,Mélenchon,261,École maternelle Reille,4 bis rue Reille,"43.61155680704594,1.4630494367479285",8
+0213,23.0,2,1073.0,829.0,829.0,12.0,3.0,Mélenchon,273,École élémentaire La Juncasse,133 rue Louis Plana,"43.61566735244405,1.4705539037242508",8
+0217,23.0,2,868.0,664.0,664.0,5.0,3.0,Mélenchon,240,École élémentaire La Juncasse,133 rue Louis Plana,"43.61202268425723,1.4713731762509825",8
+0220,23.0,2,1108.0,852.0,852.0,17.0,8.0,Mélenchon,328,École élémentaire Soupetard,37 rue de la Solidarité,"43.61088155570137,1.4812497531300448",8
+0225,24.0,3,1034.0,835.0,835.0,14.0,2.0,Mélenchon,188,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.59332098274859,1.4650844173724218",8
+0231,24.0,3,895.0,752.0,752.0,11.0,3.0,Mélenchon,103,École élémentaire Jean Macé,1 chemin de Duroux,"43.588442887849716,1.4749363182926785",8
+0241,25.0,3,1038.0,777.0,777.0,16.0,3.0,Mélenchon,212,École élémentaire Henri Guillaumet,30 chemin de Bitet,"43.57712278154643,1.4830837050592025",8
+0242,25.0,3,1526.0,1159.0,1159.0,16.0,5.0,Mélenchon,347,École élémentaire Henri Guillaumet,30 chemin de Bitet,"43.5782880815836,1.4763745119876468",8
+0246,25.0,3,795.0,665.0,665.0,8.0,2.0,Mélenchon,134,École élémentaire La Terrasse,4 impasse Eugène Trutat,"43.58624876593908,1.4869205381749795",8
+0006,17.0,1,883.0,720.0,720.0,12.0,5.0,Pécresse,20,École maternelle Sermet,71 rue du Taur,"43.60816623747753,1.4412013700016226",9
+0016,17.0,1,1176.0,941.0,941.0,7.0,6.0,Pécresse,47,École élémentaire Bayard,60 rue Matabiau,"43.612472129483244,1.4498009124237956",9
+0019,17.0,1,803.0,668.0,668.0,8.0,1.0,Pécresse,23,Centre Sportif Léo Lagrange,4 place Pierre Paul Riquet,"43.60658076048059,1.4546155416905173",9
+0022,17.0,2,929.0,696.0,698.0,9.0,4.0,Pécresse,20,École élémentaire Bonnefoy,18 rue du Faubourg Bonnefoy,"43.61798370598445,1.4543810487527746",9
+0026,17.0,2,693.0,562.0,562.0,10.0,0.0,Pécresse,20,Éspace Bonnefoy-Périole,25 rue de Périole,"43.62092179784524,1.4610570363209916",9
+0029,17.0,2,1091.0,823.0,823.0,16.0,7.0,Pécresse,16,École élémentaire Pierre et Marie Curie,36 rue de la Jeunesse,"43.621951934635135,1.4390889064975148",9
+0033,18.0,4,904.0,721.0,721.0,16.0,4.0,Pécresse,58,École élémentaire Fourtanier,51 Rue du rempart Saint-Etienne,"43.600903249258764,1.4491779505133926",9
+0034,18.0,1,765.0,600.0,600.0,2.0,1.0,Pécresse,32,École élémentaire Fourtanier,51 Rue du rempart Saint-Etienne,"43.60568337587489,1.4488336404017887",9
+0041,18.0,4,784.0,607.0,607.0,10.0,3.0,Pécresse,29,École élémentaire Calvinhac,8 bis Rue Jacques Labatut,"43.59607598929474,1.455074718894346",9
+0053,18.0,3,1046.0,851.0,851.0,7.0,5.0,Pécresse,43,École élémentaire Jean Jaurès,21 avenue Frizac,"43.59258028752769,1.450009316711557",9
+0054,18.0,3,1152.0,929.0,929.0,5.0,2.0,Pécresse,30,École élémentaire Pierre Dupont,101 grande rue Saint-Michel,"43.58823109857517,1.4417173175767914",9
+0064,19.0,9,803.0,582.0,582.0,7.0,6.0,Pécresse,12,École élémentaire Sauzelong,92 avenue Albert Bedouce,"43.57847980138388,1.4631176571341804",9
+0065,19.0,9,1001.0,797.0,797.0,9.0,4.0,Pécresse,27,École élémentaire Sauzelong,92 avenue Albert Bedouce,"43.576601286758184,1.4589204002614866",9
+0077,19.0,9,997.0,777.0,777.0,10.0,4.0,Pécresse,16,École élémentaire Jules Julien,11 Avenue des Ecoles Jules Julien,"43.57443269321245,1.4466458015085777",9
+0078,19.0,9,1080.0,868.0,868.0,18.0,10.0,Pécresse,34,École élémentaire Jules Julien,11 Avenue des Ecoles Jules Julien,"43.574593527038886,1.454729387019535",9
+0083,19.0,9,881.0,756.0,756.0,12.0,1.0,Pécresse,37,École élémentaire Le Pastel,2 chemin d'Escalles,"43.54268758790636,1.4551034152728726",9
+0090,20.0,9,784.0,646.0,646.0,3.0,4.0,Pécresse,46,École élémentaire Les Oustalous,65 route d'Espagne,"43.57416584855181,1.4266964541177793",9
+0094,20.0,9,654.0,431.0,431.0,1.0,2.0,Pécresse,7,École élémentaire Sylvain Dauriac,39 rue Paul Lambert,"43.57856388158481,1.4141839033313475",9
+0100,20.0,4,718.0,477.0,477.0,13.0,3.0,Pécresse,8,École maternelle Didier Daurat,19 rue Jean Gilles,"43.57059784400676,1.3958636507970341",9
+0101,20.0,4,669.0,371.0,371.0,6.0,1.0,Pécresse,0,École maternelle Didier Daurat,19 rue Jean Gilles,"43.57317858489967,1.4063280023341198",9
+0107,20.0,4,1091.0,800.0,801.0,10.0,4.0,Pécresse,29,École élémentaire Paul Bert,4 chemin de Liffard,"43.57608813845097,1.3766988407601495",9
+0108,20.0,4,1240.0,1027.0,1027.0,16.0,10.0,Pécresse,28,École élémentaire Paul Bert,4 chemin de Liffard,"43.565833588349754,1.368349271180299",9
+0109,20.0,4,895.0,746.0,746.0,12.0,3.0,Pécresse,28,École élémentaire Paul Bert,4 chemin de Liffard,"43.560116360151504,1.371727025338553",9
+0113,15.0,4,842.0,673.0,673.0,3.0,3.0,Pécresse,20,École élémentaire Molière,36 rue Sainte-Lucie,"43.595623141331835,1.4304614251181442",9
+0117,15.0,4,1421.0,1097.0,1098.0,22.0,4.0,Pécresse,17,École élémentaire Patte d'Oie,44 rue du Tchad,"43.59472499763646,1.4139948144961658",9
+0128,15.0,9,569.0,468.0,468.0,4.0,0.0,Pécresse,13,École élémentaire Étienne Billières,56 rue Jacques Gamelin,"43.58131083772695,1.4190967322907753",9
+0134,15.0,4,1118.0,838.0,838.0,5.0,5.0,Pécresse,23,Groupe Scolaire Viollet le Duc,23 rue Viollet le Duc,"43.57802148576082,1.386742087415645",9
+0142,15.0,4,978.0,813.0,813.0,7.0,2.0,Pécresse,50,École élémentaire Lespinasse,3 rue du Chairedon,"43.59516879079555,1.4349612149546866",9
+0159,16.0,1,1115.0,908.0,908.0,8.0,3.0,Pécresse,31,Maison de la Citoyenneté Nord,4 place du Marché aux Cochons,"43.61741626694262,1.4337330222162523",9
+0171,16.0,1,1053.0,826.0,826.0,10.0,2.0,Pécresse,30,École élémentaire des Sept Deniers,110 route de Blagnac,"43.620239852154086,1.4138584655913815",9
+0176,16.0,1,919.0,697.0,698.0,7.0,7.0,Pécresse,13,Groupe Scolaire Château d'Ancely,4 allée du Vivarais,"43.61904871495134,1.3969553971337416",9
+0177,16.0,1,1056.0,813.0,812.0,12.0,7.0,Pécresse,17,Groupe Scolaire Château d'Ancely,4 allée du Vivarais,"43.61155808658199,1.4024944129401613",9
+0184,22.0,1,941.0,721.0,721.0,10.0,2.0,Pécresse,25,École élémentaire Lalande,239 avenue de Fronton,"43.66020778814789,1.4372861124168483",9
+0185,22.0,1,1385.0,1057.0,1057.0,19.0,3.0,Pécresse,29,École élémentaire Lalande,239 avenue de Fronton,"43.6570527639045,1.4349123034378635",9
+0187,22.0,1,584.0,292.0,290.0,0.0,3.0,Pécresse,6,École maternelle Jean Dieuzaide,14 chemin de la Glacière,"43.64354524551921,1.4122793656277777",9
+0191,22.0,2,1067.0,788.0,788.0,11.0,2.0,Pécresse,24,École élémentaire Ernest Renan,7 chemin d'Audibert,"43.63085133485174,1.440834019246995",9
+0195,22.0,2,1117.0,871.0,871.0,20.0,6.0,Pécresse,29,École élémentaire Cuvier,135 route d'Albi,"43.63049447148149,1.4568345441541999",9
+0202,23.0,2,978.0,766.0,766.0,7.0,2.0,Pécresse,22,École maternelle Reille,4 bis rue Reille,"43.60770355136999,1.4608491165088076",9
+0205,23.0,2,799.0,573.0,573.0,6.0,4.0,Pécresse,12,École maternelle Reille,4 bis rue Reille,"43.61155680704594,1.4630494367479285",9
+0208,23.0,2,1061.0,796.0,796.0,13.0,8.0,Pécresse,13,École élémentaire Michoun,49 chemin Michoun,"43.62820488081042,1.4671816022461186",9
+0210,23.0,2,1069.0,855.0,855.0,14.0,2.0,Pécresse,33,École élémentaire Michoun,49 chemin Michoun,"43.625142274542775,1.4719674303241805",9
+0211,23.0,2,1078.0,819.0,819.0,4.0,4.0,Pécresse,25,École élémentaire Michoun,49 chemin Michoun,"43.62922629422677,1.471288978335646",9
+0212,23.0,2,1227.0,950.0,950.0,13.0,4.0,Pécresse,42,École élémentaire La Juncasse,133 rue Louis Plana,"43.6206886596013,1.478483911594487",9
+0216,23.0,2,1017.0,813.0,813.0,10.0,2.0,Pécresse,14,École élémentaire La Juncasse,133 rue Louis Plana,"43.61642212087398,1.462421293671557",9
+0217,23.0,2,868.0,664.0,664.0,5.0,3.0,Pécresse,20,École élémentaire La Juncasse,133 rue Louis Plana,"43.61202268425723,1.4713731762509825",9
+0222,24.0,4,398.0,322.0,322.0,1.0,2.0,Pécresse,21,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.59650606745193,1.4570993076294716",9
+0223,24.0,4,189.0,143.0,143.0,3.0,0.0,Pécresse,7,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.59705025854722,1.4624924703736013",9
+0239,25.0,3,1663.0,1337.0,1337.0,18.0,5.0,Pécresse,49,École élémentaire Henri Guillaumet,30 chemin de Bitet,"43.563604884138755,1.4902707371735808",9
+0252,25.0,3,955.0,763.0,763.0,6.0,2.0,Pécresse,44,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.586254290282056,1.4706677876616057",9
+083A,19.0,9,972.0,754.0,752.0,6.0,1.0,Pécresse,35,École élémentaire Le Pastel,2 chemin d'Escalles,"43.552106433360166,1.4492674460770958",9
+0001,17.0,4,962.0,735.0,735.0,12.0,2.0,Poutou,1,Capitole – Salle des Commissions,Place du Capitole,"43.60322427854742,1.4441076863178377",10
+0002,17.0,4,915.0,734.0,734.0,3.0,1.0,Poutou,6,Capitole – Salle des Commissions,Place du Capitole,"43.601384255877896,1.4430982126431682",10
+0017,17.0,1,1223.0,1013.0,1013.0,9.0,0.0,Poutou,3,École élémentaire Bayard,60 rue Matabiau,"43.61249735027508,1.4466041396192988",10
+0018,17.0,1,723.0,588.0,588.0,6.0,2.0,Poutou,1,Centre Sportif Léo Lagrange,4 place Pierre Paul Riquet,"43.60680440103708,1.4517296952366305",10
+001A,24.0,2,23.0,2.0,2.0,0.0,0.0,Poutou,0,Capitole – Salle des Commissions (B.v. dérogatoire),Place du Capitole,,10
+0026,17.0,2,693.0,562.0,562.0,10.0,0.0,Poutou,1,Éspace Bonnefoy-Périole,25 rue de Périole,"43.62092179784524,1.4610570363209916",10
+0034,18.0,1,765.0,600.0,600.0,2.0,1.0,Poutou,4,École élémentaire Fourtanier,51 Rue du rempart Saint-Etienne,"43.60568337587489,1.4488336404017887",10
+0039,18.0,3,78.0,59.0,59.0,0.0,0.0,Poutou,0,École élémentaire Michelet,5 boulevard Jules Michelet,"43.59937322674554,1.464242682499363",10
+0044,18.0,4,1143.0,933.0,933.0,10.0,8.0,Poutou,2,Groupe Scolaire Bonhoure,20 bis place Marius Pinel,"43.60439151011152,1.4644682561449356",10
+0047,18.0,4,996.0,808.0,808.0,7.0,5.0,Poutou,3,Groupe Scolaire Bonhoure,20 bis place Marius Pinel,"43.604226092836704,1.4708140649769563",10
+0057,18.0,3,1250.0,1003.0,1003.0,11.0,2.0,Poutou,6,École élémentaire Pierre Dupont,101 grande rue Saint-Michel,"43.58613713628652,1.4432262663493785",10
+0061,18.0,3,921.0,759.0,758.0,11.0,2.0,Poutou,5,École élémentaire Fabre,Rue Pierre Bunière,"43.59499945956251,1.446088130334454",10
+0063,18.0,3,750.0,627.0,627.0,3.0,2.0,Poutou,2,École élémentaire Fabre,Rue Pierre Bunière,"43.59855623209385,1.4500706778802865",10
+0064,19.0,9,803.0,582.0,582.0,7.0,6.0,Poutou,3,École élémentaire Sauzelong,92 avenue Albert Bedouce,"43.57847980138388,1.4631176571341804",10
+0066,19.0,9,1109.0,874.0,874.0,13.0,6.0,Poutou,10,École élémentaire Sauzelong,92 avenue Albert Bedouce,"43.57315478622921,1.462480761643453",10
+0068,19.0,9,875.0,695.0,695.0,7.0,2.0,Poutou,7,École élémentaire Ricardie 3,56 avenue de l'U.R.S.S.,"43.58262777019936,1.4463260930199282",10
+0070,19.0,9,784.0,489.0,488.0,5.0,7.0,Poutou,5,École élémentaire André Daste,4 avenue de Lattre de Tassigny,"43.578349581875166,1.4337736598242208",10
+0071,19.0,3,77.0,34.0,34.0,0.0,0.0,Poutou,0,École élémentaire André Daste,4 avenue de Lattre de Tassigny,"43.5879584579951,1.436486607043127",10
+0079,19.0,9,1040.0,857.0,857.0,7.0,7.0,Poutou,5,École élémentaire Jules Julien,11 Avenue des Ecoles Jules Julien,"43.56932499543203,1.4498723961874096",10
+0080,19.0,9,1107.0,824.0,824.0,10.0,1.0,Poutou,4,École élémentaire Jules Julien,11 Avenue des Ecoles Jules Julien,"43.56867585957557,1.4653602001296462",10
+0089,20.0,9,937.0,600.0,601.0,9.0,2.0,Poutou,1,École élémentaire Maurice Jacquier,7 rue du Poitou,"43.570771125856275,1.4188299044198835",10
+0090,20.0,9,784.0,646.0,646.0,3.0,4.0,Poutou,1,École élémentaire Les Oustalous,65 route d'Espagne,"43.57416584855181,1.4266964541177793",10
+0093,20.0,9,1058.0,777.0,777.0,5.0,4.0,Poutou,4,École élémentaire Buffon,6 impasse des Glières,"43.55374730123664,1.414543146062401",10
+0102,20.0,4,918.0,498.0,498.0,3.0,1.0,Poutou,2,École maternelle Didier Daurat,19 rue Jean Gilles,"43.56904942078116,1.405653351557145",10
+0103,20.0,4,799.0,477.0,477.0,4.0,2.0,Poutou,4,École maternelle Didier Daurat,19 rue Jean Gilles,"43.56939523500286,1.4003979259230248",10
+0107,20.0,4,1091.0,800.0,801.0,10.0,4.0,Poutou,7,École élémentaire Paul Bert,4 chemin de Liffard,"43.57608813845097,1.3766988407601495",10
+0110,20.0,4,1258.0,987.0,987.0,15.0,4.0,Poutou,5,École élémentaire Paul Bert,4 chemin de Liffard,"43.54891316552971,1.381746415194405",10
+0115,15.0,4,1153.0,946.0,946.0,8.0,5.0,Poutou,13,École élémentaire Molière,36 rue Sainte-Lucie,"43.58805051277253,1.4284036347827345",10
+0117,15.0,4,1421.0,1097.0,1098.0,22.0,4.0,Poutou,9,École élémentaire Patte d'Oie,44 rue du Tchad,"43.59472499763646,1.4139948144961658",10
+0118,15.0,4,1054.0,860.0,859.0,15.0,3.0,Poutou,6,École élémentaire Patte d'Oie,44 rue du Tchad,"43.59920046820529,1.4241416077312998",10
+0120,15.0,4,1031.0,818.0,818.0,15.0,6.0,Poutou,9,École élémentaire Patte d'Oie,44 rue du Tchad,"43.595146712905056,1.4255507692729716",10
+0125,15.0,4,932.0,745.0,744.0,4.0,4.0,Poutou,4,École élémentaire Étienne Billières,56 rue Jacques Gamelin,"43.58892027641847,1.4127988757759347",10
+0126,15.0,4,1067.0,880.0,880.0,12.0,14.0,Poutou,7,École élémentaire Étienne Billières,56 rue Jacques Gamelin,"43.58847684721166,1.4197320816381027",10
+0141,15.0,4,856.0,695.0,695.0,4.0,3.0,Poutou,2,École élémentaire Lespinasse,3 rue du Chairedon,"43.59915312567305,1.4360390592953358",10
+0144,21.0,1,902.0,729.0,729.0,10.0,3.0,Poutou,10,Groupe Scolaire Littre,2 place Bertier,"43.60356390024458,1.3875450465408259",10
+0158,16.0,1,1064.0,811.0,811.0,15.0,3.0,Poutou,4,Maison de la Citoyenneté Nord,4 place du Marché aux Cochons,"43.615420327836766,1.4302134932738795",10
+0159,16.0,1,1115.0,908.0,908.0,8.0,3.0,Poutou,4,Maison de la Citoyenneté Nord,4 place du Marché aux Cochons,"43.61741626694262,1.4337330222162523",10
+0160,16.0,1,1034.0,823.0,823.0,11.0,7.0,Poutou,4,Maison de la Citoyenneté Nord,4 place du Marché aux Cochons,"43.619202719270774,1.4286955904800234",10
+0170,16.0,1,916.0,739.0,739.0,11.0,2.0,Poutou,4,École élémentaire Falguière,2 rue d'Artagnan,"43.607787207737616,1.4337670920581693",10
+0171,16.0,1,1053.0,826.0,826.0,10.0,2.0,Poutou,3,École élémentaire des Sept Deniers,110 route de Blagnac,"43.620239852154086,1.4138584655913815",10
+0177,16.0,1,1056.0,813.0,812.0,12.0,7.0,Poutou,7,Groupe Scolaire Château d'Ancely,4 allée du Vivarais,"43.61155808658199,1.4024944129401613",10
+0178,16.0,1,701.0,509.0,509.0,8.0,3.0,Poutou,4,Groupe Scolaire Château d'Ancely,4 allée du Vivarais,"43.60956286920959,1.3942266530599643",10
+0184,22.0,1,941.0,721.0,721.0,10.0,2.0,Poutou,7,École élémentaire Lalande,239 avenue de Fronton,"43.66020778814789,1.4372861124168483",10
+0189,22.0,2,1450.0,1095.0,1095.0,9.0,1.0,Poutou,12,École élémentaire Ernest Renan,7 chemin d'Audibert,"43.64160735563733,1.453873728624354",10
+0190,22.0,2,1531.0,1157.0,1157.0,21.0,1.0,Poutou,6,École élémentaire Ernest Renan,7 chemin d'Audibert,"43.638861450179064,1.4491618246160474",10
+0191,22.0,2,1067.0,788.0,788.0,11.0,2.0,Poutou,6,École élémentaire Ernest Renan,7 chemin d'Audibert,"43.63085133485174,1.440834019246995",10
+0195,22.0,2,1117.0,871.0,871.0,20.0,6.0,Poutou,6,École élémentaire Cuvier,135 route d'Albi,"43.63049447148149,1.4568345441541999",10
+0198,22.0,2,1092.0,847.0,847.0,7.0,6.0,Poutou,11,École élémentaire Cuvier,135 route d'Albi,"43.639041988807236,1.4595954872761676",10
+0201,22.0,2,1043.0,824.0,823.0,18.0,6.0,Poutou,9,École élémentaire La Maourine,11 avenue Maurice Bourgès-Maunoury,"43.63152851831545,1.4511768516617083",10
+0206,23.0,2,994.0,770.0,770.0,7.0,1.0,Poutou,6,École élémentaire Michoun,49 chemin Michoun,"43.62344282182534,1.4626084486060038",10
+0213,23.0,2,1073.0,829.0,829.0,12.0,3.0,Poutou,3,École élémentaire La Juncasse,133 rue Louis Plana,"43.61566735244405,1.4705539037242508",10
+0224,24.0,3,1139.0,965.0,965.0,15.0,5.0,Poutou,4,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.59547269706665,1.471965405821087",10
+0225,24.0,3,1034.0,835.0,835.0,14.0,2.0,Poutou,5,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.59332098274859,1.4650844173724218",10
+0228,24.0,3,892.0,723.0,724.0,8.0,1.0,Poutou,5,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.59687476963923,1.4671522198998834",10
+0231,24.0,3,895.0,752.0,752.0,11.0,3.0,Poutou,1,École élémentaire Jean Macé,1 chemin de Duroux,"43.588442887849716,1.4749363182926785",10
+0232,24.0,3,903.0,716.0,716.0,11.0,2.0,Poutou,3,École élémentaire Jean Macé,1 chemin de Duroux,"43.588973842631766,1.4681144107833881",10
+0233,24.0,3,968.0,787.0,786.0,3.0,3.0,Poutou,2,École élémentaire Jean Chaubet,112 avenue Camille Pujol,"43.59966816800566,1.4714870065287082",10
+0240,25.0,3,1308.0,985.0,985.0,14.0,6.0,Poutou,8,École élémentaire Henri Guillaumet,30 chemin de Bitet,"43.57506334028338,1.5018245530691228",10
+0251,25.0,3,897.0,723.0,723.0,8.0,2.0,Poutou,5,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.582908274206225,1.4745499919024603",10
+0253,25.0,3,1052.0,865.0,865.0,5.0,2.0,Poutou,2,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.588611236308004,1.464009942813754",10
+0256,25.0,9,1093.0,837.0,837.0,8.0,2.0,Poutou,10,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.584496845113044,1.4591834561635042",10
+069A,19.0,9,864.0,677.0,676.0,4.0,6.0,Poutou,5,École élémentaire Ricardie 3,56 avenue de l'U.R.S.S.,"43.58209730668972,1.4503692890706181",10
+112A,20.0,4,1027.0,796.0,796.0,11.0,5.0,Poutou,11,École élémentaire Paul Bert,4 chemin de Liffard,"43.55771328022331,1.3789144072201767",10
+198A,22.0,2,1171.0,841.0,841.0,12.0,3.0,Poutou,4,École élémentaire Cuvier,135 route d'Albi,"43.63412175118974,1.462050476801782",10
+0005,17.0,1,844.0,686.0,686.0,4.0,3.0,Roussel,9,École maternelle Sermet,71 rue du Taur,"43.606237736398256,1.4373794149293662",11
+0017,17.0,1,1223.0,1013.0,1013.0,9.0,0.0,Roussel,17,École élémentaire Bayard,60 rue Matabiau,"43.61249735027508,1.4466041396192988",11
+0018,17.0,1,723.0,588.0,588.0,6.0,2.0,Roussel,1,Centre Sportif Léo Lagrange,4 place Pierre Paul Riquet,"43.60680440103708,1.4517296952366305",11
+0022,17.0,2,929.0,696.0,698.0,9.0,4.0,Roussel,27,École élémentaire Bonnefoy,18 rue du Faubourg Bonnefoy,"43.61798370598445,1.4543810487527746",11
+0025,17.0,2,911.0,704.0,704.0,7.0,3.0,Roussel,12,Éspace Bonnefoy-Périole,25 rue de Périole,"43.61788032606769,1.4580659159297",11
+0027,17.0,2,1161.0,955.0,955.0,9.0,3.0,Roussel,23,École élémentaire Pierre et Marie Curie,36 rue de la Jeunesse,"43.61799649131852,1.4389414275293488",11
+0031,18.0,4,712.0,557.0,557.0,7.0,1.0,Roussel,8,École élémentaire Fourtanier,51 Rue du rempart Saint-Etienne,"43.60203541181833,1.446373754122511",11
+0032,18.0,4,902.0,722.0,722.0,13.0,2.0,Roussel,8,École élémentaire Fourtanier,51 Rue du rempart Saint-Etienne,"43.60319662774439,1.4495419463353485",11
+0033,18.0,4,904.0,721.0,721.0,16.0,4.0,Roussel,10,École élémentaire Fourtanier,51 Rue du rempart Saint-Etienne,"43.600903249258764,1.4491779505133926",11
+0036,18.0,4,920.0,769.0,769.0,8.0,7.0,Roussel,13,École élémentaire Michelet,5 boulevard Jules Michelet,"43.600163825586016,1.455036317248824",11
+0041,18.0,4,784.0,607.0,607.0,10.0,3.0,Roussel,12,École élémentaire Calvinhac,8 bis Rue Jacques Labatut,"43.59607598929474,1.455074718894346",11
+0043,18.0,4,930.0,749.0,749.0,7.0,4.0,Roussel,4,Groupe Scolaire Bonhoure,20 bis place Marius Pinel,"43.601754493200204,1.4644250528710463",11
+0045,18.0,4,685.0,559.0,559.0,3.0,1.0,Roussel,6,Groupe Scolaire Bonhoure,20 bis place Marius Pinel,"43.60594712116238,1.4684681760310572",11
+0046,18.0,2,442.0,251.0,251.0,6.0,1.0,Roussel,5,Groupe Scolaire Bonhoure,20 bis place Marius Pinel,"43.60786255659595,1.4706167358135673",11
+0050,18.0,3,1012.0,856.0,856.0,6.0,0.0,Roussel,12,École élémentaire Jean Jaurès,21 avenue Frizac,"43.588615145351966,1.4521226097462834",11
+0064,19.0,9,803.0,582.0,582.0,7.0,6.0,Roussel,17,École élémentaire Sauzelong,92 avenue Albert Bedouce,"43.57847980138388,1.4631176571341804",11
+0066,19.0,9,1109.0,874.0,874.0,13.0,6.0,Roussel,19,École élémentaire Sauzelong,92 avenue Albert Bedouce,"43.57315478622921,1.462480761643453",11
+0072,19.0,9,393.0,222.0,222.0,3.0,1.0,Roussel,5,École élémentaire André Daste,4 avenue de Lattre de Tassigny,"43.57906434492827,1.440646420836341",11
+0088,20.0,9,707.0,541.0,541.0,9.0,3.0,Roussel,20,École élémentaire Maurice Jacquier,7 rue du Poitou,"43.574007061740346,1.4209065633792601",11
+0090,20.0,9,784.0,646.0,646.0,3.0,4.0,Roussel,10,École élémentaire Les Oustalous,65 route d'Espagne,"43.57416584855181,1.4266964541177793",11
+0099,20.0,4,1282.0,793.0,793.0,9.0,3.0,Roussel,19,Centre Socio-Culturel Alban Minville,1 place Martin Luther King,"43.56478491008584,1.4035979337213886",11
+0106,20.0,4,749.0,539.0,539.0,3.0,4.0,Roussel,11,École maternelle des Vergers,2 impasse des Vergers,"43.579826592797495,1.4027387467535362",11
+0108,20.0,4,1240.0,1027.0,1027.0,16.0,10.0,Roussel,19,École élémentaire Paul Bert,4 chemin de Liffard,"43.565833588349754,1.368349271180299",11
+0110,20.0,4,1258.0,987.0,987.0,15.0,4.0,Roussel,13,École élémentaire Paul Bert,4 chemin de Liffard,"43.54891316552971,1.381746415194405",11
+0112,20.0,4,1257.0,1054.0,1054.0,20.0,7.0,Roussel,17,École élémentaire Paul Bert,4 chemin de Liffard,"43.55630751827725,1.3866555955232232",11
+0114,15.0,4,903.0,738.0,738.0,6.0,1.0,Roussel,16,École élémentaire Molière,36 rue Sainte-Lucie,"43.590922827710116,1.4298118363020484",11
+0116,15.0,4,914.0,760.0,760.0,5.0,3.0,Roussel,17,École élémentaire Molière,36 rue Sainte-Lucie,"43.593207064630406,1.43113045601551",11
+0123,15.0,4,1104.0,867.0,866.0,8.0,3.0,Roussel,20,École élémentaire Patte d'Oie,44 rue du Tchad,"43.597238070753036,1.4167178517205081",11
+0124,15.0,4,1070.0,792.0,792.0,13.0,2.0,Roussel,15,École élémentaire Étienne Billières,56 rue Jacques Gamelin,"43.59191146917323,1.415228599452705",11
+0129,15.0,4,1182.0,959.0,959.0,6.0,2.0,Roussel,28,École élémentaire Fontaine Bayonne,14 rue Dufaur de Pibrac,"43.60042827939843,1.416789447520135",11
+0130,15.0,4,1920.0,1504.0,1504.0,19.0,6.0,Roussel,31,École élémentaire Fontaine Bayonne,14 rue Dufaur de Pibrac,"43.59936064705561,1.40615582151729",11
+0135,15.0,4,976.0,667.0,667.0,11.0,3.0,Roussel,13,Groupe Scolaire Viollet le Duc,23 rue Viollet le Duc,"43.58066438383764,1.3915436323750916",11
+0139,15.0,4,1082.0,840.0,840.0,8.0,6.0,Roussel,17,École élémentaire Lardenne,20 chemin de Rocamadour,"43.58780450367889,1.381926282187387",11
+0140,15.0,4,1045.0,848.0,848.0,12.0,8.0,Roussel,12,École élémentaire Lardenne,20 chemin de Rocamadour,"43.58449461429126,1.3768000901414992",11
+0145,21.0,1,1073.0,861.0,860.0,6.0,8.0,Roussel,14,Groupe Scolaire Littre,2 place Bertier,"43.60340988852312,1.373401753204013",11
+0148,21.0,4,1076.0,830.0,830.0,8.0,8.0,Roussel,10,École élémentaire Fleurance,4 rue Anne-Josèphe Théroigne de Méricourt,"43.59704979634394,1.3754523893594002",11
+0149,16.0,4,1059.0,886.0,885.0,9.0,7.0,Roussel,17,École élémentaire des Gais Pinsons,270 rue des Fontaines,"43.60086914585497,1.4245203877916466",11
+0152,16.0,4,666.0,529.0,529.0,7.0,1.0,Roussel,20,École élémentaire des Gais Pinsons,270 rue des Fontaines,"43.60589446690973,1.4087529510104868",11
+0167,16.0,1,1175.0,932.0,932.0,11.0,5.0,Roussel,18,École élémentaire Falguière,2 rue d'Artagnan,"43.612095750262824,1.4320222945071224",11
+0172,16.0,1,1211.0,978.0,978.0,14.0,4.0,Roussel,22,École élémentaire des Sept Deniers,110 route de Blagnac,"43.62079394206599,1.4055731606781339",11
+0179,22.0,1,967.0,748.0,748.0,7.0,4.0,Roussel,9,École élémentaire Jules Ferry,109 avenue de Fronton,"43.633178829121945,1.4251695854545996",11
+0186,22.0,1,1120.0,846.0,846.0,9.0,4.0,Roussel,14,École élémentaire Lalande,239 avenue de Fronton,"43.64104415678163,1.4349536490481398",11
+0190,22.0,2,1531.0,1157.0,1157.0,21.0,1.0,Roussel,17,École élémentaire Ernest Renan,7 chemin d'Audibert,"43.638861450179064,1.4491618246160474",11
+0192,22.0,2,1149.0,753.0,751.0,11.0,6.0,Roussel,18,École élémentaire Ernest Renan,7 chemin d'Audibert,"43.643387274572866,1.4435778322048458",11
+0193,22.0,2,1248.0,916.0,915.0,8.0,4.0,Roussel,12,École élémentaire Cuvier,135 route d'Albi,"43.65087035475905,1.4625630194996055",11
+0197,22.0,2,1189.0,899.0,899.0,5.0,7.0,Roussel,25,École élémentaire Cuvier,135 route d'Albi,"43.6386284471376,1.4657829806146094",11
+0204,23.0,2,625.0,470.0,470.0,5.0,3.0,Roussel,15,École maternelle Reille,4 bis rue Reille,"43.613157000131295,1.461762982096056",11
+0206,23.0,2,994.0,770.0,770.0,7.0,1.0,Roussel,13,École élémentaire Michoun,49 chemin Michoun,"43.62344282182534,1.4626084486060038",11
+0210,23.0,2,1069.0,855.0,855.0,14.0,2.0,Roussel,22,École élémentaire Michoun,49 chemin Michoun,"43.625142274542775,1.4719674303241805",11
+0214,23.0,2,1243.0,974.0,974.0,12.0,3.0,Roussel,26,École élémentaire La Juncasse,133 rue Louis Plana,"43.62016078471103,1.4662516896720628",11
+0219,23.0,4,201.0,150.0,150.0,3.0,0.0,Roussel,4,École élémentaire Soupetard,37 rue de la Solidarité,"43.60541187231578,1.4750261279663526",11
+0220,23.0,2,1108.0,852.0,852.0,17.0,8.0,Roussel,16,École élémentaire Soupetard,37 rue de la Solidarité,"43.61088155570137,1.4812497531300448",11
+0229,24.0,3,965.0,795.0,795.0,9.0,1.0,Roussel,11,École élémentaire Jean Macé,1 chemin de Duroux,"43.592828332124526,1.4767220536257786",11
+0230,24.0,3,971.0,795.0,795.0,8.0,3.0,Roussel,20,École élémentaire Jean Macé,1 chemin de Duroux,"43.592562357009946,1.4851345294913552",11
+0238,24.0,3,1182.0,941.0,941.0,17.0,6.0,Roussel,35,École élémentaire Château de l'Hers,8 rue Claudius Rougenet,"43.600959623543986,1.4851021473824082",11
+0247,25.0,3,1007.0,809.0,808.0,6.0,5.0,Roussel,9,École élémentaire La Terrasse,4 impasse Eugène Trutat,"43.58337055671309,1.4820291234265477",11
+0256,25.0,9,1093.0,837.0,837.0,8.0,2.0,Roussel,15,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.584496845113044,1.4591834561635042",11
+081A,19.0,9,1070.0,817.0,817.0,6.0,2.0,Roussel,17,École élémentaire Jules Julien,11 Avenue des Ecoles Jules Julien,"43.56889094795855,1.455122165396102",11
+083A,19.0,9,972.0,754.0,752.0,6.0,1.0,Roussel,14,École élémentaire Le Pastel,2 chemin d'Escalles,"43.552106433360166,1.4492674460770958",11
+112A,20.0,4,1027.0,796.0,796.0,11.0,5.0,Roussel,15,École élémentaire Paul Bert,4 chemin de Liffard,"43.55771328022331,1.3789144072201767",11
+188A,22.0,2,1104.0,795.0,795.0,12.0,3.0,Roussel,12,Maison de quartier du Grand Selve,1 rue Flora Tristan,"43.65305266848887,1.4402027052559248",11
+192A,22.0,2,1106.0,628.0,628.0,7.0,4.0,Roussel,18,École élémentaire Ernest Renan,7 chemin d'Audibert,"43.63643940440466,1.4443474724616367",11
+0002,17.0,4,915.0,734.0,734.0,3.0,1.0,Zemmour,59,Capitole – Salle des Commissions,Place du Capitole,"43.601384255877896,1.4430982126431682",12
+0008,17.0,1,1093.0,855.0,855.0,9.0,2.0,Zemmour,37,École élémentaire du Nord,13 boulevard d'Arcole,"43.61091526761975,1.4374293352156484",12
+0022,17.0,2,929.0,696.0,698.0,9.0,4.0,Zemmour,38,École élémentaire Bonnefoy,18 rue du Faubourg Bonnefoy,"43.61798370598445,1.4543810487527746",12
+0033,18.0,4,904.0,721.0,721.0,16.0,4.0,Zemmour,81,École élémentaire Fourtanier,51 Rue du rempart Saint-Etienne,"43.600903249258764,1.4491779505133926",12
+0040,18.0,4,943.0,790.0,790.0,3.0,3.0,Zemmour,65,École élémentaire Calvinhac,8 bis Rue Jacques Labatut,"43.598343214983366,1.453731151616894",12
+0048,18.0,3,1037.0,856.0,856.0,12.0,3.0,Zemmour,29,École élémentaire Jean Jaurès,21 avenue Frizac,"43.58565803089315,1.4501925328017777",12
+0055,18.0,3,1132.0,900.0,900.0,8.0,1.0,Zemmour,48,École élémentaire Pierre Dupont,101 grande rue Saint-Michel,"43.58960994378209,1.447340390562316",12
+0064,19.0,9,803.0,582.0,582.0,7.0,6.0,Zemmour,26,École élémentaire Sauzelong,92 avenue Albert Bedouce,"43.57847980138388,1.4631176571341804",12
+0066,19.0,9,1109.0,874.0,874.0,13.0,6.0,Zemmour,36,École élémentaire Sauzelong,92 avenue Albert Bedouce,"43.57315478622921,1.462480761643453",12
+0067,19.0,9,1253.0,1020.0,1020.0,17.0,2.0,Zemmour,37,École élémentaire Ricardie 3,56 avenue de l'U.R.S.S.,"43.57912269836566,1.4458282475336133",12
+0068,19.0,9,875.0,695.0,695.0,7.0,2.0,Zemmour,28,École élémentaire Ricardie 3,56 avenue de l'U.R.S.S.,"43.58262777019936,1.4463260930199282",12
+0085,20.0,9,939.0,744.0,744.0,7.0,3.0,Zemmour,52,École élémentaire Maurice Becanne,85 avenue de Muret,"43.58148477550776,1.425950142434465",12
+0087,20.0,9,791.0,480.0,480.0,4.0,7.0,Zemmour,17,École élémentaire Maurice Jacquier,7 rue du Poitou,"43.57352454629127,1.411737186985704",12
+0088,20.0,9,707.0,541.0,541.0,9.0,3.0,Zemmour,36,École élémentaire Maurice Jacquier,7 rue du Poitou,"43.574007061740346,1.4209065633792601",12
+0104,20.0,4,545.0,362.0,362.0,1.0,0.0,Zemmour,23,École maternelle des Vergers,2 impasse des Vergers,"43.576466987167485,1.399226028031548",12
+0109,20.0,4,895.0,746.0,746.0,12.0,3.0,Zemmour,42,École élémentaire Paul Bert,4 chemin de Liffard,"43.560116360151504,1.371727025338553",12
+0114,15.0,4,903.0,738.0,738.0,6.0,1.0,Zemmour,35,École élémentaire Molière,36 rue Sainte-Lucie,"43.590922827710116,1.4298118363020484",12
+0115,15.0,4,1153.0,946.0,946.0,8.0,5.0,Zemmour,37,École élémentaire Molière,36 rue Sainte-Lucie,"43.58805051277253,1.4284036347827345",12
+0116,15.0,4,914.0,760.0,760.0,5.0,3.0,Zemmour,38,École élémentaire Molière,36 rue Sainte-Lucie,"43.593207064630406,1.43113045601551",12
+0118,15.0,4,1054.0,860.0,859.0,15.0,3.0,Zemmour,36,École élémentaire Patte d'Oie,44 rue du Tchad,"43.59920046820529,1.4241416077312998",12
+0126,15.0,4,1067.0,880.0,880.0,12.0,14.0,Zemmour,28,École élémentaire Étienne Billières,56 rue Jacques Gamelin,"43.58847684721166,1.4197320816381027",12
+0131,15.0,9,808.0,522.0,522.0,5.0,2.0,Zemmour,8,École élémentaire Georges Hyon,1 impasse Bachaga Boualam,"43.58137935075367,1.4068562137393705",12
+0132,15.0,9,978.0,610.0,610.0,11.0,4.0,Zemmour,33,École élémentaire Georges Hyon,1 impasse Bachaga Boualam,"43.58535107615375,1.4086628612484937",12
+0133,15.0,9,857.0,559.0,559.0,7.0,3.0,Zemmour,14,École élémentaire Georges Hyon,1 impasse Bachaga Boualam,"43.58297085135094,1.4116006546410267",12
+0135,15.0,4,976.0,667.0,667.0,11.0,3.0,Zemmour,33,Groupe Scolaire Viollet le Duc,23 rue Viollet le Duc,"43.58066438383764,1.3915436323750916",12
+0136,15.0,4,1204.0,963.0,963.0,7.0,8.0,Zemmour,59,Groupe Scolaire Viollet le Duc,23 rue Viollet le Duc,"43.584442983320955,1.3921037882855294",12
+0145,21.0,1,1073.0,861.0,860.0,6.0,8.0,Zemmour,62,Groupe Scolaire Littre,2 place Bertier,"43.60340988852312,1.373401753204013",12
+0148,21.0,4,1076.0,830.0,830.0,8.0,8.0,Zemmour,61,École élémentaire Fleurance,4 rue Anne-Josèphe Théroigne de Méricourt,"43.59704979634394,1.3754523893594002",12
+0161,16.0,1,731.0,586.0,586.0,8.0,1.0,Zemmour,24,École élémentaire Alfred de Musset,5 rue du Général Hoche,"43.62121335399811,1.4247142880061265",12
+0167,16.0,1,1175.0,932.0,932.0,11.0,5.0,Zemmour,68,École élémentaire Falguière,2 rue d'Artagnan,"43.612095750262824,1.4320222945071224",12
+0172,16.0,1,1211.0,978.0,978.0,14.0,4.0,Zemmour,48,École élémentaire des Sept Deniers,110 route de Blagnac,"43.62079394206599,1.4055731606781339",12
+0195,22.0,2,1117.0,871.0,871.0,20.0,6.0,Zemmour,51,École élémentaire Cuvier,135 route d'Albi,"43.63049447148149,1.4568345441541999",12
+0196,22.0,2,1225.0,940.0,940.0,12.0,9.0,Zemmour,42,École élémentaire Cuvier,135 route d'Albi,"43.62955330635334,1.4621143459542318",12
+0198,22.0,2,1092.0,847.0,847.0,7.0,6.0,Zemmour,52,École élémentaire Cuvier,135 route d'Albi,"43.639041988807236,1.4595954872761676",12
+0199,22.0,2,1254.0,994.0,994.0,11.0,1.0,Zemmour,42,École élémentaire La Maourine,11 avenue Maurice Bourgès-Maunoury,"43.62986637043082,1.4461268429969247",12
+0200,22.0,2,1158.0,818.0,818.0,7.0,1.0,Zemmour,45,École élémentaire La Maourine,11 avenue Maurice Bourgès-Maunoury,"43.626244790722424,1.451118789780703",12
+0213,23.0,2,1073.0,829.0,829.0,12.0,3.0,Zemmour,48,École élémentaire La Juncasse,133 rue Louis Plana,"43.61566735244405,1.4705539037242508",12
+0215,23.0,2,784.0,557.0,557.0,5.0,4.0,Zemmour,31,École élémentaire La Juncasse,133 rue Louis Plana,"43.61391863560181,1.4743431873028898",12
+0221,23.0,2,787.0,536.0,536.0,4.0,3.0,Zemmour,36,École élémentaire Soupetard,37 rue de la Solidarité,"43.60727320400976,1.4787474979142732",12
+0224,24.0,3,1139.0,965.0,965.0,15.0,5.0,Zemmour,115,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.59547269706665,1.471965405821087",12
+0227,24.0,3,864.0,694.0,694.0,7.0,2.0,Zemmour,35,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.59490570258549,1.4584506998164484",12
+0233,24.0,3,968.0,787.0,786.0,3.0,3.0,Zemmour,74,École élémentaire Jean Chaubet,112 avenue Camille Pujol,"43.59966816800566,1.4714870065287082",12
+0256,25.0,9,1093.0,837.0,837.0,8.0,2.0,Zemmour,52,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.584496845113044,1.4591834561635042",12
+192A,22.0,2,1106.0,628.0,628.0,7.0,4.0,Zemmour,43,École élémentaire Ernest Renan,7 chemin d'Audibert,"43.63643940440466,1.4443474724616367",12
+0145,21.0,1,1073.0,861.0,860.0,6.0,8.0,Mélenchon,268,Groupe Scolaire Littre,2 place Bertier,"43.60340988852312,1.373401753204013",8
+0146,21.0,1,1056.0,760.0,760.0,8.0,1.0,Mélenchon,228,Groupe Scolaire Littre,2 place Bertier,"43.613582552709765,1.3671514455671427",8
+0150,16.0,4,833.0,670.0,670.0,8.0,5.0,Mélenchon,295,École élémentaire des Gais Pinsons,270 rue des Fontaines,"43.60287360994003,1.4243416443364927",8
+0156,16.0,1,1099.0,912.0,912.0,11.0,3.0,Mélenchon,332,École élémentaire des Amidonniers,123 allée de Brienne,"43.608027419080734,1.421847092646153",8
+0158,16.0,1,1064.0,811.0,811.0,15.0,3.0,Mélenchon,267,Maison de la Citoyenneté Nord,4 place du Marché aux Cochons,"43.615420327836766,1.4302134932738795",8
+0161,16.0,1,731.0,586.0,586.0,8.0,1.0,Mélenchon,215,École élémentaire Alfred de Musset,5 rue du Général Hoche,"43.62121335399811,1.4247142880061265",8
+0167,16.0,1,1175.0,932.0,932.0,11.0,5.0,Mélenchon,316,École élémentaire Falguière,2 rue d'Artagnan,"43.612095750262824,1.4320222945071224",8
+0172,16.0,1,1211.0,978.0,978.0,14.0,4.0,Mélenchon,280,École élémentaire des Sept Deniers,110 route de Blagnac,"43.62079394206599,1.4055731606781339",8
+0175,16.0,1,902.0,682.0,683.0,17.0,2.0,Mélenchon,217,Groupe Scolaire Château d'Ancely,4 allée du Vivarais,"43.61261304179898,1.39534974356013",8
+0176,16.0,1,919.0,697.0,698.0,7.0,7.0,Mélenchon,248,Groupe Scolaire Château d'Ancely,4 allée du Vivarais,"43.61904871495134,1.3969553971337416",8
+0181,22.0,1,912.0,732.0,732.0,8.0,4.0,Mélenchon,301,École élémentaire Jules Ferry,109 avenue de Fronton,"43.62920782189242,1.4356346021616828",8
+0183,22.0,1,1392.0,998.0,998.0,19.0,2.0,Mélenchon,401,École élémentaire Lalande,239 avenue de Fronton,"43.652107542356056,1.4258762268317147",8
+0199,22.0,2,1254.0,994.0,994.0,11.0,1.0,Mélenchon,405,École élémentaire La Maourine,11 avenue Maurice Bourgès-Maunoury,"43.62986637043082,1.4461268429969247",8
+0211,23.0,2,1078.0,819.0,819.0,4.0,4.0,Mélenchon,306,École élémentaire Michoun,49 chemin Michoun,"43.62922629422677,1.471288978335646",8
+0214,23.0,2,1243.0,974.0,974.0,12.0,3.0,Mélenchon,359,École élémentaire La Juncasse,133 rue Louis Plana,"43.62016078471103,1.4662516896720628",8
+0230,24.0,3,971.0,795.0,795.0,8.0,3.0,Mélenchon,156,École élémentaire Jean Macé,1 chemin de Duroux,"43.592562357009946,1.4851345294913552",8
+0234,24.0,3,912.0,736.0,736.0,9.0,2.0,Mélenchon,231,École élémentaire Jean Chaubet,112 avenue Camille Pujol,"43.60223948768731,1.473496924475286",8
+0239,25.0,3,1663.0,1337.0,1337.0,18.0,5.0,Mélenchon,434,École élémentaire Henri Guillaumet,30 chemin de Bitet,"43.563604884138755,1.4902707371735808",8
+0249,25.0,3,952.0,745.0,745.0,5.0,3.0,Mélenchon,231,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.582704229543296,1.464252250035099",8
+0253,25.0,3,1052.0,865.0,865.0,5.0,2.0,Mélenchon,191,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.588611236308004,1.464009942813754",8
+069A,19.0,9,864.0,677.0,676.0,4.0,6.0,Mélenchon,268,École élémentaire Ricardie 3,56 avenue de l'U.R.S.S.,"43.58209730668972,1.4503692890706181",8
+083A,19.0,9,972.0,754.0,752.0,6.0,1.0,Mélenchon,229,École élémentaire Le Pastel,2 chemin d'Escalles,"43.552106433360166,1.4492674460770958",8
+182A,22.0,1,1128.0,861.0,861.0,10.0,4.0,Mélenchon,337,École élémentaire Jules Ferry,109 avenue de Fronton,"43.63036265500564,1.4303111747726502",8
+192A,22.0,2,1106.0,628.0,628.0,7.0,4.0,Mélenchon,299,École élémentaire Ernest Renan,7 chemin d'Audibert,"43.63643940440466,1.4443474724616367",8
+0002,17.0,4,915.0,734.0,734.0,3.0,1.0,Pécresse,32,Capitole – Salle des Commissions,Place du Capitole,"43.601384255877896,1.4430982126431682",9
+0018,17.0,1,723.0,588.0,588.0,6.0,2.0,Pécresse,33,Centre Sportif Léo Lagrange,4 place Pierre Paul Riquet,"43.60680440103708,1.4517296952366305",9
+0025,17.0,2,911.0,704.0,704.0,7.0,3.0,Pécresse,20,Éspace Bonnefoy-Périole,25 rue de Périole,"43.61788032606769,1.4580659159297",9
+0032,18.0,4,902.0,722.0,722.0,13.0,2.0,Pécresse,60,École élémentaire Fourtanier,51 Rue du rempart Saint-Etienne,"43.60319662774439,1.4495419463353485",9
+0039,18.0,3,78.0,59.0,59.0,0.0,0.0,Pécresse,2,École élémentaire Michelet,5 boulevard Jules Michelet,"43.59937322674554,1.464242682499363",9
+0040,18.0,4,943.0,790.0,790.0,3.0,3.0,Pécresse,53,École élémentaire Calvinhac,8 bis Rue Jacques Labatut,"43.598343214983366,1.453731151616894",9
+0042,18.0,4,1060.0,865.0,865.0,8.0,2.0,Pécresse,22,Groupe Scolaire Bonhoure,20 bis place Marius Pinel,"43.603766917634324,1.460240542141107",9
+0045,18.0,4,685.0,559.0,559.0,3.0,1.0,Pécresse,32,Groupe Scolaire Bonhoure,20 bis place Marius Pinel,"43.60594712116238,1.4684681760310572",9
+0061,18.0,3,921.0,759.0,758.0,11.0,2.0,Pécresse,44,École élémentaire Fabre,Rue Pierre Bunière,"43.59499945956251,1.446088130334454",9
+0075,19.0,9,919.0,667.0,667.0,7.0,5.0,Pécresse,16,École maternelle Léo Lagrange,35 allée Henri Sellier,"43.56230104577887,1.4409807223069082",9
+0081,19.0,9,1116.0,814.0,814.0,10.0,3.0,Pécresse,19,École élémentaire Jules Julien,11 Avenue des Ecoles Jules Julien,"43.560125928689175,1.4661722040380247",9
+0082,19.0,9,935.0,779.0,779.0,12.0,4.0,Pécresse,32,École élémentaire Le Pastel,2 chemin d'Escalles,"43.553375486609816,1.4606179925878167",9
+0089,20.0,9,937.0,600.0,601.0,9.0,2.0,Pécresse,10,École élémentaire Maurice Jacquier,7 rue du Poitou,"43.570771125856275,1.4188299044198835",9
+0091,20.0,9,793.0,499.0,499.0,8.0,2.0,Pécresse,10,École élémentaire Buffon,6 impasse des Glières,"43.568233137826816,1.409725009083914",9
+0092,20.0,9,1170.0,862.0,862.0,14.0,3.0,Pécresse,19,École élémentaire Buffon,6 impasse des Glières,"43.560135796028035,1.407333681303468",9
+0093,20.0,9,1058.0,777.0,777.0,5.0,4.0,Pécresse,17,École élémentaire Buffon,6 impasse des Glières,"43.55374730123664,1.414543146062401",9
+0095,20.0,9,838.0,517.0,517.0,2.0,2.0,Pécresse,11,École élémentaire Sylvain Dauriac,39 rue Paul Lambert,"43.58116668123124,1.4156310557870022",9
+0098,20.0,4,981.0,582.0,582.0,7.0,2.0,Pécresse,3,Centre Socio-Culturel Alban Minville,1 place Martin Luther King,"43.56176447768264,1.3993865494635482",9
+0118,15.0,4,1054.0,860.0,859.0,15.0,3.0,Pécresse,33,École élémentaire Patte d'Oie,44 rue du Tchad,"43.59920046820529,1.4241416077312998",9
+0119,15.0,4,985.0,747.0,746.0,6.0,4.0,Pécresse,24,École élémentaire Patte d'Oie,44 rue du Tchad,"43.59756970963773,1.4252686930913936",9
+0120,15.0,4,1031.0,818.0,818.0,15.0,6.0,Pécresse,20,École élémentaire Patte d'Oie,44 rue du Tchad,"43.595146712905056,1.4255507692729716",9
+0132,15.0,9,978.0,610.0,610.0,11.0,4.0,Pécresse,8,École élémentaire Georges Hyon,1 impasse Bachaga Boualam,"43.58535107615375,1.4086628612484937",9
+0133,15.0,9,857.0,559.0,559.0,7.0,3.0,Pécresse,4,École élémentaire Georges Hyon,1 impasse Bachaga Boualam,"43.58297085135094,1.4116006546410267",9
+0135,15.0,4,976.0,667.0,667.0,11.0,3.0,Pécresse,19,Groupe Scolaire Viollet le Duc,23 rue Viollet le Duc,"43.58066438383764,1.3915436323750916",9
+0138,15.0,4,1081.0,869.0,868.0,6.0,7.0,Pécresse,43,École élémentaire Lardenne,20 chemin de Rocamadour,"43.58973045621554,1.391536469463755",9
+0143,15.0,4,899.0,726.0,726.0,10.0,1.0,Pécresse,18,École élémentaire Lespinasse,3 rue du Chairedon,"43.60040813066155,1.4315751501532687",9
+0151,16.0,4,1148.0,905.0,905.0,5.0,4.0,Pécresse,34,École élémentaire des Gais Pinsons,270 rue des Fontaines,"43.60495778858778,1.4137910483274367",9
+0154,16.0,1,1223.0,1012.0,1012.0,12.0,3.0,Pécresse,37,École élémentaire des Amidonniers,123 allée de Brienne,"43.60961384900975,1.421373935635101",9
+0156,16.0,1,1099.0,912.0,912.0,11.0,3.0,Pécresse,34,École élémentaire des Amidonniers,123 allée de Brienne,"43.608027419080734,1.421847092646153",9
+0164,16.0,2,589.0,428.0,428.0,4.0,6.0,Pécresse,13,École élémentaire Alfred de Musset,5 rue du Général Hoche,"43.62451432542078,1.4400333927871414",9
+0165,16.0,1,1495.0,1199.0,1199.0,14.0,5.0,Pécresse,32,École maternelle des Ponts Jumeaux,18 rue cecile brunschvicg,"43.613162611206,1.4229238652067993",9
+0175,16.0,1,902.0,682.0,683.0,17.0,2.0,Pécresse,13,Groupe Scolaire Château d'Ancely,4 allée du Vivarais,"43.61261304179898,1.39534974356013",9
+0181,22.0,1,912.0,732.0,732.0,8.0,4.0,Pécresse,14,École élémentaire Jules Ferry,109 avenue de Fronton,"43.62920782189242,1.4356346021616828",9
+0190,22.0,2,1531.0,1157.0,1157.0,21.0,1.0,Pécresse,13,École élémentaire Ernest Renan,7 chemin d'Audibert,"43.638861450179064,1.4491618246160474",9
+0193,22.0,2,1248.0,916.0,915.0,8.0,4.0,Pécresse,15,École élémentaire Cuvier,135 route d'Albi,"43.65087035475905,1.4625630194996055",9
+0197,22.0,2,1189.0,899.0,899.0,5.0,7.0,Pécresse,24,École élémentaire Cuvier,135 route d'Albi,"43.6386284471376,1.4657829806146094",9
+0198,22.0,2,1092.0,847.0,847.0,7.0,6.0,Pécresse,20,École élémentaire Cuvier,135 route d'Albi,"43.639041988807236,1.4595954872761676",9
+0206,23.0,2,994.0,770.0,770.0,7.0,1.0,Pécresse,26,École élémentaire Michoun,49 chemin Michoun,"43.62344282182534,1.4626084486060038",9
+0228,24.0,3,892.0,723.0,724.0,8.0,1.0,Pécresse,38,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.59687476963923,1.4671522198998834",9
+0229,24.0,3,965.0,795.0,795.0,9.0,1.0,Pécresse,82,École élémentaire Jean Macé,1 chemin de Duroux,"43.592828332124526,1.4767220536257786",9
+0230,24.0,3,971.0,795.0,795.0,8.0,3.0,Pécresse,43,École élémentaire Jean Macé,1 chemin de Duroux,"43.592562357009946,1.4851345294913552",9
+0232,24.0,3,903.0,716.0,716.0,11.0,2.0,Pécresse,73,École élémentaire Jean Macé,1 chemin de Duroux,"43.588973842631766,1.4681144107833881",9
+0238,24.0,3,1182.0,941.0,941.0,17.0,6.0,Pécresse,34,École élémentaire Château de l'Hers,8 rue Claudius Rougenet,"43.600959623543986,1.4851021473824082",9
+0242,25.0,3,1526.0,1159.0,1159.0,16.0,5.0,Pécresse,61,École élémentaire Henri Guillaumet,30 chemin de Bitet,"43.5782880815836,1.4763745119876468",9
+0243,25.0,3,1366.0,1029.0,1029.0,15.0,2.0,Pécresse,35,École élémentaire Henri Guillaumet,30 chemin de Bitet,"43.57367261514028,1.4812308394043308",9
+0244,25.0,3,1035.0,850.0,850.0,17.0,3.0,Pécresse,61,École élémentaire La Terrasse,4 impasse Eugène Trutat,"43.58887934255519,1.4872550253094783",9
+0250,25.0,3,886.0,714.0,714.0,11.0,3.0,Pécresse,51,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.58302125428,1.4689870709476043",9
+0253,25.0,3,1052.0,865.0,865.0,5.0,2.0,Pécresse,59,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.588611236308004,1.464009942813754",9
+0255,25.0,9,966.0,719.0,719.0,8.0,3.0,Pécresse,27,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.58074463105371,1.4584710053920613",9
+081A,19.0,9,1070.0,817.0,817.0,6.0,2.0,Pécresse,26,École élémentaire Jules Julien,11 Avenue des Ecoles Jules Julien,"43.56889094795855,1.455122165396102",9
+192A,22.0,2,1106.0,628.0,628.0,7.0,4.0,Pécresse,6,École élémentaire Ernest Renan,7 chemin d'Audibert,"43.63643940440466,1.4443474724616367",9
+0005,17.0,1,844.0,686.0,686.0,4.0,3.0,Poutou,6,École maternelle Sermet,71 rue du Taur,"43.606237736398256,1.4373794149293662",10
+0012,17.0,1,981.0,822.0,822.0,7.0,3.0,Poutou,7,École élémentaire du Nord,13 boulevard d'Arcole,"43.614290691047565,1.444446975404517",10
+0013,17.0,1,1078.0,824.0,822.0,9.0,1.0,Poutou,7,École élémentaire Bayard,60 rue Matabiau,"43.607791110847685,1.4489202599483",10
+0014,17.0,1,1103.0,819.0,819.0,6.0,3.0,Poutou,6,École élémentaire Bayard,60 rue Matabiau,"43.609791974181775,1.4518250536813988",10
+0016,17.0,1,1176.0,941.0,941.0,7.0,6.0,Poutou,5,École élémentaire Bayard,60 rue Matabiau,"43.612472129483244,1.4498009124237956",10
+0021,17.0,2,1062.0,831.0,831.0,12.0,1.0,Poutou,5,École élémentaire Bonnefoy,18 rue du Faubourg Bonnefoy,"43.62157245450755,1.4558598547171426",10
+0023,17.0,2,993.0,769.0,769.0,12.0,4.0,Poutou,7,École élémentaire Bonnefoy,18 rue du Faubourg Bonnefoy,"43.61425881883643,1.4513459661436272",10
+0032,18.0,4,902.0,722.0,722.0,13.0,2.0,Poutou,4,École élémentaire Fourtanier,51 Rue du rempart Saint-Etienne,"43.60319662774439,1.4495419463353485",10
+0036,18.0,4,920.0,769.0,769.0,8.0,7.0,Poutou,4,École élémentaire Michelet,5 boulevard Jules Michelet,"43.600163825586016,1.455036317248824",10
+0037,18.0,4,800.0,648.0,648.0,4.0,2.0,Poutou,8,École élémentaire Michelet,5 boulevard Jules Michelet,"43.599143030888314,1.4605742318549642",10
+0041,18.0,4,784.0,607.0,607.0,10.0,3.0,Poutou,3,École élémentaire Calvinhac,8 bis Rue Jacques Labatut,"43.59607598929474,1.455074718894346",10
+0042,18.0,4,1060.0,865.0,865.0,8.0,2.0,Poutou,5,Groupe Scolaire Bonhoure,20 bis place Marius Pinel,"43.603766917634324,1.460240542141107",10
+0055,18.0,3,1132.0,900.0,900.0,8.0,1.0,Poutou,7,École élémentaire Pierre Dupont,101 grande rue Saint-Michel,"43.58960994378209,1.447340390562316",10
+0067,19.0,9,1253.0,1020.0,1020.0,17.0,2.0,Poutou,7,École élémentaire Ricardie 3,56 avenue de l'U.R.S.S.,"43.57912269836566,1.4458282475336133",10
+0078,19.0,9,1080.0,868.0,868.0,18.0,10.0,Poutou,2,École élémentaire Jules Julien,11 Avenue des Ecoles Jules Julien,"43.574593527038886,1.454729387019535",10
+0087,20.0,9,791.0,480.0,480.0,4.0,7.0,Poutou,3,École élémentaire Maurice Jacquier,7 rue du Poitou,"43.57352454629127,1.411737186985704",10
+0092,20.0,9,1170.0,862.0,862.0,14.0,3.0,Poutou,1,École élémentaire Buffon,6 impasse des Glières,"43.560135796028035,1.407333681303468",10
+0096,20.0,9,753.0,589.0,589.0,3.0,1.0,Poutou,7,École élémentaire Sylvain Dauriac,39 rue Paul Lambert,"43.5774605632333,1.4208179562338352",10
+0098,20.0,4,981.0,582.0,582.0,7.0,2.0,Poutou,3,Centre Socio-Culturel Alban Minville,1 place Martin Luther King,"43.56176447768264,1.3993865494635482",10
+0100,20.0,4,718.0,477.0,477.0,13.0,3.0,Poutou,1,École maternelle Didier Daurat,19 rue Jean Gilles,"43.57059784400676,1.3958636507970341",10
+0106,20.0,4,749.0,539.0,539.0,3.0,4.0,Poutou,1,École maternelle des Vergers,2 impasse des Vergers,"43.579826592797495,1.4027387467535362",10
+0108,20.0,4,1240.0,1027.0,1027.0,16.0,10.0,Poutou,7,École élémentaire Paul Bert,4 chemin de Liffard,"43.565833588349754,1.368349271180299",10
+0111,20.0,4,779.0,622.0,622.0,7.0,3.0,Poutou,0,École élémentaire Paul Bert,4 chemin de Liffard,"43.565535409636674,1.3830235341714683",10
+0112,20.0,4,1257.0,1054.0,1054.0,20.0,7.0,Poutou,3,École élémentaire Paul Bert,4 chemin de Liffard,"43.55630751827725,1.3866555955232232",10
+0116,15.0,4,914.0,760.0,760.0,5.0,3.0,Poutou,6,École élémentaire Molière,36 rue Sainte-Lucie,"43.593207064630406,1.43113045601551",10
+0124,15.0,4,1070.0,792.0,792.0,13.0,2.0,Poutou,6,École élémentaire Étienne Billières,56 rue Jacques Gamelin,"43.59191146917323,1.415228599452705",10
+0128,15.0,9,569.0,468.0,468.0,4.0,0.0,Poutou,6,École élémentaire Étienne Billières,56 rue Jacques Gamelin,"43.58131083772695,1.4190967322907753",10
+0136,15.0,4,1204.0,963.0,963.0,7.0,8.0,Poutou,4,Groupe Scolaire Viollet le Duc,23 rue Viollet le Duc,"43.584442983320955,1.3921037882855294",10
+0143,15.0,4,899.0,726.0,726.0,10.0,1.0,Poutou,12,École élémentaire Lespinasse,3 rue du Chairedon,"43.60040813066155,1.4315751501532687",10
+0154,16.0,1,1223.0,1012.0,1012.0,12.0,3.0,Poutou,6,École élémentaire des Amidonniers,123 allée de Brienne,"43.60961384900975,1.421373935635101",10
+0167,16.0,1,1175.0,932.0,932.0,11.0,5.0,Poutou,4,École élémentaire Falguière,2 rue d'Artagnan,"43.612095750262824,1.4320222945071224",10
+0174,16.0,1,889.0,677.0,677.0,8.0,4.0,Poutou,5,École élémentaire des Sept Deniers,110 route de Blagnac,"43.61253231043327,1.4101344958654862",10
+0179,22.0,1,967.0,748.0,748.0,7.0,4.0,Poutou,7,École élémentaire Jules Ferry,109 avenue de Fronton,"43.633178829121945,1.4251695854545996",10
+0185,22.0,1,1385.0,1057.0,1057.0,19.0,3.0,Poutou,1,École élémentaire Lalande,239 avenue de Fronton,"43.6570527639045,1.4349123034378635",10
+0196,22.0,2,1225.0,940.0,940.0,12.0,9.0,Poutou,7,École élémentaire Cuvier,135 route d'Albi,"43.62955330635334,1.4621143459542318",10
+0202,23.0,2,978.0,766.0,766.0,7.0,2.0,Poutou,10,École maternelle Reille,4 bis rue Reille,"43.60770355136999,1.4608491165088076",10
+0209,23.0,2,1062.0,848.0,848.0,10.0,4.0,Poutou,6,École élémentaire Michoun,49 chemin Michoun,"43.638474423593614,1.4829632117434275",10
+0211,23.0,2,1078.0,819.0,819.0,4.0,4.0,Poutou,8,École élémentaire Michoun,49 chemin Michoun,"43.62922629422677,1.471288978335646",10
+0219,23.0,4,201.0,150.0,150.0,3.0,0.0,Poutou,0,École élémentaire Soupetard,37 rue de la Solidarité,"43.60541187231578,1.4750261279663526",10
+0223,24.0,4,189.0,143.0,143.0,3.0,0.0,Poutou,1,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.59705025854722,1.4624924703736013",10
+0238,24.0,3,1182.0,941.0,941.0,17.0,6.0,Poutou,5,École élémentaire Château de l'Hers,8 rue Claudius Rougenet,"43.600959623543986,1.4851021473824082",10
+0246,25.0,3,795.0,665.0,665.0,8.0,2.0,Poutou,1,École élémentaire La Terrasse,4 impasse Eugène Trutat,"43.58624876593908,1.4869205381749795",10
+0247,25.0,3,1007.0,809.0,808.0,6.0,5.0,Poutou,6,École élémentaire La Terrasse,4 impasse Eugène Trutat,"43.58337055671309,1.4820291234265477",10
+0254,25.0,3,1113.0,886.0,886.0,18.0,3.0,Poutou,11,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.58084282381479,1.4682202528531143",10
+188A,22.0,2,1104.0,795.0,795.0,12.0,3.0,Poutou,4,Maison de quartier du Grand Selve,1 rue Flora Tristan,"43.65305266848887,1.4402027052559248",10
+192A,22.0,2,1106.0,628.0,628.0,7.0,4.0,Poutou,8,École élémentaire Ernest Renan,7 chemin d'Audibert,"43.63643940440466,1.4443474724616367",10
+0004,17.0,4,865.0,691.0,691.0,2.0,1.0,Roussel,10,École élémentaire Lakanal,17 place de la Daurade,"43.60121967175764,1.4389427071169525",11
+0009,17.0,1,1012.0,802.0,801.0,5.0,2.0,Roussel,14,École élémentaire du Nord,13 boulevard d'Arcole,"43.61015380825276,1.4416788028355372",11
+0016,17.0,1,1176.0,941.0,941.0,7.0,6.0,Roussel,13,École élémentaire Bayard,60 rue Matabiau,"43.612472129483244,1.4498009124237956",11
+001A,24.0,2,23.0,2.0,2.0,0.0,0.0,Roussel,0,Capitole – Salle des Commissions (B.v. dérogatoire),Place du Capitole,,11
+0021,17.0,2,1062.0,831.0,831.0,12.0,1.0,Roussel,21,École élémentaire Bonnefoy,18 rue du Faubourg Bonnefoy,"43.62157245450755,1.4558598547171426",11
+0024,17.0,2,1151.0,911.0,911.0,15.0,1.0,Roussel,18,Éspace Bonnefoy-Périole,25 rue de Périole,"43.614031894960895,1.458418343005298",11
+0034,18.0,1,765.0,600.0,600.0,2.0,1.0,Roussel,10,École élémentaire Fourtanier,51 Rue du rempart Saint-Etienne,"43.60568337587489,1.4488336404017887",11
+0038,18.0,4,959.0,782.0,783.0,11.0,5.0,Roussel,26,École élémentaire Michelet,5 boulevard Jules Michelet,"43.60210287925995,1.456825448604988",11
+0042,18.0,4,1060.0,865.0,865.0,8.0,2.0,Roussel,18,Groupe Scolaire Bonhoure,20 bis place Marius Pinel,"43.603766917634324,1.460240542141107",11
+0049,18.0,3,1097.0,877.0,876.0,9.0,2.0,Roussel,15,École élémentaire Jean Jaurès,21 avenue Frizac,"43.587469899193955,1.4561538744695253",11
+0052,18.0,3,1044.0,844.0,844.0,7.0,2.0,Roussel,12,École élémentaire Jean Jaurès,21 avenue Frizac,"43.59356796547757,1.4553703469924082",11
+0053,18.0,3,1046.0,851.0,851.0,7.0,5.0,Roussel,11,École élémentaire Jean Jaurès,21 avenue Frizac,"43.59258028752769,1.450009316711557",11
+0054,18.0,3,1152.0,929.0,929.0,5.0,2.0,Roussel,23,École élémentaire Pierre Dupont,101 grande rue Saint-Michel,"43.58823109857517,1.4417173175767914",11
+0055,18.0,3,1132.0,900.0,900.0,8.0,1.0,Roussel,14,École élémentaire Pierre Dupont,101 grande rue Saint-Michel,"43.58960994378209,1.447340390562316",11
+0062,18.0,3,920.0,755.0,755.0,11.0,0.0,Roussel,5,École élémentaire Fabre,Rue Pierre Bunière,"43.59653927311442,1.4489738845725124",11
+0070,19.0,9,784.0,489.0,488.0,5.0,7.0,Roussel,5,École élémentaire André Daste,4 avenue de Lattre de Tassigny,"43.578349581875166,1.4337736598242208",11
+0073,19.0,9,675.0,387.0,387.0,4.0,2.0,Roussel,1,École élémentaire André Daste,4 avenue de Lattre de Tassigny,"43.57909630117239,1.4391584015907546",11
+0075,19.0,9,919.0,667.0,667.0,7.0,5.0,Roussel,9,École maternelle Léo Lagrange,35 allée Henri Sellier,"43.56230104577887,1.4409807223069082",11
+0077,19.0,9,997.0,777.0,777.0,10.0,4.0,Roussel,30,École élémentaire Jules Julien,11 Avenue des Ecoles Jules Julien,"43.57443269321245,1.4466458015085777",11
+0093,20.0,9,1058.0,777.0,777.0,5.0,4.0,Roussel,13,École élémentaire Buffon,6 impasse des Glières,"43.55374730123664,1.414543146062401",11
+0096,20.0,9,753.0,589.0,589.0,3.0,1.0,Roussel,9,École élémentaire Sylvain Dauriac,39 rue Paul Lambert,"43.5774605632333,1.4208179562338352",11
+0101,20.0,4,669.0,371.0,371.0,6.0,1.0,Roussel,4,École maternelle Didier Daurat,19 rue Jean Gilles,"43.57317858489967,1.4063280023341198",11
+0103,20.0,4,799.0,477.0,477.0,4.0,2.0,Roussel,8,École maternelle Didier Daurat,19 rue Jean Gilles,"43.56939523500286,1.4003979259230248",11
+0105,20.0,4,537.0,339.0,339.0,3.0,1.0,Roussel,9,École maternelle des Vergers,2 impasse des Vergers,"43.58059277651148,1.397108313331775",11
+0107,20.0,4,1091.0,800.0,801.0,10.0,4.0,Roussel,14,École élémentaire Paul Bert,4 chemin de Liffard,"43.57608813845097,1.3766988407601495",11
+0109,20.0,4,895.0,746.0,746.0,12.0,3.0,Roussel,13,École élémentaire Paul Bert,4 chemin de Liffard,"43.560116360151504,1.371727025338553",11
+0120,15.0,4,1031.0,818.0,818.0,15.0,6.0,Roussel,13,École élémentaire Patte d'Oie,44 rue du Tchad,"43.595146712905056,1.4255507692729716",11
+0121,15.0,4,1119.0,940.0,940.0,9.0,3.0,Roussel,25,École élémentaire Patte d'Oie,44 rue du Tchad,"43.591732855635186,1.4236260953377113",11
+0134,15.0,4,1118.0,838.0,838.0,5.0,5.0,Roussel,25,Groupe Scolaire Viollet le Duc,23 rue Viollet le Duc,"43.57802148576082,1.386742087415645",11
+0138,15.0,4,1081.0,869.0,868.0,6.0,7.0,Roussel,9,École élémentaire Lardenne,20 chemin de Rocamadour,"43.58973045621554,1.391536469463755",11
+0142,15.0,4,978.0,813.0,813.0,7.0,2.0,Roussel,13,École élémentaire Lespinasse,3 rue du Chairedon,"43.59516879079555,1.4349612149546866",11
+0143,15.0,4,899.0,726.0,726.0,10.0,1.0,Roussel,12,École élémentaire Lespinasse,3 rue du Chairedon,"43.60040813066155,1.4315751501532687",11
+0153,16.0,4,1026.0,814.0,814.0,13.0,6.0,Roussel,30,École élémentaire des Gais Pinsons,270 rue des Fontaines,"43.60299695339933,1.418455827456159",11
+0155,16.0,1,981.0,816.0,816.0,8.0,1.0,Roussel,17,École élémentaire des Amidonniers,123 allée de Brienne,"43.60640545841745,1.4218261084327055",11
+0158,16.0,1,1064.0,811.0,811.0,15.0,3.0,Roussel,16,Maison de la Citoyenneté Nord,4 place du Marché aux Cochons,"43.615420327836766,1.4302134932738795",11
+0159,16.0,1,1115.0,908.0,908.0,8.0,3.0,Roussel,13,Maison de la Citoyenneté Nord,4 place du Marché aux Cochons,"43.61741626694262,1.4337330222162523",11
+0163,16.0,1,695.0,472.0,472.0,8.0,7.0,Roussel,10,École élémentaire Alfred de Musset,5 rue du Général Hoche,"43.62335697983554,1.4303122360478797",11
+0164,16.0,2,589.0,428.0,428.0,4.0,6.0,Roussel,17,École élémentaire Alfred de Musset,5 rue du Général Hoche,"43.62451432542078,1.4400333927871414",11
+0166,16.0,1,1282.0,985.0,984.0,14.0,8.0,Roussel,21,École maternelle des Ponts Jumeaux,18 rue cecile brunschvicg,"43.61644798250073,1.423111376574236",11
+0168,16.0,1,891.0,708.0,709.0,6.0,3.0,Roussel,12,École élémentaire Falguière,2 rue d'Artagnan,"43.60864921395471,1.4295263239041653",11
+0170,16.0,1,916.0,739.0,739.0,11.0,2.0,Roussel,10,École élémentaire Falguière,2 rue d'Artagnan,"43.607787207737616,1.4337670920581693",11
+0187,22.0,1,584.0,292.0,290.0,0.0,3.0,Roussel,3,École maternelle Jean Dieuzaide,14 chemin de la Glacière,"43.64354524551921,1.4122793656277777",11
+0191,22.0,2,1067.0,788.0,788.0,11.0,2.0,Roussel,17,École élémentaire Ernest Renan,7 chemin d'Audibert,"43.63085133485174,1.440834019246995",11
+0201,22.0,2,1043.0,824.0,823.0,18.0,6.0,Roussel,24,École élémentaire La Maourine,11 avenue Maurice Bourgès-Maunoury,"43.63152851831545,1.4511768516617083",11
+0215,23.0,2,784.0,557.0,557.0,5.0,4.0,Roussel,16,École élémentaire La Juncasse,133 rue Louis Plana,"43.61391863560181,1.4743431873028898",11
+0216,23.0,2,1017.0,813.0,813.0,10.0,2.0,Roussel,17,École élémentaire La Juncasse,133 rue Louis Plana,"43.61642212087398,1.462421293671557",11
+0218,23.0,2,762.0,575.0,575.0,5.0,7.0,Roussel,23,École élémentaire Soupetard,37 rue de la Solidarité,"43.60838242661465,1.4742321348529288",11
+0223,24.0,4,189.0,143.0,143.0,3.0,0.0,Roussel,4,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.59705025854722,1.4624924703736013",11
+0228,24.0,3,892.0,723.0,724.0,8.0,1.0,Roussel,11,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.59687476963923,1.4671522198998834",11
+0233,24.0,3,968.0,787.0,786.0,3.0,3.0,Roussel,7,École élémentaire Jean Chaubet,112 avenue Camille Pujol,"43.59966816800566,1.4714870065287082",11
+0234,24.0,3,912.0,736.0,736.0,9.0,2.0,Roussel,9,École élémentaire Jean Chaubet,112 avenue Camille Pujol,"43.60223948768731,1.473496924475286",11
+0237,24.0,3,870.0,632.0,632.0,9.0,5.0,Roussel,12,École élémentaire Château de l'Hers,8 rue Claudius Rougenet,"43.60340309729713,1.4786871469004081",11
+0239,25.0,3,1663.0,1337.0,1337.0,18.0,5.0,Roussel,27,École élémentaire Henri Guillaumet,30 chemin de Bitet,"43.563604884138755,1.4902707371735808",11
+0241,25.0,3,1038.0,777.0,777.0,16.0,3.0,Roussel,15,École élémentaire Henri Guillaumet,30 chemin de Bitet,"43.57712278154643,1.4830837050592025",11
+0246,25.0,3,795.0,665.0,665.0,8.0,2.0,Roussel,22,École élémentaire La Terrasse,4 impasse Eugène Trutat,"43.58624876593908,1.4869205381749795",11
+0248,25.0,3,954.0,734.0,735.0,13.0,3.0,Roussel,20,École élémentaire La Terrasse,4 impasse Eugène Trutat,"43.58375957913425,1.4867938007276904",11
+0251,25.0,3,897.0,723.0,723.0,8.0,2.0,Roussel,16,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.582908274206225,1.4745499919024603",11
+0254,25.0,3,1113.0,886.0,886.0,18.0,3.0,Roussel,22,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.58084282381479,1.4682202528531143",11
+0255,25.0,9,966.0,719.0,719.0,8.0,3.0,Roussel,15,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.58074463105371,1.4584710053920613",11
+069A,19.0,9,864.0,677.0,676.0,4.0,6.0,Roussel,15,École élémentaire Ricardie 3,56 avenue de l'U.R.S.S.,"43.58209730668972,1.4503692890706181",11
+0001,17.0,4,962.0,735.0,735.0,12.0,2.0,Zemmour,62,Capitole – Salle des Commissions,Place du Capitole,"43.60322427854742,1.4441076863178377",12
+0003,17.0,4,773.0,606.0,606.0,3.0,1.0,Zemmour,53,École élémentaire Lakanal,17 place de la Daurade,"43.60352678193458,1.4394503491972408",12
+0004,17.0,4,865.0,691.0,691.0,2.0,1.0,Zemmour,45,École élémentaire Lakanal,17 place de la Daurade,"43.60121967175764,1.4389427071169525",12
+0005,17.0,1,844.0,686.0,686.0,4.0,3.0,Zemmour,47,École maternelle Sermet,71 rue du Taur,"43.606237736398256,1.4373794149293662",12
+0006,17.0,1,883.0,720.0,720.0,12.0,5.0,Zemmour,33,École maternelle Sermet,71 rue du Taur,"43.60816623747753,1.4412013700016226",12
+0015,17.0,1,917.0,714.0,714.0,11.0,3.0,Zemmour,55,École élémentaire Bayard,60 rue Matabiau,"43.61008377468953,1.4474263021028917",12
+0016,17.0,1,1176.0,941.0,941.0,7.0,6.0,Zemmour,75,École élémentaire Bayard,60 rue Matabiau,"43.612472129483244,1.4498009124237956",12
+0017,17.0,1,1223.0,1013.0,1013.0,9.0,0.0,Zemmour,66,École élémentaire Bayard,60 rue Matabiau,"43.61249735027508,1.4466041396192988",12
+0018,17.0,1,723.0,588.0,588.0,6.0,2.0,Zemmour,39,Centre Sportif Léo Lagrange,4 place Pierre Paul Riquet,"43.60680440103708,1.4517296952366305",12
+0019,17.0,1,803.0,668.0,668.0,8.0,1.0,Zemmour,34,Centre Sportif Léo Lagrange,4 place Pierre Paul Riquet,"43.60658076048059,1.4546155416905173",12
+0024,17.0,2,1151.0,911.0,911.0,15.0,1.0,Zemmour,57,Éspace Bonnefoy-Périole,25 rue de Périole,"43.614031894960895,1.458418343005298",12
+0025,17.0,2,911.0,704.0,704.0,7.0,3.0,Zemmour,33,Éspace Bonnefoy-Périole,25 rue de Périole,"43.61788032606769,1.4580659159297",12
+0028,17.0,2,993.0,755.0,755.0,12.0,0.0,Zemmour,49,École élémentaire Pierre et Marie Curie,36 rue de la Jeunesse,"43.61724251217461,1.4428532478044858",12
+0031,18.0,4,712.0,557.0,557.0,7.0,1.0,Zemmour,80,École élémentaire Fourtanier,51 Rue du rempart Saint-Etienne,"43.60203541181833,1.446373754122511",12
+0042,18.0,4,1060.0,865.0,865.0,8.0,2.0,Zemmour,45,Groupe Scolaire Bonhoure,20 bis place Marius Pinel,"43.603766917634324,1.460240542141107",12
+0043,18.0,4,930.0,749.0,749.0,7.0,4.0,Zemmour,60,Groupe Scolaire Bonhoure,20 bis place Marius Pinel,"43.601754493200204,1.4644250528710463",12
+0047,18.0,4,996.0,808.0,808.0,7.0,5.0,Zemmour,62,Groupe Scolaire Bonhoure,20 bis place Marius Pinel,"43.604226092836704,1.4708140649769563",12
+0050,18.0,3,1012.0,856.0,856.0,6.0,0.0,Zemmour,86,École élémentaire Jean Jaurès,21 avenue Frizac,"43.588615145351966,1.4521226097462834",12
+0056,18.0,3,1149.0,926.0,926.0,13.0,3.0,Zemmour,48,École élémentaire Pierre Dupont,101 grande rue Saint-Michel,"43.58747171406384,1.4454409350595194",12
+0069,19.0,9,906.0,723.0,723.0,10.0,3.0,Zemmour,33,École élémentaire Ricardie 3,56 avenue de l'U.R.S.S.,"43.58308275486343,1.454755119811012",12
+0074,19.0,9,702.0,471.0,471.0,6.0,4.0,Zemmour,20,École maternelle Léo Lagrange,35 allée Henri Sellier,"43.57959194775091,1.4425738077685946",12
+0100,20.0,4,718.0,477.0,477.0,13.0,3.0,Zemmour,15,École maternelle Didier Daurat,19 rue Jean Gilles,"43.57059784400676,1.3958636507970341",12
+0105,20.0,4,537.0,339.0,339.0,3.0,1.0,Zemmour,8,École maternelle des Vergers,2 impasse des Vergers,"43.58059277651148,1.397108313331775",12
+0113,15.0,4,842.0,673.0,673.0,3.0,3.0,Zemmour,36,École élémentaire Molière,36 rue Sainte-Lucie,"43.595623141331835,1.4304614251181442",12
+0119,15.0,4,985.0,747.0,746.0,6.0,4.0,Zemmour,41,École élémentaire Patte d'Oie,44 rue du Tchad,"43.59756970963773,1.4252686930913936",12
+0120,15.0,4,1031.0,818.0,818.0,15.0,6.0,Zemmour,40,École élémentaire Patte d'Oie,44 rue du Tchad,"43.595146712905056,1.4255507692729716",12
+0124,15.0,4,1070.0,792.0,792.0,13.0,2.0,Zemmour,29,École élémentaire Étienne Billières,56 rue Jacques Gamelin,"43.59191146917323,1.415228599452705",12
+0125,15.0,4,932.0,745.0,744.0,4.0,4.0,Zemmour,45,École élémentaire Étienne Billières,56 rue Jacques Gamelin,"43.58892027641847,1.4127988757759347",12
+0138,15.0,4,1081.0,869.0,868.0,6.0,7.0,Zemmour,78,École élémentaire Lardenne,20 chemin de Rocamadour,"43.58973045621554,1.391536469463755",12
+0141,15.0,4,856.0,695.0,695.0,4.0,3.0,Zemmour,34,École élémentaire Lespinasse,3 rue du Chairedon,"43.59915312567305,1.4360390592953358",12
+0143,15.0,4,899.0,726.0,726.0,10.0,1.0,Zemmour,45,École élémentaire Lespinasse,3 rue du Chairedon,"43.60040813066155,1.4315751501532687",12
+0144,21.0,1,902.0,729.0,729.0,10.0,3.0,Zemmour,52,Groupe Scolaire Littre,2 place Bertier,"43.60356390024458,1.3875450465408259",12
+0149,16.0,4,1059.0,886.0,885.0,9.0,7.0,Zemmour,37,École élémentaire des Gais Pinsons,270 rue des Fontaines,"43.60086914585497,1.4245203877916466",12
+0150,16.0,4,833.0,670.0,670.0,8.0,5.0,Zemmour,23,École élémentaire des Gais Pinsons,270 rue des Fontaines,"43.60287360994003,1.4243416443364927",12
+0151,16.0,4,1148.0,905.0,905.0,5.0,4.0,Zemmour,38,École élémentaire des Gais Pinsons,270 rue des Fontaines,"43.60495778858778,1.4137910483274367",12
+0153,16.0,4,1026.0,814.0,814.0,13.0,6.0,Zemmour,36,École élémentaire des Gais Pinsons,270 rue des Fontaines,"43.60299695339933,1.418455827456159",12
+0159,16.0,1,1115.0,908.0,908.0,8.0,3.0,Zemmour,45,Maison de la Citoyenneté Nord,4 place du Marché aux Cochons,"43.61741626694262,1.4337330222162523",12
+0163,16.0,1,695.0,472.0,472.0,8.0,7.0,Zemmour,20,École élémentaire Alfred de Musset,5 rue du Général Hoche,"43.62335697983554,1.4303122360478797",12
+0165,16.0,1,1495.0,1199.0,1199.0,14.0,5.0,Zemmour,60,École maternelle des Ponts Jumeaux,18 rue cecile brunschvicg,"43.613162611206,1.4229238652067993",12
+0177,16.0,1,1056.0,813.0,812.0,12.0,7.0,Zemmour,45,Groupe Scolaire Château d'Ancely,4 allée du Vivarais,"43.61155808658199,1.4024944129401613",12
+0179,22.0,1,967.0,748.0,748.0,7.0,4.0,Zemmour,45,École élémentaire Jules Ferry,109 avenue de Fronton,"43.633178829121945,1.4251695854545996",12
+0182,22.0,1,1019.0,787.0,787.0,12.0,5.0,Zemmour,51,École élémentaire Jules Ferry,109 avenue de Fronton,"43.634953586874765,1.4356830352578918",12
+0183,22.0,1,1392.0,998.0,998.0,19.0,2.0,Zemmour,66,École élémentaire Lalande,239 avenue de Fronton,"43.652107542356056,1.4258762268317147",12
+0185,22.0,1,1385.0,1057.0,1057.0,19.0,3.0,Zemmour,68,École élémentaire Lalande,239 avenue de Fronton,"43.6570527639045,1.4349123034378635",12
+0187,22.0,1,584.0,292.0,290.0,0.0,3.0,Zemmour,21,École maternelle Jean Dieuzaide,14 chemin de la Glacière,"43.64354524551921,1.4122793656277777",12
+0189,22.0,2,1450.0,1095.0,1095.0,9.0,1.0,Zemmour,45,École élémentaire Ernest Renan,7 chemin d'Audibert,"43.64160735563733,1.453873728624354",12
+0192,22.0,2,1149.0,753.0,751.0,11.0,6.0,Zemmour,37,École élémentaire Ernest Renan,7 chemin d'Audibert,"43.643387274572866,1.4435778322048458",12
+0202,23.0,2,978.0,766.0,766.0,7.0,2.0,Zemmour,26,École maternelle Reille,4 bis rue Reille,"43.60770355136999,1.4608491165088076",12
+0203,23.0,2,1142.0,901.0,901.0,7.0,3.0,Zemmour,65,École maternelle Reille,4 bis rue Reille,"43.610154366964416,1.4577455364748266",12
+0217,23.0,2,868.0,664.0,664.0,5.0,3.0,Zemmour,40,École élémentaire La Juncasse,133 rue Louis Plana,"43.61202268425723,1.4713731762509825",12
+0218,23.0,2,762.0,575.0,575.0,5.0,7.0,Zemmour,41,École élémentaire Soupetard,37 rue de la Solidarité,"43.60838242661465,1.4742321348529288",12
+0228,24.0,3,892.0,723.0,724.0,8.0,1.0,Zemmour,54,École élémentaire Armand Leygue,20 rue lucien cassagne,"43.59687476963923,1.4671522198998834",12
+0235,24.0,3,956.0,790.0,790.0,9.0,4.0,Zemmour,72,École élémentaire Château de l'Hers,8 rue Claudius Rougenet,"43.59774616812097,1.4795112071607168",12
+0237,24.0,3,870.0,632.0,632.0,9.0,5.0,Zemmour,46,École élémentaire Château de l'Hers,8 rue Claudius Rougenet,"43.60340309729713,1.4786871469004081",12
+0239,25.0,3,1663.0,1337.0,1337.0,18.0,5.0,Zemmour,105,École élémentaire Henri Guillaumet,30 chemin de Bitet,"43.563604884138755,1.4902707371735808",12
+0241,25.0,3,1038.0,777.0,777.0,16.0,3.0,Zemmour,57,École élémentaire Henri Guillaumet,30 chemin de Bitet,"43.57712278154643,1.4830837050592025",12
+0243,25.0,3,1366.0,1029.0,1029.0,15.0,2.0,Zemmour,63,École élémentaire Henri Guillaumet,30 chemin de Bitet,"43.57367261514028,1.4812308394043308",12
+0246,25.0,3,795.0,665.0,665.0,8.0,2.0,Zemmour,51,École élémentaire La Terrasse,4 impasse Eugène Trutat,"43.58624876593908,1.4869205381749795",12
+0248,25.0,3,954.0,734.0,735.0,13.0,3.0,Zemmour,41,École élémentaire La Terrasse,4 impasse Eugène Trutat,"43.58375957913425,1.4867938007276904",12
+0254,25.0,3,1113.0,886.0,886.0,18.0,3.0,Zemmour,49,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.58084282381479,1.4682202528531143",12
+069A,19.0,9,864.0,677.0,676.0,4.0,6.0,Zemmour,29,École élémentaire Ricardie 3,56 avenue de l'U.R.S.S.,"43.58209730668972,1.4503692890706181",12
+0034,18.0,1,765.0,600.0,600.0,2.0,1.0,Jadot,36,École élémentaire Fourtanier,51 Rue du rempart Saint-Etienne,"43.60568337587489,1.4488336404017887",3
+0043,18.0,4,930.0,749.0,749.0,7.0,4.0,Jadot,55,Groupe Scolaire Bonhoure,20 bis place Marius Pinel,"43.601754493200204,1.4644250528710463",3
+0047,18.0,4,996.0,808.0,808.0,7.0,5.0,Jadot,67,Groupe Scolaire Bonhoure,20 bis place Marius Pinel,"43.604226092836704,1.4708140649769563",3
+0049,18.0,3,1097.0,877.0,876.0,9.0,2.0,Jadot,71,École élémentaire Jean Jaurès,21 avenue Frizac,"43.587469899193955,1.4561538744695253",3
+0050,18.0,3,1012.0,856.0,856.0,6.0,0.0,Jadot,83,École élémentaire Jean Jaurès,21 avenue Frizac,"43.588615145351966,1.4521226097462834",3
+0053,18.0,3,1046.0,851.0,851.0,7.0,5.0,Jadot,88,École élémentaire Jean Jaurès,21 avenue Frizac,"43.59258028752769,1.450009316711557",3
+0069,19.0,9,906.0,723.0,723.0,10.0,3.0,Jadot,77,École élémentaire Ricardie 3,56 avenue de l'U.R.S.S.,"43.58308275486343,1.454755119811012",3
+0082,19.0,9,935.0,779.0,779.0,12.0,4.0,Jadot,77,École élémentaire Le Pastel,2 chemin d'Escalles,"43.553375486609816,1.4606179925878167",3
+0084,20.0,9,1180.0,972.0,971.0,11.0,2.0,Jadot,82,École élémentaire Maurice Becanne,85 avenue de Muret,"43.584523749963246,1.424834411849918",3
+0086,20.0,9,799.0,525.0,525.0,3.0,8.0,Jadot,15,École élémentaire Maurice Jacquier,7 rue du Poitou,"43.57559997468313,1.4139313274448189",3
+0089,20.0,9,937.0,600.0,601.0,9.0,2.0,Jadot,18,École élémentaire Maurice Jacquier,7 rue du Poitou,"43.570771125856275,1.4188299044198835",3
+0095,20.0,9,838.0,517.0,517.0,2.0,2.0,Jadot,6,École élémentaire Sylvain Dauriac,39 rue Paul Lambert,"43.58116668123124,1.4156310557870022",3
+0097,20.0,4,1094.0,659.0,659.0,6.0,4.0,Jadot,14,Centre Socio-Culturel Alban Minville,1 place Martin Luther King,"43.56217020501336,1.3948690748056154",3
+0098,20.0,4,981.0,582.0,582.0,7.0,2.0,Jadot,4,Centre Socio-Culturel Alban Minville,1 place Martin Luther King,"43.56176447768264,1.3993865494635482",3
+0103,20.0,4,799.0,477.0,477.0,4.0,2.0,Jadot,12,École maternelle Didier Daurat,19 rue Jean Gilles,"43.56939523500286,1.4003979259230248",3
+0111,20.0,4,779.0,622.0,622.0,7.0,3.0,Jadot,50,École élémentaire Paul Bert,4 chemin de Liffard,"43.565535409636674,1.3830235341714683",3
+0116,15.0,4,914.0,760.0,760.0,5.0,3.0,Jadot,72,École élémentaire Molière,36 rue Sainte-Lucie,"43.593207064630406,1.43113045601551",3
+0126,15.0,4,1067.0,880.0,880.0,12.0,14.0,Jadot,70,École élémentaire Étienne Billières,56 rue Jacques Gamelin,"43.58847684721166,1.4197320816381027",3
+0130,15.0,4,1920.0,1504.0,1504.0,19.0,6.0,Jadot,112,École élémentaire Fontaine Bayonne,14 rue Dufaur de Pibrac,"43.59936064705561,1.40615582151729",3
+0132,15.0,9,978.0,610.0,610.0,11.0,4.0,Jadot,17,École élémentaire Georges Hyon,1 impasse Bachaga Boualam,"43.58535107615375,1.4086628612484937",3
+0133,15.0,9,857.0,559.0,559.0,7.0,3.0,Jadot,8,École élémentaire Georges Hyon,1 impasse Bachaga Boualam,"43.58297085135094,1.4116006546410267",3
+0136,15.0,4,1204.0,963.0,963.0,7.0,8.0,Jadot,59,Groupe Scolaire Viollet le Duc,23 rue Viollet le Duc,"43.584442983320955,1.3921037882855294",3
+0144,21.0,1,902.0,729.0,729.0,10.0,3.0,Jadot,42,Groupe Scolaire Littre,2 place Bertier,"43.60356390024458,1.3875450465408259",3
+0146,21.0,1,1056.0,760.0,760.0,8.0,1.0,Jadot,51,Groupe Scolaire Littre,2 place Bertier,"43.613582552709765,1.3671514455671427",3
+0165,16.0,1,1495.0,1199.0,1199.0,14.0,5.0,Jadot,107,École maternelle des Ponts Jumeaux,18 rue cecile brunschvicg,"43.613162611206,1.4229238652067993",3
+0167,16.0,1,1175.0,932.0,932.0,11.0,5.0,Jadot,70,École élémentaire Falguière,2 rue d'Artagnan,"43.612095750262824,1.4320222945071224",3
+0169,16.0,1,907.0,749.0,749.0,3.0,5.0,Jadot,64,École élémentaire Falguière,2 rue d'Artagnan,"43.604738908281604,1.4311046819057296",3
+0170,16.0,1,916.0,739.0,739.0,11.0,2.0,Jadot,60,École élémentaire Falguière,2 rue d'Artagnan,"43.607787207737616,1.4337670920581693",3
+0175,16.0,1,902.0,682.0,683.0,17.0,2.0,Jadot,62,Groupe Scolaire Château d'Ancely,4 allée du Vivarais,"43.61261304179898,1.39534974356013",3
+0181,22.0,1,912.0,732.0,732.0,8.0,4.0,Jadot,46,École élémentaire Jules Ferry,109 avenue de Fronton,"43.62920782189242,1.4356346021616828",3
+0185,22.0,1,1385.0,1057.0,1057.0,19.0,3.0,Jadot,67,École élémentaire Lalande,239 avenue de Fronton,"43.6570527639045,1.4349123034378635",3
+0186,22.0,1,1120.0,846.0,846.0,9.0,4.0,Jadot,43,École élémentaire Lalande,239 avenue de Fronton,"43.64104415678163,1.4349536490481398",3
+0198,22.0,2,1092.0,847.0,847.0,7.0,6.0,Jadot,49,École élémentaire Cuvier,135 route d'Albi,"43.639041988807236,1.4595954872761676",3
+0200,22.0,2,1158.0,818.0,818.0,7.0,1.0,Jadot,37,École élémentaire La Maourine,11 avenue Maurice Bourgès-Maunoury,"43.626244790722424,1.451118789780703",3
+0212,23.0,2,1227.0,950.0,950.0,13.0,4.0,Jadot,76,École élémentaire La Juncasse,133 rue Louis Plana,"43.6206886596013,1.478483911594487",3
+0221,23.0,2,787.0,536.0,536.0,4.0,3.0,Jadot,37,École élémentaire Soupetard,37 rue de la Solidarité,"43.60727320400976,1.4787474979142732",3
+0229,24.0,3,965.0,795.0,795.0,9.0,1.0,Jadot,39,École élémentaire Jean Macé,1 chemin de Duroux,"43.592828332124526,1.4767220536257786",3
+0231,24.0,3,895.0,752.0,752.0,11.0,3.0,Jadot,50,École élémentaire Jean Macé,1 chemin de Duroux,"43.588442887849716,1.4749363182926785",3
+0237,24.0,3,870.0,632.0,632.0,9.0,5.0,Jadot,35,École élémentaire Château de l'Hers,8 rue Claudius Rougenet,"43.60340309729713,1.4786871469004081",3
+0241,25.0,3,1038.0,777.0,777.0,16.0,3.0,Jadot,43,École élémentaire Henri Guillaumet,30 chemin de Bitet,"43.57712278154643,1.4830837050592025",3
+0247,25.0,3,1007.0,809.0,808.0,6.0,5.0,Jadot,57,École élémentaire La Terrasse,4 impasse Eugène Trutat,"43.58337055671309,1.4820291234265477",3
+0250,25.0,3,886.0,714.0,714.0,11.0,3.0,Jadot,52,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.58302125428,1.4689870709476043",3
+0254,25.0,3,1113.0,886.0,886.0,18.0,3.0,Jadot,69,Groupe Scolaire Anatole France,21 boulevard de la Méditerranée,"43.58084282381479,1.4682202528531143",3
+069A,19.0,9,864.0,677.0,676.0,4.0,6.0,Jadot,77,École élémentaire Ricardie 3,56 avenue de l'U.R.S.S.,"43.58209730668972,1.4503692890706181",3
+081A,19.0,9,1070.0,817.0,817.0,6.0,2.0,Jadot,97,École élémentaire Jules Julien,11 Avenue des Ecoles Jules Julien,"43.56889094795855,1.455122165396102",3
+083A,19.0,9,972.0,754.0,752.0,6.0,1.0,Jadot,63,École élémentaire Le Pastel,2 chemin d'Escalles,"43.552106433360166,1.4492674460770958",3
+112A,20.0,4,1027.0,796.0,796.0,11.0,5.0,Jadot,62,École élémentaire Paul Bert,4 chemin de Liffard,"43.55771328022331,1.3789144072201767",3
+188A,22.0,2,1104.0,795.0,795.0,12.0,3.0,Jadot,39,Maison de quartier du Grand Selve,1 rue Flora Tristan,"43.65305266848887,1.4402027052559248",3
+0013,17.0,1,1078.0,824.0,822.0,9.0,1.0,Lassalle,15,École élémentaire Bayard,60 rue Matabiau,"43.607791110847685,1.4489202599483",5
+0015,17.0,1,917.0,714.0,714.0,11.0,3.0,Lassalle,8,École élémentaire Bayard,60 rue Matabiau,"43.61008377468953,1.4474263021028917",5
+0021,17.0,2,1062.0,831.0,831.0,12.0,1.0,Lassalle,22,École élémentaire Bonnefoy,18 rue du Faubourg Bonnefoy,"43.62157245450755,1.4558598547171426",5
+0025,17.0,2,911.0,704.0,704.0,7.0,3.0,Lassalle,21,Éspace Bonnefoy-Périole,25 rue de Périole,"43.61788032606769,1.4580659159297",5
+0031,18.0,4,712.0,557.0,557.0,7.0,1.0,Lassalle,17,École élémentaire Fourtanier,51 Rue du rempart Saint-Etienne,"43.60203541181833,1.446373754122511",5
+0035,18.0,4,837.0,707.0,707.0,9.0,1.0,Lassalle,14,École élémentaire Michelet,5 boulevard Jules Michelet,"43.603588941676875,1.453997172226213",5
+0047,18.0,4,996.0,808.0,808.0,7.0,5.0,Lassalle,31,Groupe Scolaire Bonhoure,20 bis place Marius Pinel,"43.604226092836704,1.4708140649769563",5
+0048,18.0,3,1037.0,856.0,856.0,12.0,3.0,Lassalle,20,École élémentaire Jean Jaurès,21 avenue Frizac,"43.58565803089315,1.4501925328017777",5
+0049,18.0,3,1097.0,877.0,876.0,9.0,2.0,Lassalle,13,École élémentaire Jean Jaurès,21 avenue Frizac,"43.587469899193955,1.4561538744695253",5
+0053,18.0,3,1046.0,851.0,851.0,7.0,5.0,Lassalle,15,École élémentaire Jean Jaurès,21 avenue Frizac,"43.59258028752769,1.450009316711557",5
+0055,18.0,3,1132.0,900.0,900.0,8.0,1.0,Lassalle,20,École élémentaire Pierre Dupont,101 grande rue Saint-Michel,"43.58960994378209,1.447340390562316",5
+0057,18.0,3,1250.0,1003.0,1003.0,11.0,2.0,Lassalle,23,École élémentaire Pierre Dupont,101 grande rue Saint-Michel,"43.58613713628652,1.4432262663493785",5
+0063,18.0,3,750.0,627.0,627.0,3.0,2.0,Lassalle,10,École élémentaire Fabre,Rue Pierre Bunière,"43.59855623209385,1.4500706778802865",5
+0069,19.0,9,906.0,723.0,723.0,10.0,3.0,Lassalle,14,École élémentaire Ricardie 3,56 avenue de l'U.R.S.S.,"43.58308275486343,1.454755119811012",5
+0083,19.0,9,881.0,756.0,756.0,12.0,1.0,Lassalle,27,École élémentaire Le Pastel,2 chemin d'Escalles,"43.54268758790636,1.4551034152728726",5
+0084,20.0,9,1180.0,972.0,971.0,11.0,2.0,Lassalle,26,École élémentaire Maurice Becanne,85 avenue de Muret,"43.584523749963246,1.424834411849918",5
+0088,20.0,9,707.0,541.0,541.0,9.0,3.0,Lassalle,17,École élémentaire Maurice Jacquier,7 rue du Poitou,"43.574007061740346,1.4209065633792601",5
+0091,20.0,9,793.0,499.0,499.0,8.0,2.0,Lassalle,16,École élémentaire Buffon,6 impasse des Glières,"43.568233137826816,1.409725009083914",5
+0094,20.0,9,654.0,431.0,431.0,1.0,2.0,Lassalle,6,École élémentaire Sylvain Dauriac,39 rue Paul Lambert,"43.57856388158481,1.4141839033313475",5
+0099,20.0,4,1282.0,793.0,793.0,9.0,3.0,Lassalle,18,Centre Socio-Culturel Alban Minville,1 place Martin Luther King,"43.56478491008584,1.4035979337213886",5
+0100,20.0,4,718.0,477.0,477.0,13.0,3.0,Lassalle,15,École maternelle Didier Daurat,19 rue Jean Gilles,"43.57059784400676,1.3958636507970341",5
+0106,20.0,4,749.0,539.0,539.0,3.0,4.0,Lassalle,8,École maternelle des Vergers,2 impasse des Vergers,"43.579826592797495,1.4027387467535362",5
+0110,20.0,4,1258.0,987.0,987.0,15.0,4.0,Lassalle,36,École élémentaire Paul Bert,4 chemin de Liffard,"43.54891316552971,1.381746415194405",5
+0117,15.0,4,1421.0,1097.0,1098.0,22.0,4.0,Lassalle,24,École élémentaire Patte d'Oie,44 rue du Tchad,"43.59472499763646,1.4139948144961658",5
+0124,15.0,4,1070.0,792.0,792.0,13.0,2.0,Lassalle,26,École élémentaire Étienne Billières,56 rue Jacques Gamelin,"43.59191146917323,1.415228599452705",5
+0138,15.0,4,1081.0,869.0,868.0,6.0,7.0,Lassalle,28,École élémentaire Lardenne,20 chemin de Rocamadour,"43.58973045621554,1.391536469463755",5
+0145,21.0,1,1073.0,861.0,860.0,6.0,8.0,Lassalle,41,Groupe Scolaire Littre,2 place Bertier,"43.60340988852312,1.373401753204013",5
+0149,16.0,4,1059.0,886.0,885.0,9.0,7.0,Lassalle,21,École élémentaire des Gais Pinsons,270 rue des Fontaines,"43.60086914585497,1.4245203877916466",5
+0150,16.0,4,833.0,670.0,670.0,8.0,5.0,Lassalle,16,École élémentaire des Gais Pinsons,270 rue des Fontaines,"43.60287360994003,1.4243416443364927",5
+0154,16.0,1,1223.0,1012.0,1012.0,12.0,3.0,Lassalle,27,École élémentaire des Amidonniers,123 allée de Brienne,"43.60961384900975,1.421373935635101",5
+0157,16.0,1,1110.0,898.0,898.0,18.0,4.0,Lassalle,20,Maison de la Citoyenneté Nord,4 place du Marché aux Cochons,"43.620939633797605,1.434778280633331",5
+0159,16.0,1,1115.0,908.0,908.0,8.0,3.0,Lassalle,21,Maison de la Citoyenneté Nord,4 place du Marché aux Cochons,"43.61741626694262,1.4337330222162523",5
+0166,16.0,1,1282.0,985.0,984.0,14.0,8.0,Lassalle,50,École maternelle des Ponts Jumeaux,18 rue cecile brunschvicg,"43.61644798250073,1.423111376574236",5
+0174,16.0,1,889.0,677.0,677.0,8.0,4.0,Lassalle,20,École élémentaire des Sept Deniers,110 route de Blagnac,"43.61253231043327,1.4101344958654862",5
+0175,16.0,1,902.0,682.0,683.0,17.0,2.0,Lassalle,27,Groupe Scolaire Château d'Ancely,4 allée du Vivarais,"43.61261304179898,1.39534974356013",5
+0179,22.0,1,967.0,748.0,748.0,7.0,4.0,Lassalle,29,École élémentaire Jules Ferry,109 avenue de Fronton,"43.633178829121945,1.4251695854545996",5
+0187,22.0,1,584.0,292.0,290.0,0.0,3.0,Lassalle,13,École maternelle Jean Dieuzaide,14 chemin de la Glacière,"43.64354524551921,1.4122793656277777",5
+0190,22.0,2,1531.0,1157.0,1157.0,21.0,1.0,Lassalle,26,École élémentaire Ernest Renan,7 chemin d'Audibert,"43.638861450179064,1.4491618246160474",5
+0192,22.0,2,1149.0,753.0,751.0,11.0,6.0,Lassalle,20,École élémentaire Ernest Renan,7 chemin d'Audibert,"43.643387274572866,1.4435778322048458",5

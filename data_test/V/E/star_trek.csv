@@ -1,0 +1,1071 @@
+"no_film","nom_film","annee_prod","budget","note_imdb","role_casting","personnage_casting","no_personne","nom_personne","genre_personne","annee_naissance","annee_mort","taille"
+99,"Star Trek",2009,150000000,"8.0","actor","Barfly",1557899,"McGrath, James","m",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","actor","Chief Engineer Olson",1977191,"Rees, Jonny","m","1968",NULL,"183 cm"
+99,"Star Trek",2009,150000000,"8.0","actor","Enterprise Crew Member",994443,"Haugk, Charles","m","1953",NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","actor","Officer Pitts",683273,"Elias, Tony","m","1982",NULL,"5' 11"""
+99,"Star Trek",2009,150000000,"8.0","actor","Romulan",2563927,"Wheaton, Wil","m","1972",NULL,"5' 10"""
+99,"Star Trek",2009,150000000,"8.0","actor","Romulan Commander",1443383,"Lychnikoff, Pasha D.","m","1967",NULL,"179 cm"
+99,"Star Trek",2009,150000000,"8.0","actor","Shipyard Worker",449532,"Clendenin, Bob","m","1964",NULL,"6' 2"""
+99,"Star Trek",2009,150000000,"8.0","actor","Vulcan Bully",1015742,"Henrie, Lorenzo James","m","1993",NULL,"5' 10"""
+99,"Star Trek",2009,150000000,"8.0","actress","Cadet Alien",2827065,"Bradshaw, Sufe","f",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","actress","Enterprise Computer",4153527,"Zager, Lynnanne","f",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","actress","Enterprise Crew Member",3330911,"Kagga, Nana","f",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","actress","Flight Officer",3999304,"Tejeiro, Darlene","f","1975",NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","actress","Kelvin Alien",3388010,"Kowalczyk, Kasia","f","1977",NULL,"5' 10"""
+99,"Star Trek",2009,150000000,"8.0","actress","Starfleet Computer",2760621,"Barrett, Majel","f","1932","2008","5' 9"""
+99,"Star Trek",2009,150000000,"8.0","actress","Uhura",3847504,"Saldana, Zoe","f","1978",NULL,"5' 6 1/2"""
+99,"Star Trek",2009,150000000,"8.0","cinematographer",NULL,1616588,"Mindel, Dan","m","1958",NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","editor",NULL,2828739,"Brandon, Maryann","f",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","editor",NULL,3514803,"Markey, Mary Jo","f",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,71720,"Andrews, Spencer","m",NULL,NULL,"5' 8"""
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,173059,"Beals, Daniel","m","1977",NULL,"5' 10"""
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,521117,"Curtis, Barry","m",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,715197,"Facchini, Gerard","m",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,755799,"Fitzgerald, Aaron C.","m","1978",NULL,"5' 9"""
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,759631,"Fleming, Cliff","m","1950",NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,759638,"Fleming, Cory","m","1974",NULL,"5' 10"""
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,845720,"Gerace, Sean","m",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,848817,"Geschwind, Marc C.","m","1959",NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,911450,"Greene, Joshua","m",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,952487,"Haines, Greg","m",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,955857,"Hall, Chris","m",NULL,NULL,"6'"
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,968627,"Hanna, J.","m",NULL,NULL,"6' 1"""
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,1219528,"Kehoe, Michael G.","m","1958",NULL,"5' 8"""
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,1291260,"Kramer, Andrew","m",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,1360257,"Lee, Alex","m",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,1408769,"Livits, Oleg","m",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,1542746,"McCabe, Rob","m",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,1592088,"Messale, Gio","m",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,1620775,"Mirza, Zamin","m",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,1639293,"Monsey, Ricky Dean","m",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,1680204,"Munson, Crystal","m",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,1685578,"Murray, Joe","m",NULL,NULL,"6' 1"""
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,1748328,"Novak, Josh","m","1978",NULL,"6' 1 1/2"""
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,1758906,"O'Donnell, Bill","m","1973",NULL,"5' 10"""
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,1765829,"Oberstar, Tony","m","1987",NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,1773759,"Okrand, Marc","m",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,1812696,"Palumbo, Garrik","m",NULL,NULL,"5' 9"""
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,1842203,"Paz, Gerson","m",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,1932593,"Purwin, Alan D.","m","1961","2015","6' 2"""
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,1976398,"Reed, Michael Ray","m","1974",NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,1976780,"Reed, William F.","m","1979",NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,2051540,"Rosenblatt, Ben","m",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,2201821,"Siciliano, James","m","1984",NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,2241691,"Smith, Nicholas Guy","m",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,2275124,"Stacy, Brandon","m","1982",NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,2305706,"Strand, Logan","m",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,2308450,"Strickland, Lon","m",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,2428633,"Tsucalas, Mike","m","1982",NULL,"5' 7"""
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,2562064,"Weston II, James D.","m","1963",NULL,"6' 2 1/2"""
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,2585472,"Williams, Mark J.","m","1985",NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,2610058,"Woodard, Tommy","m","1981",NULL,"6' 2"""
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,2640540,"Young, Ryan","m",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,2712614,"Andryco, Cheryl","f",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,2716371,"Ansari, Sue-Lynn","f",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,2879043,"Carnevale, Carrie","f","1974",NULL,"5' 7"""
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,3029502,"Drake, Jessica","f",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,3037796,"Dunn, Kathleen S.","f",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,3056706,"Elora, Devon","f",NULL,NULL,"5' 7"""
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,3151798,"Gilliam, Dawn","f",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,3323013,"Jorgensen, Petra","f",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,3366347,"King, Melody","f","1980",NULL,"5' 7"""
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,3501779,"Maloney, Michelle","f",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,3549633,"McKenna, Caitlin","f","1964",NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,3558122,"Meier, Vanessa","f",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,3558789,"Mejia, Diana P.","f",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,3635748,"Neaman, Dillon","f",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,3710820,"Pedersen, Felisha N. Grice","f","1982",NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,3724955,"Pezza, Vicky","f","1981",NULL,"5' 5"""
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,3743750,"Porco, Carolyn","f",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,3831454,"Rubio, Nicole","f",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4105612,"West, Debi","f",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4196425,"Baker, Kelley",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4212271,"Bergthold, Nick",NULL,"1984",NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4272563,"Cone, Daniel B.",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4272959,"Conners, Kit",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4346982,"Gaines, Adam",NULL,NULL,NULL,"6'"
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4377393,"Gutentag, Gabriela",NULL,"1948",NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4437718,"Katsnelson, Alex",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4442485,"Kent, Andrew",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4445434,"Kiindarius, Cosmos",NULL,"1976",NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4449384,"Kittay, Leigh",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4472237,"Lee, Jackie",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4512946,"Mazzola, Sebastian",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4519498,"McNeill, Cory L.",NULL,"1981",NULL,"5' 11"""
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4529843,"Millward, Elias",NULL,"1981",NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4561847,"O'Connor, Molly",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4563254,"O'Toole, Noreen",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4570598,"Ousdahl, Gary",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4591480,"Pitts, Matt",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4680192,"Staheli, Mike",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4689400,"Suh, Mike",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4699314,"Taylor, Katie",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4744210,"White, Brian Steven",NULL,"1978",NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4747246,"Will, Andrew",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4748732,"Williams, Robin",NULL,"1982",NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4767175,"Zimring, David",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4830226,"Ernstrom, Greg",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4851627,"Gutierrez, Chris",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4917758,"Moss, Sarah K.",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,4936932,"Phillips, Nicole",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5543169,"Ainsworth, Alfred",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5558662,"Aronson, Nathan A.",NULL,"1978",NULL,"6' 1"""
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5561142,"Atkinson, David M.",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5575110,"Batsel, William",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5586103,"Betuel, Alex",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5597111,"Borrelli, Joseph K.",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5599965,"Boyd, Lindsey Jayne",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5613912,"Burns, John",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5615122,"Buster, Michael",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5619567,"Camaj, Dijana",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5634252,"Chase, Matt",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5634265,"Chase, Peter",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5643081,"Clary, Joe",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5648945,"Cone, Michael P.",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5668663,"Davis, Erin",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5708743,"Farrands, Tim",NULL,"1975",NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5709660,"Fay, Julie",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5747637,"Gomez, Kristin",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5749397,"Good, Taylor Marie",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5788549,"Hird, Michael",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5793149,"Holzhauer, Tom",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5797569,"Hsieh, Vickie M.",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5805233,"Ingram, J. Elizabeth",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5817302,"Johnson, Derek",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5819025,"Johnston, Samantha",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5821023,"Jones, Simeon",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5821144,"Jones, Tim",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5832695,"Keith, Carol",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5840269,"King, Mary",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5840300,"King, Micheal Edward",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5860247,"Landaker, Dave",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5864675,"Lavet, Max",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5882182,"Lombardo, Matt",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5888110,"Lusby, Michael D.",NULL,NULL,NULL,"6' 0 1/2"""
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5904113,"Martin, Maggie",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5917360,"McKean, Mike",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5937059,"Montgomery, Marlon",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5975575,"Ott, Tyler",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5991112,"Perno, Jill K.",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,5993864,"Petty, Kathy",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,6003680,"Powell, Bryant",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,6006569,"Probst, Liz",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,6036582,"Rosen, Jared",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,6084523,"Smith, Zack",NULL,"1979",NULL,"6'"
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,6093820,"Steckert, John",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,6105562,"Sweeney, Chris",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,6114820,"Tegan, Donna",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,6117531,"Thio, Kim",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,6122531,"Tjia, Helga",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,6131271,"Turchin, Marc",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,6138669,"Van Horne, Mark",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,6161775,"West, Mario",NULL,"1974",NULL,"5' 6"""
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,6162993,"Whitaker, Chris",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","miscellaneous crew",NULL,6177092,"Wu, Ken C.",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","producer",NULL,7718,"Abrams, J.J.","m","1966",NULL,"5' 7"""
+99,"Star Trek",2009,150000000,"8.0","producer",NULL,324456,"Burk, Bryan","m","1968",NULL,"5' 7"""
+99,"Star Trek",2009,150000000,"8.0","producer",NULL,419565,"Chernov, Jeffrey","m",NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","producer",NULL,1309717,"Kurtzman, Alex","m","1973",NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","producer",NULL,1399402,"Lindelof, Damon","m","1973",NULL,"5' 6"""
+99,"Star Trek",2009,150000000,"8.0","producer",NULL,1785529,"Orci, Roberto","m","1973",NULL,"5' 7"""
+99,"Star Trek",2009,150000000,"8.0","producer",NULL,4201398,"Baronoff, David",NULL,"1976",NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","producer",NULL,4752183,"Witz, David",NULL,NULL,NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","writer",NULL,1309717,"Kurtzman, Alex","m","1973",NULL,NULL
+99,"Star Trek",2009,150000000,"8.0","writer",NULL,1785529,"Orci, Roberto","m","1973",NULL,"5' 7"""
+99,"Star Trek",2009,150000000,"8.0","writer",NULL,2028876,"Roddenberry, Gene","m","1921","1991","6' 1"""
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","actor","Captain Esteban",47661,"Allen, Phillip R.","m","1939","2012",NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","actor","Captain Styles",2205574,"Sikking, James","m","1934",NULL,"178 cm"
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","actor","Klingon Gunner #1",517280,"Cummings, Bob K.","m",NULL,"2016",NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","actor","Klingon Sargeant",342969,"Cadiente, David","m","1937","2010",NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","actor","Prison Guard #2",2178135,"Shanklin, Doug","m",NULL,NULL,NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","actress","Space Dock Controller",3039332,"Durand, Judi M.","f",NULL,NULL,NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","actress","Vulcan High Priestess",2709041,"Anderson, Judith","f","1897","1992","5' 6 1/2"""
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","actress","Waitress",4005920,"Thomas Cain, Sharon","f","1946",NULL,NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","miscellaneous crew",NULL,232770,"Blalock, Steve","m",NULL,NULL,NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","miscellaneous crew",NULL,1736362,"Nimoy, Leonard","m","1931","2015","183 cm"
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","miscellaneous crew",NULL,1773759,"Okrand, Marc","m",NULL,NULL,NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","miscellaneous crew",NULL,2028876,"Roddenberry, Gene","m","1921","1991","6' 1"""
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","miscellaneous crew",NULL,2203409,"Siegel, Mark","m","1947",NULL,"5' 8"""
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","miscellaneous crew",NULL,2358497,"Tayir, Andre","m","1935","2003",NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","miscellaneous crew",NULL,2563079,"Weyland, Philip","m",NULL,NULL,NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","miscellaneous crew",NULL,2725132,"Arms, Barbara","f",NULL,NULL,NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","miscellaneous crew",NULL,3839305,"Ryusaki, Kimberly L.","f","1960",NULL,NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","miscellaneous crew",NULL,4067820,"Victor, Teresa E.","f","1943","2005",NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","miscellaneous crew",NULL,4294026,"de Valois, Geoffrey",NULL,NULL,NULL,NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","miscellaneous crew",NULL,4649480,"Schwab, Debbie",NULL,NULL,NULL,NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","miscellaneous crew",NULL,4745103,"Whitfield, Rick",NULL,NULL,NULL,NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","miscellaneous crew",NULL,4776901,"Arakelian, Deborah",NULL,NULL,NULL,NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","miscellaneous crew",NULL,5755355,"Green, Richard",NULL,NULL,NULL,NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","miscellaneous crew",NULL,5833242,"Kellick, Robin",NULL,NULL,NULL,NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","miscellaneous crew",NULL,5856582,"La Cava, Lily",NULL,NULL,NULL,NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","miscellaneous crew",NULL,5860246,"Landaker, Alan",NULL,NULL,NULL,NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","miscellaneous crew",NULL,5891834,"MacKenzie, Mike",NULL,NULL,NULL,NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","miscellaneous crew",NULL,5903197,"Marston, Joel",NULL,NULL,NULL,NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","miscellaneous crew",NULL,5940580,"Morgan, Robert",NULL,NULL,NULL,NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","miscellaneous crew",NULL,5997321,"Pine, Ed",NULL,NULL,NULL,NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","miscellaneous crew",NULL,6040203,"Rubenstein, Sylvia",NULL,NULL,NULL,NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","producer",NULL,194520,"Bennett, Harve","m","1930","2015",NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","producer",NULL,1704976,"Nardino, Gary","m","1935","1998",NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","producer",NULL,2598579,"Winter, Ralph","m",NULL,NULL,"6' 4"""
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","writer",NULL,194520,"Bennett, Harve","m","1930","2015",NULL
+130,"Star Trek III: The Search for Spock",1984,17000000,"6.7","writer",NULL,2028876,"Roddenberry, Gene","m","1921","1991","6' 1"""
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","actor","Controller #2",1889804,"Pistone, Marty","m",NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","actor","Marine Lieutenant",2652313,"Zautcke, Donald W.","m",NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","actor","Marine Sargent",1704445,"Naradzay, Joseph","m",NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","actor","Punk on Bus",2374172,"Thatcher, Kirk R.","m","1962",NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","actor","Torg",1404990,"Liska, Stephen","m",NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","actress","Lady in Tour",3959861,"Stimpson, Viola Kates","f","1906","2008",NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","actress","Usher",4067820,"Victor, Teresa E.","f","1943","2005",NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","cinematographer",NULL,1864302,"Peterman, Donald","m","1932","2011",NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,209864,"Besman, Michael","m",NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,391088,"Caton, Craig","m",NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,407407,"Chanock, Bundy","m","1954","2012","6' 0"""
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,520574,"Curry, Dan","m",NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,759631,"Fleming, Cliff","m","1950",NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,1404150,"Lipschultz, Andrew","m",NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,1910613,"Potter, Tony","m","1960",NULL,"5' 11"""
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,2028876,"Roddenberry, Gene","m","1921","1991","6' 1"""
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,2168763,"Seron, Ori","m","1945",NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,2563079,"Weyland, Philip","m",NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,3842410,"Sackett, Susan","f",NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,4241325,"Buxbaum, Kevin Richard",NULL,NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,5573176,"Barry, Kevin",NULL,NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,5606473,"Brookshire, Rebeca",NULL,NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,5656511,"Craig, John",NULL,NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,5713252,"Ferris, Greg",NULL,NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,5821162,"Jones, Tom",NULL,NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,5856582,"La Cava, Lily",NULL,NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,5860246,"Landaker, Alan",NULL,NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,5900023,"Marchessi, Lorenzo",NULL,"1963",NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,5939526,"Moreau, Harry",NULL,NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,5955136,"Neilson, Gina",NULL,NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,6039091,"Roux-Lough, Brigette",NULL,NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,6040203,"Rubenstein, Sylvia",NULL,NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,6084215,"Smith, Susan",NULL,NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","miscellaneous crew",NULL,6120511,"Thorson, Robert",NULL,NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","producer",NULL,194520,"Bennett, Harve","m","1930","2015",NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","producer",NULL,2374172,"Thatcher, Kirk R.","m","1962",NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","producer",NULL,2598579,"Winter, Ralph","m",NULL,NULL,"6' 4"""
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","producer",NULL,2833043,"Breton, Brooke","f",NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","writer",NULL,194520,"Bennett, Harve","m","1930","2015",NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","writer",NULL,1295699,"Krikes, Peter","m",NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","writer",NULL,1575899,"Meerson, Steve","m",NULL,NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","writer",NULL,1595503,"Meyer, Nicholas","m","1945",NULL,NULL
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","writer",NULL,1736362,"Nimoy, Leonard","m","1931","2015","183 cm"
+155,"Star Trek IV: The Voyage Home",1986,25000000,"7.3","writer",NULL,2028876,"Roddenberry, Gene","m","1921","1991","6' 1"""
+159,"Star Trek Secret Voyage: Rise of the Gongdea",2014,1000,"4.8","actor","Dr. Thomas Cage",463321,"Collett, Sean","m",NULL,NULL,NULL
+159,"Star Trek Secret Voyage: Rise of the Gongdea",2014,1000,"4.8","producer",NULL,2604274,"Wolfe, Glen L.","m",NULL,NULL,NULL
+159,"Star Trek Secret Voyage: Rise of the Gongdea",2014,1000,"4.8","producer",NULL,4658745,"Sheeler, Craig",NULL,NULL,NULL,NULL
+159,"Star Trek Secret Voyage: Rise of the Gongdea",2014,1000,"4.8","writer",NULL,1592056,"Mess, John","m",NULL,NULL,NULL
+160,"Star Trek Secret Voyage: Whose Birth These Triumphs Are",2012,12000,"5.9","actor","Dr. Cage",463321,"Collett, Sean","m",NULL,NULL,NULL
+160,"Star Trek Secret Voyage: Whose Birth These Triumphs Are",2012,12000,"5.9","actor","Red Shirt",463315,"Collett, Nicole","m",NULL,NULL,NULL
+160,"Star Trek Secret Voyage: Whose Birth These Triumphs Are",2012,12000,"5.9","miscellaneous crew",NULL,463321,"Collett, Sean","m",NULL,NULL,NULL
+160,"Star Trek Secret Voyage: Whose Birth These Triumphs Are",2012,12000,"5.9","miscellaneous crew",NULL,1102289,"Imber, Ray","m",NULL,NULL,NULL
+160,"Star Trek Secret Voyage: Whose Birth These Triumphs Are",2012,12000,"5.9","miscellaneous crew",NULL,1592056,"Mess, John","m",NULL,NULL,NULL
+160,"Star Trek Secret Voyage: Whose Birth These Triumphs Are",2012,12000,"5.9","miscellaneous crew",NULL,2386568,"Thomson Jr., Kenneth","m",NULL,NULL,NULL
+160,"Star Trek Secret Voyage: Whose Birth These Triumphs Are",2012,12000,"5.9","miscellaneous crew",NULL,5480692,"Kolovich, Devin",NULL,NULL,NULL,NULL
+160,"Star Trek Secret Voyage: Whose Birth These Triumphs Are",2012,12000,"5.9","miscellaneous crew",NULL,5661154,"Cunningham, Shiela",NULL,NULL,NULL,NULL
+160,"Star Trek Secret Voyage: Whose Birth These Triumphs Are",2012,12000,"5.9","producer",NULL,4658745,"Sheeler, Craig",NULL,NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","actress","Vixis",4120712,"Williams-Crosby, Spice","f","1952",NULL,"5' 7 1/2"""
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","cinematographer",NULL,1343854,"Laszlo, Andrew","m","1926","2011",NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","editor",NULL,200552,"Berger, Peter E.","m","1944","2011",NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,182048,"Beichman, Charles","m",NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,697165,"Erdmann, Terry J.","m",NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,1170583,"Jones, Mitch","m",NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,1265744,"Knapp, Greg","m",NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,1773759,"Okrand, Marc","m",NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,1959531,"Randall, Corky","m","1929","2009",NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,2028876,"Roddenberry, Gene","m","1921","1991","6' 1"""
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,2563079,"Weyland, Philip","m",NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,3113522,"Fredric, Eva-Marie","f","1956",NULL,"5' 8"""
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,3842410,"Sackett, Susan","f",NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,4034358,"Tumen, Marion","f",NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,4245298,"Campbell, Deborah L.",NULL,NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,4248909,"Carmichael, Robert",NULL,NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,4324017,"Evans, Jim",NULL,NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,4628289,"Ross, Stephen J.",NULL,NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,5570654,"Bard, Dale",NULL,NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,5583494,"Bergman, Charlene",NULL,NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,5587712,"Biggs, Judy",NULL,NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,5600281,"Boyle, Kimberly",NULL,NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,5606473,"Brookshire, Rebeca",NULL,NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,5647586,"Collins, James",NULL,NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,5657815,"Criscione, Tony",NULL,NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,5692747,"Dupont, Tom",NULL,NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,5698618,"Elder, Marie",NULL,NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,5712217,"Fernandez, Mary Jo",NULL,"1961",NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,5713252,"Ferris, Greg",NULL,NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,5730428,"Gaines, Bob",NULL,NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,5818719,"Johnson, Wendell",NULL,NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,5821162,"Jones, Tom",NULL,NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,5853027,"Kucera, Valerie Mickaelian",NULL,NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,5900023,"Marchessi, Lorenzo",NULL,"1963",NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,5914114,"McCrae, Susan",NULL,NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,5993316,"Petrie, Don",NULL,NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","miscellaneous crew",NULL,6159688,"Weis, Michael",NULL,NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","producer",NULL,194520,"Bennett, Harve","m","1930","2015",NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","producer",NULL,2028876,"Roddenberry, Gene","m","1921","1991","6' 1"""
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","producer",NULL,2598579,"Winter, Ralph","m",NULL,NULL,"6' 4"""
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","producer",NULL,2833043,"Breton, Brooke","f",NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","producer",NULL,4316189,"Efros, Mel",NULL,NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","production designer",NULL,2661615,"Zimmerman, Herman F.","m","1935",NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","writer",NULL,194520,"Bennett, Harve","m","1930","2015",NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","writer",NULL,1426316,"Loughery, David","m",NULL,NULL,NULL
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","writer",NULL,2028876,"Roddenberry, Gene","m","1921","1991","6' 1"""
+162,"Star Trek V: The Final Frontier",1989,27800000,"5.4","writer",NULL,2182101,"Shatner, William","m","1931",NULL,"5' 9 1/2"""
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","actor","Klingon Commander",2188551,"Sheppard, William Morgan","m","1932",NULL,"5' 9"""
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","actor","Prisoner at Rura Penthe",692552,"Engalla, Doug","m","1957",NULL,"5' 8"""
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","actress","ADC",2905628,"Chen, Shakti","f","1958",NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","actress","Azetbur",3005209,"DeSoto, Rosanna","f","1950",NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","actress","Martia as a Child",3316649,"Johnston, Katie","f",NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","cinematographer",NULL,1705223,"Narita, Hiro","m","1941",NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,91877,"Armstorff, Roland","m",NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,912815,"Greenwood, Timothy","m",NULL,NULL,"6' 5"""
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,1106464,"Intoppa, Luca","m",NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,1375069,"Lent, Tom","m",NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,1598085,"Michael, Patrick","m",NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,1753020,"Nuzzo, William","m",NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,1773759,"Okrand, Marc","m",NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,2523945,"Wallace, Brian","m",NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,2523954,"Wallace, Brian W.","m",NULL,NULL,"6' 6"""
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,2563079,"Weyland, Philip","m",NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,2683947,"Agu, Joyce","f",NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,2832595,"Brenner, Faye","f",NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,3138620,"Gauger, Laurie","f",NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,3142932,"Gentle, Mary Beth","f",NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,4273578,"Conti, Joseph",NULL,NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,4387714,"Harstedt, Jeffrey",NULL,NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,4401878,"Hoffman, Bob",NULL,NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,4725139,"Venezia, Tony",NULL,NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,4883391,"Krainin, Deborah",NULL,NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,4907899,"McCusker, Michael",NULL,NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,4995976,"Walzer, Andrea",NULL,NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,5388934,"Lotito, Joe",NULL,NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,5555789,"Aprea, Michael",NULL,NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,5571703,"Barnes, Sheila",NULL,"1930","1997",NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,5582505,"Benton, Scott",NULL,NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,5606473,"Brookshire, Rebeca",NULL,NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,5712217,"Fernandez, Mary Jo",NULL,"1961",NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,5740925,"Gibbs, Harrison",NULL,NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,5784616,"Hershman, Brent Lon",NULL,"1961","1997",NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,5991279,"Perrin, Frederic",NULL,NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,5994248,"Pfeil, David Oliver",NULL,NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,6069465,"Sheldon, Mindy",NULL,NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,6094070,"Steele, Russell",NULL,NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,6121200,"Tieman, Debbie",NULL,NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","miscellaneous crew",NULL,6161134,"Wensel, Brian",NULL,NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","producer",NULL,1063949,"Hornstein, Marty","m","1937","2013",NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","producer",NULL,1125384,"Jaffe, Steven-Charles","m","1951",NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","producer",NULL,1736362,"Nimoy, Leonard","m","1931","2015","183 cm"
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","producer",NULL,2598579,"Winter, Ralph","m",NULL,NULL,"6' 4"""
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","producer",NULL,2833043,"Breton, Brooke","f",NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","production designer",NULL,2661615,"Zimmerman, Herman F.","m","1935",NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","writer",NULL,761481,"Flinn, Denny Martin","m","1947","2007",NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","writer",NULL,1595503,"Meyer, Nicholas","m","1945",NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","writer",NULL,1736362,"Nimoy, Leonard","m","1931","2015","183 cm"
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","writer",NULL,2028876,"Roddenberry, Gene","m","1921","1991","6' 1"""
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","writer",NULL,2052303,"Rosenthal, Mark","m",NULL,NULL,NULL
+166,"Star Trek VI: The Undiscovered Country",1991,30000000,"7.2","writer",NULL,4453961,"Konner, Lawrence",NULL,NULL,NULL,NULL
+170,"Star Trek Wars",2015,15000,"8.4","actor","Star Wars Crew Member",813830,"Gallagher, Kevin Michael","m",NULL,NULL,"6' 1"""
+170,"Star Trek Wars",2015,15000,"8.4","cinematographer",NULL,4449776,"Klebe, Kyle",NULL,NULL,NULL,NULL
+170,"Star Trek Wars",2015,15000,"8.4","miscellaneous crew",NULL,1407773,"Liu, Wayne J.","m",NULL,NULL,NULL
+170,"Star Trek Wars",2015,15000,"8.4","miscellaneous crew",NULL,1875042,"Phillips, Colton","m",NULL,NULL,NULL
+170,"Star Trek Wars",2015,15000,"8.4","miscellaneous crew",NULL,2875822,"Cardinal, Catherine","f",NULL,NULL,NULL
+170,"Star Trek Wars",2015,15000,"8.4","miscellaneous crew",NULL,2952097,"Crawford, Shelbie","f",NULL,NULL,NULL
+170,"Star Trek Wars",2015,15000,"8.4","miscellaneous crew",NULL,4567110,"Olszyk, Violet",NULL,NULL,NULL,NULL
+170,"Star Trek Wars",2015,15000,"8.4","miscellaneous crew",NULL,5751462,"Gottesman, Noah",NULL,NULL,NULL,NULL
+170,"Star Trek Wars",2015,15000,"8.4","miscellaneous crew",NULL,5990187,"Perez, Alejandra",NULL,NULL,NULL,NULL
+170,"Star Trek Wars",2015,15000,"8.4","producer",NULL,289445,"Brietigam, George","m",NULL,NULL,NULL
+170,"Star Trek Wars",2015,15000,"8.4","producer",NULL,1049539,"Hoh, Joshua","m",NULL,NULL,NULL
+170,"Star Trek Wars",2015,15000,"8.4","producer",NULL,1394500,"Lieu, David","m",NULL,NULL,NULL
+170,"Star Trek Wars",2015,15000,"8.4","producer",NULL,2017974,"Roberti, Mario","m",NULL,NULL,NULL
+170,"Star Trek Wars",2015,15000,"8.4","producer",NULL,2715530,"Anna, Alyssa","f",NULL,NULL,NULL
+170,"Star Trek Wars",2015,15000,"8.4","producer",NULL,2779897,"Benavente, Amelia","f",NULL,NULL,NULL
+170,"Star Trek Wars",2015,15000,"8.4","producer",NULL,2875822,"Cardinal, Catherine","f",NULL,NULL,NULL
+170,"Star Trek Wars",2015,15000,"8.4","producer",NULL,3238786,"Herman, Judith Mudge","f",NULL,NULL,NULL
+170,"Star Trek Wars",2015,15000,"8.4","producer",NULL,4480366,"Lieu, Diana",NULL,NULL,NULL,NULL
+170,"Star Trek Wars",2015,15000,"8.4","producer",NULL,4676981,"South, Stephanie",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","actress","Night Watch Captain",3768732,"Rajaratnam, Priya","f",NULL,NULL,"5' 6"""
+185,"Star Trek: Beyond",2016,185000000,"7.1","actress","USSE Bridge Crew",3409423,"Lam, Lia","f",NULL,NULL,"5' 4"""
+185,"Star Trek: Beyond",2016,185000000,"7.1","actress","USSE Bridge Crew",3648889,"Nikolai, Polina","f",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","composer",NULL,851926,"Giacchino, Michael","m","1967",NULL,"5' 8"""
+185,"Star Trek: Beyond",2016,185000000,"7.1","costume designer",NULL,3227797,"Hays, Sanja Milkovic","f","1958",NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","editor",NULL,2271780,"Sprung, Steven","m",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","editor",NULL,5451089,"D'Auria, Greg",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","editor",NULL,5471452,"Highsmith, Dylan",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","editor",NULL,5491207,"Matsumoto, Kelly",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,12238,"Adam, Omar","m",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,133015,"Bakstad, Kristian","m",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,155980,"Barretto, Kurt","m",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,418610,"Cheng, Michael A.","m",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,474283,"Consing, Robert","m",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,480511,"Cooper, Kyle","m","1962",NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,747226,"Fikree, Mohammad Ahmed","m","1989",NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,1138155,"Javed, M. Faraz","m",NULL,NULL,"5' 8"""
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,1261892,"Klein, Richard","m",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,1414144,"Lofstrom, Stephen Richard","m",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,1452936,"MacDonald, Mark","m",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,1459544,"Madani, Abdulrahman Al","m","1992",NULL,"176 cm"
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,1632615,"Mojarradi, Amir","m",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,1662404,"Morrison, Roderick Dryden","m",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,1850788,"Pender, Jerry","m",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,1942287,"Quiroz, Gabriela","m",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,2051540,"Rosenblatt, Ben","m",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,2325175,"Suttar, Andrew","m",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,2645158,"Zaazouh, Khaled","m",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,2909443,"Chilson, Katie","f",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,2943014,"Cornuelle, Kaitlin","f",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,2969841,"Dameron, Morgan","f",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,3037509,"Dunlop, Christina","f",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,3052895,"Elek, Nikki","f",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,3091179,"Finbow, Claire","f","1980",NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,3286692,"Irvine, Megan","f","1984",NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,3310803,"Jo, Jeanne","f",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,3424386,"Lawrence, Katie","f",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,3466788,"Look, Lydia","f","1980",NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,3643059,"Ng, Melissa","f",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,3881740,"Sebal, Ana Oparnica","f",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,3887270,"Seog, Christina","f",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,3928916,"Smith, Suzanne E.","f",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4111409,"Whiting, Rebecca","f","1981",NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4155773,"Zapata, Mariela","f",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4225583,"Botello, Alfredo",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4246443,"Cannella, Max",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4262297,"Chodorov, Marjorie",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4266060,"Clark, James",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4314299,"Eastridge, Katie",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4344620,"Fudge, Byron",NULL,"1984",NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4351400,"Garlington, Kristin",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4361176,"Godenzie, Stephen",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4372024,"Gressen, Ashley",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4380714,"Halagarda, David",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4414013,"Ilie, Teodora",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4419169,"Jacobsen, Anne",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4508675,"Maslechko, Alecia",NULL,NULL,NULL,"5' 7"""
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4526615,"Michnoff, Alan",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4585103,"Perry, Becca",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4597612,"Prentice, Carole",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4621763,"Rochfort, Ed",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4691386,"Sutton, Kimberley",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4706963,"Tobey, Kirsten",NULL,NULL,NULL,"5' 2"""
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4745172,"Whitley, John",NULL,"1977",NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4823897,"Donald, Whitney",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4887572,"Landels, Kate",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4974556,"Stewart, MacGregor",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,4990146,"van Wessem, Camille",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5059166,"Hamdan, Jade",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5542971,"Aichholz, Mike",NULL,"1976",NULL,"6'"
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5546745,"Aljanahi, Saeed",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5561186,"Atkinson, Leona",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5563811,"Baaklini, Tania",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5582467,"Benton, Camille",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5597157,"Bors, Steve",NULL,"1991",NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5598264,"Boughton, Cole",NULL,NULL,NULL,"6' 2 1/2"""
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5647856,"Collins, Valeria Migliassi",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5664139,"Daku, Brianna",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5664437,"Dallamore, Jacqueline",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5674904,"Del Rosario, Andrew",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5680130,"Di Rezze, Kay",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5681972,"Dillard, Allison",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5684035,"Dobner, Claire",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5706934,"Fahey, Erin",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5708064,"Fantin, James",NULL,NULL,NULL,"6'"
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5719335,"Foisy, Angel",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5722737,"Fox, Suzie",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5733121,"Garcia, Carlos",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5740683,"Giannone, Jennifer",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5743170,"Ginger, Selena",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5746131,"Goj, Ruslan",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5763891,"Ha, Katey",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5776488,"Hauka, Michael",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5788386,"Hirak, Acton",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5807217,"Israel, Elsey",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5816280,"Johann, Trevor",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5816907,"Johnson, Ashley",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5824571,"Kaczorowska, Magdalena",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5839939,"King, Daniel Castle",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5841402,"Kirkman, Finnley",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5860757,"Lane, Janet",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5868622,"Lee, Michele",NULL,"1978",NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5870471,"Leiren-Young, Darron",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5901427,"Markandey, Swapnil",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5904565,"Martineau, Dave",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5907463,"Masterson, Andrew",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5907477,"Masterson, Oliver John",NULL,NULL,NULL,"6' 1"""
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5907786,"Matanawi, Victor",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5911451,"Mazerolle, Joshua",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5912127,"McBarron, Anna",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5913576,"McConnaughey, Carol",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5935353,"Moller, Juhlene",NULL,"1969",NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5940112,"Morez, Daniel",NULL,"1979",NULL,"6' 3"""
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5956408,"Nettleton, Andy",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5973022,"Orban, Kory",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5976338,"Owens, Ben",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5996786,"Pike, Eric C.",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,5999235,"Playle, Amber",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,6019736,"Reid, Nancy",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,6025183,"Riddell, Scott",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,6040170,"Rubens, Alida",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,6056843,"Schiro, Janine",NULL,"1971",NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,6058324,"Schoen, Ben",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,6058329,"Schoen, Josh",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,6080276,"Sletbak, Eira Katrine",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,6092491,"Stander, Vincent",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,6096584,"Stewart Sr., William H.",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,6099670,"Streak, Christo",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,6111972,"Tapia, Sophia",NULL,"1965",NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,6139783,"Vanderjagt, Jodi",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,6147593,"Vockerodt, Estelle",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,6152842,"Walsh, Christopher",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,6161196,"Wenzel, Dave",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,6166698,"Willan, Terri",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,6171255,"Winn, Chris",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,6171287,"Winn, Scott",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","miscellaneous crew",NULL,6188779,"Zorigian, Jason",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","producer",NULL,7718,"Abrams, J.J.","m","1966",NULL,"5' 7"""
+185,"Star Trek: Beyond",2016,185000000,"7.1","producer",NULL,59350,"Ames, Ron","m",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","producer",NULL,419565,"Chernov, Jeffrey","m",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","producer",NULL,687334,"Ellison, David","m","1983",NULL,"6' 1"""
+185,"Star Trek: Beyond",2016,185000000,"7.1","producer",NULL,979092,"Harper, Tommy","m",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","producer",NULL,1017640,"Henson, Josh","m",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","producer",NULL,1398017,"Lin, Justin","m","1973",NULL,"5' 6 1/2"""
+185,"Star Trek: Beyond",2016,185000000,"7.1","producer",NULL,1785529,"Orci, Roberto","m","1973",NULL,"5' 7"""
+185,"Star Trek: Beyond",2016,185000000,"7.1","producer",NULL,3160417,"Goldberg, Dana","f",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","producer",NULL,4098818,"Weber, Lindsey","f",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","producer",NULL,4593441,"Pollak, Helen",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","production designer",NULL,1681716,"Murdock, Andrew","m",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","production designer",NULL,2106430,"Sanders, Thomas E.","m","1953",NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","writer",NULL,1182192,"Jung, Doug","m",NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","writer",NULL,1785529,"Orci, Roberto","m","1973",NULL,"5' 7"""
+185,"Star Trek: Beyond",2016,185000000,"7.1","writer",NULL,1847239,"Pegg, Simon","m","1970",NULL,"5' 10"""
+185,"Star Trek: Beyond",2016,185000000,"7.1","writer",NULL,2028876,"Roddenberry, Gene","m","1921","1991","6' 1"""
+185,"Star Trek: Beyond",2016,185000000,"7.1","writer",NULL,4517686,"McKay, Patrick",NULL,NULL,NULL,NULL
+185,"Star Trek: Beyond",2016,185000000,"7.1","writer",NULL,4580846,"Payne, John D.",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","actor","Borg",383012,"Casey, Jon David","m","1970",NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","actor","Borg",2645796,"Zachar, Robert","m",NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","actor","Geordi",330235,"Burton, LeVar","m","1957",NULL,"5' 7"""
+213,"Star Trek: First Contact",1996,45000000,"7.6","actor","Henchman",2045595,"Rondell Jr., Ronnie","m","1937",NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","actor","The Borg",481293,"Coopwood, Jeff","m","1958",NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","actress","Townsperson",3391959,"Krinsky, Tamara","f",NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","cinematographer",NULL,1376996,"Leonetti, Matthew F.","m","1941",NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,444494,"Clark, Shane","m","1970",NULL,"5' 9"""
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,481293,"Coopwood, Jeff","m","1958",NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,542246,"Darensborg, Eric","m",NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,1523482,"Masters, Todd","m",NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,1554763,"McFarland, Alan","m","1962",NULL,"6' 2"""
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,1753020,"Nuzzo, William","m",NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,1773941,"Okuda, Michael","m",NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,2118568,"Sarstedt, Richard","m","1941",NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,2304266,"Stotler, Simon","m",NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,2414654,"Tracy, Dennis","m","1939",NULL,"5' 10 1/2"""
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,2804935,"Blasor, Denise","f",NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,3078644,"Fatjo, Lolita","f","1958",NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,3766904,"Ragan-George, Karen","f",NULL,NULL,"5' 4"""
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,4134506,"Wordes, Smith","f","1955",NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,4358318,"Gillan, Bob",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,4405767,"Hornstein, Ellen J.",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,4558049,"Nocifora, April",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,4566026,"Olin, Lisa J.",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,4649480,"Schwab, Debbie",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,4679311,"Squadron, Seth",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,4755027,"Worman, Alex L.",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,5282804,"Taylor, Brenda",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,5605287,"Bro, Anthony",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,5607801,"Brown, Judi",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,5611609,"Buhmiller, Todd",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,5621180,"Canamar, Kevin A.",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,5621181,"Canamar, Valerie",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,5625821,"Carruth, Lois",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,5627511,"Casner, Barbara",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,5696683,"Edwards, Jackie",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,5698618,"Elder, Marie",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,5728104,"Fukuchi, Primrose",NULL,"1962",NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,5735773,"Garutso, Karen",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,5738395,"Genovese, Katy",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,5751047,"Gorsuch, Stephanie",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,5756008,"Greenmun, Sam",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,5779819,"Heileson, Vincent",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,5803452,"Ichikawa, Cindy M.",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,5911412,"Mazaraki, Robert",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,5937747,"Moore, Bruce",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,5955928,"Nemecek, Janet",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,6014001,"Ramos, Brandon",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,6080803,"Small, Jennifer",NULL,"1977",NULL,"5' 6 1/2"""
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,6144701,"Vidar, Nick",NULL,"1965",NULL,"5' 11"""
+213,"Star Trek: First Contact",1996,45000000,"7.6","miscellaneous crew",NULL,6145357,"Vill, Kerry A.",NULL,NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","producer",NULL,203422,"Berman, Rick","m","1945",NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","producer",NULL,1063949,"Hornstein, Marty","m","1937","2013",NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","producer",NULL,1347433,"Lauritson, Peter","m",NULL,NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","production designer",NULL,2661615,"Zimmerman, Herman F.","m","1935",NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","writer",NULL,203422,"Berman, Rick","m","1945",NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","writer",NULL,276588,"Braga, Brannon","m","1965",NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","writer",NULL,1647817,"Moore, Ronald D.","m","1964",NULL,NULL
+213,"Star Trek: First Contact",1996,45000000,"7.6","writer",NULL,2028876,"Roddenberry, Gene","m","1921","1991","6' 1"""
+217,"Star Trek: Generations",1994,35000000,"6.6","actor","Picard's Kid",578968,"Dekker, Thomas","m","1987",NULL,"5' 8"""
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,457300,"Cohen, Jamie","m",NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,520574,"Curry, Dan","m",NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,931660,"Guilbeau, David","m",NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,1166584,"Jones, Bruce","m",NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,1483509,"Manis, Brian","m",NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,1753020,"Nuzzo, William","m",NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,1844028,"Pearson, Jim","m",NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,2118568,"Sarstedt, Richard","m","1941",NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,2414654,"Tracy, Dennis","m","1939",NULL,"5' 10 1/2"""
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,2563079,"Weyland, Philip","m",NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,2806174,"Bloch, Lisa J.","f",NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,3366181,"King, Linda A.","f",NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,3415740,"Lansky, Sophia","f",NULL,NULL,"5' 6 1/2"""
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,3561591,"Mendell, Lorine","f",NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,3765608,"Radley, Liz","f",NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,3923241,"Smartt-Juday, Penny","f",NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,4266507,"Clarke, Christian",NULL,"1970",NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,4330375,"Fernandez, Kristine",NULL,NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,4341555,"Frasco, Jay",NULL,NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,4562248,"O'Hair, S.A.",NULL,NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,4724658,"Velazquez, Dawn",NULL,NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,4748545,"Williams, Michael R.",NULL,"1968",NULL,"6' 0"""
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,4913736,"Mistovich, Mike",NULL,NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,5547160,"Allen, Dan",NULL,NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,5607801,"Brown, Judi",NULL,NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,5618114,"Caine, Dick",NULL,NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,5663931,"Dahm, Carolyn M.",NULL,NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,5676277,"DeLuca, William M.",NULL,NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,5696683,"Edwards, Jackie",NULL,NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,5710349,"Feightner, Bill",NULL,NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,5713252,"Ferris, Greg",NULL,NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,5722295,"Fowler, Harold",NULL,NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,5745149,"Gluckstern, Cheryl",NULL,NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,5785673,"Hickey, Megan",NULL,NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,5873784,"Levy, Don",NULL,NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,5888555,"Ly, Vinh",NULL,NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,5987411,"Pearson, Tim L.",NULL,NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,6043281,"Ryan, Jim",NULL,NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,6099420,"Stransky, Brian",NULL,NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,6121200,"Tieman, Debbie",NULL,NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,6170666,"Wilson, Victoria",NULL,NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,6174526,"Wood, Kelley",NULL,"1962","2012",NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","miscellaneous crew",NULL,6185261,"Zamora, Victoria A.",NULL,NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","producer",NULL,203422,"Berman, Rick","m","1945",NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","producer",NULL,1347433,"Lauritson, Peter","m",NULL,NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","producer",NULL,2581203,"Williams, Bernard","m","1942","2015",NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","production designer",NULL,2661615,"Zimmerman, Herman F.","m","1935",NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","writer",NULL,203422,"Berman, Rick","m","1945",NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","writer",NULL,276588,"Braga, Brannon","m","1965",NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","writer",NULL,1647817,"Moore, Ronald D.","m","1964",NULL,NULL
+217,"Star Trek: Generations",1994,35000000,"6.6","writer",NULL,2028876,"Roddenberry, Gene","m","1921","1991","6' 1"""
+225,"Star Trek: Insurrection",1998,58000000,"6.4","actor","Alien Ensign",921212,"Grodénchik, Max","m","1952",NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","actor","Geordi",330235,"Burton, LeVar","m","1957",NULL,"5' 7"""
+225,"Star Trek: Insurrection",1998,58000000,"6.4","actor","Quark",2193001,"Shimerman, Armin","m","1949",NULL,"5' 6"""
+225,"Star Trek: Insurrection",1998,58000000,"6.4","actor","Young Ru'afo",867845,"Glasser, Phillip","m","1978",NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","actress","Librarian",2726627,"Arnone, Lee","f",NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","cinematographer",NULL,1376996,"Leonetti, Matthew F.","m","1941",NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,96615,"Arroyo, Samuel F.","m",NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,221049,"Bilog, Michael","m",NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,258127,"Bormanis, André","m","1959",NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,853741,"Gibbs, David Gene","m","1953","2013",NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,879506,"Gomes, Rob","m",NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,968740,"Hanna, Steve","m",NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,1734960,"Nikolic, Alex","m","1978",NULL,"180 cm"
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,1744836,"Norman, Eric","m",NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,1773941,"Okuda, Michael","m",NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,2055592,"Rossi, David","m",NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,2118568,"Sarstedt, Richard","m","1941",NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,2298000,"Stillwell, Eric A.","m","1962",NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,2329965,"Swatton, Tony","m",NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,2414654,"Tracy, Dennis","m","1939",NULL,"5' 10 1/2"""
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,2490215,"Vicini, Tom","m",NULL,NULL,"4' 11 1/2"""
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,2540131,"Waters, Troy","m",NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,2613599,"Workman, Jimmy","m","1980",NULL,"5' 10"""
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,2637501,"Yoshimura, Jesse","m",NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,2979842,"Davis, Maril","f",NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,3177218,"Grayson, Vanessa","f",NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,3384095,"Korkosz, Christine Haas","f",NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,3420057,"Later, Adria","f","1945",NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,3429500,"Lecoultre, Francine","f",NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,3550980,"McLane, Haley","f",NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,3805452,"Roberts, Lori M.","f",NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,3936047,"Sonheim, Carol","f",NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,4134506,"Wordes, Smith","f","1955",NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,4214586,"Betts, Ben",NULL,"1969",NULL,"5' 11"""
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,4388444,"Harvey, Brian",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,4405767,"Hornstein, Ellen J.",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,4441316,"Kelly, Rob A.",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,4925201,"Norman, Phill",NULL,NULL,"2009",NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,5497582,"Muñoz, José",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,5576156,"Bayard, Ted",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,5607801,"Brown, Judi",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,5621181,"Canamar, Valerie",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,5625821,"Carruth, Lois",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,5631746,"Chambers, Monique K.",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,5635498,"Chen, Joseph",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,5676277,"DeLuca, William M.",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,5696683,"Edwards, Jackie",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,5713252,"Ferris, Greg",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,5757769,"Grigsby, Matthew K.",NULL,"1971",NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,5910463,"Maxwell, Elizabeth",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,5910505,"Maxwell, Michael",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,5920143,"McWilliams, Kimalyn",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,5938503,"Moore, Thomas",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,5942578,"Morss, Dylan",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,5967332,"O'Neill, Sandy",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,5987411,"Pearson, Tim L.",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,5994015,"Pezzillo, Ben",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,6005208,"Presock, Buz",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,6030909,"Roccuzzo, Michael",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,6082404,"Smith, Glenn J.",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","miscellaneous crew",NULL,6094851,"Steinert, Kim",NULL,NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","producer",NULL,203422,"Berman, Rick","m","1945",NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","producer",NULL,1063949,"Hornstein, Marty","m","1937","2013",NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","producer",NULL,1347433,"Lauritson, Peter","m",NULL,NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","producer",NULL,1884119,"Piller, Michael","m","1948","2005",NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","producer",NULL,2296388,"Stewart, Patrick","m","1940",NULL,"5' 10"""
+225,"Star Trek: Insurrection",1998,58000000,"6.4","production designer",NULL,2661615,"Zimmerman, Herman F.","m","1935",NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","writer",NULL,203422,"Berman, Rick","m","1945",NULL,NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","writer",NULL,1884119,"Piller, Michael","m","1948","2005",NULL
+225,"Star Trek: Insurrection",1998,58000000,"6.4","writer",NULL,2028876,"Roddenberry, Gene","m","1921","1991","6' 1"""
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","actress","Lady V",3217126,"Harris, Heather C.","f",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","actress","Madeline",2724515,"Arland, Kimberly","f","1966",NULL,"5' 8"""
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","actress","Uhura",3847504,"Saldana, Zoe","f","1978",NULL,"5' 6 1/2"""
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","cinematographer",NULL,1616588,"Mindel, Dan","m","1958",NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,10847,"Acord, David","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,119360,"Babaian, Arin","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,119746,"Babbs, Ryan","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,170257,"Baxter, Daniel","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,266100,"Bourne, Frankie","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,277557,"Bramante, Chris","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,659180,"Dutcher, John","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,759631,"Fleming, Cliff","m","1950",NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,759638,"Fleming, Cory","m","1974",NULL,"5' 10"""
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,845720,"Gerace, Sean","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,896486,"Gowan, Matthew","m","1987",NULL,"5' 10 1/2"""
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,925709,"Grusby, Greg","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,1012889,"Henderson, James","m","1973",NULL,"6' 0"""
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,1053810,"Holly, Chris","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,1066091,"Hosking, Craig","m","1958",NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,1067816,"Houlihan, Kevin","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,1132781,"Jang, Peter","m",NULL,NULL,"5' 11"""
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,1219514,"Kehoe, Jamie","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,1219528,"Kehoe, Michael G.","m","1958",NULL,"5' 8"""
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,1229409,"Kenny, Mark","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,1251024,"King, Linden","m","1955",NULL,"6' 4"""
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,1310125,"Kusari, Meti","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,1317696,"Labarta, Christian","m","1976",NULL,"5' 11"""
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,1370010,"Leibowich, Alex","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,1475267,"Malin, Lee Philip","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,1627919,"Mlodzik, Kyle","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,1631656,"Mohanty, Sid","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,1661419,"Morris, Shaun","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,1773759,"Okrand, Marc","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,1809458,"Paley, Jordan","m","1986",NULL,"5' 11"""
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,1871332,"Pezdirc, Ryan J.","m","1983",NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,1906074,"Porcino, Nick","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,1984351,"Rejwan, Adam","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,2071160,"Runnels, Brian","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,2275124,"Stacy, Brandon","m","1982",NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,2296302,"Stewart, Michael T","m",NULL,NULL,"6' 1"""
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,2540346,"Watkins, Britton","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,2548196,"Wecksell, Evan","m","1979",NULL,"5' 10"""
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,2604788,"Wolff, Marc","m","1947",NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,2803497,"Blakemore, Margaret","f",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,2969841,"Dameron, Morgan","f",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,3053198,"Elgart, Sarah","f",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,3091179,"Finbow, Claire","f","1980",NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,3151798,"Gilliam, Dawn","f",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,3177457,"Greathouse, Renee","f",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,3243956,"Hickam, Jessica","f",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,3251442,"Ho, Ngoc","f",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,3345134,"Kavadoy, Josie","f",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,3546633,"McGhee, Ali","f",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,3552795,"McMunn, Jessica","f",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,3558122,"Meier, Vanessa","f",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,3869271,"Schermoly, Andrea","f",NULL,NULL,"5' 9"""
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4172771,"Aguilar, Beatriz",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4191285,"Atwater, Gina",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4236332,"Bryant, Chris",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4272959,"Conners, Kit",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4277494,"Coto, Marcela",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4292485,"de Kelaita, Gabe",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4362929,"Goldstein, Matt",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4372024,"Gressen, Ashley",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4373087,"Grimm, Matt",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4387814,"Hart, Jeffrey J.",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4389475,"Hatch, Samantha",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4392401,"Heffler, David",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4418078,"Jackson, Aaron",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4436652,"Karp, David",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4466360,"Languren, Ruben",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4469750,"Lawson, Daniel",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4477323,"Levine, Erin",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4502096,"Marcari, Cindy",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4508501,"Masciale, Natalie",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4524762,"Mesias, Jason",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4553848,"Neuman, Zack",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4577653,"Parrott, Ryan",NULL,NULL,NULL,"5' 10"""
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4580049,"Paul, Lucas Brock",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4607506,"Rapak, Charlotte",NULL,"1983",NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4627045,"Rosen, Kim",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4633533,"Ryan, Matt",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4639622,"Sandell, Jenny",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4648444,"Schreck, Kristen",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4678984,"Spotts, Jana",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4795734,"Bronson, Shawn D.",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,4852980,"Hailey, Ryan",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5002492,"Woods, Derek",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5002526,"Woods, Peter",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5069277,"Johnson, Bess",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5183201,"De Meo, Jason",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5309725,"Dewey-Gartner, Samantha",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5335456,"Seltzer, Anna",NULL,"1986",NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5337499,"Stewart-Short, Skye",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5393777,"Mengual, Jaime",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5511025,"Roberts, Ailene",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5551950,"Anderson, Katie R.",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5552915,"Andreadis, Callie",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5557362,"Arias, Jampier",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5570328,"Barber, Teri J.",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5573523,"Bartkiewicz, Sara",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5580756,"Benardello, Dee",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5585304,"Berthold, Kelly",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5588296,"Binder, Adam",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5597600,"Bost, Bill",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5600756,"Brades, Jacob",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5602639,"Bravo, Joe",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5606331,"Brooks, Laura N.",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5613237,"Burke, Margaret",NULL,"1974",NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5621180,"Canamar, Kevin A.",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5621523,"Cannavo, Jay",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5626806,"Carville, Jerry",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5633521,"Chapman, Steven",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5634252,"Chase, Matt",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5634265,"Chase, Peter",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5643706,"Clemente, Robert Parker",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5651128,"Coombs, Alan",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5654462,"Cote, Brian James",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5663597,"Daddio, Jamie",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5681972,"Dillard, Allison",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5700859,"Emmons, Paul",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5707458,"Falconer, Heidi",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5709223,"Fattorini, Susana Inés",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5713252,"Ferris, Greg",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5713508,"Fettis, Lily",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5713839,"Field, Carey",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5713873,"Field, Holly",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5721616,"Foster Found, Lucia",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5728919,"Furia, Chris",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5764617,"Hadland, Gillian",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5788549,"Hird, Michael",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5789514,"Hoang, Emily",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5797343,"Hrico, George J.",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5815814,"Jiménez, Marisol",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5817604,"Johnson, Jason Phillip",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5821669,"Jordan, Nick",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5838510,"Kim, Ben",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5870792,"Lemarie, Ellexa",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5871776,"Leone, Talia",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5919421,"McNeil, Lisa",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5920599,"Medel, Jackie",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5948553,"Musselman, Kyle",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5954133,"Naydichev, Irina",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5966158,"O'Connor, Patrick",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5971744,"Olsen, William J.",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,5995937,"Pickford, Philip",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,6042670,"Russo, Renee",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,6058324,"Schoen, Ben",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,6058329,"Schoen, Josh",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,6060633,"Schwiesow, Randy",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,6085393,"Snyder, Sarah",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,6092028,"Stahl, Andrew",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,6095089,"Stemen, Mo",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,6095341,"Stephens, Andy",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,6099375,"Strange, Gene",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,6114011,"Taylor, Max",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,6114938,"Teixeira, Michael",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,6117531,"Thio, Kim",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,6123592,"Tolmasov, Nick",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,6154201,"Wang, Wilson",NULL,NULL,NULL,"5' 10"""
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,6155246,"Warner, Lauren",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,6171261,"Winn, Eric",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","miscellaneous crew",NULL,6176121,"Wrate, Tauren",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","producer",NULL,7718,"Abrams, J.J.","m","1966",NULL,"5' 7"""
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","producer",NULL,324456,"Burk, Bryan","m","1968",NULL,"5' 7"""
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","producer",NULL,419565,"Chernov, Jeffrey","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","producer",NULL,687334,"Ellison, David","m","1983",NULL,"6' 1"""
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","producer",NULL,892198,"Gormley, Tommy","m","1968",NULL,"5' 8"""
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","producer",NULL,979092,"Harper, Tommy","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","producer",NULL,1309717,"Kurtzman, Alex","m","1973",NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","producer",NULL,1399402,"Lindelof, Damon","m","1973",NULL,"5' 6"""
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","producer",NULL,1785529,"Orci, Roberto","m","1973",NULL,"5' 7"""
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","producer",NULL,2051540,"Rosenblatt, Ben","m",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","producer",NULL,3160417,"Goldberg, Dana","f",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","producer",NULL,3786145,"Rejwan, Michelle","f",NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","producer",NULL,4649530,"Schwake, Paul",NULL,NULL,NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","writer",NULL,1309717,"Kurtzman, Alex","m","1973",NULL,NULL
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","writer",NULL,1399402,"Lindelof, Damon","m","1973",NULL,"5' 6"""
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","writer",NULL,1785529,"Orci, Roberto","m","1973",NULL,"5' 7"""
+226,"Star Trek: Into Darkness",2013,190000000,"7.8","writer",NULL,2028876,"Roddenberry, Gene","m","1921","1991","6' 1"""
+233,"Star Trek: Nemesis",2002,60000000,"6.4","actor","Scimitar Computer",129089,"Baird, Stuart","m","1947",NULL,"188.5 cm"
+233,"Star Trek: Nemesis",2002,60000000,"6.4","actress","Computer",2760621,"Barrett, Majel","f","1932","2008","5' 9"""
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,229902,"Blackman, Robert","m",NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,699106,"Erklin, Casey","m",NULL,NULL,"5' 10"""
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,829703,"Garner, Martin","m","1970",NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,915664,"Grey, Gilley","m",NULL,NULL,"5' 10"""
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,1214394,"Kawecki, Gregg","m",NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,1260490,"Klastorin, Michael","m","1957",NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,1415657,"Loiko, Joshua","m",NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,2055592,"Rossi, David","m",NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,2264543,"Sparks, Logan","m",NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,2439038,"Twombly, Michael P.","m","1979",NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,3120785,"Fuller, Joanna","f","1977",NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,3177218,"Grayson, Vanessa","f",NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,3454462,"Lindenthaler, Alexa Song","f",NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,3550731,"McKissick, Kerry Lyn","f","1959",NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,3552412,"McMeikan, Joanna K.","f",NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,4037732,"Twombly, Gretel","f","1976",NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,4171003,"Adams, Richie",NULL,NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,4214586,"Betts, Ben",NULL,"1969",NULL,"5' 11"""
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,4284365,"Côté, Glenn Richard",NULL,"1964",NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,4295702,"Deiker, B. Ted",NULL,"1970",NULL,"6'"
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,4504100,"Marks, Todd A.",NULL,NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,4577461,"Parr, Daniel E.",NULL,"1973",NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,5303736,"Binder, Melissa",NULL,NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,5371342,"Greenberg, Richard",NULL,NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,5542340,"Aguirre, Kimberly",NULL,"1969",NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,5571691,"Barnes, Scott",NULL,NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,5583876,"Berkowitz, Daniel",NULL,NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,5590383,"Blackwell, Lisa",NULL,NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,5621181,"Canamar, Valerie",NULL,NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,5625821,"Carruth, Lois",NULL,NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,5685435,"Domis, Jeff",NULL,"1976",NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,5696683,"Edwards, Jackie",NULL,NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,5698266,"Ekstrand, Brent",NULL,NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,5713252,"Ferris, Greg",NULL,NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,5909818,"Matus, Michael",NULL,NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,5947575,"Murphy, Niamh",NULL,NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,5953197,"Nashold, Marie",NULL,NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,5962246,"Nomura, Ronald K.",NULL,NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,5972174,"Ombac, Edwin",NULL,NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,5987411,"Pearson, Tim L.",NULL,NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,6017575,"Reagan, Kevin D.",NULL,NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,6029181,"Roberts, Shaun",NULL,"1978",NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,6076559,"Simonson, Andy",NULL,NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,6092225,"Stallman, Mollie",NULL,NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,6117870,"Thomas, Christian L.",NULL,NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","miscellaneous crew",NULL,6171255,"Winn, Chris",NULL,NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","producer",NULL,203422,"Berman, Rick","m","1945",NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","producer",NULL,1063949,"Hornstein, Marty","m","1937","2013",NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","producer",NULL,1347433,"Lauritson, Peter","m",NULL,NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","producer",NULL,2028876,"Roddenberry, Gene","m","1921","1991","6' 1"""
+233,"Star Trek: Nemesis",2002,60000000,"6.4","production designer",NULL,2661615,"Zimmerman, Herman F.","m","1935",NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","writer",NULL,203422,"Berman, Rick","m","1945",NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","writer",NULL,1414653,"Logan, John","m","1961",NULL,NULL
+233,"Star Trek: Nemesis",2002,60000000,"6.4","writer",NULL,2028876,"Roddenberry, Gene","m","1921","1991","6' 1"""
+233,"Star Trek: Nemesis",2002,60000000,"6.4","writer",NULL,2269216,"Spiner, Brent","m","1949",NULL,"178 cm"
+240,"Star Trek: Phoenix - Hollow",2009,50000,"6.1","cinematographer",NULL,4351749,"Garrido, Clyde",NULL,NULL,NULL,NULL
+240,"Star Trek: Phoenix - Hollow",2009,50000,"6.1","composer",NULL,5240605,"Milne, Matt",NULL,NULL,NULL,NULL
+240,"Star Trek: Phoenix - Hollow",2009,50000,"6.1","editor",NULL,4618881,"Rivers, Keith",NULL,"1983",NULL,"5' 10"""
+240,"Star Trek: Phoenix - Hollow",2009,50000,"6.1","miscellaneous crew",NULL,2256738,"Sonnet, Adam","m","1980",NULL,NULL
+240,"Star Trek: Phoenix - Hollow",2009,50000,"6.1","miscellaneous crew",NULL,3553211,"McNamer, Michelle Andrews","f",NULL,NULL,NULL
+240,"Star Trek: Phoenix - Hollow",2009,50000,"6.1","miscellaneous crew",NULL,3936301,"Sonnet, Elle Viane","f","1988",NULL,"5' 10"""
+240,"Star Trek: Phoenix - Hollow",2009,50000,"6.1","miscellaneous crew",NULL,4755643,"Wright, Jason",NULL,NULL,NULL,NULL
+240,"Star Trek: Phoenix - Hollow",2009,50000,"6.1","miscellaneous crew",NULL,5636245,"Cherry, Andrew",NULL,NULL,NULL,NULL
+240,"Star Trek: Phoenix - Hollow",2009,50000,"6.1","miscellaneous crew",NULL,5661819,"Curtis, Isaac",NULL,NULL,NULL,NULL
+240,"Star Trek: Phoenix - Hollow",2009,50000,"6.1","miscellaneous crew",NULL,6162219,"Westphal, Garrett",NULL,NULL,NULL,NULL
+240,"Star Trek: Phoenix - Hollow",2009,50000,"6.1","producer",NULL,70933,"Andrews, Ben","m","1975",NULL,"5' 9"""
+240,"Star Trek: Phoenix - Hollow",2009,50000,"6.1","producer",NULL,765357,"Flynn, Lucien","m",NULL,NULL,NULL
+240,"Star Trek: Phoenix - Hollow",2009,50000,"6.1","producer",NULL,2019698,"Roberts, Leo","m",NULL,NULL,NULL
+240,"Star Trek: Phoenix - Hollow",2009,50000,"6.1","producer",NULL,2906969,"Cherry, Amanda","f","1978",NULL,"5' 3"""
+240,"Star Trek: Phoenix - Hollow",2009,50000,"6.1","producer",NULL,4426601,"Johnson, Jon",NULL,NULL,NULL,NULL
+240,"Star Trek: Phoenix - Hollow",2009,50000,"6.1","writer",NULL,586797,"DeMedeiros, Rodrigo","m","1970",NULL,"6'"
+241,"Star Trek: Phoenix - Holo-Victory",2009,20000,"6.2","cinematographer",NULL,4694563,"Tackett, Anthony",NULL,NULL,NULL,NULL
+241,"Star Trek: Phoenix - Holo-Victory",2009,20000,"6.2","composer",NULL,5154019,"Alberts, Jason",NULL,NULL,NULL,NULL
+241,"Star Trek: Phoenix - Holo-Victory",2009,20000,"6.2","editor",NULL,4618881,"Rivers, Keith",NULL,"1983",NULL,"5' 10"""
+241,"Star Trek: Phoenix - Holo-Victory",2009,20000,"6.2","miscellaneous crew",NULL,2256738,"Sonnet, Adam","m","1980",NULL,NULL
+241,"Star Trek: Phoenix - Holo-Victory",2009,20000,"6.2","miscellaneous crew",NULL,3553211,"McNamer, Michelle Andrews","f",NULL,NULL,NULL
+241,"Star Trek: Phoenix - Holo-Victory",2009,20000,"6.2","miscellaneous crew",NULL,3936301,"Sonnet, Elle Viane","f","1988",NULL,"5' 10"""
+241,"Star Trek: Phoenix - Holo-Victory",2009,20000,"6.2","miscellaneous crew",NULL,4755643,"Wright, Jason",NULL,NULL,NULL,NULL
+241,"Star Trek: Phoenix - Holo-Victory",2009,20000,"6.2","miscellaneous crew",NULL,6162219,"Westphal, Garrett",NULL,NULL,NULL,NULL
+241,"Star Trek: Phoenix - Holo-Victory",2009,20000,"6.2","producer",NULL,70933,"Andrews, Ben","m","1975",NULL,"5' 9"""
+241,"Star Trek: Phoenix - Holo-Victory",2009,20000,"6.2","producer",NULL,765357,"Flynn, Lucien","m",NULL,NULL,NULL
+241,"Star Trek: Phoenix - Holo-Victory",2009,20000,"6.2","producer",NULL,2019698,"Roberts, Leo","m",NULL,NULL,NULL
+241,"Star Trek: Phoenix - Holo-Victory",2009,20000,"6.2","producer",NULL,4426601,"Johnson, Jon",NULL,NULL,NULL,NULL
+241,"Star Trek: Phoenix - Holo-Victory",2009,20000,"6.2","writer",NULL,70933,"Andrews, Ben","m","1975",NULL,"5' 9"""
+241,"Star Trek: Phoenix - Holo-Victory",2009,20000,"6.2","writer",NULL,3553211,"McNamer, Michelle Andrews","f",NULL,NULL,NULL
+243,"Star Trek: Phoenix - Third Degree",2009,50000,"6.5","cinematographer",NULL,4351749,"Garrido, Clyde",NULL,NULL,NULL,NULL
+243,"Star Trek: Phoenix - Third Degree",2009,50000,"6.5","composer",NULL,5240605,"Milne, Matt",NULL,NULL,NULL,NULL
+243,"Star Trek: Phoenix - Third Degree",2009,50000,"6.5","miscellaneous crew",NULL,2256738,"Sonnet, Adam","m","1980",NULL,NULL
+243,"Star Trek: Phoenix - Third Degree",2009,50000,"6.5","miscellaneous crew",NULL,3936301,"Sonnet, Elle Viane","f","1988",NULL,"5' 10"""
+243,"Star Trek: Phoenix - Third Degree",2009,50000,"6.5","producer",NULL,70933,"Andrews, Ben","m","1975",NULL,"5' 9"""
+243,"Star Trek: Phoenix - Third Degree",2009,50000,"6.5","producer",NULL,765357,"Flynn, Lucien","m",NULL,NULL,NULL
+243,"Star Trek: Phoenix - Third Degree",2009,50000,"6.5","writer",NULL,2906969,"Cherry, Amanda","f","1978",NULL,"5' 3"""
+265,"Star Trek: The Experience - The Klingon Encounter",1998,70000000,"7.7","director",NULL,570729,"de Vos, David","m",NULL,NULL,NULL
+265,"Star Trek: The Experience - The Klingon Encounter",1998,70000000,"7.7","miscellaneous crew",NULL,203422,"Berman, Rick","m","1945",NULL,NULL
+265,"Star Trek: The Experience - The Klingon Encounter",1998,70000000,"7.7","miscellaneous crew",NULL,453191,"Cobb, David C.","m","1970",NULL,NULL
+265,"Star Trek: The Experience - The Klingon Encounter",1998,70000000,"7.7","miscellaneous crew",NULL,570729,"de Vos, David","m",NULL,NULL,NULL
+265,"Star Trek: The Experience - The Klingon Encounter",1998,70000000,"7.7","miscellaneous crew",NULL,1714718,"Neibich, Joseph","m","1975",NULL,"6' 2"""
+265,"Star Trek: The Experience - The Klingon Encounter",1998,70000000,"7.7","miscellaneous crew",NULL,2661615,"Zimmerman, Herman F.","m","1935",NULL,NULL
+265,"Star Trek: The Experience - The Klingon Encounter",1998,70000000,"7.7","miscellaneous crew",NULL,3923241,"Smartt-Juday, Penny","f",NULL,NULL,NULL
+265,"Star Trek: The Experience - The Klingon Encounter",1998,70000000,"7.7","miscellaneous crew",NULL,4286952,"Danet, Linda",NULL,NULL,NULL,NULL
+265,"Star Trek: The Experience - The Klingon Encounter",1998,70000000,"7.7","miscellaneous crew",NULL,4322539,"Esparza, Anthony",NULL,NULL,NULL,NULL
+265,"Star Trek: The Experience - The Klingon Encounter",1998,70000000,"7.7","producer",NULL,203422,"Berman, Rick","m","1945",NULL,NULL
+265,"Star Trek: The Experience - The Klingon Encounter",1998,70000000,"7.7","producer",NULL,570729,"de Vos, David","m",NULL,NULL,NULL
+265,"Star Trek: The Experience - The Klingon Encounter",1998,70000000,"7.7","producer",NULL,872117,"Goddard, Gary","m","1954",NULL,NULL
+265,"Star Trek: The Experience - The Klingon Encounter",1998,70000000,"7.7","producer",NULL,2980363,"Davis, Sharon","f",NULL,NULL,NULL
+265,"Star Trek: The Experience - The Klingon Encounter",1998,70000000,"7.7","writer",NULL,220326,"Biller, Kenneth","m",NULL,NULL,NULL
+265,"Star Trek: The Experience - The Klingon Encounter",1998,70000000,"7.7","writer",NULL,668406,"Echevarria, René","m",NULL,NULL,NULL
+265,"Star Trek: The Experience - The Klingon Encounter",1998,70000000,"7.7","writer",NULL,2028876,"Roddenberry, Gene","m","1921","1991","6' 1"""
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","actor","Assistant to Rand",896494,"Gowans, John","m","1943",NULL,NULL
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","actor","Klingon Crewman",1560179,"McIntosh, Bill","m",NULL,NULL,NULL
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","actress","Lieutenant",3746978,"Povill, Michele","f",NULL,NULL,NULL
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","actress","Woman",3665907,"O'Sullivan, Susan","f",NULL,NULL,NULL
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","cinematographer",NULL,1263585,"Kline, Richard H.","m","1926",NULL,NULL
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","costume designer",NULL,5312288,"Fletcher, Robert",NULL,"1922",NULL,NULL
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","editor",NULL,1957822,"Ramsay, Todd C.","m",NULL,NULL,NULL
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","miscellaneous crew",NULL,102346,"Asimov, Isaac","m","1920","1992","5' 9"""
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","miscellaneous crew",NULL,629632,"Doohan, James","m","1920","2005","5' 8"""
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","miscellaneous crew",NULL,911744,"Greene, Tom","m",NULL,NULL,NULL
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","miscellaneous crew",NULL,1736362,"Nimoy, Leonard","m","1931","2015","183 cm"
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","miscellaneous crew",NULL,2028876,"Roddenberry, Gene","m","1921","1991","6' 1"""
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","miscellaneous crew",NULL,2508182,"von Puttkamer, Jesco","m","1933","2012",NULL
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","miscellaneous crew",NULL,2563079,"Weyland, Philip","m",NULL,NULL,NULL
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","miscellaneous crew",NULL,3168301,"Gordon, Suzanne","f",NULL,NULL,NULL
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","miscellaneous crew",NULL,3842410,"Sackett, Susan","f",NULL,NULL,NULL
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","miscellaneous crew",NULL,4001948,"Terrian, Anita","f",NULL,NULL,NULL
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","miscellaneous crew",NULL,5616388,"Byron, Carol Sue",NULL,NULL,NULL,NULL
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","miscellaneous crew",NULL,5722835,"Foy, Richard",NULL,NULL,NULL,NULL
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","miscellaneous crew",NULL,5969217,"Ogle, Charles A.",NULL,NULL,NULL,NULL
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","miscellaneous crew",NULL,6005074,"Prendergast, Bonnie",NULL,NULL,NULL,NULL
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","miscellaneous crew",NULL,6038585,"Rothwell, John",NULL,NULL,NULL,NULL
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","miscellaneous crew",NULL,6170579,"Wilson, Steven Ashley",NULL,NULL,NULL,NULL
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","producer",NULL,731081,"Fein, David C.","m",NULL,NULL,NULL
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","producer",NULL,1912126,"Povill, Jon","m",NULL,NULL,NULL
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","producer",NULL,2028876,"Roddenberry, Gene","m","1921","1991","6' 1"""
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","writer",NULL,775746,"Foster, Alan Dean","m","1946",NULL,NULL
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","writer",NULL,1408530,"Livingston, Harold","m","1924",NULL,NULL
+271,"Star Trek: The Motion Picture",1979,35000000,"6.4","writer",NULL,2028876,"Roddenberry, Gene","m","1921","1991","6' 1"""
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","actor","Crew Chief",1505258,"Marston, Joel","m","1922","2012",NULL
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","actor","March",2318879,"Sullivan, Kevin Rodney","m","1958",NULL,NULL
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","editor",NULL,5455132,"Dornisch, William Paul",NULL,NULL,NULL,NULL
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","miscellaneous crew",NULL,232770,"Blalock, Steve","m",NULL,NULL,NULL
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","miscellaneous crew",NULL,407407,"Chanock, Bundy","m","1954","2012","6' 0"""
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","miscellaneous crew",NULL,1773759,"Okrand, Marc","m",NULL,NULL,NULL
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","miscellaneous crew",NULL,2028876,"Roddenberry, Gene","m","1921","1991","6' 1"""
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","miscellaneous crew",NULL,2563079,"Weyland, Philip","m",NULL,NULL,NULL
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","miscellaneous crew",NULL,4239682,"Burns, Judy",NULL,NULL,NULL,NULL
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","miscellaneous crew",NULL,4776901,"Arakelian, Deborah",NULL,NULL,NULL,NULL
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","miscellaneous crew",NULL,5542530,"Ahern, Terry",NULL,NULL,NULL,NULL
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","miscellaneous crew",NULL,5591003,"Blanchard, Malcolm",NULL,NULL,NULL,NULL
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","miscellaneous crew",NULL,5697136,"Egan, Eddie",NULL,NULL,NULL,NULL
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","miscellaneous crew",NULL,5711714,"Ferguson, Mary Jane",NULL,NULL,NULL,NULL
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","miscellaneous crew",NULL,5755355,"Green, Richard",NULL,NULL,NULL,NULL
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","miscellaneous crew",NULL,5818423,"Johnson, Rodger",NULL,NULL,NULL,NULL
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","miscellaneous crew",NULL,5850299,"Kracke, Don",NULL,NULL,NULL,NULL
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","miscellaneous crew",NULL,5922215,"Melichar, Jeff",NULL,NULL,NULL,NULL
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","miscellaneous crew",NULL,6173539,"Wong Healy, Janna",NULL,NULL,NULL,NULL
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","producer",NULL,194520,"Bennett, Harve","m","1930","2015",NULL
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","producer",NULL,2096367,"Sallin, Robert","m",NULL,NULL,NULL
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","producer",NULL,4588369,"Phillips, William F.",NULL,NULL,NULL,NULL
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","writer",NULL,194520,"Bennett, Harve","m","1930","2015",NULL
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","writer",NULL,1595503,"Meyer, Nicholas","m","1945",NULL,NULL
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","writer",NULL,2028876,"Roddenberry, Gene","m","1921","1991","6' 1"""
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","writer",NULL,2262630,"Sowards, Jack B.","m","1929","2007",NULL
+290,"Star Trek: The Wrath of Khan",1982,11200000,"7.7","writer",NULL,4582090,"Peeples, Samuel A.",NULL,"1917","1997",NULL
